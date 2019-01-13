@@ -1,6 +1,6 @@
 # 1. Describing someone you know
 
-## Physical descriptions of people
+## Physical descriptions of people (people's apperance)
 
 * Describe a person's body: 
 ```He is .....```
@@ -14,20 +14,21 @@
     * thin
 * Describe a person's face: 
 ```he has ...```
-  * eye
-    * size: big
-    * shape: 
-    * color: blue, brown
+  * eyes
+    * size: big, small
+    * shape: small
+    * color: blue, brown, dark, green 
   * hair (1.length(size), 2.type(style), 3.color)
     * length: long, medium length, short
     * type: curly, straight,  bald(he is bald)
-    * color: black, brown, blond  
+    * color: black, brown, blond, red
   * face
     * shape
     * size
   * ear:
     * size: big
   * nose
+   * size : big
   * mouth:
     * he **has** a nice(beautiful, great) smile.
   * arm:
@@ -39,18 +40,48 @@
  * young
 
 ## Grammar
-Adjective order: size , age , color.
-* He's a thin middle-aged man
-* That tall, young , blond man drives a truck,
-
-nice good-looking dirty successful smart funny handsome attractive beautiful
-
+Adjective order: 
+* size age color
+* size type color
+```
+He's a thin middle-aged man
+That tall, young , blond man drives a truck,
+```
+nice good-looking dirty successful smart funny handsome attractive beautiful lazy= unmotivated polite friendly unfriendly 
+shy confident outgoing hard-working rude 
 * what does she(your new colleague) look like?
+
 * What color are her eyes?
+* could you describe who you saw for us?
 
+the first man was quite tall, with long, black hair, a big nose, and small, brown eyes.
+the first man was  quite tall, and he has long, black hair, a big nose, and small, brown eyes.
 
+Does he look
 
 # 2. Describing relationships
+family members:
+wife
+husband
+granddaughter
+grandson
+aunt
+uncle
+niece
+nephew
+cousin
+
+friend
+girlfriend
+boyfriend
+
+(business) partner ()
+
+job relationships:
+boss
+colleague
+mom
+
 
 # 3. Evaluating employees
 
