@@ -4,7 +4,7 @@
 ## Level 4
 
 * Unit 1 Entertainment
-* Unit 2 Describing people
+* [Unit 2 Describing people](English/EF/4-2_Describing people.md)
 * Unit 3 The past
 * Unit 4 Milestones
 * Unit 5 Welcome
