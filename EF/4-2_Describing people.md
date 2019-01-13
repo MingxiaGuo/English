@@ -63,13 +63,28 @@ Does he look
 **family members**:
 wife
 husband
-granddaughter
-grandson
+parents(father,mother)
+children(daughter,son,baby)
+siblings(sister,brother)
+grandparents(grandmother, grandfather)
+grandchildren(granddaughter,grandson)
 aunt
 uncle
 niece
 nephew
 cousin
+mother-in-law
+father-in-law
+daughter-in-law
+son-in-law
+brother-in-law
+sister-in-law
+half brother
+half sister
+stepfather
+stepmother
+stepsister
+stepbrother
 
 friend
 girlfriend
