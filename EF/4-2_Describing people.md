@@ -1,4 +1,4 @@
-1. Describing someone you know
+# 1. Describing someone you know
 
 Physical descriptions of people
 
@@ -49,8 +49,8 @@ nice good-looking dirty successful smart funny handsome attractive beautiful
 
 
 
-2. Describing relationships
+# 2. Describing relationships
 
-3. Evaluating employees
+# 3. Evaluating employees
 
-4. Giving a recommendation
+# 4. Giving a recommendation
