@@ -60,7 +60,7 @@ the first man was  quite tall, and he has long, black hair, a big nose, and smal
 Does he look
 
 # 2. Describing relationships
-family members:
+**family members**:
 wife
 husband
 granddaughter
@@ -75,12 +75,12 @@ friend
 girlfriend
 boyfriend
 
-(business) partner ()
+(business) partner 
 
-job relationships:
+**job relationships**:
 boss
 colleague
-mom
+
 
 
 # 3. Evaluating employees
