@@ -2,12 +2,13 @@
 # Elementary
 
 ## Level 4
-  Unit 1 Entertainment
-  Unit 2 Describing people
-  Unit 3 The past
-  Unit 4 Milestones
-  Unit 5 Welcome
-  Unit 6 Vacations
+
+* Unit 1 Entertainment
+* Unit 2 Describing people
+* Unit 3 The past
+* Unit 4 Milestones
+* Unit 5 Welcome
+* Unit 6 Vacations
   
 ## Level 5
 ## Level 6
