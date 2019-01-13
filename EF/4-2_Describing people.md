@@ -1,8 +1,8 @@
 # 1. Describing someone you know
 
-Physical descriptions of people
+## Physical descriptions of people
 
-* Describe a person's body
+* Describe a person's body: 
 ```He is .....```
   * height: 
     * tall 
@@ -12,8 +12,8 @@ Physical descriptions of people
     * overweight
     * fat 
     * thin
-* Describe a person's face
-he has ...
+* Describe a person's face: 
+```he has ...```
   * eye
     * size: big
     * shape: 
@@ -29,18 +29,19 @@ he has ...
     * size: big
   * nose
   * mouth:
-    * he has a nice(beautiful, great) smile.
+    * he **has** a nice(beautiful, great) smile.
   * arm:
     * size: long 
-* Another way to describe someone is to talk about age(the topic od age is very sensitive)
-he is ...
+* Another way to describe someone is to talk about age(the topic od age is very sensitive):
+```he is ...```
  * old 
  * middle-aged
  * young
 
+## Grammar
 Adjective order: size , age , color.
-He's a thin middle-aged man
-That tall, young , blond man drives a truck,
+* He's a thin middle-aged man
+* That tall, young , blond man drives a truck,
 
 nice good-looking dirty successful smart funny handsome attractive beautiful
 
