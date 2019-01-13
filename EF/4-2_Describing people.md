@@ -9,8 +9,8 @@
     * medium height
     * short
   * weight
-    * overweight
-    * fat 
+    * overweight (overweight is less offensive when describing someone.)
+    * fat (it is generally considered rude to call someone fat or overweight.)
     * thin
 * Describe a person's face: 
 ```he has ...```
