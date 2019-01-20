@@ -1,7 +1,10 @@
 
 [1. Describing entertainment options](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#1-describing-entertainment-options)
+
 [2. Talking about upcoming events](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#2-talking-about-upcoming-events)
+
 [3. Planning a night put with friends](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#3-planning-a-night-put-with-friends)
+
 [4. Going to the movies](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#4-going-to-the-movies)
 
 # 1. Describing entertainment options
