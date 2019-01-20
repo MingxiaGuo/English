@@ -49,7 +49,7 @@ Gerunds:verb+ing.  infinitives: to+verb
 
 * introduce possible activities
   * we **can** go to the lecture **or** the movie
-  * You ** could** go swimming **or** you could go hiking
+  * You **could** go swimming **or** you could go hiking
 
 
 * ask more choices:
