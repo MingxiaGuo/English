@@ -1,6 +1,7 @@
 # 1. Describing entertainment options
 
-vocabulary:
+### vocabulary:
+
 a play
 a concert
 a game
@@ -9,7 +10,7 @@ a musical
 a movie
 a dance
 
-Grammar: Gerunds and infinitives
+### Grammar: Gerunds and infinitives
 Gerunds:verb+ing.  infinitives: to+verb
 Infinitives only:
 emjoy doing sth
@@ -24,13 +25,13 @@ like doing / like to do
 love doing / love to do
 begin doing /begin to do 
 
-Expressing ability:
+### Expressing ability:
 can('t/not): describe ability
 (don't) know how to : means you have the knowledge or ability to do something.
 be(not) (very,really,pretty )good/bad at  : describe degress of ability
 be terrible at: decribe extrmely low ability
 
-Asking about and describing options
+### Asking about and describing options
 ask what people want to do and what acticities are avaliable:
 * what do you want to do?
 * what are we going to do tonight?
