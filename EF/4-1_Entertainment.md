@@ -140,13 +140,13 @@ Sally: Umm. No problem.
 Sally: Springdale.com has all the events listed for the city. It covers the concert hall, the auditorium... You really should check it out.
 TODD:  That's a good idea.
 Sally: There's an incredible samba band at the Blue Banana. That's the hottest nightclud in town right now. Do you and Angela like to dance?
-TODD: Hmm. I really don't dance. Is there something a little more, kind of ...
+TODD:  Hmm. I really don't dance. Is there something a little more, kind of ...
 Sally: Tranditional!
-TODD: Yes! Like a classical concert. Beethoven. Or Mozart.
+TODD:  Yes! Like a classical concert. Beethoven. Or Mozart.
 Sally: Here's a play. How about Shakespeare? It's 'Hamlet.'
-TODD: Hmm. That's more like it.
+TODD:  Hmm. That's more like it.
 Sally: It's in th Main Street Theater on Saturday.
-TODD: Angela loves plays. Thank you so much!
+TODD:  Angela loves plays. Thank you so much!
 Sally: You're welcome.
 ```
 # 3. Planning a night put with friends
