@@ -11,13 +11,13 @@
 
 ### vocabulary:
 
-a play,
-a concert,
-a game,
-a lecture,
-a musical,
-a movie,
-a dance,
+* a play,
+* a concert,
+* a game,
+* a lecture,
+* a musical,
+* a movie,
+* a dance,
 
 ### Grammar: Gerunds and infinitives
 Gerunds:verb+ing.  infinitives: to+verb
@@ -34,13 +34,15 @@ Gerunds:verb+ing.  infinitives: to+verb
   * love doing / love to do
   * begin doing /begin to do 
 
-### Expressing ability:
+### Expressions
+
+#### Expressing ability:
 * can('t/not): describe ability
 * (don't) know how to : means you have the knowledge or ability to do something.
 * be(not) (very,really,pretty )good/bad at  : describe degress of ability
 * be terrible at: decribe extrmely low ability
 
-### Asking about and describing options
+#### Asking about and describing options
 * ask what people want to do and what acticities are avaliable:
   * what do you want to do?
   * what are we going to do tonight?
@@ -59,7 +61,7 @@ Gerunds:verb+ing.  infinitives: to+verb
   * What else is there to do ?
   * What else is going on?
 
-* Conversation:
+###Final Task: Describing entertainment options
 ```
 SUSAN: Hey, Joe what are we going to do tonight?
 JOE:   I know! Let's go to that play downtown.
@@ -88,8 +90,65 @@ I'm not very good at it.
 
 
 # 2. Talking about upcoming events
-Could you give a favor?
+## Vocabulary:
 
+* auditorium, 
+* aquarium, 
+* theater, 
+* restaurant, 
+* concert hall, 
+* nightclub, 
+* cafe, 
+* bar, 
+* stadium
+
+## Grammar: Prepositions of time and place
+in on at
+* in: large areas or periods of time, like countries or years,month | morning, afternoon, evening
+* on: smaller areas, like streets, and for days and dates
+* at: addresses, business and buildings, and for precise periods of time.| night, midnight, noon
+
+
+## Expression: Asking for help
+
+* asking for help:
+  * Could you do me a favor?
+  * (Excuse me, but)Could you help me?
+  * Could you help me find something interesting?
+* agree to someone's request for help:
+  * Sure. What do you need?
+  * No problem.
+  * OK.
+* disagree to someone's request for help:
+  * I'm sorry, but I'm really busy right now.
+  * I'm really sorry, but I can't help you.
+
+## Reading: Reading about events
+
+## Final Task: Talking about upcoming events
+```
+
+```
+## conversation:
+```
+TODD:  Sally, Could you give a favor?
+Sally: Sure. What do you need?
+TODD:  Well, Angela and I want to do something special this weekend. It's our 20th wedding anniversary.
+Sally: Wow! Twenty years together. Congratulations.
+TODD:  Thanks. The thing is, we don't go out a lot, and i really don't know... **Could you help me find something interesting?**
+Sally: Umm. No problem.
+Sally: Springdale.com has all the events listed for the city. It covers the concert hall, the auditorium... You really should check it out.
+TODD:  That's a good idea.
+Sally: There's an incredible samba band at the Blue Banana. That's the hottest nightclud in town right now. Do you and Angela like to dance?
+TODD: Hmm. I really don't dance. Is there something a little more, kind of ...
+Sally: Tranditional!
+TODD: Yes! Like a classical concert. Beethoven. Or Mozart.
+Sally: Here's a play. How about Shakespeare? It's 'Hamlet.'
+TODD: Hmm. That's more like it.
+Sally: It's in th Main Street Theater on Saturday.
+TODD: Angela loves plays. Thank you so much!
+Sally: You're welcome.
+```
 # 3. Planning a night put with friends
 # 4. Going to the movies
 
