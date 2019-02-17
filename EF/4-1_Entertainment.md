@@ -9,7 +9,7 @@
 
 # 1. Describing entertainment options
 
-### vocabulary:
+## vocabulary:Events
 
 * a play,
 * a concert,
@@ -19,7 +19,7 @@
 * a movie,
 * a dance,
 
-### Grammar: Gerunds and infinitives
+## Grammar: Gerunds and infinitives
 Gerunds:verb+ing.  infinitives: to+verb
 * Infinitives only:
   * emjoy doing sth
@@ -34,15 +34,15 @@ Gerunds:verb+ing.  infinitives: to+verb
   * love doing / love to do
   * begin doing /begin to do 
 
-### Expressions
+## Expressions
 
-#### Expressing ability:
+### Expressing ability:
 * can('t/not): describe ability
 * (don't) know how to : means you have the knowledge or ability to do something.
 * be(not) (very,really,pretty )good/bad at  : describe degress of ability
 * be terrible at: decribe extrmely low ability
 
-#### Asking about and describing options
+### Asking about and describing options
 * ask what people want to do and what acticities are avaliable:
   * what do you want to do?
   * what are we going to do tonight?
@@ -61,7 +61,7 @@ Gerunds:verb+ing.  infinitives: to+verb
   * What else is there to do ?
   * What else is going on?
 
-###Final Task: Describing entertainment options
+## Final Task: Describing entertainment options
 ```
 SUSAN: Hey, Joe what are we going to do tonight?
 JOE:   I know! Let's go to that play downtown.
@@ -90,7 +90,7 @@ I'm not very good at it.
 
 
 # 2. Talking about upcoming events
-## Vocabulary:
+## Vocabulary: Places for events
 
 * auditorium, 
 * aquarium, 
@@ -109,7 +109,7 @@ in on at
 * at: addresses, business and buildings, and for precise periods of time.| night, midnight, noon
 
 
-## Expression: Asking for help
+## Expressions: Asking for help
 
 * asking for help:
   * Could you do me a favor?
@@ -150,5 +150,77 @@ TODD:  Angela loves plays. Thank you so much!
 Sally: You're welcome.
 ```
 # 3. Planning a night put with friends
-# 4. Going to the movies
+## Vocabulary: 
 
+### Adjectives to describe events
+* interesting - boring
+* relaxing - exciting
+* surprising
+* fun
+* incredible
+* loud - quiet
+* wonderful - terrible
+
+### Movie Genres
+* comedy
+* horror
+* romance
+* classic
+* drama
+* sci-fi (science fiction)
+* action
+* cartoon (2D)
+* animation (3D)
+* documentary
+* adj to describe movie
+  * good, romantic, creative, exciting, funny, interesting, cute, brilliant, educational,
+  * terrible, scary, boring, thrilling, voilent
+  
+## Grammar: 'Why' and 'because'
+
+## Expressions: Suggesting activities
+
+## Final Task: Planning a night put with friends
+## Coversation
+```
+Sally: Oh! There's a samba band at, uh...
+JAKE:  I can't dance to samba.
+Sally: You can't dance to anything.
+JAKE:  What? Why don't we go to that new sports bar on, uh, Grove Street?
+Sally: Harmon's?
+Jake:  Yeah! They're probably showing the foorball game.
+Sally: I hate sports bars. Because thay're boring. The music's always so loud, it's difficult to have a conversation.
+Sally: How about a quiet, relaxing dinner with Pam and Simon?
+Jake:  We do that every night.
+Sally: Okay. You're right. Let's do something different.
+Jake:  I know! Let's go to a movie. 'The New Tork Killer.'
+Sally: A horror movie? I don't think so. How about a romance, or a drama?
+Jake:  Ugh? Hey, look! They're playing 'Chinatown' at the Roxie Theater.
+Sally: Really? It's a classic!
+Jake:  Yeah. I saw it years ago. It was incredible.
+Sally: I'd love to see it again. Can you book the tickets?
+Jake:  Sure thing.
+Sally: Thanks, Jake. I'm gonna go get ready.
+Jake:  Okay.
+```
+```
+JIM: Hi, Ann! Hey, how was your vacation? You went to New York, right?
+ANN: Yeah.
+JIM: How was it?
+ANN: Oh, I love New York! It's a really  exciting city.
+JIM: Hmm. It's too big and too loud for me. So, what did you do in New York?
+ANN: Well, we went to a musical. That was fun! And we ate at some really interesting restaurants. The food was delicious  .
+JIM: It sounds wonderful.
+ANN: And the Museum of Modern Art was incredible!
+JIM: That's great! Well, I have a meeting. See you later.
+ANN: Bye.
+
+What does Ann think of New York?
+How were the restaurants?
+
+```
+# 4. Going to the movies
+## Vocabulary: Future with the simple present
+## Grammar: Asking for information about movies
+## Expressions: Expressing imitation
+## Final Task: Going to the movies
