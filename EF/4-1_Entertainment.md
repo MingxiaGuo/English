@@ -177,9 +177,25 @@ Sally: You're welcome.
   * terrible, scary, boring, thrilling, voilent
   
 ## Grammar: 'Why' and 'because'
+* Why is Frank angry?
+* He's angry because Oscar got a new dog.
+* Why did he go to the concert?
+* He went because he loves classical music.
+* Why are you going home?
+* We're going home because we're tired.
 
 ## Expressions: Suggesting activities
-
+* Let's + base form of verb
+  * Let's gp to the dance performance.
+* 'How about' pr 'What about' + verb +'-ing'
+  * What about meeting some friends?
+* 'Cloud' + base form of verb
+  * We cloud go out for a drink at Harry's Bar
+* 'Why don't we' +base form of vefrb.
+  * Why don't we try a new restaurant?
+  
+  Disagree someone's opinion
+  Agree someone's opinion
 ## Final Task: Planning a night put with friends
 ## Coversation
 ```
