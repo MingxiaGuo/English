@@ -16,10 +16,10 @@ Apply Life Club
 ## Level 4
 * [Unit 1 Entertainment](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md)
 * [Unit 2 Describing people](https://github.com/MingxiaGuo/English/blob/master/EF/4-2_Describing%20people.md)
-* Unit 3 The past
+* [Unit 3 The past](https://github.com/MingxiaGuo/English/blob/master/EF/4-3_The%20Past.md)
 * Unit 4 Milestones
 * Unit 5 Welcome
-* Unit 6 Vacations
+* [Unit 6 Vacations](https://github.com/MingxiaGuo/English/blob/master/EF/4-6_Vacations.md)
   
 ## Level 5
 ## Level 6
