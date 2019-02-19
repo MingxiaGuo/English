@@ -17,11 +17,7 @@ vovabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 * [Unit 6 Vacations](https://github.com/MingxiaGuo/English/blob/master/EF/4-6_Vacations.md)
   
 ## Level 5
-* Unit 1 Travel
-Talking about flight arrangements
-Checking in for a fight
-Getting to your hotel
-Letting someone know you've arrived
+* [Unit 1 Travel](https://github.com/MingxiaGuo/English/blob/master/EF/5-1_Travel.md)
 * Unit 2 Making decisions
 * Unit 3 Telling stories
 * Unit 4 Going to a restaurant
