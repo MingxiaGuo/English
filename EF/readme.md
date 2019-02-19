@@ -1,15 +1,10 @@
 
-Online unit
-
-Online GroupClass
-
-Online Private Class
-
-F2F
-
-Workshop
-
-Apply Life Club
+* Online unit
+* Online GroupClass
+* Online Private Class
+* F2F
+* Workshop
+* Apply Life Club
 
 # Elementary
 
