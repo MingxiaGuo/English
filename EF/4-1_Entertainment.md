@@ -127,7 +127,16 @@ in on at
 
 ## Final Task: Talking about upcoming events
 ```
-
+A: Hi, could you help me?
+B: Sure, of course.
+A: I want to go out on the Saturday night. What's going on downtown?
+B: There's a free concert. Or you could go to _____.
+A: THe concert sounds good. Where is it?
+B: It's in Jordan Park at 7 p.m.
+A: Hey, dou you want to come with me?
+B: I'm sorry, but I can't. I'm busy.
+A: No problem. Thanks for your help.
+B: Sure. Have a good time.
 ```
 ## conversation:
 ```
@@ -186,8 +195,8 @@ Sally: You're welcome.
 
 ## Expressions: Suggesting activities
 * Let's + base form of verb
-  * Let's gp to the dance performance.
-* 'How about' pr 'What about' + verb +'-ing'
+  * Let's go to the dance performance.
+* 'How about' or 'What about' + verb +'-ing'
   * What about meeting some friends?
 * 'Cloud' + base form of verb
   * We cloud go out for a drink at Harry's Bar
@@ -196,7 +205,25 @@ Sally: You're welcome.
   
   Disagree someone's opinion
   Agree someone's opinion
+  
+  
 ## Final Task: Planning a night put with friends
+```
+A: Hi
+B: Hi, John. How are you doing?
+A: I'm fine. Hey, What are you doing tonight?
+B: I don't know.
+A: Well, how about just watching TV, there is  a great new comedy tonight.
+B: No, I don't feel like it.
+A: Why not?
+B: Because I don't want to stay home tonight.
+A: Well, we could go out for drink or see a movie.
+B: Maybe. What else is going on?
+A: Well , we could try the chinese restaurant. what do you want to do?
+B: Well, why don't we _____?
+A: That's a good idea.
+B: Great! Let's go.
+```
 ## Coversation
 ```
 Sally: Oh! There's a samba band at, uh...
@@ -236,7 +263,20 @@ How were the restaurants?
 
 ```
 # 4. Going to the movies
-## Vocabulary: Future with the simple present
-## Grammar: Asking for information about movies
-## Expressions: Expressing imitation
+## Grammar: Future with the simple present 一般现在时表示将来时
+A: Jake, it's seventeen clock. The movie starts at eight!
+B: Ok, Ok ,I'm ready.
+A: Did you book a tickets.
+B: tickets?
+A: tickets. you book
+B: I can't believe it, how could , but  The next show begins at 10:30
+A: I'm really sorry.
+B: but it's over after midnight.
+A: That sounds good
+B: Do you want 
+A: Just so stupid
+
+## Expressions: 
+Asking for information about movies
+Expressing imitation
 ## Final Task: Going to the movies
