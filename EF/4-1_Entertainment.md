@@ -11,13 +11,13 @@
 
 ## vocabulary:Events
 
-* a play,
-* a concert,
-* a game,
-* a lecture,
-* a musical,
-* a movie,
-* a dance,
+* a play: Molly is going to a play this weekend.
+* a concert: There is a jazz concert in the park next Saturday.
+* a game: Danny goes to every baseball game he can.
+* a lecture: A famous professor of physics is giving a lecture at the university tomorrow.
+* a musical: I would like to see a comedy this Saturday, but my husband wants to see a musical.
+* a movie: We went to a movie last night about superheros saving the world.
+* a dance: We hold a dance every year to raise money for charity.
 
 ## Grammar: Gerunds and infinitives
 Gerunds:verb+ing.  infinitives: to+verb
@@ -263,20 +263,130 @@ How were the restaurants?
 
 ```
 # 4. Going to the movies
-## Grammar: Future with the simple present 一般现在时表示将来时
+```
 A: Jake, it's seventeen clock. The movie starts at eight!
 B: Ok, Ok ,I'm ready.
-A: Did you book a tickets.
+A: Did you book a tickets?
 B: tickets?
-A: tickets. you book
-B: I can't believe it, how could , but  The next show begins at 10:30
-A: I'm really sorry.
-B: but it's over after midnight.
-A: That sounds good
-B: Do you want 
-A: Just so stupid
+A: The tickets. you booked them, right?
+B: uh?
+B: I can't believe it, how could you forget to book the tickets? The 8 o'clock show is sold out now.
+A: Sally, I'm really sorry. Is there a second show?
+B: The next show begins at 10:30. There are still some tickets left. But it's over after midnight.
+A: That sounds good. I'm so sorry. I can't believe I forget. So, uh, do you want to watch some TV?
+B: This is so stupid.
+```
+## Grammar: Future with the simple present 一般现在时表示将来时
+谈论将来时，你有时可以使用一般现在时，如果谈及的演出活动隶属某计划表、时间表或演出日程，这种情况最为常见。表示演出开始或结束的动词，比如 begin 和 close，常常以一般现在时来表示将来时。
+ 
+表示演出开始的一般现在时
+ 
+ 	begin	开始
+ 	start	开始
+ 	open	开始
 
+    The dance performance begins at 8 o'clock tonight.	舞蹈演出今晚八点开始。
+    Harold's Department Store opens at 9 a.m. tomorrow.	Harold's Department Store 明天早上九点开张。
+表示演出结束的一般现在时
+ 
+ 	close 	结束
+ 	end 	结束
+ 	be over 	结束，完了
+ 	finish 	结束
+
+    The movie is over at 9:15 p.m.       	电影晚上九点一刻结束。
+    She closes her shop at 6 o'clock.	她六点钟关店。
+
+语言点：记住在 he、she 和 it 后面，动词一般现在时后加 s。例如：  
+
+    The movie ends at midnight. 	电影午夜结束。
+ 
+ 
 ## Expressions: 
-Asking for information about movies
-Expressing imitation
+### Asking for information about movies
+
+想去看电影时，你需要了解有关电影的一些基本信息。你需要知道电影开始的时间、上映地点和电影票价。同时还要了解在哪里买票。使用下列问题来获取这一信息。
+ 
+```
+Can you give me some information?	你能告诉我一些信息吗？
+
+Do you have a website?	你们有网站吗？
+
+Can I buy tickets online?	我可以网上购票吗？
+
+What's your address? | What is the theater's address?	地址在哪里？
+
+What time is the next show?	下一场演出在什么时候？
+
+Are tickets still available?	还有票吗？
+
+How much are tickets?	票多少钱一张？
+
+What is the theater's website?
+
+How much do adult tickets cost?
+```
+```
+EMPLOYEE: Good afternoon. Springdale Theater.
+NANCY: Good afternoon. Can you give me some information  about the film 'Mommy Mommy'?
+EMPLOYEE: Certainly. What would you like to know?
+NANCY: When is the next show  ?
+EMPLOYEE: It's at 3:15.
+NANCY: That's good. And are there still tickets  for it?
+EMPLOYEE: Yes. That's not a problem. Afternoons are never sold out  .
+NANCY: OK. And can I buy tickets online?
+EMPLOYEE: Yes, just go to our website  , www.springdaletheater.com.
+NANCY: Thanks! Oh, and how much are tickets for adults  and children?
+EMPLOYEE: Adults are $13, and kids are $6.
+
+```
+
+### Expressing imitation
+* 重复
+ 
+    表达恼怒的另一种方法是重复短语表示强调。
+ 
+    OK, OK. I'm coming. I'm coming.	好好，我来了，我来了。                           
+
+* 表达怀疑
+
+    通过表示你不相信某人做了某事，也能传达你的恼怒。
+ 
+
+    I don't believe it! 	我不相信！
+
+    I can't believe it!	我不敢相信！
+ * 夸张
+ 
+    你也可以通过夸大某人犯错的频率来表达愤怒。使用 always 和 never 来表示夸大。重读这些词来强调频率。
+ 
+
+    Jake always forgets.	Jake 老是忘记。
+
+    Mary never helps me.	Mary 从来不帮我。
+
+* 表达强烈的恼怒
+ 
+    你可以使用 stupid 或 crazy 等形容词表达程度更强的恼怒。如果你用这些词形容一个人，表示你不是恼怒，而是生气了。谨慎使用这些词，因为它们可能伤害人的感情。
+ 
+
+    This is stupid!	这很傻。
+
+    Are you crazy?	你疯了吗？
+ 
+
 ## Final Task: Going to the movies
+```
+A: Good afternoon. Springdale Theater.
+B: Hi. I need some information about the film 'Believe It.'
+A: Certainly. What would you like to know?
+B: Are there still tickets for 6 o'clock?
+A: Yes. There are still a  lot of tickets for 6 o'colck.
+B: OK. And can I buy them online?
+A: Yes. Just go to a website, www.springdale.com
+B: OK. How much are tickets for adults and children?
+A: Adults are 13 dollars and kids are 6 dollars.
+B: And you're on Pine Street?
+A: Yes, 587 Pine Street where next to the supermarket
+B: OK. Thanks a lot for the information.
+```
