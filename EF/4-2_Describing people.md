@@ -1,3 +1,8 @@
+1. Describing someone you know
+2. Describing relationships
+3. Evaluating employees
+4. Giving a recommendation
+
 # 1. Describing someone you know
 
 ## Physical descriptions of people (people's apperance)
