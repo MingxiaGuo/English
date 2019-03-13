@@ -22,6 +22,7 @@
 
 # Level 1
 ## Unit 1 Greetings and Introductions
+  school goodbye hello hi he phone she telphone they you student
 ## Unit 2 Office and school
 ## Unit 3 Cities and countries
 ## Unit 4 People
@@ -64,3 +65,6 @@ a packet of rice
 ## Unit 4 Holidays and celebrations
 ## Unit 5 Money and buying
 ## Unit 6 Jobs and companies
+
+
+[问路指路](https://wenku.baidu.com/view/0150a278580216fc710afd11.html)

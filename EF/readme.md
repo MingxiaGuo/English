@@ -6,6 +6,8 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 * Workshop
 * Apply Life Club
 
+2018.12.10
+
 # Elementary
 
 ## Level 4
