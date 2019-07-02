@@ -3,7 +3,7 @@
 
 [2. Talking about upcoming events](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#2-talking-about-upcoming-events)
 
-[3. Planning a night put with friends](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#3-planning-a-night-put-with-friends)
+[3. Planning a night out with friends](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#3-planning-a-night-out-with-friends)
 
 [4. Going to the movies](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#4-going-to-the-movies)
 
@@ -158,7 +158,7 @@ Sally: It's in th Main Street Theater on Saturday.
 TODD:  Angela loves plays. Thank you so much!
 Sally: You're welcome.
 ```
-# 3. Planning a night put with friends
+# 3. Planning a night out with friends
 ## Vocabulary: 
 
 ### Adjectives to describe events

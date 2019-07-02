@@ -3,7 +3,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 * Online GroupClass
 * Online Private Class
 * F2F
-* Workshop
+* WorkShop
 * Apply Life Club
 
 2018.12.10

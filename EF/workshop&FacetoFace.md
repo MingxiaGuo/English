@@ -1,12 +1,21 @@
 
 F2F
 1. [Getting a service provider · Choosing a gym](https://github.com/MingxiaGuo/English/blob/master/EF/workshop&FacetoFace.md#Getting-a-service-provider-·-Choosing-a-gym)
-2. Fashion · Describing clothing
-3. Entertainment · Planning a night out
-4. Movies · Choosing a movie
+2. [Fashion · Describing clothing]
+3. [Entertainment · Planning a night out]
+4. [Movies · Choosing a movie]
+5. Describing people · Describing people: 4-2-1
+6. BUssiness proposals · Starting a business
+7. English for work · Talking about work 
 
 Workshop
 1. [Describing your living environment](https://github.com/MingxiaGuo/English/blob/master/EF/workshop&FacetoFace.md#GDescribing-your-living-environment)
+2. Changing the topic
+3. Describing clothing
+4. Future technology
+5. Finding a new housemate
+6. Solving problems at work
+7. Tea and coffee
 
 
 
@@ -142,21 +151,29 @@ B: You could go to ...
     * Let's ...
     * How about + 句子/doing
 ## Audio script
-```
-Ellie: Hi Lucy, can I ask a favor?
-Lucy:  Sure, what's up?
-Ellie: My friend is coming to visit next weekend. We're going to a concert on Friday, but I want to take her for a night out on Saturday as well. Any suggestions?
-Lucy:  Oh what a coincidence, my friend is visting too... Why don't we go to KTV together?
-Ellie: Hmm, no my friend really hates singing.
-Luck:  OK, let's try that new restaurant. Or we could seea a movie at the cinema?
-Ellie: Yeah, that sounds good, there's a new superhero movie out, and how about we go for a drink after? Do you know any good bars or nightclubs?
-Lucy:  I know load! That's sorted then. I'll choose a good club for us to go to after. Could you help check the cinema schedule?
-Ellie: No worries! I'm ready looking forward to our night out!
+
+> Ellie: Hi Lucy, can I ask a favor?
+
+> Lucy:  Sure, what's up?
+
+> Ellie: My friend is coming to visit next weekend. We're going to a concert on Friday, but I want to take her for a night out on Saturday as well. Any suggestions?
+
+> Lucy:  Oh what a coincidence, my friend is visting too... Why don't we go to KTV together?
+
+> Ellie: Hmm, no my friend really hates singing.
+
+> Luck:  OK, let's try that new restaurant. Or we could seea a movie at the cinema?
+
+> Ellie: Yeah, that sounds good, there's a new superhero movie out, and how about we go for a drink after? Do you know any good bars or nightclubs?
+
+> Lucy:  I know load! That's sorted then. I'll choose a good club for us to go to after. Could you help check the cinema schedule?
+
+> Ellie: No worries! I'm ready looking forward to our night out!
+
+
 
 ```
-
-```
-D:"Hey Cara, me and some friends are going out to KTV this weekend, would you care to join us?"嘿！卡拉，我和几个朋友这个周末一起去KTV，你要来吗？
+ D:"Hey Cara, me and some friends are going out to KTV this weekend, would you care to join us?"嘿！卡拉，我和几个朋友这个周末一起去KTV，你要来吗？
 
 C:"I would love to, I have to tell you I can't carry a tune."我想去诶，不过我要告诉你，我五音不全的。
 
@@ -179,11 +196,89 @@ By the end of this lesson, you will be able to choose a movie at the cinema with
 * exciting: I want to see something exciting tonight. How about an action mocie?
 * funny: Is this movie supposed to be a comedy? It isn't really funny.
 * romantic: My wife watches romantic movies all the time. Maybe I need to take her out and buy her flowers more often.
+* Romance
 * brilliant: This was the best movie of the year. It was truly brilliant.
 * interesting: I liked the movie we watched yesterday. The actors weren't good, but the story was very interesting.
 
 ## Grammar
+| |  |
+| -- | -- | 
+| Starting your opinion | To be honest. If you ask me |
+| Asking someone's opinion |  What do you think? What about this one? How about this one? |
+| Agreeing with someone | I agree. Me too. | 
+| Disagreeing with someone | I don't think so. Actually I don't agree. |
 
+## Expressions
+Look at the website for a local cinema. Choose a movie with your friends.
+```
+A: How about an action movie?
+B: I don't think so, action movies are boring. What about...?
+```
+
+## Audio Script
+```
+Peter: What movie do you feel like watching then?
+Grace: How about a comedy? What do you think? How about this one?
+Peter: Hmm, I don't think so. That one looks a bit boring and not really funny at all. What about a horror movie?
+Grace: Oh. no, you know I hate scary films! And I don't want to watch another action movie either. We watch too many of those. Hmm, this is difficult. What about this drama? It looks interesting.
+Peter: No, that's not my sort of thing either. I just don't find them very exciting. And don't even think about suggesting a romantic movie! Those are the worst!
+Grace: Don't worry, I don't like them either! They're so boring! oh, lool! That new sci-fimovie! The special effects look brilliant! Let's watch this one!
+Peter: Perfect! Now that about some popcorn while we're watching it?
+```
+
+# Describing people · Describing people
+By the end of this lesson, you will be able to describe people's apperance and personality.
+## Vocabulary 
+* friendly: The people in the hotel were very friendly, they were kind and made me feel at home.
+* outgoing: Maria is so confident and outgoing, it's easy for her to make new friends.
+* unfriendly: When I first met Peter, he was quite unfriendly. He didn't smile or ask me any questions about myself.
+* shy: My sister is extremely shy and gets nervous when she meets new people.
+* rude: The taxi driver was extremely rude because he shouted at other drivers.
+* lazy: Jon hates working and likes to play on his computer all day, he's really lazy.
+* polite: What a polite child, she always says "please" and "thank you".
+* hard-working: Lars studies for at least 10 hours every day, he's very hard-working.
+
+## Grammar
+* My mum has long, straight, brown hair and big blue eyes.
+* The thief had short, curly, black hair and dark eyes.
+* Grace has long, straight, red hair and small, green eyes.
+
+## Expressions
+Imagine your best friend wants your help writing a profile for a dating website.
+Write a description of your friend.
+Now show it to your best friend. What do they think?
+```
+A: Read this description and tell me what you think...
+B: OK, let me see...
+```
+## Audio script
+```
+Detective: Ok, could you describe who you saw for us?
+Witness: Well, the first man was quite tall, with long, black hair, a big nose, and small, brown eyes.
+Detective: Ok, and there was another man, right?
+Witness: Yes, the other man was short, and a bit fat.
+Detective: Can you tell me anything else about him?
+Witness: He was bald, and he had a small nose and big, blue eyes.
+Detective: And I believe the other suspect was a woman?
+Witness: Yes, she was also tall, with long, blonde hair, a long nose, and big, green eyes.
+Detective: Thanks for your help.
+```
+# Business proposals · Starting a business
+By the end of this lesson, you will be able to talk about a business idea.
+```
+Ken: Hey Rob. Long time no see! What have you been up to?
+Rob: Hello Ken, well I'm planning on starting a new business, so I've been working on my business plan.
+Ken: Really? Do tell!
+Rob: Ok, Let me ask you a question first. How many old gadgets are there lying around in your house?
+Ken: Let me see... My wife and I probably have 3 old cellphones and 2 laptops that we no longer use.
+Rob: Any MP3 players?
+Ken: Yes, of course.
+Rob: OK, What do you plan to do with those?
+Ken: I've never though about that. Why?
+Rob: Well. I'm thinking about starting a local-waste recycling pick-up business.
+Ken: A what?
+Rob: An e-waste recycling pick-up business. I would drive around neighborhood, collect unwated electronics from people's homes, then deliver those to the city recycling facility, and charge both sides for my services. What do you think?
+```
 ---------------------------
 
 # Describing your living environment
