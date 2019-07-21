@@ -59,6 +59,11 @@ Gray: That's good. Thanks, Matt! I should check it out this week.
 ```
 # Fashion · Describing clothing
 by th end of this lesson, you will be able to choose clothes to buy for different occasions and explain your choices.
+
+1. choose clothes to buy for different occasions and explain your choices
+
+2. Describe the appearance of common types of clothing 
+
 ## Vocabulary
 * casual
 * formal
@@ -104,7 +109,7 @@ Jessica: But it's too professional. I might but that to wear to work, but not fo
 Sarah: Alright. Let's look at the shoes instead. These sneakers are cool!
 Jessica: Come on. They're far too sporty! I will buy them for the gym instead.
 Sarah: Oh forget it. I give up.
-```            
+```
 # Entertainment · Planning a night out
 ## Vocabulary
 * KTV/Karaoke
@@ -202,10 +207,10 @@ By the end of this lesson, you will be able to choose a movie at the cinema with
 
 ## Grammar
 | |  |
-| -- | -- | 
+| -- | -- |
 | Starting your opinion | To be honest. If you ask me |
 | Asking someone's opinion |  What do you think? What about this one? How about this one? |
-| Agreeing with someone | I agree. Me too. | 
+| Agreeing with someone | I agree. Me too. |
 | Disagreeing with someone | I don't think so. Actually I don't agree. |
 
 ## Expressions

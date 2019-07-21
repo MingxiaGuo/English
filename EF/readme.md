@@ -8,6 +8,35 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 2018.12.10
 
+# Beginning
+
+## Level 1
+
+- Unit 1 Greetings and Introductions
+- Unit 2 Office and school
+- Unit 3 Cities and countries
+- Unit 4 People
+- Unit 5 Shopping
+- Unit 6 Food
+
+## Level 2
+
+- Unit 1 Times and days
+- Unit 2 Weather and seasons 
+- Unit 3 Sports and activities
+- Unit 4 Health
+- Unit 5 Places and transportation
+- Unit 6 Home
+
+## Level 3
+
+- Unit 1 Hobbies and interests
+- Unit 2 Locations and directions
+- Unit 3 Hotels
+- Unit 4 Holidays and celebrations
+- Unit 5 Money and buying
+- Unit 6 Jobs and companies
+
 # Elementary
 
 ## Level 4
@@ -26,90 +55,109 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 * Unit 5 Movies
 * Unit 6 Clothes and outfits
 
-## Level 6
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
+* ## Level 6
 
-# Intermediate
-## Level 7
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
-## Level 8
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
-## Level 9
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
+  - Unit 1 Communicating at work
+  - Unit 2 Going to the doctor's
+  - Unit 3 Problems and solutions
+  - Unit 4 Business socializing
+  - Unit 5 Business proposals
+  - Unit 6 Explaining the rules
 
+  # Intermediate
 
+  ## Level 7
 
-# Upper Intermediate
-## Level 10
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
-## Level 11
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
-## Level 12
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
+  - Unit 1 The future
+  - Unit 2 Hopes and dreams
+  - Unit 3 Interviewing
+  - Unit 4 Television
+  - Unit 5 Education
+  - Unit 6 Secrets and lies
 
-# Advanced
-## Level 13
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
-## Level 14
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
-## Level 15
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
+  ## Level 8
 
-# Upper Advanced
-## Level 16
-* Unit 1
-* Unit 2
-* Unit 3
-* Unit 4
-* Unit 5
-* Unit 6
+  - Unit 1 Music
+  - Unit 2 Living better
+  - Unit 3 Careers
+  - Unit 4 Business travel
+  - Unit 5 Cool products
+  - Unit 6 Relationships
+
+  ## Level 9
+
+  - Unit 1 Dining out
+  - Unit 2 Negotiating
+  - Unit 3 Stages of life
+  - Unit 4 Health and safety
+  - Unit 5 Natural disasters
+  - Unit 6 Polite behavior
+
+  # Upper Intermediate
+
+  ## Level 10
+
+  - Unit 1 Meetings
+  - Unit 2 Gender issues
+  - Unit 3 Personal finances
+  - Unit 4 Effective presentations
+  - Unit 5 Extreme sports
+  - Unit 6 Lifestyles
+
+  ## Level 11
+
+  - Unit 1 Career paths
+  - Unit 2 Technology
+  - Unit 3 The power of the mind
+  - Unit 4 Performing arts
+  - Unit 5 Law
+  - Unit 6 What you read
+
+  ## Level 12
+
+  - Unit 1 Manners and etiquette
+  - Unit 2 Coporate culture
+  - Unit 3 Leadership
+  - Unit 4 English in our world 
+  - Unit 5 Awkward situations
+  - Unit 6 Politics
+
+  # Advanced
+
+  ## Level 13
+
+  - Unit 1 Success
+  - Unit 2 Art and architecture
+  - Unit 3 Contributing to society
+  - Unit 4 Conservation
+  - Unit 5 Good and bad news
+  - Unit 6 Trade
+
+  ## Level 14
+
+  - Unit 1 Taking a risk
+  - Unit 2 Advertising
+  - Unit 3 The environment
+  - Unit 4 Education and training
+  - Unit 5 Making a speech
+  - Unit 6 Jokes and humor
+
+  ## Level 15
+
+  - Unit 1 In the news
+  - Unit 2 Communication
+  - Unit 3 E-commerce
+  - Unit 4 Urban issues
+  - Unit 5 Quality of life
+  - Unit 6 Ethics
+
+  # Upper Advanced
+
+  ## Level 16
+
+  - Unit 1 Science and technology
+  - Unit 2 Fame and fortune
+  - Unit 3 Creative thinking
+  - Unit 4 Financial planing
+  - Unit 5 Dealing with stress
+  - Unit 6 Doing research

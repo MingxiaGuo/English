@@ -1,25 +1,27 @@
+# 4-1 Entertainment
 
-[1. Describing entertainment options](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#1-describing-entertainment-options)
+[1. Describing entertainment options](https://github.com/MingxiaGuo/English/blob/master/EF/4-1-1_Entertainment.md#1-describing-entertainment-options)
 
-[2. Talking about upcoming events](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#2-talking-about-upcoming-events)
+[2. Talking about upcoming events](https://github.com/MingxiaGuo/English/blob/master/EF/4-1-2_Entertainment.md#2-talking-about-upcoming-events)
 
-[3. Planning a night out with friends](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#3-planning-a-night-out-with-friends)
+[3. Planning a night out with friends](https://github.com/MingxiaGuo/English/blob/master/EF/4-1-3_Entertainment.md#3-planning-a-night-out-with-friends)
 
-[4. Going to the movies](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md#4-going-to-the-movies)
+[4. Going to the movies](https://github.com/MingxiaGuo/English/blob/master/EF/4-1-4_Entertainment.md#4-going-to-the-movies)
 
-# 1. Describing entertainment options
+## 4-1-1. Describing entertainment options
 
-## vocabulary:Events
+### a) Vocabulary:Events
 
-* a play: Molly is going to a play this weekend.
-* a concert: There is a jazz concert in the park next Saturday.
-* a game: Danny goes to every baseball game he can.
-* a lecture: A famous professor of physics is giving a lecture at the university tomorrow.
-* a musical: I would like to see a comedy this Saturday, but my husband wants to see a musical.
-* a movie: We went to a movie last night about superheros saving the world.
-* a dance: We hold a dance every year to raise money for charity.
+* **a play**: Molly is going to a play this weekend.
+* **a concert**: There is a jazz concert in the park next Saturday.
+* **a game**: Danny goes to every baseball game he can.
+* **a lecture**: A famous professor of physics is giving a lecture at the university tomorrow.
+* **a musical**: I would like to see a comedy this Saturday, but my husband wants to see a musical.
+* **a movie**: We went to a movie last night about superheros saving the world.
+* **a dance**: We hold a dance every year to raise money for charity.
 
-## Grammar: Gerunds and infinitives
+### b) Grammar: Gerunds and infinitives
+
 Gerunds:verb+ing.  infinitives: to+verb
 * Infinitives only:
   * emjoy doing sth
@@ -34,15 +36,17 @@ Gerunds:verb+ing.  infinitives: to+verb
   * love doing / love to do
   * begin doing /begin to do 
 
-## Expressions
+### c) Expressions
 
-### Expressing ability:
+#### i) Expressing ability:
+
 * can('t/not): describe ability
 * (don't) know how to : means you have the knowledge or ability to do something.
-* be(not) (very,really,pretty )good/bad at  : describe degress of ability
+* be(not) (very, really, pretty )good/bad at  : describe degress of ability
 * be terrible at: decribe extrmely low ability
 
-### Asking about and describing options
+#### ii) Asking about and describing options
+
 * ask what people want to do and what acticities are avaliable:
   * what do you want to do?
   * what are we going to do tonight?
@@ -61,7 +65,7 @@ Gerunds:verb+ing.  infinitives: to+verb
   * What else is there to do ?
   * What else is going on?
 
-## Final Task: Describing entertainment options
+### d) Final Task: Describing entertainment options
 ```
 SUSAN: Hey, Joe what are we going to do tonight?
 JOE:   I know! Let's go to that play downtown.
@@ -73,6 +77,8 @@ SUSAN: I do not enjoy watching football games.
 JOE:   Oh, yeah. So the movie sounds good.
 SUSAN: Great!
 ```
+### e) Conversation
+
 ```
 Yvonne: Hi, how are you doing?
 me:     I'm fine, How are you?
@@ -88,28 +94,28 @@ me:     That sounds good.
 
 I'm not very good at it.
 
+## 4-1-2. Talking about upcoming events
 
-# 2. Talking about upcoming events
-## Vocabulary: Places for events
+### a) Vocabulary: Places for events
 
-* auditorium, 
-* aquarium, 
-* theater, 
-* restaurant, 
-* concert hall, 
-* nightclub, 
-* cafe, 
-* bar, 
+* auditorium
+* aquarium
+* theater
+* restaurant
+* concert hall
+* nightclub
+* cafe
+* bar 
 * stadium
 
-## Grammar: Prepositions of time and place
+### b) Grammar: Prepositions of time and place
 in on at
 * in: large areas or periods of time, like countries or years,month | morning, afternoon, evening
 * on: smaller areas, like streets, and for days and dates
 * at: addresses, business and buildings, and for precise periods of time.| night, midnight, noon
 
 
-## Expressions: Asking for help
+### c) Expressions: Asking for help
 
 * asking for help:
   * Could you do me a favor?
@@ -123,9 +129,9 @@ in on at
   * I'm sorry, but I'm really busy right now.
   * I'm really sorry, but I can't help you.
 
-## Reading: Reading about events
+### d) Reading: Reading about events
 
-## Final Task: Talking about upcoming events
+### e) Final Task: Talking about upcoming events
 ```
 A: Hi, could you help me?
 B: Sure, of course.
@@ -138,7 +144,7 @@ B: I'm sorry, but I can't. I'm busy.
 A: No problem. Thanks for your help.
 B: Sure. Have a good time.
 ```
-## conversation:
+### f) Conversation
 ```
 TODD:  Sally, Could you give a favor?
 Sally: Sure. What do you need?
@@ -158,10 +164,11 @@ Sally: It's in th Main Street Theater on Saturday.
 TODD:  Angela loves plays. Thank you so much!
 Sally: You're welcome.
 ```
-# 3. Planning a night out with friends
-## Vocabulary: 
+## 4-1-3. Planning a night out with friends
 
-### Adjectives to describe events
+### a) Vocabulary: 
+
+#### i) Adjectives to describe events
 * interesting - boring
 * relaxing - exciting
 * surprising
@@ -170,7 +177,7 @@ Sally: You're welcome.
 * loud - quiet
 * wonderful - terrible
 
-### Movie Genres
+#### ii) Movie Genres
 * comedy
 * horror
 * romance
@@ -185,7 +192,7 @@ Sally: You're welcome.
   * good, romantic, creative, exciting, funny, interesting, cute, brilliant, educational,
   * terrible, scary, boring, thrilling, voilent
   
-## Grammar: 'Why' and 'because'
+### b) Grammar: 'Why' and 'because'
 * Why is Frank angry?
 * He's angry because Oscar got a new dog.
 * Why did he go to the concert?
@@ -193,21 +200,22 @@ Sally: You're welcome.
 * Why are you going home?
 * We're going home because we're tired.
 
-## Expressions: Suggesting activities
+### c) Expressions: Suggesting activities
 * Let's + base form of verb
+  
   * Let's go to the dance performance.
 * 'How about' or 'What about' + verb +'-ing'
+  
   * What about meeting some friends?
 * 'Cloud' + base form of verb
+  
   * We cloud go out for a drink at Harry's Bar
 * 'Why don't we' +base form of vefrb.
   * Why don't we try a new restaurant?
   
   Disagree someone's opinion
   Agree someone's opinion
-  
-  
-## Final Task: Planning a night put with friends
+### d) Final Task: Planning a night put with friends
 ```
 A: Hi
 B: Hi, John. How are you doing?
@@ -224,7 +232,7 @@ B: Well, why don't we _____?
 A: That's a good idea.
 B: Great! Let's go.
 ```
-## Coversation
+### e) Coversation
 ```
 Sally: Oh! There's a samba band at, uh...
 JAKE:  I can't dance to samba.
@@ -262,25 +270,13 @@ What does Ann think of New York?
 How were the restaurants?
 
 ```
-# 4. Going to the movies
-```
-A: Jake, it's seventeen clock. The movie starts at eight!
-B: Ok, Ok ,I'm ready.
-A: Did you book a tickets?
-B: tickets?
-A: The tickets. you booked them, right?
-B: uh?
-B: I can't believe it, how could you forget to book the tickets? The 8 o'clock show is sold out now.
-A: Sally, I'm really sorry. Is there a second show?
-B: The next show begins at 10:30. There are still some tickets left. But it's over after midnight.
-A: That sounds good. I'm so sorry. I can't believe I forget. So, uh, do you want to watch some TV?
-B: This is so stupid.
-```
-## Grammar: Future with the simple present 一般现在时表示将来时
+## 4-1-4. Going to the movies
+
+### a) Grammar: Future with the simple present 一般现在时表示将来时
 谈论将来时，你有时可以使用一般现在时，如果谈及的演出活动隶属某计划表、时间表或演出日程，这种情况最为常见。表示演出开始或结束的动词，比如 begin 和 close，常常以一般现在时来表示将来时。
- 
+
 表示演出开始的一般现在时
- 
+
  	begin	开始
  	start	开始
  	open	开始
@@ -288,7 +284,7 @@ B: This is so stupid.
     The dance performance begins at 8 o'clock tonight.	舞蹈演出今晚八点开始。
     Harold's Department Store opens at 9 a.m. tomorrow.	Harold's Department Store 明天早上九点开张。
 表示演出结束的一般现在时
- 
+
  	close 	结束
  	end 	结束
  	be over 	结束，完了
@@ -300,13 +296,14 @@ B: This is so stupid.
 语言点：记住在 he、she 和 it 后面，动词一般现在时后加 s。例如：  
 
     The movie ends at midnight. 	电影午夜结束。
+
  
- 
-## Expressions: 
-### Asking for information about movies
+
+### b) Expressions: 
+#### i) Asking for information about movies
 
 想去看电影时，你需要了解有关电影的一些基本信息。你需要知道电影开始的时间、上映地点和电影票价。同时还要了解在哪里买票。使用下列问题来获取这一信息。
- 
+
 ```
 Can you give me some information?	你能告诉我一些信息吗？
 
@@ -341,41 +338,41 @@ EMPLOYEE: Adults are $13, and kids are $6.
 
 ```
 
-### Expressing imitation
+#### ii) Expressing imitation
 * 重复
- 
+
     表达恼怒的另一种方法是重复短语表示强调。
- 
+
     OK, OK. I'm coming. I'm coming.	好好，我来了，我来了。                           
 
 * 表达怀疑
 
     通过表示你不相信某人做了某事，也能传达你的恼怒。
- 
+
 
     I don't believe it! 	我不相信！
-
+    
     I can't believe it!	我不敢相信！
  * 夸张
- 
+
     你也可以通过夸大某人犯错的频率来表达愤怒。使用 always 和 never 来表示夸大。重读这些词来强调频率。
- 
+
 
     Jake always forgets.	Jake 老是忘记。
-
+    
     Mary never helps me.	Mary 从来不帮我。
 
 * 表达强烈的恼怒
- 
+
     你可以使用 stupid 或 crazy 等形容词表达程度更强的恼怒。如果你用这些词形容一个人，表示你不是恼怒，而是生气了。谨慎使用这些词，因为它们可能伤害人的感情。
- 
+
 
     This is stupid!	这很傻。
-
+    
     Are you crazy?	你疯了吗？
- 
 
-## Final Task: Going to the movies
+
+### c) Final Task: Going to the movies
 ```
 A: Good afternoon. Springdale Theater.
 B: Hi. I need some information about the film 'Believe It.'
@@ -390,3 +387,22 @@ B: And you're on Pine Street?
 A: Yes, 587 Pine Street where next to the supermarket
 B: OK. Thanks a lot for the information.
 ```
+
+### e) Conversation
+
+```
+A: Jake, it's seventeen clock. The movie starts at eight!
+B: Ok, Ok ,I'm ready.
+A: Did you book a tickets?
+B: tickets?
+A: The tickets. you booked them, right?
+B: uh?
+B: I can't believe it, how could you forget to book the tickets? The 8 o'clock show is sold out now.
+A: Sally, I'm really sorry. Is there a second show?
+B: The next show begins at 10:30. There are still some tickets left. But it's over after midnight.
+A: That sounds good. I'm so sorry. I can't believe I forget. So, uh, do you want to watch some TV?
+B: This is so stupid.
+```
+
+
+

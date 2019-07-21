@@ -1,10 +1,12 @@
+### 4-3 The past
+
 1. Asking about someone's week
 2. Talking about your weekend
 3. Telling a story
 4. Listening to a story
 
-# 1. Asking about someone's week
-## Vocabulary: Daily activities
+## 4-3-1. Asking about someone's week
+### a) Vocabulary: Daily activities
 * I got up
 * I went for a run
 * I made breakfast
@@ -19,7 +21,7 @@
 * I called my friend
 * I had a great day.
 
-## Grammar: Past tense verbs
+### b) Grammar: Past tense verbs
 * walk - walked
 * clean - cleaned
 
@@ -40,8 +42,8 @@
 
 * Was he Happy?
 
-## Expressions:
-### Past time expressions
+### c) Expressions:
+#### i) Past time expressions
 * today
 * yesterday
 * the day before yesterday
@@ -72,7 +74,7 @@ JENNY: Yeah, it was last year  .
 TODD: Wow. I should call them.
 JENNY: Good idea.
 ```
-### Asking questions about past events
+#### Asking questions about past events
 How was Paris?
 Did you go to Paris
 What was it like? | What did he look like? | What was the wedding like?
@@ -82,29 +84,29 @@ How did you like Beijing? | How was your vacation? | How was Russia?
  	 
 描述： What was it like?	（它是什么样子？）
 观点： How did you like it?	（你有多喜欢它？）
-## Final Task: Asking about someone's week
+### Final Task: Asking about someone's week
 
-# 2. Talking about your weekend
-## Vocabulary: Daily activities
+## 2. Talking about your weekend
+### Vocabulary: Daily activities
 * 
-## Grammar: Past tense verbs
-## Expressions:
-### Past time expressions
-### Asking questions about past events
-## Final Task: Asking about someone's week
-# 3. Telling a story
-## Vocabulary: Daily activities
+### Grammar: Past tense verbs
+### Expressions:
+#### Past time expressions
+#### Asking questions about past events
+### Final Task: Asking about someone's week
+## 3. Telling a story
+### Vocabulary: Daily activities
 * 
-## Grammar: Past tense verbs
-## Expressions:
-### Past time expressions
-### Asking questions about past events
-## Final Task: Asking about someone's week
-# 4. Listening to a story
-## Vocabulary: Daily activities
+### Grammar: Past tense verbs
+### Expressions:
+#### Past time expressions
+#### Asking questions about past events
+### Final Task: Asking about someone's week
+## 4. Listening to a story
+### Vocabulary: Daily activities
 * 
-## Grammar: Past tense verbs
-## Expressions:
-### Past time expressions
-### Asking questions about past events
-## Final Task: Asking about someone's week
+### Grammar: Past tense verbs
+### Expressions:
+#### Past time expressions
+#### Asking questions about past events
+### Final Task: Asking about someone's week

@@ -1,11 +1,15 @@
+# 4-2 Describing people
+
 1. Describing someone you know
 2. Describing relationships
 3. Evaluating employees
 4. Giving a recommendation
 
-# 1. Describing someone you know
+## 4-2-1. Describing someone you know
 
-## Physical descriptions of people (people's apperance)
+### a) Vocabulary
+
+#### i) Physical descriptions of people (people's apperance)
 
 * Describe a person's body: 
 ```He is .....```
@@ -44,13 +48,13 @@
  * middle-aged
  * young
 
-## people's personality
+#### ii) people's personality
 * nice good-looking dirty successful smart funny handsome attractive 
 * beautiful lazy(unmotivated) polite friendly unfriendly 
 * shy confident outgoing hard-working rude  
 
 
-## Grammar
+### b) Grammar
 1.  Adjective order: 
     * size age color
     * size type color
@@ -90,53 +94,68 @@
 
 Does he look
 
-## Expressions: Talking about people
+### c) Expressions: Talking about people
 ```
 Kate: My boyfriend... he's nice... he's good-looking. He has a mice smile, blue eyes. But his hair, it's long and dirty. I don't think he washes it. He is an artist. He spends all day painting, and that's all he does. He doesn;t have a job, he lives in his mum's house! I want a boyfriend who has a plan, successful, smart, funny, handsome. I want something different now.
 ```
 
-## Final task
+### d) Final task
 ```
+
 ```
-# 2. Describing relationships
-**family members**:
-wife
-husband
-parents(father,mother)
-children(daughter,son,baby)
-siblings(sister,brother)
-grandparents(grandmother, grandfather)
-grandchildren(granddaughter,grandson)
-aunt
-uncle
-niece
-nephew
-cousin
-mother-in-law
-father-in-law
-daughter-in-law
-son-in-law
-brother-in-law
-sister-in-law
-half brother
-half sister
-stepfather
-stepmother
-stepsister
-stepbrother
+## 4-2-2. Describing relationships
+### a) Vocabulary
 
-friend
-girlfriend
-boyfriend
+#### i) Family members
 
-(business) partner 
+- wife, husband
+- parents (father, mother)
+- children (daughter, son, baby)
+- siblings (sister, brother)
+- grandparents (grandmother,  grandfather)
+- grandchildren (granddaughter, grandson)
+- aunt, uncle
+- niece, nephew
+- cousin
+- mother-in-law, father-in-law
+- daughter-in-law, son-in-law
+- brother-in-law, sister-in-law
+- half brother, half sister
+- married , divorced, remarried
+- single mother, single father, 
+- stepfather, stepmother
+- stepsister, stepbrother
 
-**job relationships**:
-boss
-colleague
+#### ii) Social relationship
+
+* friend
+* girlfriend
+* boyfriend
+
+#### ii) Job relationships
+
+* boss
+* colleague
+* manager
+* architect
+* artist
+* (business) partner 
 
 
 
-# 3. Evaluating employees
 
-# 4. Giving a recommendation
+Talking about a relationship
+
+ 
+
+| 请使用类似以下的问题来询问别人一段关系。注意答复中表达式 **+**动名词的结构。 |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | A: **How are you and your brother doing***?*   B: *We're doing well, thanks. We **spend time   talking** on the phone.* | 你和你哥哥（弟弟）关系还好吗？    我们关系很好，谢谢。我们会花时间打电话聊天。 |
+|                                                              |                                                              |                                                              |
+|                                                              | A: **What do you and Sylvia do for fun***?*    B: *Let's see … We **have a lot of fun playing** tennis   together.* | 你和 Sylvia 都玩什么？    让我想想……我们一起打网球，玩得很开心。 |
+| 您可以使用**you   two** 表达密切的关系 - 例如，丈夫与妻子之间或母亲与孩子之前。 |                                                              |                                                              |
+|                                                              | A: *Are **you two** having trouble?*    B: *Yeah, we are. I am having trouble understanding her problems.*    A: *I'm sorry to hear that.* | 你们两人碰到什么难题了吗？    是的，我们碰到了难题。我难以理解她的问题。    听到这我很难过。 |
+
+## 4-2-3. Evaluating employees
+
+## 4-2-4. Giving a recommendation
