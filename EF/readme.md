@@ -55,27 +55,27 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 * Unit 5 Movies
 * Unit 6 Clothes and outfits
 
-* ## Level 6
+## Level 6
 
-  - Unit 1 Communicating at work
-  - Unit 2 Going to the doctor's
-  - Unit 3 Problems and solutions
-  - Unit 4 Business socializing
-  - Unit 5 Business proposals
-  - Unit 6 Explaining the rules
+* Unit 1 Communicating at work
+* Unit 2 Going to the doctor's
+* Unit 3 Problems and solutions
+* Unit 4 Business socializing
+* Unit 5 Business proposals
+* Unit 6 Explaining the rules
 
-  # Intermediate
+# Intermediate
 
-  ## Level 7
+## Level 7
 
-  - Unit 1 The future
-  - Unit 2 Hopes and dreams
-  - Unit 3 Interviewing
-  - Unit 4 Television
-  - Unit 5 Education
-  - Unit 6 Secrets and lies
+* Unit 1 The future
+* Unit 2 Hopes and dreams
+* Unit 3 Interviewing
+* Unit 4 Television
+* Unit 5 Education
+* Unit 6 Secrets and lies
 
-  ## Level 8
+## Level 8
 
   - Unit 1 Music
   - Unit 2 Living better
@@ -84,7 +84,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Cool products
   - Unit 6 Relationships
 
-  ## Level 9
+## Level 9
 
   - Unit 1 Dining out
   - Unit 2 Negotiating
@@ -93,9 +93,9 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Natural disasters
   - Unit 6 Polite behavior
 
-  # Upper Intermediate
+# Upper Intermediate
 
-  ## Level 10
+## Level 10
 
   - Unit 1 Meetings
   - Unit 2 Gender issues
@@ -104,7 +104,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Extreme sports
   - Unit 6 Lifestyles
 
-  ## Level 11
+## Level 11
 
   - Unit 1 Career paths
   - Unit 2 Technology
@@ -113,7 +113,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Law
   - Unit 6 What you read
 
-  ## Level 12
+## Level 12
 
   - Unit 1 Manners and etiquette
   - Unit 2 Coporate culture
@@ -122,9 +122,9 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Awkward situations
   - Unit 6 Politics
 
-  # Advanced
+# Advanced
 
-  ## Level 13
+## Level 13
 
   - Unit 1 Success
   - Unit 2 Art and architecture
@@ -133,7 +133,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Good and bad news
   - Unit 6 Trade
 
-  ## Level 14
+## Level 14
 
   - Unit 1 Taking a risk
   - Unit 2 Advertising
@@ -142,7 +142,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Making a speech
   - Unit 6 Jokes and humor
 
-  ## Level 15
+## Level 15
 
   - Unit 1 In the news
   - Unit 2 Communication
@@ -151,9 +151,9 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 5 Quality of life
   - Unit 6 Ethics
 
-  # Upper Advanced
+# Upper Advanced
 
-  ## Level 16
+## Level 16
 
   - Unit 1 Science and technology
   - Unit 2 Fame and fortune
