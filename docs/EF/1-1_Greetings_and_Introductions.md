@@ -1,18 +1,19 @@
 ## 1-1 Greetings and Introductions
-  school goodbye hello hi he phone she telphone they you student
-
 ### Greeting
+
+(= ways of saying hello to someone when you meet them)
+
 #### Formal greetings
 
-| People 1                                                     | People 2                                                     |
+| Sample sentence                                              | Sample response                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Hello, Mr./Mrs./Miss./Ms./Dr./Prof Brown.                    | Hello, Mr./Mrs./Miss./Ms./Dr./Prof Smith.                    |
+| Hello, Mr./Mrs./Miss./Ms./Dr./Prof Brown. Doctor Smith       | Hello, Mr./Mrs./Miss./Ms./Dr./Prof Smith./Prof Brown         |
 | Good morning / afternoon / evening / night, Mr.Brown.        | Good morning / afternoon / evening / night, Mr.Smith.        |
-| Hello, Mr.Brown. How are you?                                | 表示礼貌或社交的问候语(总之很好): Fine / Very well, thank you. How are you? /  Not bad./ Good(需要解释发生了什么好事)\| Good, thanks. Can I have a small coffee pls?；  熟人或朋友间的客套(真情实感): Good! \| Fine(不太好)\|I'm all right(还行)\|I'm hanging in there (马马虎虎) \| I feel amazing\| I'm great \| I;m awesome \| not so good/well \| not great \|I'm tired/stressed.\| Couldn't be better\| Keeping busy\| Can't complain\| Been keeping out of trouble\| Been getting by \| not so good  ; 受伤生病时问你感觉怎么样，恢复的如何： I need help\| I'm bleeding\| I'm drowning\| I'm fully recovered. |
+| Hello, Mr.Brown. How are you?                                | Hello, how are you?表示礼貌或社交的问候语(总之很好): Fine / Very well, thank you. How are you?(And you?) /  Not bad./ Good(需要解释发生了什么好事)\| Good, thanks. Can I have a small coffee pls?；  熟人或朋友间的客套(真情实感): Good! \| Fine(不太好)\|I'm all right(还行)\|I'm hanging in there (马马虎虎) \| I feel amazing\| I'm great \| I;m awesome \| not so good/well \| not great \|I'm tired/stressed.\| Couldn't be better\| Keeping busy\| Can't complain\| Been keeping out of trouble\| Been getting by \| not so good  ; 受伤生病时问你感觉怎么样，恢复的如何： I need help\| I'm bleeding\| I'm drowning\| I'm fully recovered. |
 | Hello, Mr.Brown. (It's) good / nice / wonderful / delightful /marvelous /exciting to see you again. (Good / Nice to see you again. ) |                                                              |
 | I'm glad / happy / pleased to see you.                       |                                                              |
 | Nice to meet you                                             | Pleased to meet you too.                                     |
-| How do you do?                                               | How do you do?                                               |
+| (rarely)How do you do?                                       | How do you do?                                               |
 
 * Q: How are you?
 * A: I feel amazing.
@@ -56,12 +57,12 @@ How are things? Fine thanks. And you?
 
 * Ladies and gentlemen, allow me to introduce/I take great pleasure in introducing our speaker Prof. Brown.
 
-
 ### Introductions
 
-#### Introducing yourself to someone
+* Self-introduction
+* Introducing a person to another person
 
-Introducing yourself to someone you’ve just met
+#### Introducing yourself to someone you’ve just met(self-introduction)
 
 * Greeting people
   * Hi
