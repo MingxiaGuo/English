@@ -40,7 +40,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 # Elementary
 
 ## Level 4
-* [Unit 1 Entertainment](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md) 
+- [x] [Unit 1 Entertainment](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md) 
 * [Unit 2 Describing people](https://github.com/MingxiaGuo/English/blob/master/EF/4-2_Describing%20people.md)
 * [Unit 3 The past](https://github.com/MingxiaGuo/English/blob/master/EF/4-3_The%20Past.md)
 * [Unit 4 Milestones](https://github.com/MingxiaGuo/English/blob/master/EF/4-4_Milestones.md)
@@ -59,7 +59,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 - [ ] Unit 1 Communicating at work
 - [ ] Unit 2 Going to the doctor's
 - [ ] Unit 3 Problems and solutions
-- [x] [Unit 4 Business socializing](6-4_Business_socializing.md)
+- [x] [Unit 4 Business socializing](EF/6-4_Business_socializing.md)
 - [ ] Unit 5 Business proposals
 - [ ] Unit 6 Explaining the rules
 
@@ -67,7 +67,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 ## Level 7
 
-* Unit 1 The future
+- [x] Unit 1 The future
 * Unit 2 Hopes and dreams
 * Unit 3 Interviewing
 * Unit 4 Television

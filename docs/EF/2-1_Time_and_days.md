@@ -123,3 +123,11 @@
 | vacation                          |
 
 ## 
+
+Part 1 -  Talking about schedules
+
+Part 2 - Descibing your weekend
+
+Part 3 - Arranging a meeting time
+
+Part 4 - Talking abut birthdays

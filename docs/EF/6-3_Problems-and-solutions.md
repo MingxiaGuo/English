@@ -1,3 +1,5 @@
+## 6-3 Problems and solutions
+
 6-3-1 Explaining a problem
 
 6-3-2 Giving your friend advice
@@ -5,8 +7,6 @@
 6-3-3 Solving an employee problem
 
 6-3-4 Proposing a solution to a work issue
-
-## 6-3 Problems and solutions
 
 ### 6-3-1 Explaining a problem
 

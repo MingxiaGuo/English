@@ -1,7 +1,12 @@
-1. Comparing options
-2. Making decisions
-3. Discussing the details
-4. Summarizing decisions
+## 5-2 Making decisions
+
+5-2-1 Comparing options
+
+5-2-2 Making decisions
+
+5-2-3 Discussing the details
+
+5-2-4 Summarizing decisions
 
 ## 1. Comparing options
 ## 2. Making decisions

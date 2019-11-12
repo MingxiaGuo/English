@@ -1,3 +1,5 @@
+## 6-4 Business socializing
+
 6-4-1 Welcoming business guests
 
 6-4-2 Attending a networking event
@@ -5,8 +7,6 @@
 6-4-3 Making a business contact
 
 6-4-4 Summarizing a networking event
-
-## 6-4 Business socializing
 
 ### 6-4-1 Welcoming business guests
 

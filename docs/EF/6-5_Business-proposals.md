@@ -1,3 +1,5 @@
+## 6-5 Business proposals
+
 6-5-1 Describing a business situation
 
 6-5-2 Discussing possible solutions
@@ -5,8 +7,6 @@
 6-5-3 Making a proposal
 
 6-5-4 Writing a short business proposal
-
-## 6-5 Business proposals
 
 ### 6-5-1 Describing a business situation
 

@@ -8,10 +8,10 @@
 | Sample sentence                                              | Sample response                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Hello, Mr./Mrs./Miss./Ms./Dr./Prof Brown. Doctor Smith       | Hello, Mr./Mrs./Miss./Ms./Dr./Prof Smith./Prof Brown         |
-| Good morning / afternoon / evening / night, Mr.Brown.        | Good morning / afternoon / evening / night, Mr.Smith.        |
+| Hello, Good morning / afternoon / evening / night, Mr.Brown. | Hello, Good morning / afternoon / evening / night, Mr.Smith. |
 | Hello, Mr.Brown. How are you?                                | Hello, how are you?表示礼貌或社交的问候语(总之很好): Fine / Very well, thank you. How are you?(And you?) /  Not bad./ Good(需要解释发生了什么好事)\| Good, thanks. Can I have a small coffee pls?；  熟人或朋友间的客套(真情实感): Good! \| Fine(不太好)\|I'm all right(还行)\|I'm hanging in there (马马虎虎) \| I feel amazing\| I'm great \| I;m awesome \| not so good/well \| not great \|I'm tired/stressed.\| Couldn't be better\| Keeping busy\| Can't complain\| Been keeping out of trouble\| Been getting by \| not so good  ; 受伤生病时问你感觉怎么样，恢复的如何： I need help\| I'm bleeding\| I'm drowning\| I'm fully recovered. |
 | Hello, Mr.Brown. (It's) good / nice / wonderful / delightful /marvelous /exciting to see you again. (Good / Nice to see you again. ) |                                                              |
-| I'm glad / happy / pleased to see you.                       |                                                              |
+| I'm glad / happy / pleased / suprised to see you here .      |                                                              |
 | Nice to meet you                                             | Pleased to meet you too.                                     |
 | (rarely)How do you do?                                       | How do you do?                                               |
 
@@ -32,10 +32,12 @@
 * Hi. | Hi.
 * Hi, / Morning, John. | Hi / Morning, Mary.
 * Hi. John. How’s it going / everything going / life ?  | Fine / OK / Alright / Not bad / Not so well. How are you? 
-* Hi, John. How are you doing/ you getting on / you keeping / things with you / things going?  | Fine, thanks. And you?
+* Hi, John. How are you doing/ you getting on / you keeping / things with you / things going?  | Fine, thanks. And you? / Not bad
 * Hi, John. What's up / new? | Not too bad, thanks.
 * Hello. Beautiful day / Lovely day / Nice Day / Miserable weather /Awful weather , isn't it? | Yes, isn't it? / it certainly is!
 * Hello. It's so hot / a bit cooler / extremely windy today, isn't it? | I should say so.
+* Long time no see. How have you been?
+* Hi, there. How are things with you
 
 How are things? Fine thanks. And you?
 
@@ -112,3 +114,56 @@ How are things? Fine thanks. And you?
 ### Say good bye to a friend
 * See you later
 * Catch you later
+
+
+
+
+
+
+
+Part 1 -  Introducing youself
+
+```
+A: Hi
+B: Hello
+A: I'm polly./My name is polly. What's your name?
+B: My name is ___
+A: Nice to meet you.
+B: Nice to meet you too.
+A: Good bye.
+B: Bye
+
+What's his/her name?
+
+```
+
+
+
+Part 2 - Give your name to some one
+
+```
+How do you spell your name?
+It's p-o-l-y, poly.
+```
+
+
+
+Part 3 - Exchanging phone numbers
+
+I'm programmer, his is an artist. You're student. They are teachers.
+
+What's your (telephone/cellphone/phone) number?
+
+It's 819023
+
+Can you repeat that?
+
+
+
+
+
+
+
+Part 4 - Greetings
+
+I'm not student
