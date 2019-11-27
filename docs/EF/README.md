@@ -40,15 +40,15 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 # Elementary
 
 ## Level 4
-- [x] [Unit 1 Entertainment](https://github.com/MingxiaGuo/English/blob/master/EF/4-1_Entertainment.md) 
-* [Unit 2 Describing people](https://github.com/MingxiaGuo/English/blob/master/EF/4-2_Describing%20people.md)
-* [Unit 3 The past](https://github.com/MingxiaGuo/English/blob/master/EF/4-3_The%20Past.md)
-* [Unit 4 Milestones](https://github.com/MingxiaGuo/English/blob/master/EF/4-4_Milestones.md)
-* [Unit 5 Welcome](https://github.com/MingxiaGuo/English/blob/master/EF/4-4_Welcome.md.md)
-* [Unit 6 Vacations](https://github.com/MingxiaGuo/English/blob/master/EF/4-6_Vacations.md) 
+- [x] [Unit 1 Entertainment](4-1_Entertainment.md) 
+* [Unit 2 Describing people](4-2_Describing-people.md)
+* [Unit 3 The past](4-3_The-Past.md)
+* [Unit 4 Milestones](4-4_Milestones.md)
+* [Unit 5 Welcome](4-4_Welcome.md.md)
+* [Unit 6 Vacations](4-6_Vacations.md) 
 ## Level 5
-* [Unit 1 Travel](https://github.com/MingxiaGuo/English/blob/master/EF/5-1_Travel.md)
-* [Unit 2 Making decisions](https://github.com/MingxiaGuo/English/blob/master/EF/5-2_Making%20decisions.md)
+* [Unit 1 Travel](5-1_Travel.md)
+* [Unit 2 Making decisions](5-2_Making-decisions.md)
 * Unit 3 Telling stories
 * Unit 4 Going to a restaurant
 * Unit 5 Movies
@@ -67,8 +67,8 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 ## Level 7
 
-- [x] Unit 1 The future
-- [x] Unit 2 Hopes and dreams
+- [x] [Unit 1 The future](7-1_The-future.md)
+- [x] [Unit 2 Hopes and dreams](7-2_Hopes-and-dreams.md)
 * Unit 3 Interviewing
 * Unit 4 Television
 * Unit 5 Education
