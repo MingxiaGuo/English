@@ -1,13 +1,29 @@
-## Unit 6 Food
+## 1- 6 Food
+
+1-6-1.  Discussing a meal
+
+1-6-2. Preparing a meal with friends
+
+1-6-3. Suggesting a restaurant for lunch
+
+1-6-4. Ording take-out food
+
+### **Discussion Questions**
+
+- What is your favorite vegetable?
+- Describe what a tomato tastes like.
+- Describe how a carrot is different from a cucumber.
+- How do you prepare your favorite vegetable?
+- What is your favorite fruit?
+- How would you describe your favorite fruit?
+- What fruits are popular in your country?
+- What can you make with fruit?
 
 sandwich
-tomatoes
 wine
 noddles
 chocolate cake
-oranges
 rice
-apples
 tuna
 tea
 meat
@@ -181,7 +197,7 @@ Sugar
 
 # 
 
-Part 1 -  Discussing a meal
+### 1-6-1.  Discussing a meal
 
 ```
 [SALLY] This place has great burgers.
@@ -205,7 +221,7 @@ Part 1 -  Discussing a meal
 
 
 
-Part 2 - Preparing a meal with friends
+### 1-6-2. Preparing a meal with friends
 
 ```
 LINDA: What do you want? How about a salad?
@@ -307,7 +323,7 @@ Help me, please.
 
 
 
-Part 3 - Suggesting a restaurant for lunch
+### 1-6-3. Suggesting a restaurant for lunch
 
 ```
 [KELLY] You hungry?
@@ -376,7 +392,7 @@ French fries are usually sour salty sweet .
 The food in this restaurant is great. It's really OK delicious awful .
 The soup isn't good. It tastes OK bad delicious
 
-Part 4 - Ording take-out food
+### 1-6-4. Ording take-out food
 
 ```
 [SERVER] Hi. Can I help you?
@@ -541,3 +557,16 @@ B:Yes, a glass of milk.
 
 
 是的，一杯牛奶。
+
+
+
+### Vocabulary
+
+#### Vegetables
+
+![](../assets/vegetables.jpg)
+
+#### Fruits
+
+![](../assets/fruit.jpg)
+

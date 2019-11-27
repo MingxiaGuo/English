@@ -1,3 +1,20 @@
+## 1-3 Cities and countries
+
+1-3-1. Saying where are you from
+
+1-3-2. Introducing a colleague
+
+1-3-3. Metting new people
+
+1-3-4. Describing your country
+
+### Discussion Questions
+
+- Where are you from? What is your nationality?
+- Where is your tutor from? What is his/her nationality?
+- What countries have you been to?
+- Describe what people from your country are like.
+
 ### 1-3-1. Saying where are you from
 
 ```
@@ -7,12 +24,58 @@ A: And her name is Mary. I'm from UK
 B: We are from London, England.
 A: Frank
 B: Yes.
-A: I'm form London, you are not.
+A: I'm from London, you are not.
 B: Of course, Of course. Now we live in london, but I'm form 
 A: The sanjuasles, in the US.
 ```
 
+#### a) Vocabulary 
 
+* nationality
+* country
+* city
+* 
+* Netherlands.
+* USA / America; American
+* UK(United Kingdom); British
+* Japan; Japanese
+* Canada; Canadian
+* China; Chinese
+* Seoul
+* London
+* Italy; Italian
+* Russia; Russian
+* Arab nations; Arabian
+* Czech Republic.
+* Philippines
+* Australia; Australian
+* Europe; European
+* Turkey; Turkish
+* Spain; Spanish
+* Korea; Korean
+* Brazil; Brazilian
+* Paris
+* Miami
+* England
+* France; French
+* Germany; German
+
+#### b) Grammar 
+
+**1) to be + from + country/city**
+
+- I am from the USA
+- We are from Canada.
+- He is from Seoul.
+- They are from London.
+
+**2) to be + nationality**, **We never use the article “the” in front of a country.**
+
+- You are Italian.
+- We are Chinese.
+- I am Russian.
+- She is Arabian.
+- The nationality of someone from Turkey is Turkish.
 
 ### 1-3-2. Introducing a colleague
 
@@ -44,7 +107,7 @@ A: The sanjuasles, in the US.
 
 [CARLOS] Yeah. In the north of Brazil.
 
-[SALLY] What’s it like?
+[SALLY] What’s it like? 
 
 [CARLOS] It’s a beautiful city. There are a lot of great beaches.
 
@@ -85,5 +148,13 @@ A: The sanjuasles, in the US.
 [CARLOS] No, not really.
 
 [SALLY] I’m sorry to hear that.
+```
+
+```
+K: I am an American. Where are you from?
+D: I am from Canada. I am Canadian.
+K: What are Canadians like?
+D: They are similar to Americans but nicer!
+K: That’s not true!
 ```
 

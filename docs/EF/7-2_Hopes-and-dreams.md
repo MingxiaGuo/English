@@ -1,4 +1,4 @@
-## 7-1 The future
+## 7-2 Hopes and dreams
 
 7-2-1 Talking about yor hopes for the future
 
@@ -11,7 +11,7 @@
 ### 7-2-1 Talking about yor hopes for the future
 
 ```
-A: I'm thinking about my future.Where I want to go, who I want to be, what I want to do. I'm 24 ywars old. I don't know what I want, I don't know.
+A: I'm thinking about my future.Where I want to go, who I want to be, what I want to do. I'm 24 years old. I don't know what I want, I don't know.
 B: What are those?
 A: These are my job applications. This is my law school application. And this is everything for my Peace Corps application.
 B: Wow. So many possibilities. Emma is going to be very successful. She has so many opportunities, and so much enery. She could really use that energy to change the world. I had energy when I was younger. I remember having opportunities. I hope she does something great.
@@ -95,14 +95,20 @@ I just graduated from university. By next year, I hope to have a good job. In fi
 * Her dream is to have two kids - a girl and a boy. 她的愿望是生两个孩子 - 一个女孩，一个男孩
 * In the future, she wants everyone to know her name. 将来，她想让每个人都知道她的名字
 
-#### e) FInal Task: Talking about your hopes for the future
+#### d) Final Task: Talking about your hopes for the future
 
 ```
 A: Do you have many to talk, I'm thinking a lot about my future.
 B: Really? Are you unhappy?
+A: Not really, but I don't want to do the same forever.
+B: What other job would you like to have?
+A: You are thinking I'm crazy. But my dream is to worke with animals, any animal hospital or something like that.
+B: I think that's fantastic.
+A: Really? You think it's possible?
+B: Of course. You've got your whole life in front of you.
+A: Thanks. How about you? What would you like to be in five years?
+B: In five years, I'd like to _____.
 ```
-
-
 
 ### 7-2-2 Discussing life choices
 
@@ -198,6 +204,23 @@ B: Well, I don't know yet. My future is, um, undecided.
 * It doesn't hurt to get more information. 多获得一些信息也无妨。
 
 #### d) Final Task: Discussing life choices
+
+```
+A: I'm thinking about what I want to be with my life?
+B: Have you made any decisions yet?
+A: No, not yet. There are so many possibilities.
+B: If you go to college, you'll probably get a good job.
+A: Yeah. But I have no idea what I study, I haven't decided on a career yet. Maybe I should just take a job, I need some money.
+B: Sure. You'll make some money if you get a job.
+A: What I really love to do seeing the world, learning other language maybe help people too.  I was thinking about Peace Corps.
+B: That's a great idea. You should apply.
+A: Do you think I'll be successful?
+B: Yes. You're smart, and you've got your whole life in front of you.
+A: Thanks, I fell much better. I'm going to talk the people like Peace Corps.
+B: Great. It doesn't hurt to get more information.
+A: You're right! I'm going to look all my options and make a decision.
+B: Good luck!
+```
 
 ### 7-2-3 Talking about your hopes and dreams
 
@@ -337,7 +360,22 @@ Tim
 
 * What is Tim's dream?
 
-#### e) FInal task: Talking about dreams
+#### e) Final task: Talking about dreams
+
+```
+A: I'm thinking about changing career. I want something more rewarding.
+B: Really? Like what?
+A: Well. It's always be my dream to have my bicycle store \.
+B: Cool. But owning your own store is challenging.
+A: Yes. But I can make a good salary, if I had a big store.
+B: Why don't you do it?
+A: It's the money. If I had enough money, I would rent a place and open the store.
+B: My dream is to _____
+A: That's exciting. What's stopping you?
+B: Well, if I _____.
+A: I can always dream, can we?
+B: Yes. You can reach your dream if you make a plan.
+```
 
 ### 7-2-4 Talking about professional development
 
@@ -469,5 +507,22 @@ Generally, your employee review was very positive. You have strong communication
 * Good luck! Go for it! 祝你好运！加油！
 * It won't be easy, but you can definitely do it. 这并不容易，但是你肯定能做到
 
-#### d) FInal task: Talking about professional development
+#### d) Final task: Talking about professional development
+
+```
+A: Sometimes I feel like I'm on the wrong career path.
+B: What do you mean?
+A: Well. My technical background is computer programming, and I do a good job, but I'm not happy.
+B: Well, you're smart. You can change things.
+A: Yeah. I just wish I had studied something different in college. And actually I'd like  to do some writing.
+B: Have you thought about some professional development?
+A: You mean like classes?
+B: Yeah, you could learn some new skills.
+A: Do you really think I can change my career path like that?
+B: Absolutely! You have a lot of potential.
+A: You know what, I think you're right. What do I have to lose?
+B: Just think where you want to be in five years, and go for it!
+A: Hi, why not? Thanks for encourging me.
+B: My pleasure! Good luck!
+```
 

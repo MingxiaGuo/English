@@ -10,6 +10,26 @@
 
 ### 6-4-1 Welcoming business guests
 
+```
+[NINA]: They say in business, who you know is more important than what you know.
+I believe that's true.
+That's why I'm going to invite local business owners to the opening of my new shop.
+I usually hate these kinds of things.
+Oh, Helen, so glad you could come.
+Have you met John?
+John - Helen Bradley.
+Helen - John Furrow.
+But I just moved here.
+What if nobody comes tonight?
+It's going to be awful ... No. No. It'll be fine. It'll be fine.
+[NINA]: Hello
+[Guest]: Hi
+[NINA]: Thanks for coming
+[Guest]: Oh, thank you.
+[NINA]: Would you like a drink?
+[Guest]: Yes, please.
+```
+
 #### a) Grammar: Negative tag questions 否定反意疑问句
 
 反意疑问句是位于陈述句之后的小问句, 使用反意疑问句确定某事真假或征求同意。
@@ -116,27 +136,6 @@
 [ME]: Let's go to the meeting room. I'd like to introduce you to Patrick.
 ```
 
-
-```
-[NINA]: They say in business, who you know is more important than what you know.
-I believe that's true.
-That's why I'm going to invite local business owners to the opening of my new shop.
-I usually hate these kinds of things.
-Oh, Helen, so glad you could come.
-Have you met John?
-John - Helen Bradley.
-Helen - John Furrow.
-But I just moved here.
-What if nobody comes tonight?
-It's going to be awful ... No. No. It'll be fine. It'll be fine.
-[NINA]: Hello
-[Guest]: Hi
-[NINA]: Thanks for coming
-[Guest]: Oh, thank you.
-[NINA]: Would you like a drink?
-[Guest]: Yes, please.
-```
-
 ```
 [Vanessa]: Hello, welcome come to Ship Shape Exercise and Spa
 [Trevor]: Hi, thanks. Let's see... I just spoke to you on the phone yesterday. I was asking about SPA experience. You said I should come see everything for myself.
@@ -156,6 +155,24 @@ It's going to be awful ... No. No. It'll be fine. It'll be fine.
 isn't it on SPA??????????????
 ```
 ### 6-4-2 Attending a networking event
+
+```
+A: Haven't we met somewhere before?
+B: No, I don't think so.
+A: Oh sorry. So, are you from around here?
+B: Oh, not really. My husband and I moved here a few weeks ago.
+A: Oh, really? So did I. I think the area's lovely.
+B: Oh, me too. 
+B: We're going to open a book shop down the road in about a month. You should come to our opening.
+A: I will, thanks. So what did you do before?
+B: Oh, well, I worked at Crow and Dunny's. Do you know it?
+A: Crow and Dunny? I used to work there! I knew you looked familiar.
+B: Oh, right. Did you know Richard Moat? 
+A: Oh, yes. Isn't he the worst? I know everybody who worked for him hated him!
+B: That's my budband. We just got married.
+A: Oh! Oh,,oh. not that Richard Moat! There was a ... oh, what was his namr? Richard ... Richard Moon ... Richard Mooney?
+```
+
 #### a) Vocabulary: 对话话题
 
 对话话题合适与否，并没有固定规则。这往往取决于文化、社会和个人观点。因此，与不熟悉的人交谈时，还是谨慎为好。
@@ -242,23 +259,6 @@ What does Billy say about the event?
 ```
 
 #### c) Expressions 找出共识
-```
-A: Haven't we met somewhere before?
-B: No, I don't think so.
-A: Oh sorry. So, are you from around here?
-B: Oh, not really. My husband and I moved here a few weeks ago.
-A: Oh, really? So did I. I think the area's lovely.
-B: Oh, me too. 
-B: We're going to open a book shop down the road in about a month. You should come to our opening.
-A: I will, thanks. So what did you do before?
-B: Oh, well, I worked at Crow and Dunny's. Do you know it?
-A: Crow and Dunny? I used to work there! I knew you looked familiar.
-B: Oh, right. Did you know Richard Moat? 
-A: Oh, yes. Isn't he the worst? I know everybody who worked for him hated him!
-B: That's my budband. We just got married.
-A: Oh! Oh,,oh. not that Richard Moat! There was a ... oh, what was his namr? Richard ... Richard Moon ... Richard Mooney?
-```
-
 与刚在社交活动上见到的某人建立共识是有好处的。如果你认为你以前见过对方但不肯定，使用类似表达。
 
 * We've met somewhere before, haven't we?	我们以前在哪见过，不是吗？
@@ -303,30 +303,6 @@ B: You, too. See you later.
 
 ### 6-4-3 Making a business contact
 
-#### a) Vocabulary 否定前缀
-
-如un-, im- 和 in-类的前缀，置于形容词的词首时，使形容词具有相反的，否定的含义。例如。
-
-把un-加到happy 或 usual 前使形容词具有否定意义。
-
-* Bethany's **unhappy** with the new product.	Bethany 对新产品不满意。
-
-* I've been traveling a lot. That's **unusual**.	我一直出差很多。这很不寻常。
-
-加把前缀im- 加到possible 或 polite 前使形容词变为否定。
-
-* It's **impossible** for me to come on Monday.	我周一不可能过来。
-
-* Craig is so **impolite**.	Craig 非常不礼貌。
-
-把in- 加到appropriate或 efficient前使形容词带有否定意味。
-
-* Money was an **inappropriate** gift.	送钱不合适。
-
-* The program seems very **inefficient**.	该计划看起来非常没有效率。
-
-#### b) Expressions 
-
 ```
 A: So you're going to need computers. Maybe we could help you with that.
 A: Like I said before, I ... I sell computers.
@@ -351,6 +327,30 @@ C: So, here's my card.
 B: Thank you
 C: Thank you
 ```
+
+#### a) Vocabulary 否定前缀
+
+如un-, im- 和 in-类的前缀，置于形容词的词首时，使形容词具有相反的，否定的含义。例如。
+
+把un-加到happy 或 usual 前使形容词具有否定意义。
+
+* Bethany's **unhappy** with the new product.	Bethany 对新产品不满意。
+
+* I've been traveling a lot. That's **unusual**.	我一直出差很多。这很不寻常。
+
+加把前缀im- 加到possible 或 polite 前使形容词变为否定。
+
+* It's **impossible** for me to come on Monday.	我周一不可能过来。
+
+* Craig is so **impolite**.	Craig 非常不礼貌。
+
+把in- 加到appropriate或 efficient前使形容词带有否定意味。
+
+* Money was an **inappropriate** gift.	送钱不合适。
+
+* The program seems very **inefficient**.	该计划看起来非常没有效率。
+
+#### b) Expressions 
 
 ##### i) 提供你公司的信息
 

@@ -59,7 +59,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 - [ ] Unit 1 Communicating at work
 - [ ] Unit 2 Going to the doctor's
 - [ ] Unit 3 Problems and solutions
-- [x] [Unit 4 Business socializing](EF/6-4_Business_socializing.md)
+- [ ] [Unit 4 Business socializing](EF/6-4_Business_socializing.md)
 - [ ] Unit 5 Business proposals
 - [ ] Unit 6 Explaining the rules
 
@@ -68,11 +68,11 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 ## Level 7
 
 - [x] Unit 1 The future
-* Unit 2 Hopes and dreams
+- [x] Unit 2 Hopes and dreams
 * Unit 3 Interviewing
 * Unit 4 Television
 * Unit 5 Education
-* Unit 6 Secrets and lies
+* Unit 6 Dealing with information
 
 ## Level 8
 

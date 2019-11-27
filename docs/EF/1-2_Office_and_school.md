@@ -43,6 +43,8 @@
 [JOAN] Okay.
 
 [JOAN] Well, good luck.
+
+
 ```
 
 ### 1-2-2. Welcoming a new employee

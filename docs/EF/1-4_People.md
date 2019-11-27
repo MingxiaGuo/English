@@ -1,63 +1,48 @@
 ## Unit 4 People
 
 Personal Identification and people
-the body	
-head
-face	
-ear	
-eye	
-nose
-mouth	
-eyebrow	
-forehead	
-chin	
 
-neck	
-chest	
+
+
+
+
 navel	
 waist	
 abdomen	
 
 thigh	
-foot	
 buttocks	
 
 cheek	
 
 teeth	
-	
-
-eyelash	
+	eyelash	
 hair	
 back	
-foot	
+
 cerebrum	
-toe	
-	
+
 cerebellum	
 lung	
-	
 heart	
 stomach	
 large intestine	
-finger	
+
 small intestine	
 kidney	
 liver	
 bladder	
-arm	
-ear	
+
+
 hand	
 wrist	
 elbow	
 belly-button	
-leg	
+
 ankle	
-knee	
-finger	
-thumb	
-shoulder	
-	
+
+
+
 inside and outside the bod	
 personal hygiene	
 	take a shower
@@ -124,7 +109,7 @@ face powder
 makeup remover
 ```
 
-## 
+
 
 ### 1-4-1. Talking about families
 
@@ -272,3 +257,83 @@ A: What do I do, I'm a doctor.
 I live with John Harrison. He and I are friends. John is from the United Kingdom. He is 25 years old. He's tall and has brown hair and eyes. John is very intelligent and hardworking . He is very friendly . He always smiles.
 ```
 
+
+
+![](../assets/parts-of-the-body.jpg)
+
+### The Face
+
+- eye, nose, mouth, ear, cheek, chin, nostril, eyebrow, eyelid, eyelash, lips.
+
+**Mouth** - you use your mouth to talk, to eat and to breathe.
+
+**Nose** - You can smell things with your nose. You can also breathe through your nose.
+
+**Nostrils** - these are the two holes in your nose
+
+### The Arm and Hand
+
+- finger, palm, wrist, forearm, elbow, upper arm, shoulder, thumb
+
+### The Hand and Fingers
+
+See the photo of the parts of the hand below
+
+1. hand
+2. thumb
+3. index finger
+4. middle finger
+5. ring finger
+6. little finger (*informal:* pinky finger)
+7. nail
+8. knuckle
+
+![](../assets/hand-parts-fingers.jpg)
+
+### The Leg and Foot
+
+- knee, leg, shin, calf (muscle), ankle, heel, foot, toe
+
+**ankle** - the joint between your leg and your foot.
+
+
+
+### Internal Parts of the Body
+
+**heart** - your heart pumps your blood around your body.
+
+**lungs** - when you breathe, the air goes into your lungs.
+
+**veins** - these transport blood through your body. They are like little tubes.
+
+**brain** - this is your 'thinking machine' inside your head.
+
+**throat** - food goes down this to get to your stomach.
+
+**liver** - the organ that cleans your blood.
+
+**stomach** - your food goes here when you swallow it.
+
+**kidneys** - the organs that process all your body waste.
+
+**skeleton** - all of the bones in your body.
+
+**ribs** - these are the bones that protect the organs in your chest.
+
+**bones** - your skeleton consists of many bones. There are about 206 in your body.
+
+**skin** - it covers almost the entire body and helps keep all the organs and muscles in place.
+
+
+
+### Other Parts of the Body
+
+Here is a list of some other parts of the body that have not been included above. We will take some more photos of these when we find some more volunteers.
+
+- face - hair - tongue - tooth - back - waist - muscles
+
+**neck** - this connects your head with your shoulders and the rest of your body.
+
+**tongue** - the muscle at the bottom of your mouth that tastes things and helps you pronounce words
+
+**wrinkles** - the lines in your skin caused by age. Old people have a lot of wrinkles.

@@ -124,10 +124,17 @@
 
 ## 
 
-Part 1 -  Talking about schedules
+![Image result for woodward english](https://i.ytimg.com/vi/rBycKGkHVpY/maxresdefault.jpg)
 
-Part 2 - Descibing your weekend
 
-Part 3 - Arranging a meeting time
 
-Part 4 - Talking abut birthdays
+![](../assets/telling-time.jpg)
+
+2-1-1.  Talking about schedules
+
+2-1-2. Descibing your weekend
+
+2-1-3. Arranging a meeting time
+
+2-1-4. Talking abut birthdays
+
