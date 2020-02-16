@@ -72,23 +72,20 @@ B:
 * Saying what you have or haven't done
 
     要表达您做了什么，用类似这样的短语：
-	 	 
-    ``` 
+	``` 
     I have booked a taxi.	我订了出租车。
     ```
-	
     
-    在讲话中，代名词和动词通常缩写。
-	 	 	 
-    ```
-    I've booked a taxi.	我订了出租车。
-    ```
 	
-    要告诉某人您没做什么，在 have 后面加 n't。
-	 	 
+    在讲话中，代名词和动词通常缩写。
     ```
+	I've booked a taxi.	我订了出租车。
+    ```
+    
+    要告诉某人您没做什么，在 have 后面加 n't。
+	```
     I haven't printed my boarding pass.	我没有打印我的登机牌。
-
+	
     I haven't checked in yet.	我还没有办理值机。
     ```
 

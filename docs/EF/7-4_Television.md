@@ -364,22 +364,201 @@ Guess what? Crimson Johansson is going to endorse our new product!
 使用以下类似表达，礼貌表述自己不喜欢某事物。
 
 * I'm not crazy about the jingle.	我不是那么喜欢那个广告里的短歌。
-
 * He's not keen on humor in advertising.	他并不热衷广告中的幽默。
 * 注意，(not) keen on 在英式英语中更常见。
 
+
+
+- Humor is the best way to advertise.
+- I'd rather see the first than the second.
+- We prefer the third one to the first.
+- He's not keen on the advertisement.
+- I like it better than the first.
+- I'm not crazy about the jingle.
+
+
+
+* I'd rather use the old logo than the new one. 相比新商标，我更愿意使用旧的商标。
+* I like the third commercial better than the first. 相比第一则广告，我更喜欢第三则广告
+* We prefer the jingle to the classical music. 我们喜欢广告歌胜过古典音乐。
+* For me, humor is the best way to advertise. 对我来说，幽默是做广告的最佳方法。
+* I'm not keen on the new slogan. It's a bit silly. 我不喜欢新广告语，它有点傻。
+
 #### c) Listening: Listening for details
+
+理清细节: 培养关键听力技巧的一个方法是理清对话的细节。
+
+首先，仔细听大概的话题或主要意思。这有助于您听清细节。同时，你可以注意听顺序词，比如 first 和 second。
+
+比如，你即将听到两位同事讨论新电视广告的两种想法。第一种偏于严肃认真，第二种则注重幽默。对话包含以下细节。尝试预测在对话中这些细节的讨论顺序。
+
+* Next to the famous man is a cute dog wearing a cat costume.
+* The serious commercial just shows the new slogan.
+* The other idea is a famous man dancing in a dress.
+* And the new slogan is 'The best there is.'
+
+
+
+- There are two ideas.
+- The first idea is serious.
+- It basically shows the slogan.
+- There's no logo or endorsement.
+- The jingle could be classical music.
+- The second idea is humorous.
+- There's a famous actor dancing in a dress.
+- Next to the actor is a cute dog wearing a cat costume.
 
 #### d) Final Task: Talking about a TV commercial
 
+```
+A: Do you have a minute? I want to know which of these ideas you prfer. They're for our new TV commerical.
+B: Sure, I'm happy to give you some feedback.
+A: How about this one? There are two men in it. The first guy's so serious, but his friends are always joking.
+B: Yes, I like that idea. For me, humor is the best way to advertise.
+A: Ok, Good. Let me show you the second idea. It basiclly shows our logo.
+B: So, it just shows the logo and slogan?
+A: Right. We're also have a jingle. Maybe some rock music or some classical music. Which Would you prefer to hear in the commercial?
+B: I'd prefer to hear _____.
+A: Ok, so which commerical would you rather watch, the first one or the second?
+B: I'd rather watch _____.
+A: Ok, That's great. Thanks so much for your feedback.
+B: No problem. How about you? Which commercial would you rather watch?
+A: I think I like the first one better than the second. I like the humor.
+```
+
 ### 7-4-4 Writing about TV in your country
+
+```
+A: So, Helen and I watchde that TV program you like. 
+B: 'Mami Confidential'?
+A: Yeah. There's a lot of violence. Seven murders. And that was just in last night's episode.
+B: Yeah, it's pretty violent.
+A: I'm just glad the kids were asleep. I'm amazed at how violent TV shows are these days.
+B: Do you use the rating system?
+A: Yeah, but it's so complex. All the different ratings - TV-G, TV_PG, TV-MA...
+B: Yeah, it's crazy. Sometimes it's diffcult just to find something educational.
+A: My kids are only interested in entertainment. You know, I read in an article that the average American kid watches 20,000 adversements a year.
+B: Whew! That's a lot of ads.
+A: I feel pretty strongly that there should be some kind of restrictions.
+B: Oh, I agree. But listen to us. Being so negative about TV when we sit in front of it every night.
+A: What happened in, uh, 'Mami COnfidential' last night?
+B: Oh, it was really good!
+A: Yeah?
+B: So Bob Boulder had to catch this killer that had been on the run for 25 years..
+```
 
 #### a) Vocabulary: Words for evaluating TV
 
+**电视分级制度**: 美国的电视行业对每个电视节目均进行分级。在每个节目开始时，节目的分级信息会出现在电视屏幕的角落处。这一分级制度旨在帮助家长决定哪些节目适合孩子观看。以下是部分示例。
+
+* Y – suitable for children	Y – 适合儿童观看
+* G – suitable for the general audience	G – 适合一般观众观看
+* PG – parental guidance suggested	PG – 建议在父母指导下观看
+* MA – suitable for mature audiences only	MA – 仅适合成人观众观看。
+
+1. The program has an MA rating because there's a lot of sex and violence in it.	这个节目为 MA 级，因为节目中包含很多的性和暴力内容。
+2. The movie's rated G, so it's okay for the kids to watch it.	这部影片是 G 级，所以可以给孩子们看。
+
+**评价电视的单词**: 使用类似这些单词评价电视。注意每个词的不同词形。名词常以 -ion、-ment、-ence 和 -ing 结尾。形容词则常以 -al、-ing、-ed 和 -ent 结尾。
+
+
+|动词|	名词|	形容词|
+|:--:|:--:|:--:|
+|educate	|education|	educational|
+|entertain	|entertainment	|entertaining|
+|rate	|rating|
+|restrict	|restriction	|restricted|
+|| 	violence|	violent|
+
+* I didn't know they could show that on TV. Don't they have restrictions ?
+* This TV software is so complex . I'm not sure how to use it.
+* Have a look at the TV rating before you let the kids watch the program.
+* The show was really entertaining , but it also made you think.
+* Documentaries are the best way to get an education from TV.
+* In my opinion, there's too much sex and violence on TV these days.
+
 #### b) Grammar: 'Because' and 'because of'
+
+**Because 与 because of**:  because 和 because of 都可以用于陈述理由。Because 后面用分句；而 because of 后面则用名词。
+ 	 
+Because + 分句	 
+
+* I don't watch 'The Tenors' because it's so violent.	我不看《男高音》，因为太暴力了。
+* A: Why do you like that show so much?	你为什么这么喜欢那个节目？
+* B: I like it because the plot's complex and exciting.	我之所以喜欢它是因为它的情节复杂而刺激。
+   	 	 
+
+Because of + 名词
+
+* 'Fallen Love' wasn't shown on TV because of the violence.	《坠落的爱》因为有暴力内容，所以没有在电视上放映过。
+* I watch this show with my kids because of the PG rating.	这个节目是 PG 级，所以我陪孩子们一起观看。
+
+
+
+* **Why does the man think 'Animal Avenue' is good for kids?**
+* **Why are monkeys the man's favorite animal?**
+* **What does the man say about the PG rating?**
+
+
+
+
+* I love the show 'Animal Avenue' because it's educational.
+* Maybe it's PG because of the scary monkeys.
+* Elephants are my favorite animal because of that show.
+* Clark watches all the games because he loves sports.
+* The kids can't watch it because there's too much sex and violence.
+* The show's on late because of the MA rating.
 
 #### c) Expressions: Giving and supporting an opinion
 
+**提出或支持一种看法**: 用类似的表达来提出看法。	 	 
+
+* **I was surprised at** how complex the rating system is. 我对评级系统的如此复杂表示惊讶。
+* **In my opinion**, there's too much violence on TV. 在我看来，电视上太多暴力内容了。
+
+请用 feels strongly 来强调您的观点。	 	 
+* Brent **feels strongly that** TV should be educational, not just entertaining. 布伦特强烈认为电视应该有教育意义，而不仅是娱乐。
+
+给出看法后，您可以用一个理由或例子来支撑它。	 	  	 	 
+* Brent feels strongly that TV should be educational, not just entertaining, **because** children are watching. 布伦特强烈认为电视应当有教育作用，而不只是娱乐，因为小孩都在看。
+* I was surprised at how complex the rating system is. **For example**, there are more than 35 possible ratings!	 	我当时对这种评级系统的复杂性尤为惊讶。例如，有超过35种可能性的等级！
+* In my opinion, there's too much violence on TV. **In 'Heat Wave' last night**, three people were murdered, and there was a car accident – all in five minutes.	 	在我看来，电视上的暴力内容太多。在昨晚的'Heat Wave（热浪）' 里，三个人被暗杀，还有一场车祸-一切发生在5分钟内。
+
 #### c) Reading: Reading about TV in the United States
 
+**解读他人的观点**: 解读他人的观点时，你可能会发现以下思维顺序。 	 
+1. The opinion (发表观点)
+	* In my opinion, TV can help educate children.
+2. Support for the opinion (发表支撑该观点的论据)
+	* For example, TV can show children countries and places they may never visit.
+3. An action step or suggestion (提供行动步骤或建议)
+	* We need to help our children choose the right shows. Watch TV with them.
+
+阅读网络评价。这名作家对电视有非常强烈的意见。是什么意见？
+
+阅读来自网上评论的每个句子，确定它们是 **opinion**、**support for an opinion** 还是 **an action step**。
+
+> I'm amazed at how violent TV is in the US. Some detective programs show all the details of people getting shot. You see fighting on the news every day. Some cable channels even show real people getting murdered. I feel strongly that the rating system doesn't always help, because children are sometimes home by themselves and can watch what they want. Basically, TV is violent, but I think we can make it better. We need to stop watching these violent programs and demand more educational ones.
+>
+> What's the writer's opinion about TV in the US?
+> What example does the writer give about TV violence?
+> What positive feeling does the writer have about TV in the US?
+> How does the writer generally feel about TV in the US?
+> 
+> opinion: I'm amazed at how violent TV is in the US.
+> support for an opinion: Some cable channels even show real people getting murdered.
+> opinion: I feel strongly that the rating system doesn't always help.
+> support for an opinion: Children are sometimes home by themselves and can watch what they want.
+> opinion: Basically, TV is violent, but I think we can make it better.
+> an action step: We need to stop watching these violent programs and demand more educational ones.
+
 #### d) Final Task: Writing about TV in your country
+
+撰写有关你所在国家的电视的文章,发表您对喜欢的一个 TV 或节目的观点。举例以支持您的观点，并在帖子最后提出行动步骤、建议或推荐。 输入到输入框。 
+
+```
+I feel strongly that there should be a limit on how much violence is shown on TV. For example, lots of crime shows have killings, shootings and other violent crimes, all right around the time that families eat dinner together. In my opinion, this is not suitable for family entertainment. I don't think we should eliminate violence from TV altogether, but we need to move the more violent shows to a later time, when younger viewers are likely to be asleep.
+```
+
+
+

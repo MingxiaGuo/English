@@ -41,7 +41,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 ## Level 4
 - [x] [Unit 1 Entertainment](4-1_Entertainment.md) 
-* [Unit 2 Describing people](4-2_Describing-people.md)
+- [x] [Unit 2 Describing people](4-2_Describing-people.md)
 * [Unit 3 The past](4-3_The-Past.md)
 * [Unit 4 Milestones](4-4_Milestones.md)
 * [Unit 5 Welcome](4-4_Welcome.md.md)
@@ -59,7 +59,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 - [ ] Unit 1 Communicating at work
 - [ ] Unit 2 Going to the doctor's
 - [ ] Unit 3 Problems and solutions
-- [ ] [Unit 4 Business socializing](EF/6-4_Business_socializing.md)
+- [ ] [Unit 4 Business socializing](6-4_Business_socializing.md)
 - [ ] Unit 5 Business proposals
 - [ ] Unit 6 Explaining the rules
 
@@ -69,8 +69,8 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 - [x] [Unit 1 The future](7-1_The-future.md)
 - [x] [Unit 2 Hopes and dreams](7-2_Hopes-and-dreams.md)
-* Unit 3 Interviewing
-* Unit 4 Television
+- [x] [Unit 3 Interviewing](7-3_Interviewing.md)
+- [x] [Unit 4 Television](7-4_Television.md)
 * Unit 5 Education
 * Unit 6 Dealing with information
 
@@ -80,7 +80,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 2 Living better
   - Unit 3 Careers
   - Unit 4 Business travel
-  - Unit 5 Cool products
+  - Unit 5 Products and innovation
   - Unit 6 Relationships
 
 ## Level 9
