@@ -8,6 +8,16 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 2018.12.10
 
+
+
+
+
+[问路指路](https://wenku.baidu.com/view/0150a278580216fc710afd11.html)
+
+
+
+# [Beginning Low](0_Beginner-Low.md)
+
 # Beginning
 
 ## Level 1
@@ -71,17 +81,17 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 - [x] [Unit 2 Hopes and dreams](7-2_Hopes-and-dreams.md)
 - [x] [Unit 3 Interviewing](7-3_Interviewing.md)
 - [x] [Unit 4 Television](7-4_Television.md)
-* Unit 5 Education
-* Unit 6 Dealing with information
+- [X] [Unit 5 Education](7-5_Education.md)
+- [x] [Unit 6 Dealing with information](7-6_Dealing-with-information.md)
 
 ## Level 8
 
-  - Unit 1 Music
-  - Unit 2 Living better
-  - Unit 3 Careers
-  - Unit 4 Business travel
-  - Unit 5 Products and innovation
-  - Unit 6 Relationships
+- [ ] [Unit 1 Music](8-1_Music.md)
+- [ ] [Unit 2 Living better](8-2_Living-better.md)
+- [ ] [Unit 3 Careers](8-3_Career.md)
+- [ ] [Unit 4 Business travel](8-4_Business-travel.md)
+- [ ] [Unit 5 Products and innovation](8-5_Products-and-innovation.md)
+- [ ] [Unit 6 Relationships](8-6_Relationship.md)
 
 ## Level 9
 

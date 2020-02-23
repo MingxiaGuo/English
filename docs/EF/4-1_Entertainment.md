@@ -8,6 +8,8 @@
 
 4-1-4. Going to the movies
 
+---
+
 ### 4-1-1. Describing entertainment options
 
 ```

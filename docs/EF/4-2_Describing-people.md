@@ -8,6 +8,8 @@
 
 4-2-4. Giving a recommendation
 
+---
+
 ### 4-2-1. Describing someone you know
 
 ```
