@@ -1,5 +1,15 @@
 ## 8-4 Business travel
 
+8-4-1 Planning a business trip
+
+8-4-2 Booking a hotel
+
+8-4-3 Arranging a meeting
+
+8-4-4 Giving a summary of a meeting
+
+-----
+
 ### 8-4-1 Planning a business trip
 
 ```
@@ -27,31 +37,29 @@ B: I hope so. It has to be.
 
 处理信息：在处理信息时，记住 'the three Cs'： clarifying、confirming 和 correcting（澄清、确认和纠正）。
 
-用此类表达来澄清和确认信息：
+* 用此类表达来澄清和确认信息：
+  * A: You mean, the CEO isn't cooperating with us?	你是说，CEO 不会和我们合作？
 
-* A: You mean, the CEO isn't cooperating with us?	你是说，CEO 不会和我们合作？
-* B: Yes, that's exactly what I mean.	是的，我就是这个意思。
-   	 	 
+    B: Yes, that's exactly what I mean.	是的，我就是这个意思。	 
 
-* A: Let me make sure I've understood correctly. They're not going to meet the deadline?	我确定一下自己已理解正确。 他们不会如期完成？
-* B: Yes, that's correct.	是的，理解正确。
-   	 	 
+  * A: Let me make sure I've understood correctly. They're not going to meet the deadline?	我确定一下自己已理解正确。 他们不会如期完成？
 
-* A: So, what you're saying is, we've got a big problem on our hands.	那么，你的意思是我们如今遇到大问题了。
-* B: That's right.	你说对了。
+    B: Yes, that's correct.	是的，理解正确。	 	 
 
+  * A: So, what you're saying is, we've got a big problem on our hands.	那么，你的意思是我们如今遇到大问题了。
 
+    B: That's right.	你说对了。
 
-用此类表达来纠正信息。
+* 用此类表达来纠正信息。
+  * A: So, you want me to talk with them?	那么，你要我跟他们谈谈？
 
-* A: So, you want me to talk with them?	那么，你要我跟他们谈谈？
-* B: No. Actually, I'm going to.	不。实际上，我去谈。
-   	 	 
+    B: No. Actually, I'm going to.	不。实际上，我去谈。	 	 
 
-* A: So, we're looking for a new supplier?	那么，我们要寻找一家新的供应商？
-* B: No, that's incorrect. In fact, we're still trying to work with our old one.	不，不是这样。 事实上，我们仍打算与原来那家合作。
+  * A: So, we're looking for a new supplier?	那么，我们要寻找一家新的供应商？
 
+    B: No, that's incorrect. In fact, we're still trying to work with our old one.	不，不是这样。 事实上，我们仍打算与原来那家合作。
 
+---
 
 LIZ: After the buyout, we'll have a 25% market share. 
 ROB: **You mean** , we're buying the company?
@@ -61,40 +69,31 @@ LIZ: Yes, **that's correct** . In New York.
 ROB: Wow. And we can talk about this? With staff, I mean.
 LIZ: No. **Actually** , I'd like to wait until the deal is certain.
 
-
-
 ##### ii) Reassuring
 
 消除疑虑：
 
-用此类表达来了解某人是否遇到问题：
+* 用此类表达来了解某人是否遇到问题：
+  * Is this a problem?	有问题吗？
+  * Are you sure you can handle this?	你确定能应付？
+  * Are you OK with this?	你对此是否没有意见？
 
-* Is this a problem?	有问题吗？
-* Are you sure you can handle this?	你确定能应付？
-* Are you OK with this?	你对此是否没有意见？
+* 用此类表达来消除某人的疑虑：
+  * No problem.	没问题。
+  * Don't worry. I can handle it.	别担心。 我能对付。
+  * It's going to be all right.	一切都会没事的。
+  * I'm sure it's all just a misunderstanding.	我相信一切都是误会。
 
-用此类表达来消除某人的疑虑：
+---
 
-* No problem.	没问题。
-* Don't worry. I can handle it.	别担心。 我能对付。
-* It's going to be all right.	一切都会没事的。
-* I'm sure it's all just a misunderstanding.	我相信一切都是误会。
+* No **problem** . We'll definitely meet the deadline.
+* Is he **sure** that the presentation is OK?
+* Are you sure you can **handle** this project?
+* Don't **worry** . Everything is OK.
+* I'm sure it's all just a **misunderstanding** .
+* Everything's going to be all **right** .
 
-
-
-No **problem** . We'll definitely meet the deadline.
-
-Is he **sure** that the presentation is OK?
-
-Are you sure you can **handle** this project?
-
-Don't **worry** . Everything is OK.
-
-I'm sure it's all just a **misunderstanding** .
-
-Everything's going to be all **right** .
-
-
+---
 
 * You mean that the project is canceled? 你是说项目取消了？
 * That's exactly what I mean. 我就是这个意思。
@@ -103,37 +102,28 @@ Everything's going to be all **right** .
 * I'm not sure I can handle this. 我拿不准自己能不能解决这件事。
 * Don't worry. Everything's going to be all right. 别担心。 一切都会没事的。
 
-
-
 #### b) Speaking: Emphasizing and correcting
 
 重读词语以强调和纠正
 
-当澄清、确认或纠正时，你可以重读某些词语，从而进行强调。 注意，yes 和 exactly 在此句子中重读：
+* 当澄清、确认或纠正时，你可以重读某些词语，从而进行强调。 注意，yes 和 exactly 在此句子中重读：
+  * Yes, that's exactly what I mean.
 
+* 注意，actually 和 you're 在此句子中重读：
+  * No. Actually, you're going tomorrow.
 
-Yes, that's exactly what I mean.
+* 你可以通过重读不同的词语，改变句子的含义。 注意如果 tomorrow 被重读，而不是 you're，句子的含义会如何变化。
+  * No. Actually, you're going tomorrow.
 
-注意，actually 和 you're 在此句子中重读：
+---
 
-
-No. Actually, you're going tomorrow.
-
-你可以通过重读不同的词语，改变句子的含义。 注意如果 tomorrow 被重读，而不是 you're，句子的含义会如何变化。
-
-No. Actually, you're going tomorrow.
-
-
+Queations
 
 * **Which word is stressed?**
 
 * **Which words are stressed?**
 
-  
-
-
-
-
+---
 
 * You mean the CEO isn't cooperating with us? 你是说执行总裁没有跟我们合作？
 * That's exactly what I mean. 那是我真正的意思。
@@ -205,25 +195,18 @@ B: Just a moment. Umm, my passport, right.
 
 #### a) Vocabulary: Hotel amenities
 
-酒店康乐设施
+酒店康乐设施：
 
-golf course 
+* golf course 
+* gym
+* Mini-bar
+* airport transportation
+* jacuzzi
+* conference room
+* spa
+* business center
 
-gym
-
-Mini-bar
-
-airport transportation
-
-jacuzzi
-
-conference room
-
-spa
-
-business center
-
-
+---
 
 * You can relax in the hotel spa and jacuzzi. 你可以在酒店水疗馆和按摩浴缸里尽情放松。
 * Did you use anything from the mini-bar? 小冰箱里的东西你有用过吗？
@@ -237,45 +220,35 @@ business center
 
 确认：语调和附加疑问句
 
-你可通过重复某人刚说过的内容，从而寻求确认。 注意升调。 它表示这名女士是在提问，此外有助于表达她的感受。
+* 你可通过重复某人刚说过的内容，从而寻求确认。 注意升调。 它表示这名女士是在提问，此外有助于表达她的感受。
+  * A: Does the hotel have a pool?
+    B: Yes, it's right next to the ocean.
+    A: The pool's right next to the ocean?
+  * A: Could I have your passport number, please?
+    B: My passport number? Just a moment.
 
+* 你也可以使用 correct 或 right 的附加疑问句来确认或核对信息。如果你知道答案，使用平调而不是升调。
+  * You're a five-star resort, correct?
 
-A: Does the hotel have a pool?
-B: Yes, it's right next to the ocean.
-A: The pool's right next to the ocean?
+* 如果你不知道答案，而且真正在提问，使用升调并使用附加疑问句。
+  * The hotel has a bar and restaurant, right?
 
+* 寻求确认的另一个方法是 You do? 和 You don't? 等附加疑问句。 再次注意：此类附加疑问句不仅表示疑问，还表达说话者的感受。
+  * A: The hotel offers a free massage to all its guests.
+    B: You do?
+  * A: The hotel doesn't provide airport transportation.
+    B: You don't?
 
-A: Could I have your passport number, please?
-B: My passport number? Just a moment.
+---
 
-你也可以使用 correct 或 right 的附加疑问句来确认或核对信息。如果你知道答案，使用平调而不是升调。
-
-You're a five-star resort, correct?
-
-如果你不知道答案，而且真正在提问，使用升调并使用附加疑问句。
-
-
-The hotel has a bar and restaurant, right?
-
-寻求确认的另一个方法是 You do? 和 You don't? 等附加疑问句。 再次注意：此类附加疑问句不仅表示疑问，还表达说话者的感受。
-
-
-A: The hotel offers a free massage to all its guests.
-B: You do?
-
-A: The hotel doesn't provide airport transportation.
-B: You don't?
-
-
+Questions：
 
 * **Why does the man ask if it's a five-star hotel?**
 * **What should each room have?**
 * **What is the man's second complaint?**
 * **What can the clerk do?**
 
-
-
-
+---
 
 * You allow for late check-out, right? 你们可以延迟办理退房手续，对吗？
 * The rooms should have free internet, correct? 客房应该可以免费上网，对吧？
@@ -298,7 +271,7 @@ HOTEL CLERK: Yes, it does. Every room at Hotel Royal has free internet access.
 BUSINESSMAN: **Great** . Thank you very much.
 HOTEL CLERK: You're welcome. Goodbye.
 
-
+---
 
 * Does the hotel have a business center? 酒店有商务中心吗？
 * I'd like a nonsmoking room, please. 我想要一间无烟客房，谢谢。
@@ -360,36 +333,30 @@ B: That would be good.
 
 #### a) Grammar: Indirect objects
 
-间接宾语
+间接宾语：
 
 英语中最常见的句子结构是主谓宾。
 
-
- 	主语	谓语	宾语
-
-Jack	sent	a postcard.
+| 主语 | 谓语 | 宾语        |
+| ---- | ---- | ----------- |
+| Jack | sent | a postcard. |
 
 在此句子中，a postcard 是直接宾语，因为它是谓语动词动作的接受者（由杰克寄出）。
 
 有时，名词或代词并不是动词动作的接受者，而是直接宾语的接受者。 这被称为间接宾语。
 
-
- 	主语	谓语	间接宾语	直接宾语
-
-Jack	sent	his wife	a postcard.
+| 主语 | 谓语 | 间接宾语 | 直接宾语    |
+| ---- | ---- | -------- | ----------- |
+| Jack | sent | his wife | a postcard. |
 
 在本句中，his wife 是间接宾语，因为她是直接宾语的接受者 (a postcard)。注意，该间接宾语位于动词和直接宾语之间
 
-
-
 你也可以使用介词 to 和 **for*，在直接宾语后接间接宾语。
 
-
- 	主语	谓语	直接宾语	间接宾语
-
-Jack	sent	a postcard	to his wife.
-
-Jack	bought	a gift	for his wife.
+| 主语 | 谓语   | 直接宾语   | 间接宾语      |
+| ---- | ------ | ---------- | ------------- |
+| Jack | sent   | a postcard | to his wife.  |
+| Jack | bought | a gift     | for his wife. |
 
 以下是间接宾语的更多示例：
 
@@ -404,7 +371,7 @@ Jack	bought	a gift	for his wife.
 * The clerk gave her the bill.	 	工作人员把账单交给她。
 * The clerk gave the bill to her.	 	那位接待员把账单给了她。
 
-
+---
 
 * Please tell him that we're late.
 * I sent the postcard to my friend.
@@ -439,7 +406,7 @@ Jack	bought	a gift	for his wife.
 
 语言注释： 谨慎使用 absolutely、completely 和 totally 等修饰语；如果情况并非如你的用语那样紧急，你可能被责怪夸大事实。
 
-
+---
 
 * It's urgent that we give a response. 我们急需作出答复。
 * It's imperative we meet the deadline. 我们必须按时完成。
@@ -448,33 +415,20 @@ Jack	bought	a gift	for his wife.
 * It's crucial they attend the meeting. 他们必须出席会议。
 * It's critical that we cut costs. 我们必须降低成本。
 
-
+---
 
 Thank you all for coming today. First, let me say that it is **absolutely essential** that nothing I discuss here today go outside this room. That said, I think you all understand how **urgent** it is that we find a solution to the problem of our decreasing market share. It's **imperative** that we increase sales in the fastest-growing region for our products – Asia. Because of this, we have decided to purchase our biggest competitor. It's **vital** that this deal be successful. We have the financial strength, and it's **crucial** that we take advantage of this opportunity.
 
- 
-
-
-
-
-
 ##### ii) Arranging a meeting time
 
+* What day would **suit** you?
+* I'm **booked** all day.
+* Can you **do** 8 o'clock?
+* I look **forward** to seeing you.
+* I'll be there **at** 8 o'clock.
+* Let me **check** my calendar.
 
-
-What day would **suit** you?
-
-I'm **booked** all day.
-
-Can you **do** 8 o'clock?
-
-I look **forward** to seeing you.
-
-I'll be there **at** 8 o'clock.
-
-Let me **check** my calendar.
-
-
+---
 
 * We spoke about arranging a meeting. 我们讨论了安排一次会议。
 * What day would suit you? 哪一天适合你？
@@ -484,8 +438,6 @@ Let me **check** my calendar.
 * Would Tuesday or Wednesday work for you? 星期二或星期三对你是否合适？
 * How about Friday afternoon? 星期五下午怎么样？
 * Monday doesn't work for me. 星期一不合适。
-
-
 
 #### c) Final Task: Arranging a meeting time with a client
 
@@ -531,96 +483,72 @@ B: Joan, this is Todd. I just wanted to give you a summary of my meeting with Pe
 
 商务习语和表达：表达可能同时具有字面和比喻意义。 当表达具有比喻意义时，称为“习语”。 再次观察这些商务习语及其定义。
 
+* walk out the door = leave	
+* 24/7 = all the time (24 hours a day, seven days a week)
+* run behind schedule = go slower than planned	
+* miss the deadline = not meet the schedule
+* move forward  = continue	
+* back on track = on schedule again
+* wrap up = finish	
+* keep me informed = tell me what's happening
+* fast-track = achieve as quickly as possible	
+* work around the clock = work nonstop
 
-walk out the door = leave	
+---
 
-24/7 = all the time (24 hours a day, seven days a week)
+* Our product manager quit suddenly last week. She just walked out the **door** .
+* We'll have to work 24/7. We're already running two weeks behind **schedule** .
+* Communication is the key. Moving **forward** , how can we improve it?
+* They **wrapped** the project up in three months. It was incredible.
+* They're **fast-tracking** Tom for a manager's position. In only two years' time, he'll be a boss.
+* Our project is back on **track** . Everything's going much better now.
 
-run behind schedule = go slower than planned	
+---
 
-miss the deadline = not meet the schedule
-
-move forward  = continue	
-
-back on track = on schedule again
-
-wrap up = finish	
-
-keep me informed = tell me what's happening
-
-fast-track = achieve as quickly as possible	
-
-work around the clock = work nonstop
-
-
-
-Our product manager quit suddenly last week. She just walked out the **door** .
-We'll have to work 24/7. We're already running two weeks behind **schedule** .
-Communication is the key. Moving **forward** , how can we improve it?
-They **wrapped** the project up in three months. It was incredible.
-They're **fast-tracking** Tom for a manager's position. In only two years' time, he'll be a boss.
-Our project is back on **track** . Everything's going much better now.
-
-
-
-Unfortunately, we missed the deadline. 不幸的是，我们错过了最后的期限。
-
-I'm running a little behind schedule today. 我今天有点落后于计划。
-
-We wrapped up the project last week. 我们上周完成了该方案。
-
-Moving forward, how can we work more efficiently? 加油，我们怎样能更有效率？
-
-Don't forget to keep me info
-
-We'll work around the clock, if necessary. 如果必要，我们将昼夜不停地工作。
-
-After a short delay, we are back on track. 在短时的延迟后，我们回到了正常轨道。
-
-Can you fast-track my application? 您能快速查找我的申请吗？
-
-
+* Unfortunately, we missed the deadline. 不幸的是，我们错过了最后的期限。
+* I'm running a little behind schedule today. 我今天有点落后于计划。
+* We wrapped up the project last week. 我们上周完成了该方案。
+* Moving forward, how can we work more efficiently? 加油，我们怎样能更有效率？
+* Don't forget to keep me info
+* We'll work around the clock, if necessary. 如果必要，我们将昼夜不停地工作。
+* After a short delay, we are back on track. 在短时的延迟后，我们回到了正常轨道。
+* Can you fast-track my application? 您能快速查找我的申请吗？
 
 #### b) Grammar: Time connectors
 
-时间连接词：时间连接词表示某事发生的时间。 用 until 表示某事继续到某个指定的时间。
+时间连接词：
 
-* The team will work around the clock until the project is finished.	 	整个团队将日以继夜地工作，直到项目结束。
+* 时间连接词表示某事发生的时间。 用 until 表示某事继续到某个指定的时间。
+  * The team will work around the clock until the project is finished.	 	整个团队将日以继夜地工作，直到项目结束。
 
-用 as soon as 表示某个时间点后立即发生。
+* 用 as soon as 表示某个时间点后立即发生。
+  * As soon as we wrap up the project, I will take some time off.	 	一等项目完成，我就马上休假。
 
-* As soon as we wrap up the project, I will take some time off.	 	一等项目完成，我就马上休假。
+  * She was fast-tracked for promotion as soon as she joined the company.	 	她一进入公司，立刻平步青云。
 
-* She was fast-tracked for promotion as soon as she joined the company.	 	她一进入公司，立刻平步青云。
+* 用 by the time 来强调某个动作或事件之前的时间段。 通常与过去完成时等时态搭配使用，比较两个时间点。
+  * By the time we wrapped up, we had already missed the deadline.	 	等到完成，我们已经错过了最后期限。
+  * My boss had gone by the time I finished writing the email.	 	等我写完这封电子邮件，老板已经离开。
 
-用 by the time 来强调某个动作或事件之前的时间段。 通常与过去完成时等时态搭配使用，比较两个时间点。
+---
 
-* By the time we wrapped up, we had already missed the deadline.	 	等到完成，我们已经错过了最后期限。
-* My boss had gone by the time I finished writing the email.	 	等我写完这封电子邮件，老板已经离开。
+* I'll call you **as soon as** I arrive at the hotel.
+* The meeting had finished **by the time** he arrived.
 
+* **As soon as** I knew, I told you.
+* I won't stop working **until** we meet the deadline.
+* Will the project be finished **by the time** I return?
+* The team worked **until** 10 o'clock last night.
 
+----
 
-I'll call you **as soon as** I arrive at the hotel.
+Questions
 
-The meeting had finished **by the time** he arrived.
+* **When did his flight arrive?**
 
-**As soon as** I knew, I told you.
+* **When did they lose the deal?**
 
-I won't stop working **until** we meet the deadline.
-
-Will the project be finished **by the time** I return?
-
-The team worked **until** 10 o'clock last night.
-
-
-
-
-
-**When did his flight arrive?**
-
-**When did they lose the deal?**
-
-
+---
 
 My flight was delayed, and I didn't arrive **until** 9 in the evening. **By the time** I arrived at the hotel, I already had six messages waiting for me. **As soon as** I checked into my room, I called the client. We had already lost the deal **by the time** I spoke with the client.
 
@@ -628,26 +556,18 @@ My flight was delayed, and I didn't arrive **until** 9 in the evening. **By the 
 
 让人做好听取坏消息的准备
 
+* 让他人做好接受坏消息的准备有几种常用方法。注意第二和第三个例子中 but 一词的使用，引出真实要传达的信息。
+  * Unfortunately, there is a big problem.	不巧的是，有很大的问题。
+  * I wish I had better news for you, but we have to cut staff.	我倒希望有好消息给你，但我们必须裁员。
+  * I'm sorry to tell you this, but we didn't get the contract.	我很抱歉告诉你这件事，但是我们没拿到合同。
 
-让他人做好接受坏消息的准备有几种常用方法。注意第二和第三个例子中 but 一词的使用，引出真实要传达的信息。
+* 当新闻混杂时，即有一些好消息和一些坏消息，你可以使用下面的表达式。
+  * I have some good news and some bad news.	我有一些好消息和一些坏消息。
 
+* 然后，说话人可能会问听众想先听好消息还是坏消息。
+  * Which would you like to hear first?	你想先听哪一种？
 
-Unfortunately, there is a big problem.	不巧的是，有很大的问题。
-
-I wish I had better news for you, but we have to cut staff.	我倒希望有好消息给你，但我们必须裁员。
-
-I'm sorry to tell you this, but we didn't get the contract.	我很抱歉告诉你这件事，但是我们没拿到合同。
-
-当新闻混杂时，即有一些好消息和一些坏消息，你可以使用下面的表达式。
-
-
-I have some good news and some bad news.	我有一些好消息和一些坏消息。
-
-然后，说话人可能会问听众想先听好消息还是坏消息。
-
-Which would you like to hear first?	你想先听哪一种？
-
-
+---
 
 - I wish I had better news for you.
 - Unfortunately, I have some bad news.
@@ -655,7 +575,7 @@ Which would you like to hear first?	你想先听哪一种？
 - I have good news, and I have bad news.
 - Which would you like to hear first?
 
-
+---
 
 * I have some good news and some bad news. 我有一些好消息和一些坏消息。
 * Which would you like to hear first? 你想先听哪一种？
@@ -663,8 +583,6 @@ Which would you like to hear first?	你想先听哪一种？
 * I'm really sorry to tell you this. 告诉你这个我真的很抱歉。
 * The bad news is that we have to cut staff. 坏消息是我们不得不裁人
 * But the good news is your job is safe. 但好消息是你的工作是安全的。
-
-
 
 #### d) Final Task: Giving a summary of a meeting
 

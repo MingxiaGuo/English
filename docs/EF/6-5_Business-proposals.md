@@ -8,6 +8,8 @@
 
 6-5-4 Writing a short business proposal
 
+---
+
 ### 6-5-1 Describing a business situation
 
 ```
@@ -36,15 +38,11 @@ The purpose of today's meeting is to talk about our competition. Their increasin
 What is the purpose of the meeting?
 Why is market share a problem for the speaker's company?
 What does the company need to improve?
-
 ```
 
 #### b) Grammar: Infinitive phrases
 
-特殊不定式短语
-
-
-特殊不定式短语可由名词或名词短语 + be 组成。
+**特殊不定式短语**：特殊不定式短语可由名词或名词短语 + be 组成。
 
 名词 + 不定式
 
@@ -97,17 +95,12 @@ Why is the company opening new sales offices in China?
 What result does the company expect from opening new offices?
 ```
 
-Because of strong competition, profits are down.
-
-Profits are down because of strong competition.
-
-Due to rising prices, expenses are up.
-
-Expenses are up due to rising prices.
-
-Sales are down. Consequently, there are layoffs.
-
-Sales are up. As a result, profits are also up.
+* Because of strong competition, profits are down.
+* Profits are down because of strong competition.
+* Due to rising prices, expenses are up.
+* Expenses are up due to rising prices.
+* Sales are down. Consequently, there are layoffs.
+* Sales are up. As a result, profits are also up.
 
 ##### ii) Talking about increases and decreases
 

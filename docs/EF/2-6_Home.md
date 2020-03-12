@@ -1,8 +1,19 @@
-Part 1 -  Talking about your home
+## 2-6 Home
 
-Part 2 - Finding an apartment
+2-6-1 Talking about your home
 
-Part 3 - Renting an apartment
+2-6-2 Finding an apartment
 
-Part 4 - Describing your home
+2-6-3 Renting an apartment
 
+2-6-4 Describing your home
+
+----
+
+### 2-6-1 Talking about your home
+
+### 2-6-2 Finding an apartment
+
+### 2-6-3 Renting an apartment
+
+### 2-6-4 Describing your home

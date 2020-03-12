@@ -1,50 +1,28 @@
-## Unit 2 Office and school
+## 1-2 Office and school
 
-| school             |
-| ------------------ |
-| classroom          |
-| teacher            |
-| auditorium         |
-| cafeteria          |
-| library            |
-| luch benches       |
-| lockers            |
-| rest rooms         |
-| gym                |
-| bleacher           |
-| track              |
-| filed              |
-| principal's office |
-| principal          |
-| counselor's office |
-| counselor          |
-| main office        |
-| clerk              |
+1-2-1. Talking about your class
+
+1-2-2. Welcoming a new employee
+
+1-2-3. Giving personal information
+
+1-2-4. Describing your office
+
+-----
 
 ### 1-2-1. Talking about your class
 
 ```
 [CARLOS] Good morning.
-
 [JOAN] Good morning, Carlos. How are you?
-
 [CARLOS] I’m good. How are you, Joan?
-
 [JOAN] Fine, thanks.
-
 [JOAN] How’s your class?
-
 [CARLOS] Uh, it’s good. The teacher’s great.
-
 [JOAN] How many students are in the class?
-
 [CARLOS] There are eight students.
-
 [JOAN] Okay.
-
 [JOAN] Well, good luck.
-
-
 ```
 
 ### 1-2-2. Welcoming a new employee
@@ -68,8 +46,6 @@ B: Thanks
 C: OK, see you later.
 ```
 
-
-
 ### 1-2-3. Giving personal information
 
 ```
@@ -83,8 +59,6 @@ A: Sala is 11 now and Sara is 13.
 B: They are beautiful!
 A: Thanks.
 ```
-
-
 
 ### 1-2-4. Describing your office
 

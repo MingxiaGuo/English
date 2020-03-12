@@ -7,6 +7,8 @@
 
 1-1-4. Greetings
 
+----
+
 ### **Discussion Questions**
 
 - Are you having a good day today?

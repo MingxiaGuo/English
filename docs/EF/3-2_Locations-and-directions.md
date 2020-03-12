@@ -1,4 +1,7 @@
+## 3-2 Locations and directions
+
 Asking for location and directions
+
 * How can I get to the bank?
 * How do I get to the city park?
 * Where is the post office?
@@ -68,40 +71,25 @@ Sure. Have a good day.
 
 
 
-Part 1 -  Telling someone where you live
+### 3-2-1 Telling someone where you live
 
-Part 2 - Giving directions
-
-
+### 3-2-2 Giving directions
 
 ```
 [SALLY] So, Todd? Are you coming to the party Friday night?
-
 [TODD] Party? What party?
-
 [SALLY] The party at my apartment?
-
 [TODD] Oh, yeah. Umm, sure. Where do you live?
-
 [SALLY] I live at 1215 Maple Road.
-
 [TODD] 1215 Maple Road.
-
 [SALLY] The cross street is 4th Avenue.
-
 [TODD] Oh, right. I know Fourth Avenue.
-
 [SALLY] I live in the apartment building between the library and the park.
-
 [TODD] Okay.
-
 [SALLY] I’m on the 11th floor, number 17.
-
 [TODD] All right. See you on Friday.
 ```
 
+### 3-2-3 Asking for directions to a business
 
-
-Part 3 - Asking for directions to a business
-
-Part 4 - Describing the location of a city
+### 3-2-4 Describing the location of a city

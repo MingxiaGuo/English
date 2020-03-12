@@ -8,6 +8,8 @@
 
 6-4-4 Summarizing a networking event
 
+---
+
 ### 6-4-1 Welcoming business guests
 
 ```

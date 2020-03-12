@@ -8,6 +8,8 @@
 
 7-3-4 Ending an interview
 
+---
+
 ### 7-3-1 Responding to a job advertisement
 
 ```
@@ -464,30 +466,28 @@ Questions
 **回答面试问题**: 在面试中，虽然有些问题可能会出乎你的意料，但有些常规的问题还是可以事先准备好的。这里有一些例子。
 
 * A: Could you tell me a little more about your work experience?	 	你能跟我多介绍一下你的工作经历吗？
-* B: I've been working in the fashion industry for three years.	 	我在时尚产业工作了三年。
-   	 	 	 
 
+  B: I've been working in the fashion industry for three years.	 	我在时尚产业工作了三年。	 	 	 
 * A: Why are you interested in this position?	 	你为什么对该职位感兴趣？
-* B: I'm interested because it offers a chance to work in an exciting company.	我之所以感兴趣，是因为它提供了在一家令人兴奋的公司工作的机会。
-   	 	 	 
 
+  B: I'm interested because it offers a chance to work in an exciting company.	我之所以感兴趣，是因为它提供了在一家令人兴奋的公司工作的机会。 	 	 	 
 * A: What are some of your strengths and weaknesses?	 	你有哪些优点和缺点？
-* B: Well, I'm very hardworking and motivated. Sometimes I get a little too excited – I don't like to wait.	 	嗯，我工作努力积极。有时有点兴奋过头，我不喜欢等待。
+
+  B: Well, I'm very hardworking and motivated. Sometimes I get a little too excited – I don't like to wait.	 	嗯，我工作努力积极。有时有点兴奋过头，我不喜欢等待。
 
 文化点：在被要求介绍缺点时，试着从积极的角度说明自己的缺点。
 
 面试通常包含有关你职业目标的问题。
 
 * A: What are your career goals?	 	你有什么职业目标？
-* B: I'd like to start my own business.	 	我想成立自己的公司。
-   	 	 	 
 
+  B: I'd like to start my own business.	 	我想成立自己的公司。	 	 
 * A: Please tell me a little bit more about your short-term and your long-term goals.请稍微跟我说说你的短期目标和长期目标。
-* B: Short term, I'd like to improve my skills. Long term, I'd like to get into management.短期来说，我想提高自己的能力。长期来说，我想进入管理层。
-   	 	 	 
 
+  B: Short term, I'd like to improve my skills. Long term, I'd like to get into management.短期来说，我想提高自己的能力。长期来说，我想进入管理层。 	 
 * A: Where do you see yourself in, say, five or 10 years' time? 假定五到十年后，你认为自己会做什么？
-* B: I'd like to run my own company.	 	我想管理自己的公司。
+
+  B: I'd like to run my own company.	 	我想管理自己的公司。
 
 ---
 
@@ -569,7 +569,7 @@ B: Well, you can't have everything. Kate's never had a job before, but she sure 
 > * **What do you think 'a good fit' means?**
 > * **Asking about when they will make a decision is _____.**
 
-
+---
 
 * The **office environment** is friendly but serious. People work hard.
 
@@ -580,7 +580,7 @@ B: Well, you can't have everything. Kate's never had a job before, but she sure 
 * The company offered excellent **compensation** , so I accepted the job.
 * The **hiring process** took a month, from interview to final decision.
 
-
+---
 
 * The interviewer said I was a good fit. 面试官说我是一个不错的选择。
 * The office environment is serious but friendly. 办公环境是严肃的，但友好。
@@ -612,9 +612,9 @@ B: Well, you can't have everything. Kate's never had a job before, but she sure 
 
 ---
 
-* **What did Rachel ask about?**
+* Questions：**What did Rachel ask about?**
 
-
+---
 
 * Can you **tell** me what the salary is?
 * Could you **explain** how decisions are made?
@@ -623,7 +623,7 @@ B: Well, you can't have everything. Kate's never had a job before, but she sure 
 * Could you **tell** me about the office environment?
 * Would you mind **explaining** how the hiring process works?
 
-
+---
 
 * Could you explain the overtime policy? 您能说明一下加班政策吗?
 
@@ -636,8 +636,6 @@ B: Well, you can't have everything. Kate's never had a job before, but she sure 
 * I was wondering about the health insurance. 我想知道关于健康保险。
 
 * Can you tell me about the benefits package? 你能告诉我关于福利待遇吗?
-
-
 
 ##### ii) Closing the interview
 

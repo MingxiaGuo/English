@@ -8,6 +8,8 @@
 
 7-4-4 Writing about TV in your country
 
+---
+
 ### 7-4-1 Talking about your TV viewing habits
 
 ```
@@ -367,7 +369,7 @@ Guess what? Crimson Johansson is going to endorse our new product!
 * He's not keen on humor in advertising.	他并不热衷广告中的幽默。
 * 注意，(not) keen on 在英式英语中更常见。
 
-
+---
 
 - Humor is the best way to advertise.
 - I'd rather see the first than the second.
@@ -376,7 +378,7 @@ Guess what? Crimson Johansson is going to endorse our new product!
 - I like it better than the first.
 - I'm not crazy about the jingle.
 
-
+---
 
 * I'd rather use the old logo than the new one. 相比新商标，我更愿意使用旧的商标。
 * I like the third commercial better than the first. 相比第一则广告，我更喜欢第三则广告
@@ -397,7 +399,7 @@ Guess what? Crimson Johansson is going to endorse our new product!
 * The other idea is a famous man dancing in a dress.
 * And the new slogan is 'The best there is.'
 
-
+---
 
 - There are two ideas.
 - The first idea is serious.
@@ -480,26 +482,27 @@ B: So Bob Boulder had to catch this killer that had been on the run for 25 years
 #### b) Grammar: 'Because' and 'because of'
 
 **Because 与 because of**:  because 和 because of 都可以用于陈述理由。Because 后面用分句；而 because of 后面则用名词。
- 	 
+
 Because + 分句	 
 
 * I don't watch 'The Tenors' because it's so violent.	我不看《男高音》，因为太暴力了。
 * A: Why do you like that show so much?	你为什么这么喜欢那个节目？
 * B: I like it because the plot's complex and exciting.	我之所以喜欢它是因为它的情节复杂而刺激。
-   	 	 
 
 Because of + 名词
 
 * 'Fallen Love' wasn't shown on TV because of the violence.	《坠落的爱》因为有暴力内容，所以没有在电视上放映过。
 * I watch this show with my kids because of the PG rating.	这个节目是 PG 级，所以我陪孩子们一起观看。
 
+---
 
+Questions：
 
 * **Why does the man think 'Animal Avenue' is good for kids?**
 * **Why are monkeys the man's favorite animal?**
 * **What does the man say about the PG rating?**
 
-
+---
 
 
 * I love the show 'Animal Avenue' because it's educational.

@@ -1,4 +1,4 @@
-## 1- 6 Food
+## 1-6 Food
 
 1-6-1.  Discussing a meal
 
@@ -7,6 +7,8 @@
 1-6-3. Suggesting a restaurant for lunch
 
 1-6-4. Ording take-out food
+
+----
 
 ### **Discussion Questions**
 
@@ -195,71 +197,45 @@ Sugar
 | boil                         |               |
 | stir-fry                     |               |
 
-# 
+
 
 ### 1-6-1.  Discussing a meal
 
 ```
 [SALLY] This place has great burgers.
-
 [JAKE] Mm-hmm.
-
 [SALLY] Do you want some of my fries?
-
 [JAKE] Mm-hmm.
-
 [SALLY] How’s your sandwich?
-
 [JAKE] It’s delicious.
-
 [SALLY] How about some dessert?
-
 [JAKE] Mm-hmm.
-
 [SALLY] I want some chocolate ice cream.
 ```
-
-
 
 ### 1-6-2. Preparing a meal with friends
 
 ```
 LINDA: What do you want? How about a salad?
-
 BILL: Mmm, no. I don't want a salad. I want a hamburger. It's my favorite food.
-
 LINDA: OK … I want chicken and rice.
-
 WAITER: Can I help you?
-
 LINDA: Yes, I want the chicken and rice. And some water, please.
-
 BILL: And I want the hamburger and french fries, please. And some coffee.
-
 WAITER: So, that's the chicken and rice, and a hamburger and french fries.
-
 LINDA: Yes.
-
 WAITER: And water, and coffee.
-
 LINDA: Yes, thanks 
 ```
 
 ```
 [SIMON] Hey, Jake - pass me that knife.
-
 [JAKE] What’s next?
-
 [SIMON] Uh, cut the vegetables.
-
 [SIMON] Don’t cut them so big.
-
 [JAKE] OK. Done. Anything else?
-
 [SIMON] Uh, slice the bread.
-
 [JAKE] They’re here!
-
 [KELLY] Hi!
 ```
 
@@ -327,35 +303,20 @@ Help me, please.
 
 ```
 [KELLY] You hungry?
-
 [SALLY] Yeah.
-
 [KELLY] Let’s have lunch.
-
 [SALLY] The Snack Shack? What’s the food like?
-
 [KELLY] It’s good. I like their sandwiches and salads. Oh, and I love their desserts.
-
 [SALLY] Ooh, I want the beef noodles.
-
 [KELLY] They’re spicy.
-
 [SALLY] Cool. I love spicy food.
-
 [KELLY] Hmmm. I like their salads. They’re always really fresh. Yep, a chicken salad.
-
 [KELLY] And some chocolate cake.
-
 [SALLY] What soft drinks do they have?
-
 [KELLY] Orange juice or iced tea.
-
 [SALLY] I’ll have orange juice.
-
 [KELLY] Me, too.
-
 [SALLY] What’s their number?
-
 [KELLY] It’s 555 462 ...
 ```
 
@@ -396,31 +357,18 @@ The soup isn't good. It tastes OK bad delicious
 
 ```
 [SERVER] Hi. Can I help you?
-
 [KELLY] Yes. I’d like a roast beef sandwich, please.
-
 [SERVER] OK.
-
 [SERVER]  There you go. Anything else?
-
 [KELLY] Uh, a bag of potato chips.
-
 [SERVER] Here you are. Would you like a drink?
-
 [KELLY] Yes, a bottle of water.
-
 [SERVER] Anything else? How about some dessert?
-
 [KELLY] Oh ... A piece of chocolate cake, please.
-
 [SERVER] Would you like a bag?
-
 [KELLY] Yes, please.
-
 [KELLY] How much is that?
-
 [SERVER] That’s, uh, 14 dollars.
-
 [KELLY] Here you go，Thanks
 ```
 

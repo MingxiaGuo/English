@@ -244,7 +244,7 @@ B: Yeah. He's nice.
 * 表达式可以是否定的：
   * We have a hard time getting together.	我们好不容易在一起。
   * She has trouble making money.	赚钱对她来说是件困难的事。
-  * They often waste time fighting.	(他们常常浪费时间吵架
+  * They often waste time fighting.	他们常常浪费时间吵架
 
 ---
 

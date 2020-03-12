@@ -8,6 +8,8 @@
 
 7-5-4 Writing about education in your country
 
+----
+
 ### 7-5-1 Describing your educational background
 
 ```
@@ -225,7 +227,7 @@ B: Oh, right.
 * look forward to + 动名词
   * I **look forward to taking** a night course.	我想去上夜校。
 
-
+---
 
 * What's Emily looking forward to?
 
@@ -235,7 +237,7 @@ B: Oh, right.
 
 * What's Emily planning on?
 
-
+---
 
 * I'm looking forward to studying.
 * Sarah's interested in studying philosophy.
@@ -374,12 +376,11 @@ B: Great. I'll send you all the details.
 
 * You can study whenever you want.	你什么时候想学时都可以学。
 * I take my notebook wherever I go.	无论我去哪里，我都带着我的笔记本。
-
 * I'm looking forward to whatever the instructor teaches.	无论老师教什么，我都满怀期待。
-
 * Whoever took this picture is really creative.	不管是谁 拍的这张照片，他真的很有创意。
-
 * It's a flexible course. You can study however you want.	它是一门灵活的课程，不管你想采用什么方式学习都可以。
+
+---
 
 MALE: The location of the Wellington school isn't great. It's at 414 Brook Place.
 FEMALE: That's pretty far. Well, the instructor could come to our office. He said that he can teach **wherever** we choose.
@@ -388,6 +389,8 @@ FEMALE: **What** ? Oh, no – I don't think so. Not on weekends.
 MALE: Too bad. This Wellington course is short, but … hmm. Maybe we should try Bronson's **online course** instead. It is longer, and there's no instructor, but …
 FEMALE: Yeah, but … then we can study at the office, at a cafe before work …
 MALE: Right. We can study **whenever** we want and wherever we want.
+
+---
 
 * Bill takes his notebook wherever he goes.
 
@@ -406,7 +409,7 @@ MALE: Right. We can study **whenever** we want and wherever we want.
 * A **benefit** is that the schedule is flexible.
 * A **bad** thing is that they don't have online classes.
 
-
+---
 
 * An obvious disadvantage is the cost. 成本是一个明显的劣势。
 * A good thing is we can start whenever we choose. 好处是无论我们随时都可以开始上课
@@ -481,7 +484,7 @@ The tests help the college figure out which students need special language class
 
 * **What does 'the trend in language education' mean?**
 
-
+---
 
 - go to college again: go back to school
 - not fail: pass
@@ -490,7 +493,7 @@ The tests help the college figure out which students need special language class
 - you can read real stories in it: newspaper
 - you have to answer questions: test
 
-
+---
 
 * The newspaper article is about language tests. 报纸这篇文章讨论的是语言考试。
 * More and more people are going back to college. 越来越多的人正在重返大学。
@@ -530,7 +533,7 @@ The tests help the college figure out which students need special language class
 
 * **What does the man say about his class?**
 
-
+---
 
 * It's pretty normal to study all night before a test. 考试前整夜学习是相当正常的现象。
 * It's not surprising that college costs are rising. 大学学费正不断上涨，这一点都不奇怪。
