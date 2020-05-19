@@ -202,6 +202,8 @@ Sugar
 ### 1-6-1.  Discussing a meal
 
 ```
+谈论一顿饭
+
 [SALLY] This place has great burgers.
 [JAKE] Mm-hmm.
 [SALLY] Do you want some of my fries?
@@ -213,22 +215,56 @@ Sugar
 [SALLY] I want some chocolate ice cream.
 ```
 
+
+
+```
+MARY:  Oh Frank!  What's .... what's that? 哦，Frank！ 那是什么呢？ 
+•FRANK:  What? 什么？ •MARY:  Wow, salad .... cheese .... bread and butter. 喔，色拉...奶酪...面包和黄油。
+•FRANK:  Beef, potatoes, carrots and peas.  Would you like some water or some juice? 牛肉 ，土豆，胡萝卜  和豌豆。 想喝点水或果汁 吗？ 
+•MARY:  Water, please.  This is delicious! 请来点  水。 这个真好吃！ 
+•FRANK:  Would you like some bread and butter? 想要点面包和黄油吗？ 
+•MARY:  No thanks.  Not just now.  What's that smell? 不了，谢谢。 现在不用。 那个闻起来怎么样？ 
+•FRANK:  To my .... to my beautiful wife!  Cheers! 至我...至我漂亮 的妻子！ 干杯 ！ 
+•MARY:  Cheers! 干杯！
+```
+
+```
+BOB:  Hello? 你好？ •NANCY:  Hi, Bob.  Look, I'm really busy.  Could you cook dinner tonight? 嗨，Bob。 看，我真忙。 你今晚 能烹饪吗？ •BOB:  Yes, of course, dear!  No problem.  What would you like? 是的，当然，亲爱的！ 没问题...  你想吃什么？ •NANCY:  NOT pizza!  You always make pizza!  Pizza is not cooking. 不要吃匹萨！ 你总是做匹萨！   匹萨 不是烹饪 。 •BOB:  Ok, so, what would you like, then? 好的，那么，你想吃什么呢？ •NANCY:  Well, I'd like chicken. No, beef.  And potatoes, some nice bread, peas. No, carrots. •嗯，我想吃鸡肉...不，牛肉。 还有土豆 ，一些很好的面包 ，豌豆...不，胡萝卜。 •BOB:  Carrots.  OK dear, bye. 胡萝卜。 好的，亲爱的，再见。 
+```
+
+
+
+```
+BOB:  So, pizza's not cooking, eh?  I can cook.  Chicken and oranges.  Orange chicken. Yes.  Beef and onions. •那么，匹萨不是烹饪 ，嗯？ 我会烹饪。 鸡和橙子。 橙子鸡，是的。 牛肉和洋葱。 •BOB:  Hmm.  Orange chicken.  Chicken, some oranges, a glass of white wine, a packet of rice.  And peas.  Right. •嗯。 橙子鸡。   鸡，一些橙子，一杯白酒，一小包米。 还有豌豆。 对的。 •BOB:  White wine?  There's no white wine.  Chicken?  Chicken.  Hmm. 白酒？ 那里没有白酒。 鸡？ 鸡。 嗯。 •BOB:  There's no rice.  No oranges.  Right, what we need is a shopping list.  Chicken. 没有米饭。 没有橙子。 对的，我们需要一份购物清单。 鸡.. 
+```
+
+```
+EMPLOYEE:  Can I help you, Sir? 先生，我能帮你吗？ •BOB:  What? 什么？ •EMPLOYEE:  Can I help you? 我能帮你吗？ •BOB:  Yes.  I'm looking for chicken. 是的。 我在找鸡肉 。 •EMPLOYEE:  Chicken.  Oh right here.  Here it is, chicken. 鸡肉。 哦，就在这儿。 在这儿，鸡肉。 •BOB:  Thank you Roger.  Oh yeah, we'll go for a tin of peas.  Long rice, short rice, brown rice, white rice, ah. and this'll do rice.  Oranges!  What else was there? Roger谢谢你。 哦，是的，我们要去找一罐豌豆。 长米，短米，棕色米，白米，啊..这个做饭。 橙子！ 还有什么？ •BOB:  Bottle of wine! 一瓶酒
+```
+
+```
+BOB:  Would madam like some wine? 女士想要点酒吗？ •NANCY:  Oh, yes please.  Thank you. 哦，是的。 谢谢你。 •BOB:  You're very welcome.  And for you, madam? 不客气 。 女士，您的呢？ •EMMA:  Just a glass of water.  Sit down dad, let's eat. 一杯水就可以 了。 爸爸坐下吧，我们吃吧。 •NANCY:  Bob, the chicken is delicious! Bob，鸡很好吃的！ •EMMA:  Yeah, dad.  It's really yummy!  Dad? 是的，爸爸。 真好吃！ 爸爸 
+```
+
+
+
+```
+FRANK:  Beef.  Some potatoes,  some carrots.  Peas and onions.  And bread and butter. 牛肉。 一些土豆  ， 一些胡萝卜... 豌豆和洋葱 。 还有面包和黄油... •
+FRANK:  Cucumber, some cheese.  Tomatoes, some lettuce.  A bottle of water and a bottle of juice.  I'm cooking tonight.  Now, let me see. 黄瓜，一些奶酪。 西红柿，一些莴苣。 一瓶水 和一瓶果汁  。 我今晚 下厨。 现在，让我看看。
+```
+
+
+
 ### 1-6-2. Preparing a meal with friends
 
 ```
-LINDA: What do you want? How about a salad?
-BILL: Mmm, no. I don't want a salad. I want a hamburger. It's my favorite food.
-LINDA: OK … I want chicken and rice.
-WAITER: Can I help you?
-LINDA: Yes, I want the chicken and rice. And some water, please.
-BILL: And I want the hamburger and french fries, please. And some coffee.
-WAITER: So, that's the chicken and rice, and a hamburger and french fries.
-LINDA: Yes.
-WAITER: And water, and coffee.
-LINDA: Yes, thanks 
+
+
 ```
 
 ```
+和朋友准备一顿饭
+
 [SIMON] Hey, Jake - pass me that knife.
 [JAKE] What’s next?
 [SIMON] Uh, cut the vegetables.
@@ -238,6 +274,13 @@ LINDA: Yes, thanks
 [JAKE] They’re here!
 [KELLY] Hi!
 ```
+
+```
+
+
+```
+
+
 
 fruit 水果 /fruːt/
 
@@ -302,6 +345,7 @@ Help me, please.
 ### 1-6-3. Suggesting a restaurant for lunch
 
 ```
+推荐一家午餐餐厅
 [KELLY] You hungry?
 [SALLY] Yeah.
 [KELLY] Let’s have lunch.
@@ -356,6 +400,7 @@ The soup isn't good. It tastes OK bad delicious
 ### 1-6-4. Ording take-out food
 
 ```
+订外卖
 [SERVER] Hi. Can I help you?
 [KELLY] Yes. I’d like a roast beef sandwich, please.
 [SERVER] OK.
@@ -371,6 +416,34 @@ The soup isn't good. It tastes OK bad delicious
 [SERVER] That’s, uh, 14 dollars.
 [KELLY] Here you go，Thanks
 ```
+
+```
+
+LINDA: What do you want? How about a salad?
+BILL: Mmm, no. I don't want a salad. I want a hamburger. It's my favorite food.
+LINDA: OK … I want chicken and rice.
+WAITER: Can I help you?
+LINDA: Yes, I want the chicken and rice. And some water, please.
+BILL: And I want the hamburger and french fries, please. And some coffee.
+WAITER: So, that's the chicken and rice, and a hamburger and french fries.
+LINDA: Yes.
+WAITER: And water, and coffee.
+LINDA: Yes, thanks 
+```
+
+````
+FRANK:  I like chicken.  I don't really like beef.  But my wife Mary doesn't like chicken, so we usually eat beef.  I really like vegetables like carrots, onions, potatoes, peas ....  Mary doesn't like vegetables. 我喜欢吃鸡肉  。 我不是很喜欢牛肉。 但是我妻子Mary不喜欢吃鸡肉  ，所以我们通常吃牛肉。 我很喜欢吃蔬菜  ，如胡萝卜，洋葱 ，土豆，豌豆... Mary不喜欢吃蔬菜  。 
+•FRANK:  She likes meat .... and cake .... and cookies ....  Oh the beef!  Um, hello?  Yes, hello.  Is this the Mayfair Restaurant? 她喜欢吃肉...还有蛋糕...还有曲奇... 哦，牛肉 ！ 嗯，你好？ 你好。 请问是梅菲尔餐厅吗？ 
+•FRANK:  Yeah I'd like to make an order. 我想叫外卖了
+````
+
+```
+FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much.  How much is that? 一些水... 一碗色拉... 嗯，是的。 非常 谢谢你。 多少钱？ 
+•FRANK:  Mm hmm.  Here you are ....  Some beef and vegetables.  Ah yes .... some bread and butter. 嗯。 给你钱。   牛肉和蔬菜。 是的...一些面 包和黄油。
+
+```
+
+
 
 a cup of tea 一杯茶 /ə kʌp əv tiː/ 一杯茶
 

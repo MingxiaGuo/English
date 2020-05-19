@@ -8,14 +8,6 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 2018.12.10
 
-
-
-
-
-[问路指路](https://wenku.baidu.com/view/0150a278580216fc710afd11.html)
-
-
-
 # [Beginning Low](0_Beginner-Low.md)
 
 # Beginning
@@ -99,7 +91,7 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 2 Negotiating
   - Unit 3 Stages of life
   - Unit 4 Health and safety
-  - Unit 5 Natural disasters
+  - Unit 5 Moving to a new city
   - Unit 6 Polite behavior
 
 # Upper Intermediate

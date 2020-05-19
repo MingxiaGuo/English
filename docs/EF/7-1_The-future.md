@@ -1,62 +1,108 @@
 ## 7-1 The future
 
-7-1-1 Talking about the environment
+7-1 The future 将来
 
-7-1-2 Talking about future technology
+7-1-1 Talking about the environment 谈论环境
 
-7-1-3 Discussing business changes
+7-1-2 Talking about future technology 谈论未来科技
 
-7-1-4 Writing about life in the future
+7-1-3 Discussing business changes 讨论商业变革
+
+7-1-4 Writing about life in the future 撰写有关未来生活的文章
 
 ---
 
 ### 7-1-1 Talking about the environment
 
 ````
-[JOAN]: I didn't realize that the city changed to matural gas from coal last month.
+[JOAN]: I didn't realize that the city changed to natural gas from coal last month.
 [TODD]: Yes. And I'm all for it. Less pollution, better air quality. Water quality has been improving recently, too.
 [JOAN]: Speaking of the environment, AI and I are thinking about buying an electric car. We were looking at some online last night.
 [TODD]: Really? That's a great idea. Perfect for commuting. And they're getting cheap fast.
 [JOAN]: Apparently, the new ones can go up to 170 kilometes between charges.
-[TODD]: I didn't know that. Agenda and I looked at our monthly expenses recently. Can you believe we're spending almost 200 dollars a month on gasoline?
-[JOAN]: I believe it. Gas just keeps getting more expensive. That's why we're thinking about an electric car. They cost just a few events a kilometer to run.
+[TODD]: I didn't know that. Angela and I looked at our monthly expenses recently. Can you believe we're spending almost 200 dollars a month on gasoline?
+[JOAN]: I believe it. Gas just keeps getting more expensive. That's why we're thinking about an electric car. They cost just a few cents a kilometer to run.
 [TOOD]: If you get one, I'd love to try it out. 
+[JOAN]: Sure.
+
+try something out: 尝试
+I'm all for it: 我全力支持
 ````
 
-try something out 尝试
+#### a) Vocabulary: The environment 
 
-#### a) Vocabulary: The environment
+环境：
 
-* natural gas: Natural gas heats many homes.
-* gasoline: Cars run on gasoline.
-* coal: Burning coal causes pollution.
-* electric car: Electric cars do not pollute.
-* pollution: 
+* natural gas: Natural gas heats many homes. gas that is found under the ground or the sea and that is used as a fuel 天然气
+* gasoline: Cars run on gasoline. a liquid obtained from petroleum that is used as fuel. 汽油
+* coal: Burning coal causes pollution. a hard black mineral that is found below the ground and burnt to produce heat 煤
+* electric car: Electric cars do not pollute. an automobile powered by electricity, instead of gasoline 电车
+* pollution: substances that make air, water, soil, etc. dirty 污染
+* air quality: 空气质量
+* the environment: 环境
+* communting：乘公共汽车、火车、汽车等）上下班往返，经常往返（于两地）
+* charges
 
-```
-City Builds Electric Car Charging Stations
+> ### City Builds Electric Car Charging Stations
+>
+> *By Tarana Anand*
+>
+> People can now **charge** their electric cars in the city parking lot.
+>
+> "We've built two **charging stations** for electric cars," said city engineer Randolph Schmidt. "If people use more clean electricity for cars and less dirty gasoline, we can decrease air pollution."
+>
+> Alma Torres **commutes** 80 kilometers a day to her bank job in her electric car. "The city charging stations are wonderful. They show that the city cares about saving the **environment** around us," she said.
+>
+> The city is serious about improving water and air quality, Schmidt said. Last year, the city stopped using coal. Now, **natural gas** powers all city buildings.
+>
+> **'Charge' a car means _____.**
+>
+> - make electricity with it
+> - take electricity out of it
+> - put electricity in it
+>
+> **What is a 'charging station'?**
+>
+> - a place to put electricity in a car
+> - a place to put gasoline in a car
+> - a place to put coal in a car
+>
+> **If air 'quality' is bad, then the air is _____.**
+>
+> - impolite
+> - unhealthy
+> - inefficient
+>
+> **'Pollution' is when the air or water is ____.**
+>
+> - clean
+> - warm
+> - dirty
+>
+> **'Commute' means to _____.**
+>
+> - travel to and from a job
+> - change to gas from coal
+> - buy a new electric car
+>
+> **The _____ is the natural world we live in.**
+>
+> - environment
+> - electricity
+> - engineer
 
-By Tarana Anand
 
-People can now charge their electric cars in the city parking lot.
 
-"We've built two charging stations for electric cars," said city engineer Randolph Schmidt. "If people use more clean electricity for cars and less dirty gasoline, we can decrease air pollution."
+* I care about the environment. 我关注环境。
+* People charge electric cars at charging stations. 人们在充电站为电动汽车充电。
+* We've stopped using coal. 我们已不用煤炭。
+* I commute 50 kilometers a day. 我每天上下班50公里。 
+* Natural gas powers all city buildings. 城市中所有的建筑物都用上了天然气。
+* If we use electricity for cars, pollution decreases. 如果汽车用电作为动力，污染就会减轻。
 
-Alma Torres commutes 80 kilometers a day to her bank job in her electric car. "The city charging stations are wonderful. They show that the city cares about saving the environment around us," she said.
+#### b) Grammar: First conditional 
 
-The city is serious about improving water and air quality, Schmidt said. Last year, the city stopped using coal. Now, natural gas powers all city buildings.
-```
-
-* I care about the environment
-* People charge electric cars at charging stations
-* We've stopped using coal.
-* I commute 50 kilometers a day.
-* Natural gas powers all city buildings
-* If we use electricity for cars, pollution decreases.
-
-#### b) Grammar: First conditional 真实条件句
-
-**第一条件句**
+真实条件句：**第一条件句**
 
 
 使用第一条件陈述句来表示如果某一事情发生而将引起的结果。第一条件句由两个分句组成。一个使用 **if +** 一种条件，另一个是结果从句，句中动词为将来时态，使用情态动词 **will**  
@@ -76,9 +122,11 @@ The city is serious about improving water and air quality, Schmidt said. Last ye
 
 #### c) Expressions: Communicating changes over time
 
-* Has been improving
-* getting cheaper
-* keeps getting more expensive
+传达随时间推移而发生的变化：
+
+* has been improving: 一直在改变
+* getting cheaper：变得越来越便宜
+* keeps getting more expensive：一直在涨价
 
 表示一段时间内的变化
 
@@ -86,39 +134,47 @@ The city is serious about improving water and air quality, Schmidt said. Last ye
   * Opinions about electric cars **are changing**.   人们对电动汽车的看法正在改变
 * 现在完成时表示一个过去发生、现在仍在延续的变化
   * Air quality  **has been improving** for several years. 空气质量几年来一直在改善
-* Get + 形容词用于进行时，表示一段时间内的变化，其意义与become类似
-  * Commuting is getting more irritating。 通勤更加令人气愤了
-  * The city has been getting serious about using natural gas.	这座城市日益重视天然气的使用。
-  * It's getting better all the time.	一直在变好。
+* **Get +** 形容词用于进行时，表示一段时间内的变化，其意义与**become**类似
+  * Commuting **is getting** more **irritating**。 通勤更加令人气愤了
+  * The city **has been getting serious** about using natural gas.	这座城市日益重视天然气的使用。
+  * It's **getting better** all the time.	一直在变好。
 
-```
-MATT:   Hey, Alexis, should I turn off the computer in your office? It wastes electricity.
-ALEXIS: Oh, yes, thanks. I'm so bad at remembering things like that.
-MATT:   No problem. Actually, I think you're changing .
-ALEXIS: Really? How?
-MATT:   You've been remembering to turn off your lights.
-ALEXIS: I have? Great! And I've been getting better with my cellphone charger, too.
-MATT:   What do you mean?
-ALEXIS: Well, I turn it off when the phone is charged.
-MATT:   Cool. Our electricity bill's going down , so we're doing something right.
-ALEXIS: Wonderful.
-MATT:   Right. I'll go turn off that computer.
-ALEXIS: Thanks. See you later, Matt.
-```
+> MATT:   Hey, Alexis, should I turn off the computer in your office? It wastes electricity.
+> ALEXIS: Oh, yes, thanks. I'm so bad at remembering things like that.
+> MATT:   No problem. Actually, I think **you're changing** .
+> ALEXIS: Really? How?
+> MATT:   **You've been** remembering to turn off your lights.
+> ALEXIS: I have? Great! And I've **been getting better** with my cellphone charger, too.
+> MATT:   What do you mean?
+> ALEXIS: Well, I turn it off when the phone is charged.
+> MATT:   Cool. Our electricity bill's **going down** , so **we're doing** something right.
+> ALEXIS: Wonderful.
+> MATT:   Right. I'll go turn off that computer.
+> ALEXIS: Thanks. See you later, Matt.
+>
+> 
+>
+> - [x] Alexis is changing. 
+> - [x] Alexis is remembering to turn off her cellphone charger.
+> - [ ] Alexis is taking the train to work.
+> - [ ] Alexis is using her computer less.
+> - [ ] Alexis is forgetting everything.
+> - [x] Alexis is getting better at turning off lights
 
-#### d) Speaking: 后缀'-ion'的发音
+#### d) Speaking: Pronouncing the suffix '-ion'
 
-词尾为 -ion 的单词重音在倒数第二个音节上
+后缀'-ion'的发音：词尾为 -ion 的单词重音在倒数第二个音节上
 
-* pollution
-* transportation
-* information
-* tradition
-* education
+* pol**lu**tion 污染
+* transpor**ta**tion 交通
+* infor**ma**tion 信息
+* tra**d**ition 传统
+* edu**ca**tion 教育
 
 #### e) Final Task: Talking about the environment
 
 ```
+谈论环境：你正在与朋友谈论你们的城市所发生的变化和他购买电动汽车的计划
 [A]: I just read an incredible article about the environment in our city
 [B]: Really? What did it say?
 [A]: The air and water quality are actually getting better. 

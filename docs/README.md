@@ -1,3 +1,12 @@
+语言
+
+* 词汇
+* 语法：研究词形变化，句子结构
+  * 词法：研究词形变化。 Morphology
+    * 名词的数，格；动词的时态，语态。。。
+  * 句法：研究句子结构。Syntax
+    * 句子的成分，语序，句子种类。。。
+
 # 英语5个语法层次:
 
 * 句子
@@ -39,3 +48,55 @@
 * 软腭音 k g h
 * 唇音 p b f v
 * 齿音 t d s 
+
+
+
+
+
+What's your nationality? 你是哪国人？
+
+
+
+词类：
+
+* 根据语法功能分类：
+  * 名词
+  * 冠词
+  * 代词
+  * 形容词
+  * 数词和量词
+  * 动词
+  * 副词
+  * 介词
+  * 连词
+  * 感叹词
+  * 肯定否定 yes，no
+  * 不定式前小品词to
+* 根据意义分类
+  * 实词：具有实际意义并能单独构成句子成分的词
+    * 名词，代词，数词，形容词，动词，副词
+  * 虚词：无实际意义，不能单独构成句子成分
+    * 冠词，介词，连词，感叹词
+
+
+
+drop ： A tree drops its leaves in autumn.
+
+sting: Honey is sweet, but the bee stings
+
+Swear: Don't swear, for I dislike swearing
+
+
+
+Hurry up
+
+
+
+
+
+# 你觉得XX怎么样？用英语怎么说？
+
+What about XX？
+How about XX？
+How do you like XX？
+What do you think of XX？

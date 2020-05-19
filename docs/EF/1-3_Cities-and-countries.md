@@ -20,16 +20,32 @@
 ### 1-3-1. Saying where are you from
 
 ```
-A: Hello
-B: Hi, his name is Frank.
-A: And her name is Mary. I'm from UK
-B: We are from London, England.
-A: Frank
-B: Yes.
-A: I'm from London, you are not.
-B: Of course, Of course. Now we live in london, but I'm form 
-A: The sanjuasles, in the US.
+[Frank]: Hello
+[Mary]: Hi, his name is Frank.
+[Frank]: And her name is Mary. 
+[Mary]: And I'm from the UK
+[Frank]: We're from London, England. 
+[Mary]: Uh, Frank? 
+[Frank]: Yes?
+[Mary]: I'm from London, you are not.
+[Frank]: Oh, Of course, Of course. Now we live in London, but I'm from umm.
+[Mary]: Los Angeles, in the US.
 ```
+
+```
+FRANK:  So, uh, what's his name? 那么，他叫什么名字？ 
+PAUL:  Oh, his name's James. 哦，他叫James。 
+FRANK:  And he's from London, right? 他是来自伦敦，对吗？ 
+PAUL:  No.  I'm from London.  James is from Birmingham. 不是。 我来自伦敦。 James来自伯明翰。 
+FRANK:  Right, right!  Sorry, sorry.  Now. What's her name? 对的，对的！ 对不起，对不起。 她的名字是什么？ 
+PAUL:  Michelle.  Her name's Michelle.  And she's from? Michelle。 她叫Michelle。 她来自...？ 
+FRANK:  She's from. New York? 她来自...纽约？ 
+PAUL:  Nope, Laura's from New York.  Michelle is from. 不是，Laura来自纽约。 Michelle来自... 
+FRANK:  Brighton. 布赖顿。 
+
+```
+
+
 
 #### a) Vocabulary 
 
@@ -83,14 +99,59 @@ A: The sanjuasles, in the US.
 
 ```
 [LAURA] Hey. Come and meet my friends.
+[FRANK] OK
+[MARY] OK.
 [LAURA] Michelle, this is Frank and Mary. Frank and Mary, this is Michelle.
 [MICHELLE] Hi. Nice to meet you.
 [MARY] Nice to meet you.
-[LAURA] Michelle's from Brighton.
-[LAURA] Mary's from London, Frank's from Los Angeles, but they live in London.
+[FRANK] Hi, michelle
+[MICHELLE] Hi.
+[LAURA] Michelle's from Brighton. Mary's from London, Frank's from Los Angeles, but they live in London.
+
+[LAURA] Frank and Mary, this is James. James is from Birmingham, the UK.
+[James]: Nice to meet you. 很高兴见到你。 
+[Frank]: Nice to meet you. 很高兴见到你。 
+[James]: Hi. 嗨。 
+[Mary]:  Hi. 嗨。
+
+LAURA:  Paul is from London. Paul来自伦敦。 
+PAUL:  Hi, how's it going? 嗨，怎么样？
+MARY:  Hi. 嗨。 
+PAUL:  Hi. 嗨。 
+FRANK:  Nice to meet you. 很高兴见到你。 
+PAUL:  You too. 你也是。
 ```
 
+
+
+```
+A: Hi, June
+B: Hi, Lisa.
+A: June, this is my boy friend, Paul. He is british. But he lvoes here and ___. 
+B: Nice to meet you
+C: Nice to meet you, too. So, June. Where are you from?
+B: I'm chinese, I'm from Beijing.
+
+```
+
+
+
 ### 1-3-3. Meeting new people
+
+```
+FRANK:  We should go over here too. 我们也应该走这边。 
+MARY:  Ah that looks like fun. 那看起来很有趣。 
+FRANK:  Yeah. 是的。 
+MARY:  Hi. 嗨。 
+FRANK:  Hi. 嗨。 
+LAURA:  Hi.  Hey, where are you from? 嗨。 嗨，你来自哪里？ 
+MARY:  I'm from the UK. 我来自英国。 
+LAURA:  The UK? 英国？ 
+FRANK:  Yeah we live in London.  My name's Frank. 是的，我们住在伦敦。 我叫Frank。 
+LAURA:  I'm Laura. 我是Laura。 
+MARY:  And I'm Mary.  Where are you from Laura? 我是Mary。 Laura，你从哪儿来？ 
+LAURA:  I'm from New York. 我来自纽约
+```
 
 ```
 [SALLY] So where are you from, Carlos?
@@ -103,7 +164,9 @@ A: The sanjuasles, in the US.
 [CARLOS] Yeah, it is. Where are you from?
 [SALLY] I’m from New York.
 [CARLOS] What’s New York like?
-[SALLY] New York is ... New York.  It’s big, it’s busy  It’s   an exciting  __
+[SALLY] New York is ... New York.  It’s big, it’s busy  It’s an exciting city
+[CARLOS] 给饼干
+[SALLY] No, thanks. That's OK
 ```
 
 ### 1-3-4. Describing your country

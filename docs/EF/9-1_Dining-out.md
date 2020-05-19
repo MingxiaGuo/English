@@ -1,18 +1,21 @@
 ## 9-1 Dining out
 
-9-1-1 Making a dinner reservation
+9-1 Dining out 出去吃饭
 
-9-1-2 Ordering a meal
+9-1-1 Making a dinner reservation 预定晚餐
 
-9-1-3 Making polite dinner conversation
+9-1-2 Ordering a meal 点餐
 
-9-1-4 Ending the meal and paying the check
+9-1-3 Making polite dinner conversation 用餐时礼貌交谈
+
+9-1-4 Ending the meal and paying the check 结束用餐和买单
 
 ---
 
 ### 9-1-1 Making a dinner reservation
 
 ```
+预定晚餐
 [Joan]: Oh, Todd. I have some news. Per Lindstrom is arriving tomorrow from Stockholm.
 [Todd]: Great!
 [Joan]: Plan on dinner Wednesday night.
@@ -43,35 +46,39 @@
 
 #### a) Vocabulary: Adjectives for healthy and nutaural eating
 
+单词与词义
+
+- picky 挑剔的
+- vegetarian 素食者， doesn't eat meat or fish
+- vegan 纯素食者，eats no meat, fish, dairy or eggs
+- organic 有机的， naturally grown
+- grown locally 本地种植的
+- wild 野生的
+- free range 放养的
+- fat-free 脱脂的
+
+- local: produced nearby
+- low-fat: contains little fat
+- low-carb: contains few carbohydrates
+
 有关健康天然饮食的形容词
 
 * 请使用与以下词语类似的形容词来谈论健康、天然、负责任地生产的食品：
   * A: Would you like some fruit?	要来点水果吗？
-    B: No, thanks. I'm on a low-carb diet.	不要了，谢谢。 我在吃低碳水化合物膳食。
+    B: No, thanks. I'm on a **low-carb** diet.	不要了，谢谢。 我在吃低碳水化合物膳食。
 
-  * I'd like a salad dressing with no oil. And do you have any fat-free or low-fat milk?	我想要没放油的沙拉酱调料。 你们有脱脂或低脂牛奶吗？
+  * I'd like a salad dressing with no oil. And do you have any **fat-free** or **low-fat** milk?	我想要没放油的沙拉酱调料。 你们有脱脂或低脂牛奶吗？
 
-  * A: Do you grow organic vegetables?	你们种有机蔬菜吗？
+  * A: Do you grow **organic** vegetables?	你们种有机蔬菜吗？
     B: Yes, we do.	是的。 	 
 
-  * Good Eats buys everything from local farms.	“美食”餐厅的每一道食材都来自本地农场。 	 	 
+  * Good Eats buys everything from **local** farms.	“美食”餐厅的每一道食材都来自本地农场。 	 	 
 
-  * This crab is wild, from the Atlantic Ocean.	这是来自大西洋的野生螃蟹。
+  * This crab is **wild**, from the Atlantic Ocean.	这是来自大西洋的野生螃蟹。
 
-* 素食者和纯素食者
-  * Vegetarians（素食者）不吃肉或鱼，而vegans（纯素食者）不吃肉，鱼，乳制品或鸡蛋。 vegetarian和vegan**都可以用作形容词或名词。
-
-  * A: Is William vegan?	威廉是纯素食者吗？
-    B: No, he's a vegetarian. He eats cheese.	不是，他是素食者。 他吃奶酪。
-
-单词与词义
-
-- organic: naturally grown
-- local: produced nearby
-- low-fat: contains little fat
-- low-carb: contains few carbohydrates
-- vegan: eats no meat, fish, dairy or eggs
-- vegetarian: doesn't eat meat or fish
+* 素食者和纯素食者：**Vegetarians**（素食者）不吃肉或鱼，而**vegans**（纯素食者）不吃肉，鱼，乳制品或鸡蛋。 vegetarian和vegan 都可以用作形容词或名词。
+  * A: Is William **vegan**?	威廉是纯素食者吗？
+    B: No, he's a **vegetarian**. He eats cheese.	不是，他是素食者。 他吃奶酪。
 
 ---
 
@@ -91,22 +98,22 @@
 
 代词指代
 
-在使用某一名词（如 restaurant 或 server）之后，可使用 it 或 she 等代词来指代该名词。 例如， it 和 that 可用作主语代词：
+在使用某一名词（如 **restaurant** 或 **server**）之后，可使用 **it** 或 **she** 等代词来指代该名词。 例如， **it** 和 **that** 可用作主语代词：
 
-* The organic restaurant gets five stars for atmosphere. It's my favorite.	因为氛围很好，这家有机餐厅获得了五星评级。 它是我的最爱。
+* The organic **restaurant** gets five stars for atmosphere. **It's** my favorite.	因为氛围很好，这家有机餐厅获得了五星评级。 它是我的最爱。
 
-* We ate at 10 p.m., but that was fine.	我们到晚上10点才吃饭，不过这样也很好。
+* We ate at **10 p.m**., but **that** was fine.	我们到晚上10点才吃饭，不过这样也很好。
 
-it 和 that 也可用作宾语代词：
+**it** 和 **that** 也可用作宾语代词：
 
-* I like this dish. I ordered it last time I was here.	我喜欢这道菜。 上次我在这儿的时候也点了这道菜。
+* I like this **dish**. I ordered it last time I was here.	我喜欢这道菜。 上次我在这儿的时候也点了这道菜。
 
-* The restaurant had very slow service. I hate that.	这家餐厅上菜很慢。 我很讨厌这一点。
+* The restaurant had **very slow service**. I hate **that**.	这家餐厅上菜很慢。 我很讨厌这一点。
 
- She 和 he 是主语代词。 它们指代之前提到的人。 用 her 或 him 作为宾语代词。
+ **She** 和 **he** 是主语代词。 它们指代之前提到的人。 用 **her** 或 **him** 作为宾语代词。
 
-* My aunt is on a low-carb diet. She's losing weight.	我的阿姨在吃低碳水化合物的食物。她在减肥。
-* The server was very polite. I gave him a big tip.	那位服务员很有礼貌， 所以我给了他一大笔小费。
+* **My aunt** is on a low-carb diet. **She's** losing weight.	我的阿姨在吃低碳水化合物的食物。她在减肥。
+* **The server** was very polite. I gave **him** a big tip.	那位服务员很有礼貌， 所以我给了他一大笔小费。
 
 ------
 
@@ -125,23 +132,30 @@ it 和 that 也可用作宾语代词：
 
 #### c) Expressions: Making a restaurant reservation
 
-让自己的谈吐更有礼貌
+- How may I help you? 有什么需要帮忙的吗？
+- I'd like to make a reservation. 我想预订。
+- That would be fine. 那就很好。
+- We'd like a quiet table. 我们想要个安静的位置。
+- I'll put you in the back dining room. 我会把你们安排在后面的餐厅。
+- We'll see you at 7:30 on Wednesday. 我们星期三7:30见。
+
+预定餐厅：让自己的谈吐更有礼貌
 
 
 你可以使用进行式 - 或 would、could 或 may 等情态动词 —— 以便让自己的谈吐更加正式和更有礼貌。
 
-* I'm wondering if you serve food that's locally grown.	我想知道你端上来的食物是否都是本地种植的。
-* We were hoping for a 6 o'clock reservation.	我们希望预订6点钟。
-* I would like to make a reservation for Sunday evening.	我想要预订星期天晚上。
-* How may I help you?	有什么需要帮忙的吗？
-* Six-fifteen would work just fine.	六点十五分也很好。
-* Could you give us a nonsmoking table?	你能给我们订一张无烟区的餐桌吗？
+* **I'm wondering** if you serve food that's locally grown.	我想知道你端上来的食物是否都是本地种植的。
+* **We were hoping** for a 6 o'clock reservation.	我们希望预订6点钟。
+* I **would** like to make a reservation for Sunday evening.	我想要预订星期天晚上。
+* How **may** I help you?	有什么需要帮忙的吗？
+* Six-fifteen **would** work just fine.	六点十五分也很好。
+* **Could** you give us a nonsmoking table?	你能给我们订一张无烟区的餐桌吗？
 
 文化注释： 以礼待人无疑一直是最可取的做法，而在你打算订位或点餐时，如果你使用礼貌和尊重他人的用语，你将会发现自己得到了更好的服务。
 
 ---
 
-* Park Grill. How may help you?
+* Park Grill. How may I help you?
 
 * I'm wondering if you have any openings tomorrow.
 
@@ -169,12 +183,28 @@ it 和 that 也可用作宾语代词：
 #### d) Final Task: Making a dinner reservation 
 
 ```
-
+预定晚餐：你正打电话给帕克烧烤店预订星期五晚上7点四个人的餐位
+A: Good afternoon. Park Gral. How may I help you?
+B: I'd like to make a reservation for Friday night.
+A: That's .. this Friday?
+B: Yes, that's right.
+A: And how many people in your party?
+B: It's for four people
+A: And what's name please?
+B: Its's __
+A: And what time were you thinking of?
+B: We were hoping for 7.
+A: OK. let's me take a look at here, would 7:30 work for you?
+B: Yes, that would be fine.
+A: OK I'm putting you down at 7:30
+B: Thanks! We'll see you on Friday.
+A: We do, We have fresh oysters everyday. So that's four people for this Friday at 7:30. Thanks, we look forward to seeing you on Friday,
 ```
 
 ### 9-1-2 Ordering a meal
 
 ```
+点餐
 [Waiter]: Good evening, my name is Rose. I'll be waitress tonight. Are yo ready to order?
 [Joan]: Yes, we are. We'll take a dozen oysters as an appetizer. Uh, how fresh are they?
 [Waiter]: They were in the bay this morning.
@@ -206,6 +236,8 @@ it 和 that 也可用作宾语代词：
 
 #### a) Vocabulary: Common restaurant foods
 
+常见的餐厅食物
+
 |单词|释义|音标|释义(英)|
 |:--:|:--:|:--|:--|
 |asparagus|芦笋![GE_9.1.2.1.2_asparagus](https://cns2.ef-cdn.com/Juno/12/99/31/v/129931/GE_9.1.2.1.2_asparagus.jpg)|/əˈspærəɡəs/|a plant whose young green or white stems are cooked and eaten as a vegetable|
@@ -227,7 +259,7 @@ usually  entree
 
 #### b) Grammar: Counters
 
-**柜台**: 可以用装食物的容器来说明食物的数量。 在表示不可数名词（如 water 或 bread）的数量时，由于它们没有复数形式，因此 a bottle of 和 a package of 等量词特别有用。
+**量词**: 可以用装食物的容器来说明食物的数量。 在表示不可数名词（如 water 或 bread）的数量时，由于它们没有复数形式，因此 a bottle of 和 a package of 等量词特别有用。
 
 * 用 a bottle of 或 a liter of 来说明某些液体的数量。
   * A: I'd like a T-bone steak and a bottle of sparkling mineral water.	我想要一份 T 骨牛排和一瓶发泡矿泉水。
@@ -340,6 +372,8 @@ usually  entree
 
 #### d) Reading: Eating in a restaurant
 
+在餐厅用餐
+
 > **Culture Corner: Eating out**
 >
 > You sit at a comfortable table, and your server immediately introduces herself: 'Hello. I'm Julia. I'll be your **server** tonight.' Don't be surprised if the server gives you his or her first name. Most restaurants want you to feel comfortable, so servers are often **informal** but polite.
@@ -372,14 +406,27 @@ usually  entree
 #### e) Final Task: Ordering a meal
 
 ```
-
+点餐：你和你的朋友去了一家新餐厅吃饭。 你想点烤宽面条
+A: Hi, my name is Alex, and I'll be your server today, are you ready to order?
+B: Almost. What does the lasagna come with?
+A: The lasagna comes with a side of asparagus.
+B: Almost. What does the lasagna come with?
+A: No, I'm sorry, I'm afraid it isn't, but is is quite deliciouos.
+B: Okay. I'll take the lasagna.
+A: I'll have the lasagna too please. and also like some sparling mineral water.
+B: Good idea. Why don't we get a liter of sparkling mineral water?
+A: Un, maybe we should get a dozen oysters to start.
+B: Sure. How fresh are they?
+A: Oh, I got it this morning. Now all dinners do come with a house salad.
+B: What kind of dressing do you have?
+A: The house salad comes with oil and vinger. Okay, I'll be right back with your bread.
+B: Thanks. We'd like the mineral water now, too.
 ```
-
-
 
 ### 9-1-3 Making polite dinner conversation
 
 ```
+用餐时礼貌交谈：
 [Lindstrom]: Anyway, our new directed of engineering is excellent. By the time I get back, your software will be ready and tested. We'll deliver it next Monday.
 [Joan]: That's very good news.
 [Waiter]: Excuse me. sorry to interrupt. Here is your cappuccino with fat-free milk. Here is your lemon sorbet, and a black coffee, no sugar.
@@ -397,10 +444,11 @@ usually  entree
 [Todd]: Crazy. Isn't it? Family should always come first.
 [Linndstrom]: I couldn't have said it better myself.
 [Joan]: To family, then.
-
 ```
 
 #### a) Vocabulary: Dessert and coffee
+
+甜点和咖啡
 
 | 单词          |                                                              | 音标             |                                                              |
 | ------------- | ------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
@@ -469,7 +517,7 @@ usually  entree
 
 ##### i) Politely interrupting
 
-打断
+有礼貌地打断别人
 
 
 打断别人说话时，要记住两件重要的事。第一，务必礼貌，使用 excuse me 和 I'm sorry 等类似表达。第二，在别人说完一句话再打断，不要在开始说一句话时打断。使用类似这样的表达来插话。
@@ -503,6 +551,8 @@ usually  entree
 
 ##### ii) Supporting someone's opinion
 
+支持他人的观点
+
 > CHELSEA: So, congratulations! You finished the Balboa project. Honestly, that was the worst project. You should totally relax on your vacation.
 > AIDEN: Thanks. **I couldn't have said it better myself**. Olivia and I need a real break.
 > CHELSEA: **I know exactly what you mean**. I'm thinking of taking some days off too.
@@ -526,7 +576,21 @@ usually  entree
 #### d) Final Task: Ordering a meal
 
 ```
-
+用餐时礼貌交谈：你和一位同事正在餐馆吃饭，庆祝一个大项目的完成
+A: I love this restaurant, I think the food is really delicioous and quite beautiful.
+B: I couldn't have said it better myself.
+A: And this is really a nice way to celebrate the end of the project. it was an incredible amount of work.
+B: Yeah, and I'd like to add something. You did a great job.
+A: That's very nice of you'to said, you did a great job yourself. And I think the team worked very well together.
+B: I'm totally with you
+A: Now we need to think about next big project.
+B: How do you think I did?
+A: Sure. Go ahead.
+B: I think a little vacation might be what the team needs right now.
+A: You know, you're right. Sometimes I forget that people need a break. Naybe we could give everyone friday off so they can have a long weekend.
+B: I was just about to say the same thing.
+A: Excelent, that's we'll do. You can tell everyone when we get back to the office.
+B: I'll be happy to do that!
 ```
 
 
@@ -534,6 +598,7 @@ usually  entree
 ### 9-1-4 Ending the meal and paying the check
 
 ```
+结束用餐和买单：
 [Lindstrom]: That was really good food. 
 [Joan]: My shrimp salad was excellent. Really fresh.
 [Todd]: I'm stuffed.
@@ -560,7 +625,7 @@ usually  entree
 
 #### a) Writing: A restaurant meal
 
-撰写正确的分句
+餐厅就餐：撰写正确的分句
 
 用英语写作时，每个分句中都应用一个主语加上一个谓语动词。 尽管有例外情况，这仍是一个不错的经验法则。
 
@@ -580,6 +645,12 @@ usually  entree
 **We** recently **ate** at a new restaurant called Bim's. I ordered the T-bone steak. I **asked** for mashed potatoes and a side of asparagus. It was wonderful! My **friend** got the lasagna. As soon as we finished our main course, we ordered bread pudding and cappuccinos. Both **were** excellent. **Everything** was delicious, so we'll probably go again. But first, I have to go back on my low-carb diet.
 
 
+
+请撰写有关你最近在餐厅吃的一顿饭的文章。 你吃的什么？ 食物是当地的还是有机的？ 你吃甜点了吗？ 确保每个分句都有主语，并有谓语动词紧随其后。
+
+输入到输入框。 写一段字数在 100 到 120 左右的文字。 该练习不评分。
+
+Francis and I recently ate at a new restaurant called 1876. I had called to make reservations, and the employee was very friendly. She put us down for a 7 p.m. reservation. When we arrived, the place looked beautiful. There were candles everywhere, and the server gave us a fantastic, free appetizer. I ordered the asparagus quiche, and it came with a side of spicy corn on the cob. It was unbelievable! As soon as we finished the main course, we both ordered the cheesecake brownie. It was two classic desserts in one! The food was definitely not low-fat, but the chef said that it's mostly local and organic. Everything was delicious and unusual, so we'll probably go again.
 
 #### b) Expressions: 
 
@@ -619,6 +690,8 @@ usually  entree
 
 ##### ii) Closing a conversation
 
+结束谈话：
+
 * Let's keep in touch. 保持联系。
 * Well, thank you for the wonderful meal. 嗯，谢谢你请我吃了一顿美餐。
 * Give my regards to your family. 请代我向你的家人问好。
@@ -644,4 +717,38 @@ usually  entree
 * It was great seeing you. **Take** care.
 
 #### c) Final Task: Ending the meal and paying the check
+
+```
+结束用餐和买单：请听各人谈论买单。
+A: Would you like anything else?
+B: No, thanks. Just the check.
+C: Shall we split the bill equally?
+B: Sure. Good idea
+D: I'll take that.
+B: That's very generous.
+A: A meals on us.
+B: You don't have to do that!
+D: You don't have to do that!
+B: That's very generous.
+C: I'll show we pay.
+B: Why don't we each pay for what we had?
+```
+
+```
+结束用餐和买单：你刚刚和来自渥太华的一名商业顾问用餐完毕。 她为你的项目出了很多力，所以你提出请她吃饭
+A: Would you like anything else?
+B: No, thanks. Just the check, please.
+A: Here's the check, thank you very much.
+B: This is on me.
+C: You don't have to do that.
+B: I insist. You're my guest.
+C: Well, if you insist. that's very generoous.Thank you. The meal was delicious.
+B: Absolutely. It was lovely seeing you again.
+C: Great seeing you too, next time in Ottawa.
+B: Sounds good. And thanks again for your hard work.
+C: You're more than welcome.
+B: Enjoy the rest of your stay. I'll be in touch.
+C: Thanks again, take care.
+B: You too.
+```
 

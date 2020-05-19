@@ -1,7 +1,5 @@
 
 
-[问路指路](https://wenku.baidu.com/view/0150a278580216fc710afd11.html)
-
 Beginning Low
 
 [Level 0](EF/0_Beginner-Low.md)

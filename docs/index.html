@@ -9,7 +9,7 @@
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <!-- Theme: Simple -->
-     <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
+    <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
     <style type="text/css">
         @media (min-width:600px) {
@@ -21,18 +21,20 @@
         .content,
         .sidebar,
         /*.markdown-section,*/
+        
         body,
         .search input {
-            background-color: rgba(243, 242, 238, 1) !important;
+            background-color: rgba(243, 242, 238) !important;
         }
         /*Custom theme styles */
-        :root {
+        
+         :root {
             /*--base-font-size: 14px;*/
             /*--theme-color   : #f7c241; 黄色*/
-            --theme-color   : #f6b352;
+            --theme-color: #f7a42f;
             /*--base-background-color: #f8ecc9;*/
             /*--mark-background      : #ffecb3;*/
-            --cover-background-color: #f17f42;
+            --cover-background-color: #f9b14dcd;
         }
     </style>
 </head>
@@ -53,7 +55,13 @@
             subMaxLevel: 4,
             coverpage: true,
             loadSidebar: true,
-            loadNavbar: true
+            loadNavbar: true,
+            pagination: {
+                previousText: '上一章节',
+                nextText: '下一章节',
+                // crossChapter: true,
+                // crossChapterText: true,
+            }
         }
     </script>
     <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
@@ -63,7 +71,7 @@
     <script src="//unpkg.com/docsify-copy-code"></script>
 
     <!-- PDFObject.js is a required dependency of this plugin -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
     <!-- This is the source code of the pdf embed plugin -->
     <script src="path-to-file/docsify-pdf-embed.js"></script>
     <!-- or use this if you are not hosting the file yourself -->

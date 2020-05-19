@@ -314,6 +314,14 @@ Describing people
 
 squash
 
+pumpkin 南瓜
+
+melon 甜瓜
+
+coconuts  椰子
+
+
+
 # Page50 Meal
 
 
@@ -697,6 +705,26 @@ Fractions:
 1/8: one-eighth
 
 1: whole
+
+# Page107 
+
+Full stop / period 		句号
+
+（）round brackets
+
+[] square brackets
+
+{} curly braces
+
+a'  Apostrophe							
+
+a..  Ellipsis point
+
+<u>a</u>. underline
+
+a - b hyphen
+
+a/b virgule
 
 # Page125 Types of vehicles
 
