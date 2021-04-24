@@ -1,4 +1,4 @@
-语言
+# 语言
 
 * 词汇
 * 语法：研究词形变化，句子结构
@@ -49,6 +49,8 @@
 * 唇音 p b f v
 * 齿音 t d s 
 
+# Books
+
 
 
 
@@ -96,7 +98,8 @@ Hurry up
 
 # 你觉得XX怎么样？用英语怎么说？
 
-What about XX？
-How about XX？
-How do you like XX？
-What do you think of XX？
+* What about XX？
+* How about XX？
+* How do you like XX？
+* What do you think of XX？
+

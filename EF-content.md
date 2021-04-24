@@ -5,9 +5,24 @@
 * WorkShop
 * Apply Life Club
 
-# Beginning
+# General English 
 
-## Level 1
+## Beginning Starter
+
+### Level 0
+
+* Unit 1 Letters and words
+* Unit 2 Sounds
+* Unit 3 Your classroom
+* Unit 4 Rhythm and emotion
+* Unit 5 Building sentences
+* Unit 6 Vital verbs
+* Unit 7 Joys
+* Uint 8 Making mistakes
+* Uint 9 The six sounds to master
+* Uint 10 Taking control
+
+### Level 1
 
 - Unit 1 Greetings and Introductions
 - Unit 2 Office and school
@@ -16,7 +31,9 @@
 - Unit 5 Shopping
 - Unit 6 Food
 
-## Level 2
+## Beginning High
+
+### Level 2
 
 - Unit 1 Times and days
 - Unit 2 Weather and seasons 
@@ -25,7 +42,7 @@
 - Unit 5 Places and transportation
 - Unit 6 Home
 
-## Level 3
+### Level 3
 
 - Unit 1 Hobbies and interests
 - Unit 2 Locations and directions
@@ -34,9 +51,9 @@
 - Unit 5 Money and buying
 - Unit 6 Jobs and companies
 
-# Elementary
+## Elementary
 
-## Level 4
+### Level 4
 
 - Unit 1 Entertainment
 - Unit 2 Describing people
@@ -45,7 +62,7 @@
 - Unit 5 Welcome
 - Unit 6 Vacations
 
-## Level 5
+### Level 5
 
 - Unit 1 Travel
 - Unit 2 Making decisions
@@ -54,7 +71,7 @@
 - Unit 5 Movies
 - Unit 6 Clothes and outfits
 
-## Level 6
+### Level 6
 
 - Unit 1 Communicating at work
 - Unit 2 Going to the doctor's
@@ -63,9 +80,9 @@
 - Unit 5 Business proposals
 - Unit 6 Explaining the rules
 
-# Intermediate
+## Intermediate
 
-## Level 7
+### Level 7
 
 - Unit 1 The future
 - Unit 2 Hopes and dreams
@@ -74,7 +91,7 @@
 - Unit 5 Education
 - Unit 6 Secrets and lies
 
-## Level 8
+### Level 8
 
 - Unit 1 Music
 - Unit 2 Living better
@@ -83,7 +100,7 @@
 - Unit 5 Cool products
 - Unit 6 Relationships
 
-## Level 9
+### Level 9
 
 - Unit 1 Dining out
 - Unit 2 Negotiating
@@ -92,9 +109,9 @@
 - Unit 5 Natural disasters
 - Unit 6 Polite behavior
 
-# Upper Intermediate
+## Upper Intermediate
 
-## Level 10
+### Level 10
 
 - Unit 1 Meetings
 - Unit 2 Gender issues
@@ -103,7 +120,7 @@
 - Unit 5 Extreme sports
 - Unit 6 Lifestyles
 
-## Level 11
+### Level 11
 
 - Unit 1 Career paths
 - Unit 2 Technology
@@ -112,7 +129,7 @@
 - Unit 5 Law
 - Unit 6 What you read
 
-## Level 12
+### Level 12
 
 - Unit 1 Manners and etiquette
 - Unit 2 Coporate culture
@@ -121,9 +138,9 @@
 - Unit 5 Awkward situations
 - Unit 6 Politics
 
-# Advanced
+## Advanced
 
-## Level 13
+### Level 13
 
 - Unit 1 Success
 - Unit 2 Art and architecture
@@ -132,7 +149,7 @@
 - Unit 5 Good and bad news
 - Unit 6 Trade
 
-## Level 14
+### Level 14
 
 - Unit 1 Taking a risk
 - Unit 2 Advertising
@@ -141,7 +158,7 @@
 - Unit 5 Making a speech
 - Unit 6 Jokes and humor
 
-## Level 15
+### Level 15
 
 - Unit 1 In the news
 - Unit 2 Communication
@@ -150,9 +167,9 @@
 - Unit 5 Quality of life
 - Unit 6 Ethics
 
-# Upper Advanced
+## Upper Advanced
 
-## Level 16
+### Level 16
 
 - Unit 1 Science and technology
 - Unit 2 Fame and fortune

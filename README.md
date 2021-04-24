@@ -50,3 +50,14 @@
 * 唇音 p b f v
 * 齿音 t d s 
 
+
+
+EF 语法： https://cns.ef-cdn.com/EtownResources/Grammar/EIndex.html
+
+语音实验室：
+
+单次卡
+
+翻译
+
+写作
