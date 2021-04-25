@@ -8,7 +8,7 @@
 
 10-1-4 Summarizing a meeting
 
-[Words](General English/words/unit-overview-level10-Upper Intermediate-unit1.pdf)
+[Words](General-English/words/unit-overview-level10-Upper Intermediate-unit1.pdf)
 
 ---
 
@@ -578,6 +578,46 @@ Listen and record the correct response.
 
 
 #### a) Vocabulary: Compamy issues
+
+task
+
+任务
+
+coming up with
+
+提出
+
+coordination
+
+协作
+
+smoothly
+
+平稳地，流畅地
+
+back and forth
+
+来回地，反复地
+
+in charge
+
+负责，主管
+
+involve
+
+涉及
+
+conclude
+
+结束
+
+keep me informed
+
+让我了解情况
+
+rumors
+
+谣言
 
 #### b) Grammar: Review: future tenses
 
