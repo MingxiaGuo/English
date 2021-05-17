@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>English</title>
-    <link rel="icon" type="image/x-ico" href="./小火龙.png" />
+    <link rel="icon" type="image/x-ico" href="./chick.png" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -14,7 +14,7 @@
     <style type="text/css">
         @media (min-width:600px) {
             .sidebar-toggle {
-                background-color: #f3f2ee;
+                background-color: #93f2ee;
             }
         }
         
@@ -24,7 +24,7 @@
         
         body,
         .search input {
-            background-color: rgba(243, 242, 238) !important;
+            background-color: rgba(255, 255, 253, 0.062) !important;
         }
         /*Custom theme styles */
         
@@ -34,13 +34,17 @@
             --theme-color: #f7a42f;
             /*--base-background-color: #f8ecc9;*/
             /*--mark-background      : #ffecb3;*/
-            --cover-background-color: #f9b14dcd;
+            --cover-background-color: #f3d968cd;
         }
     </style>
 </head>
 
 <body>
     <div id="app"></div>
+    <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+
     <script>
         window.$docsify = {
             maxAge: 100,
@@ -52,20 +56,32 @@
                 noData: '😞 No Results! ',
                 depth: 6
             },
-            subMaxLevel: 4,
+
+            subMaxLevel: 5,
             coverpage: true,
             loadSidebar: true,
             loadNavbar: true,
             pagination: {
-                previousText: '上一章节',
-                nextText: '下一章节',
-                // crossChapter: true,
-                // crossChapterText: true,
-            }
+                previousText: 'Previous',
+                nextText: 'Next',
+                crossChapter: true,
+                crossChapterText: true,
+            },
+            plugins: [
+                EditOnGithubPlugin.create(
+                    'https://github.com/MingxiaGuo/English/blob/master/docs/'
+                )
+            ],
+            // auto2top: true,
+            // topMargin: 90
+
         }
     </script>
+
+
     <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
     <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
     <script src="//unpkg.com/docsify-copy-code"></script>

@@ -1,5 +1,11 @@
 ## 0-1 Letters and words
 
+* 0-1-1 Prepare for class
+
+* 0-1-2 Review and practice
+
+---
+
 ### 0-1-1 Prepare for class
 
 #### 1 Listening: Multisensory Learning
