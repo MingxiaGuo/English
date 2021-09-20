@@ -1,16 +1,24 @@
 ## 0-5 Building Sentences
 
-#### 1 listening
+ 0-5 构句
+
+---
+
+#### 1 listening 听力
 
 单词， 造句， 模块识别，用一个单词造不同的句子。
 
 从简单的句子开始。以后再尝试复杂的句子。
 
-#### 2 Expressions
+关于课堂学习策略的视频。
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/63/99/v/516399/U5.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+#### 2 Expressions 表达
 
 team， customers， go (to)，work (in)，meet，write，emails，meetings
 
-#### 3 Grammar
+#### 3 Grammar 语法
 
 I write to lots of customers
 
@@ -22,7 +30,7 @@ I work in a team,
 
 I meet lots of customers
 
-#### 4 Final Task
+#### 4 Final Task 
 
 这是词汇的使用规则。
 主语 + 动词 + 很多 + 宾语

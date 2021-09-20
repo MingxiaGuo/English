@@ -1,10 +1,16 @@
 ## 0-3 Your Classroom
 
+0-3 你的课堂
+
+---
+
 #### 1 Listening: Your Classroom
 
 和同伴对话可以快速学习英语
 
 跟同伴合作能让你有更多开口的机会
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/12/v/516412/U3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 #### 2 Vocabulary: Your Classroom
 
