@@ -1,4 +1,16 @@
-# 语言
+EF 语法： https://cns.ef-cdn.com/EtownResources/Grammar/EIndex.html
+
+语音实验室：
+
+单次卡
+
+翻译
+
+写作
+
+
+
+## 语言
 
 * 词汇
 * 语法：研究词形变化，句子结构
@@ -7,7 +19,7 @@
   * 句法：研究句子结构。Syntax
     * 句子的成分，语序，句子种类。。。
 
-# 英语5个语法层次:
+## 英语5个语法层次:
 
 * 句子
 
@@ -35,21 +47,21 @@
 3. 字母的变更
 4. 连字符的使用
 
-# 英语来源
+## 英语来源
 
 * Germantic 做单词
 * Latin 做词根
 * Greek 被拉丁语撰写
 
 
-# 音变规律
+## 音变规律
 
 * 元音 a e i o u
 * 软腭音 k g h
 * 唇音 p b f v
 * 齿音 t d s 
 
-# Books
+## Books
 
 
 
@@ -96,10 +108,12 @@ Hurry up
 
 
 
-# 你觉得XX怎么样？用英语怎么说？
+## 你觉得XX怎么样？用英语怎么说？
 
 * What about XX？
 * How about XX？
 * How do you like XX？
 * What do you think of XX？
+
+
 
