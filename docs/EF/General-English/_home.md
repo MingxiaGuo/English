@@ -17,7 +17,9 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 
 
-# [Beginning Low](0_Beginner-Low.md)
+
+
+
 
 # General English 
 
@@ -25,16 +27,16 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 ### Level 0
 
-* Unit 1 Letters and words
-* Unit 2 Sounds
-* Unit 3 Your classroom
-* Unit 4 Rhythm and emotion
-* Unit 5 Building sentences
-* Unit 6 Vital verbs
-* Unit 7 Joys
-* Uint 8 Making mistakes
-* Uint 9 The six sounds to master
-* Uint 10 Taking control
+- [x] Unit 1 Letters and words
+- [x] Unit 2 Sounds
+- [x] Unit 3 Your classroom
+- [ ] Unit 4 Rhythm and emotion
+- [ ] Unit 5 Building sentences
+- [ ] Unit 6 Vital verbs
+- [ ] Unit 7 Joys
+- [ ] Uint 8 Making mistakes
+- [ ] Uint 9 The six sounds to master
+- [ ] Uint 10 Taking control
 
 ### Level 1
 
