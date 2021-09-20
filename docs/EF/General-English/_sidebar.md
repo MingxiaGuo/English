@@ -107,7 +107,7 @@ Upper Intermediate
 Level 10
 
   - [Unit 1 Meetings](General-English/10-1_Meetings.md)
-  - Unit 2 Gender issues
+  - [Unit 2 Dealing with change](General-English/10-2_Dealing-with-change.md)
   - Unit 3 Personal finances
   - Unit 4 General-Englishfective presentations
   - Unit 5 Extreme sports
