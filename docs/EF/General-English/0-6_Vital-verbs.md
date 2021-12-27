@@ -1,5 +1,9 @@
 ## 0-6 Vital verbs 重要动词
 
+0-6 重要动词
+
+---
+
 #### 1 Listening 
 
 Word Mapping 单词映射图
@@ -12,7 +16,11 @@ Word Mapping 单词映射图
 
 fish，noodles，cold，hot，eat，vegetables，drink，water，buy，tea
 
-#### 2 Writing
+
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/02/v/516402/U6.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+#### 2 Writing 写作
 
 Ding: Do you drink hot/cold **water** ?
 

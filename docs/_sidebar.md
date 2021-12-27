@@ -15,5 +15,5 @@
   * [Business English](EF/Business-English/_home.md)
   * [Industry English](EF/Industry-English/_home.md)
 
-* [书](docs/books/README.md)
+* [书](books/README.md)
 

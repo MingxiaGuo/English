@@ -12,8 +12,17 @@
 
 听力-多感学习法：感官(看+听+说+动作)+日常用到的单词
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/00/v/516400/U1.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-metadata"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/14/13/56/v/141356/GE_10.1.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/13/81/22/v/138122/GE_10.1.1_v2.mp4"></video>
 
+#### 
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline"   controls poster="../../assets/EF_0-1.jpg" src="https://cns2.ef-cdn.com/Juno/51/64/00/v/516400/U1.mp4"  ></video>
+
+![](../../assets/EF_0-1.jpg)
+preload="none"
+controls poster="../../assets/EF_0-1.png"
+
+style="text-size-adjust: auto !important; user-select: auto;"
 #### 2 Expressions: Letters and words
 
 Listen. Choose the letter that is heard.

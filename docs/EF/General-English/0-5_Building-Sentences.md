@@ -16,7 +16,7 @@
 
 #### 2 Expressions 表达
 
-team， customers， go (to)，work (in)，meet，write，emails，meetings
+team， customers， go (to) 前往，work (in) 工作，meet 见面，write，emails，meetings
 
 #### 3 Grammar 语法
 
