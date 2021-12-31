@@ -1,6 +1,6 @@
 ## 0-4 Rhythm and Emotion 
 
-0-4 韵律与感情
+0-4 Rhythm and Emotion 韵律与感情 韵律与情感表达 (**语调与情感**)
 
 ---
 
@@ -22,7 +22,9 @@
 
 good afternoon， good morning， good evening
 
-hello，good，thank you， happy， angry，ok
+hello，good 好的，thank you， happy， angry 生气的，ok可以的
+
+
 
 How are you? 你好吗？
 
@@ -34,19 +36,23 @@ And you? 你呢？
 
 口语
 
-- Good morning!
-- Hello.
-- How are you? 
-- I'm ok, thank you. How are you?
-- I'm good.
-- Good evening, how are you?
-- I'm good thank you, and you?
+> - Good morning!
+> - Hello.
+> - How are you? 
+> - I'm ok, thank you. How are you?
+> - I'm good.
+> - Good evening, how are you?
+> - I'm good thank you, and you?
 
 #### 4 Expressions: Rhythm and Emotion
 
 说话者情绪：happy， angry，ok
 
 #### 5 Final Task: Rhythm and Emotion 
+
+我们表达的方式会因为感情的投入而改变。用愉快的、生气的或正常的语气说这些句子。
+
+情感投入会改变我们表达的方式。你所表达的意思可通过情感的投入而改变。尝试用不同的感情表达这些词： 开心的、生气的、和一般的。
 
 | I'm good, thank you. | 我很好、谢谢。 |
 | -------------------- | -------------- |
@@ -56,24 +62,17 @@ And you? 你呢？
 | Good evening.        | 晚上好。       |
 | Thank you.           | 谢谢。         |
 
-韵律与情感表达 (**语调与情感。**)
-情感投入会改变我们表达的方式。
-你所表达的意思可通过情感的投入而改变。
-尝试用不同的感情表达这些词： 开心的、生气的、和一般的。
-
-Good afternoon, how are you?
-
-I am ok, thank you and you?
-
-I am good, thank you.
-
 
 
 A: Good afternoon
 
 B: Good afternoon, how are you?
 
-A: How are you ?
 
-B: I am ok, thank you and you? /  I am good, thank you 
+
+A: Hello. How are you ?
+
+B: I am good, thank you, and you?
+
+A: I'm ok.
 

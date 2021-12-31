@@ -1,6 +1,6 @@
 ## 0-1 Letters and words
 
-0-1 字母和单词
+0-1 Letters and words 字母和单词
 * 0-1-1 Prepare for class 上课准备
 * 0-1-2 Review and practice 复习和练习
 
@@ -12,17 +12,8 @@
 
 听力-多感学习法：感官(看+听+说+动作)+日常用到的单词
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/14/13/56/v/141356/GE_10.1.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/13/81/22/v/138122/GE_10.1.1_v2.mp4"></video>
-
-#### 
-
 <video class="ets-vp " width="640" height="360" playsinline="playsinline"   controls poster="../../assets/EF_0-1.jpg" src="https://cns2.ef-cdn.com/Juno/51/64/00/v/516400/U1.mp4"  ></video>
 
-![](../../assets/EF_0-1.jpg)
-preload="none"
-controls poster="../../assets/EF_0-1.png"
-
-style="text-size-adjust: auto !important; user-select: auto;"
 #### 2 Expressions: Letters and words
 
 Listen. Choose the letter that is heard.
@@ -34,6 +25,19 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 * Listen. Choose the correct word.
   * write name close say listen open partner eyes see letter
 
+  * |         |                                                              |          |
+    | ------- | ------------------------------------------------------------ | -------- |
+    | Write   | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/write.jpg" style="zoom:10%;" /> | 写       |
+    | Name    | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/name.jpg" style="zoom:10%;" /> | 名字     |
+    | Close   | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/close.jpg" style="zoom:10%;" /> | 闭上     |
+    | Say     | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/say.jpg" style="zoom:10%;" /> | 说       |
+    | Listen  | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/listen.jpg" style="zoom:10%;" /> | 听       |
+    | Open    | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/open.jpg" style="zoom:10%;" /> | 睁开     |
+    | Partner | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/partner.jpg" style="zoom:10%;" /> | 学习搭档 |
+    | Eyes    | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/eyes.jpg" style="zoom:10%;" /> | 眼睛     |
+    | See     | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/see.jpg" style="zoom:10%;" /> | 看       |
+    | letter  | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/letters_(1).jpg" style="zoom:10%;" /> | 字母     |
+  
 * EF Classroom language. Remember this classroom language.
   * Close your eyes.  闭上你的眼睛。
   * Listen to the three letters.	  听字母。
@@ -46,8 +50,8 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 #### 4 Final Task: Names
 
 * How do you write your name?	你的名字怎么写？ 
-* What is your name?	
-* My name is Ann.
+* What is your name?	 你叫什么名字？
+* My name is Ann.   我叫 Ann
 
 ### 0-1-2 Review and practice
 

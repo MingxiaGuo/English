@@ -1,14 +1,11 @@
 ## 9-2 Negotiating
 
-9-2    Negotiating 谈判
+9-2  Negotiating 谈判
 
-9-2-1 Preparing for a negotiation  准备谈判
-
-9-2-2 Laying out your opening position 表明你的公开立场
-
-9-2-3 Negotiating 谈判
-
-9-2-4 Closing the deal 达成交易
+* 9-2-1 Preparing for a negotiation  准备谈判
+* 9-2-2 Laying out your opening position 表明你的公开立场
+* 9-2-3 Negotiating 谈判 
+* 9-2-4 Closing the deal 达成交易
 
 ---
 
@@ -259,19 +256,14 @@ Okay. I just want to make sure we're all **on the same page** regarding our nego
 
 **What does she say she 'anticipates'?**
 
-- 
 - The negotiations will be difficult.
 
 **What does she say she 'foresees'?**
 
-- 
 - They will reach a deal.
-
-
 
 **What does she say she 'expects'?**
 
-- 
 - They will decrease their price.
 
 
@@ -592,33 +584,20 @@ A: That would be great.
 
 #### a) Vocabulary: Negotiation vocabulary
 
-- preliminary offer
+- preliminary offer 初步报价
 
-  初步报价
+- bulk discount 大宗折扣
 
-- bulk discount
+- full price 全价
 
-  大宗折扣
+- general office laptop 普通办公笔记本电脑
 
-- full price
+- accept 接受
 
-  全价
+- check with 核实一下
 
-- general office laptop
+- finalize 完成
 
-  普通办公笔记本电脑
-
-- accept
-
-  接受
-
-- check with
-
-  核实一下
-
-- finalize
-
-  完成
 
 将通常一同使用的词语相匹配。
 
@@ -636,14 +615,10 @@ At the beginning of negotiations, their **preliminary offer** was 475 dollars pe
 **How much was the preliminary offer?**
 
 - $475
-- 
 
 **What was the full price of the laptop?**
 
-- 
 - $475
-
-
 
 **How many machines did they want?**
 
@@ -651,9 +626,7 @@ At the beginning of negotiations, their **preliminary offer** was 475 dollars pe
 
 **What was the final price per machine?**
 
-- 
 - $425
-- 
 
 It's unusual to accept a preliminary offer. 接受初步报价的做法很少见
 
@@ -689,23 +662,18 @@ The best kind of negotiation ends in a **win-win** situation. That is, both side
 
 **What is the best result for a negotiation?**
 
-- 
 - win-win
 
 **How many strategies does the writer discuss?**
 
-- 
 - four
-- 
 
 **What can get in the way of an agreement?**
 
 - personalities
-- 
 
 **According to the article, what isn't very important?**
 
-- 
 - preliminary offers
 
 
@@ -770,33 +738,18 @@ Would you consider increasing the quantity?	你会考虑增加数量吗？
 
 
 
-Your preliminary offer is not what we expected.
+Your preliminary offer is not what we expected. 你的初步报价不符合我们的预期
 
-你的初步报价不符合我们的预期
+We propose that you give us a 15 percent discount. 我们建议你给 15% 的折扣。
 
-We propose that you give us a 15 percent discount.
+I'm afraid your offer is out of the question. 你的报价恐怕毫无可能。
 
-我们建议你给 15% 的折扣。
+I'm sorry, but we cannot accept your offer. 抱歉，但是我们不能接受你的报价。
 
-I'm afraid your offer is out of the question.
-
-你的报价恐怕毫无可能。
-
-I'm sorry, but we cannot accept your offer.
-
-抱歉，但是我们不能接受你的报价。
+My counteroffer is a bulk discount of 10 percent. 我的还价是 10% 的大宗购买折扣。
 
 
-收听音频
-
-My counteroffer is a bulk discount of 10 percent.
-
-我的还价是 10% 的大宗购买折扣。
-
-
-Would you consider lowering the price?
-
-你会考虑降低价格吗？
+Would you consider lowering the price? 你会考虑降低价格吗？
 
 
 
@@ -910,33 +863,21 @@ A: Thanks, I look forward to bulking a long-term relationship with IXW. I'll be 
 
 Your purchase includes a **standard** two-year **service plan** . If you have any problems with your machine, the plan covers **all parts and labor** . There is **no charge** to you. All of this information is in the **contract** .
 
-
-
 **What kind of service plan is it?**
 
 - standard
-- 
-
-
 
 **How long is the service plan?**
 
-- 
 - two years
-
-
 
 **What does the service plan include?**
 
-- 
 - parts and labor
-
-
 
 **How much does the buyer pay for service?**
 
 - nothing
-- 
 
 #### b) Expressions: 
 

@@ -1,28 +1,191 @@
 ## 1-2 Office and school
 
-1-2-1. Talking about your class
+1-2 Office and school 
 
-1-2-2. Welcoming a new employee
-
-1-2-3. Giving personal information
-
-1-2-4. Describing your office
+* 1-2-1. Talking about your class
+* 1-2-2. Welcoming a new employee
+* 1-2-3. Giving personal information
+* 1-2-4. Describing your office
 
 -----
 
 ### 1-2-1. Talking about your class
 
+#### a) Vocabulary: Classroom vocabulary
+
+student online pen teacher english school pencil book notebook class
+
+#### b) Expressions: Asking for opinions with 'how'
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/17/v/111217/GE_1.2.1_v3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+> [CARLOS] Good morning.
+> [JOAN] Good morning, Carlos. How are you?
+> [CARLOS] I’m good. How are you, Joan?
+> [JOAN] Fine, thanks.
+> [JOAN] How’s your class?
+> [CARLOS] Uh, it’s good. The teacher’s great.
+> [JOAN] How many students are in the class?
+> [CARLOS] There are eight students.
+> [JOAN] Okay.
+> [JOAN] Well, good luck.
+
+
+
+Asking for opinions with 'how'
+
+ 
+
+
+
+Use how is or how are to ask for someone's opinion. Use the contraction how's for how is.
+
+ 
+
+
+
+
+
+How's your class?   How's your class?
+
+
+
+How's your teacher? How's your teacher?
+
+
+
+How are your classes?   How are your classes?
+
+
+
+How are your teachers?  How are your teachers?
+
+
+
+Answers can be positive, neutral or negative.
+
+
+
+Positive
+
+ 
+
+
+
+
+
+A: How's your teacher?              How's your teacher?
+
+
+
+B: She's good.  She's good.
+
+​         
+
+
+
+A: How are your classes?        How are your classes?
+
+
+
+B: They're great!   They're great!
+
+ Neutral
+
+ 
+
+
+
+
+
+A: How's your teacher?          How's your teacher?
+
+
+
+B: He's OK. He's OK.
+
+​         
+
+
+
+A: How are your classes?        How are your classes?
+
+
+
+B: They're so-so.   They're so-so.
+
+Negative
+
+ 
+
+
+
+
+
+A: How's your teacher?      How's your teacher?
+
+
+
+B: He's bad.    He's bad.
+
+​         
+
+
+
+A: How are your classes?    How are your classes?
+
+
+
+B: They're terrible!    They're terrible!
+
+
+
+Two students, Ella and Joe, are talking about their classes. Listen to the audio. Select the correct answer.
+
+> A: Good morning. Joe
+>
+> B: Hi.Allen
+>
+> A: How are you?
+>
+> B: I'm fine. Thanks, but I'm busy. And you?
+>
+> A: I'm good. How's your english class?
+>
+> B: It's great.
+>
+> A: And how's your teacher?
+>
+> B: She's good. Her name is Miss Kelly. How are your classes?
+>
+> A: They're okay. Well, see you later.
+>
+> B: See you later.
+
+- - How's your teacher?
+  - He's OK.
+- - How's your class?
+  - It's so-so.
+- - How are your classes?
+  - They're great!
+- - How are you?
+  - I'm fine, thanks.
+
+ 
+
+#### c) Final Task: Talking about your class
+
 ```
-[CARLOS] Good morning.
-[JOAN] Good morning, Carlos. How are you?
-[CARLOS] I’m good. How are you, Joan?
-[JOAN] Fine, thanks.
-[JOAN] How’s your class?
-[CARLOS] Uh, it’s good. The teacher’s great.
-[JOAN] How many students are in the class?
-[CARLOS] There are eight students.
-[JOAN] Okay.
-[JOAN] Well, good luck.
+A: Hi, how are you?
+B: I'm fine, and you? 
+A: I'm good, thanks. How's your english class?
+B: It's good. How's your English class?
+A: My english class is great. 
+B: How's your teacher?
+A: She's good. bye.
+B: Goodbye.
 ```
 
 ```
@@ -34,7 +197,7 @@ Ok, read your answer
 所有格
 
 ```
-KEN:  Mmh?  Is this your notebook? 嗯？ 这是你的记事本吗? •MICHELLE:  Nope, it isn't. 不，不是的。 •LAURA:  Hey!  That's my notebook! 嘿！ 那是我的笔记本！ •KEN:  Oh, it's your notebook? 哦，是你的笔记本吗？ •LAURA:  Yes, it's my notebook. 是的，是我的笔记本。 •KEN:  Okay.  Here you go. 好的。 给你。 •LAURA:  Thanks.  Well, thanks again. 谢谢。 再次谢谢你。 •KEN:  No problem. 不客气
+
 ```
 
 
@@ -55,50 +218,655 @@ LAURA:  Is that my phone? 那是我的电话吗？ •KEN:  Hi! 嗨！ •LAURA:
 
 ### 1-2-2. Welcoming a new employee
 
-```
-A: Sally, sally Alice?
-B: Oh, hi, Todd.
-A: Hi. Welcome to the company.
-B: Thanks.
-A: Let me show you to the desk.
-B: ok 
-A: So this is your desk.
-B: ok
-A: And that is my desk.
-C: Hi
-A: Hello, Joan. Sally, this is Joan. Joan, this is sally.
-C: Nice to mmet you.
-B: Nice to meet you too.
-C: Welcome to the company. 
-B: Thanks
-C: OK, see you later.
-```
+#### a) Vocabulary: office objects
+
+Keyboard microphone computer headphones monitor desk mouse chair
+
+#### b) Grammar: 
+
+##### i) 'This' and 'that'
+
+'This' and 'that'
+
+
+
+Use this and that to indicate people and objects. Use this for a person or thing near you. Use that for a person or thing not near you.
+
+ 
+
+
+
+Statements  Negatives
+
+
+
+This is my desk.    
+
+
+
+This is not your desk.
+
+
+
+That is your desk.  
+
+
+
+That is not my desk.
+
+
+
+This is John.   
+
+
+
+That is not Mary.
+
+
+This
+
+is
+
+my
+
+computer.
+
+ This is your desk, and this is your chair.
+
+This is not my phone.
+
+Use this to introduce people to one another.
+
+ 
+
+
+
+John, this is Pamela. Pamela, this is John. John, this is Pamela. Pamela, this is John.
+
+​         
+
+Contractions: There is no contraction for this is. Use that's as a contraction for that is.
+
+​         
+
+
+
+That's not Jim. That's Bill.    That's not Jim. That's Bill.
+
+
+
+To form questions with this is and that is, move is to the front of the sentence. You can respond with a short answer.
+
+
+
+ 
+
+
+
+Questions   Short answers
+
+
+
+Is this your computer?  
+
+
+
+No, it isn't.
+
+
+
+Is that your computer?  
+
+
+
+Yes, it is.
+
+
+
+Is that Bill?   
+
+
+
+Yes, it is.
+
+
+
+Is this his desk?
+
+No, it isn't.
+
+
+
+Is
+
+that
+
+my
+
+pencil?
+
+
+Is
+
+this
+
+your
+
+pen?
+
+
+
+
+This
+
+is
+
+not
+
+your
+
+chair.
+
+##### ii) Possessive adjectives
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/25/v/119025/GE_1.2.2.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+00:20
+
+You must watch the entire movie once before you can adjust the timeline.
+
+> KEN:  Mmh?  Is this your notebook? 嗯？ 这是你的记事本吗? •MICHELLE:  Nope, it isn't. 不，不是的。 •LAURA:  Hey!  That's my notebook! 嘿！ 那是我的笔记本！ •KEN:  Oh, it's your notebook? 哦，是你的笔记本吗？ •LAURA:  Yes, it's my notebook. 是的，是我的笔记本。 •KEN:  Okay.  Here you go. 好的。 给你。 •LAURA:  Thanks.  Well, thanks again. 谢谢。 再次谢谢你。 •KEN:  No problem. 不客气
+
+
+
+ossessive adjectives
+
+
+
+Look at the chart to see the subject pronouns and the possessive adjectives that go with them.
+
+
+
+Use possessive adjectives to show who an object belongs to. There is always a noun after a possessive adjective.
+
+ 
+
+
+
+ 
+
+
+
+Subject pronouns    Possessive adjectives    
+
+​         
+
+
+
+I   I   
+
+
+
+my  my  
+
+
+
+My name is Harry.   My name is Harry.
+
+
+
+you you 
+
+
+
+your    your    
+
+
+
+Is that your phone? Is that your phone?
+
+
+
+he  he  
+
+
+
+his his 
+
+
+
+That's his desk.    That's his desk.
+
+
+
+she she 
+
+
+
+her her 
+
+
+
+It's her chair. It's her chair.
+
+ Subject pronouns   Possessive adjectives            
+
+​                 
+
+
+
+it  it  
+
+
+
+its its 
+
+
+
+Oh, a dog! What's its name? Oh, a dog! What's its name?
+
+
+
+we  we  
+
+
+
+our our 
+
+
+
+This is our microphone. This is our microphone.
+
+
+
+they    they    
+
+
+
+their   their   
+
+
+
+It's their computer.    It's their computer.
+
+ 
+
+- her book
+- its book
+- their books
+- his book
+
+
+
+Is this your  book?
+
+ He isn't busy.
+
+My name is Mary.
+
+We  are students.
+
+She is new.
+
+This is our office.
+
+#### c) Expressions: Introducing a new employee
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/11/83/04/v/118304/GE_1.2.2.4.1_poster.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/19/v/111219/GE_1.2.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+> A: Sally, sally Alice?
+> B: Oh, hi, Todd.
+> A: Hi. Welcome to the company.
+> B: Thanks.
+> A: Let me show you to the desk.
+> B: ok 
+> A: So this is your desk.
+> B: ok
+> A: And that is my desk.
+> C: Hi
+> A: Hello, Joan. Sally, this is Joan. Joan, this is sally.
+> C: Nice to mmet you.
+> B: Nice to meet you too.
+> C: Welcome to the company. 
+> B: Thanks
+> C: OK, see you later.
+
+#### d) Final Task: Welcoming a new employee
+
+A new employee, John, has just arrived at your office. It's his first day. Welcome him, show him to his desk and introduce him to Maria, the colleague sitting beside him. When you introduce yourself, give your own name.
+
+ 
+
+Listen and record the correct response. When you see a blank, give true information about yourself.
+
+
+
+![img](https://cns2.ef-cdn.com/Juno/11/15/22/v/111522/GE_1.2.2.5.1_image1_2.jpg)
+
+> A: Good morning. I'm John. I'm a new employee.
+>
+> B: Hi! I'm _____. Nice to meet you.
+>
+> A: Nice to meet you too
+>
+> B: Welcome to the company.
+>
+> A: Thanks
+>
+> B: John, this is your desk.
+>
+> A: Great
+>
+> B: And this is your computer
+>
+> C: Hello 
+>
+> B: John, this is Maria. Maria, this is John.
+>
+> C: Nice to meet you
+>
+> A: Nice to meet you too. 
+>
+> C: Ok, see you later
 
 ### 1-2-3. Giving personal information
 
+
+
+#### a) Vocabulary: Numbers 11-100
+
+Numbers 11-100
+
+
+
+
+
+Listen to and practice the numbers 11 to 19.
+
+eleven (11) 
+
+sixteen (16)
+
+twelve (12) 
+
+seventeen (17)
+
+thirteen (13)   
+
+eighteen (18)
+
+fourteen (14)   
+
+nineteen (19)
+
+fifteen (15)         
+
+
+
+Now listen to and practice these numbers between 20 and 100.
+
+ 
+
+
+
+Notice the numbers that are joined by a hyphen.
+
+twenty (20) 
+
+ twenty-two (22)    
+
+thirty (30) 
+
+thirty-five (35)
+
+forty (40)  
+
+ forty-three (43)   
+
+fifty (50)  
+
+fifty-four (54)
+
+sixty (60)  
+
+ sixty-one (61) 
+
+seventy (70)    
+
+seventy-eight (78)
+
+eighty (80) 
+
+ eighty-six (86)    
+
+ninety (90) 
+
+ninety-seven (97)
+
+ninety-nine (99)    
+
+one hundred (100)         
+
+#### b) Expressions: Asking someone's age
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/20/v/111220/GE_1.2.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+00:03
+
+> A: This is my family.
+> B: They are so cute.
+> A: Thanks!
+> B: What are their names? 
+> A: Sara and Sala.
+> B: How old are they?
+> A: Sala is 11 now and Sara is 13.
+> B: They are beautiful!
+> A: Thanks.
+
+Asking someone's age
+
+
+
+Use the question phrase how old to ask about age.
+
+
+
+ 
+
+
+
+
+
+How old are you?    How old are you?
+
+I'm 25. I'm 25.
+
+​         
+
+
+
+How old is she?     How old is she?
+
+She's 46.   She's 46.
+
+ 
+
+
+
+There are two ways to give an age. You can just give the number. You can also use the phrase years old.
+
+
+
+ 
+
+
+
+
+
+How old are they?   How old are they?
+
+They're 51. They're 51.
+
+​         
+
+
+
+How old is it?  How old is it?
+
+It's 100 years old. It's 100 years old.
+
+​         
+
+
+
+How old is he? 
+
+He's 18 years old.  
+
+ 
+
+How old is Brian?
+
+
+
+Culture note: In English-speaking countries, it is often considered rude to ask someone's age.
+
+
+
+ 
+
+
+
+#### c) Final Task: Giving personal information
+
+You are at the doctor's office. Introduce yourself and give the appropriate personal details when asked.
+
+Listen and record the correct response. When you see a blank, give true information about yourself.
+
+#### 
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/57/7/v/28577/VR_A.2.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+
+
 ```
-A: This is my family.
-B: They are so cute.
-A: Thanks!
-B: What are their names? 
-A: Sara and Sala.
-B: How old are they?
-A: Sala is 11 now and Sara is 13.
-B: They are beautiful!
-A: Thanks.
+A: What's your name?
+B: I'm __
+A: How do you spell that?
+B: It's __
+A: How old are you?
+B: I'm __ years old.
+A: What's your phone number?
+B: It's __
+A: okay. Here you are.
+B: Thank you.
 ```
 
 ### 1-2-4. Describing your office
 
-```
-A: So let me show you around.
-B: okay
-A: That's Joan's office. The meeting rooms are over there. And the restrooms are over there.
-B: OKay
-A: And that's the kitchen
-B: Right. It's a great office./Is it a great office?
-A: Yes, it is.
-```
+#### a) Vocabulary: in the office
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/21/v/111221/GE_1.2.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+
+> A: So let me show you around.
+> B: okay
+> A: That's Joan's office. The meeting rooms are over there. And the restrooms are over there.
+> B: OKay
+> A: And that's the kitchen
+> B: Right. It's a great office./Is it a great office?
+> A: Yes, it is.
+
+Kitchen, coffee machine, meeting room, window, restroom, elevator, office
+
+#### b) Grammar
+
+##### i) Plurals
+
+**Forming plurals**
+
+To make most nouns plural, add an **s** at the end.
+
+desk – desk**s**
+
+office – office**s**
+
+For words that end in **x, sh, s, ss** and **ch**, add **es** at the end.
+
+class – class**es**
+
+**Pronunciation of plurals**
+
+There are three ways to pronounce the final s or es at the end of plural nouns.                               
+
+| /s/      | /z/       | /ɪz/    |
+| -------- | --------- | ------- |
+| desks    | phones    | classes |
+| students | computers | offices |
+| Books    |           |         |
+| Windows  |           |         |
+
+##### ii) Quantifiers
+
+**Basic quantities**
+
+Use **there** is and **there are** to talk about the amount of something. The singular form, **there is,** is often contracted:
+
+**There's a** book on my desk.	There's a book on my desk.
+
+**There are** 12 students in my English class.	There are 12 students in my English class.
+
+
+The expressions **a lot of,** **some** and **a few** are used to describe quantities. Use **a few** for three or four items. Use **some** for any quantity greater than one, but not for a large amount. Use **a lot of** to describe a large amount.
+
+
+
+There are **a few** chairs in the kitchen.	There are a few chairs in the kitchen.
+
+There are **some** computers in the office.	There are some computers in the office.
+
+There are **a lot of** people in my company.	There are a lot of people in my company.
+
+Notice how these words come in front of the noun they describe.
+
+
+
+**There are** a lot of people in my office. There are **a lot** of desks, computers and chairs. There are a **few** meeting rooms and some restrooms. **There is** a kitchen, and there is a coffee machine. There are **some** big windows.
+
+#### c) Final Task: Describing your office
+
+Show a new employee around. When you see a blank, give information about yourself.
+
+ 
+
+> A: Hi, I'm Danny. I'm a new employee.
+>
+> B: Nice to meet you. I'm _____.
+>
+> A: Nice to meet you. it's a big office.
+>
+> B: Yes. so that's the meeting room.
+>
+> A: Okay.
+>
+> B: And there are some restrooms.
+>
+> A: Right.
+>
+> B: And there's the kitchen.
+>
+> A: Great. Is there a coffee machine?
+>
+> B: Yes. There are a few coffee machines.
+>
+> A: Good. It's a great office.
+>
+> B: Yes, it is.
 
 --------
 

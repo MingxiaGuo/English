@@ -1,4 +1,8 @@
-## 0-10 Taking Control 掌控自己的学习
+## 0-10 Taking Control
+
+0-10 Taking Control 掌控自己的学习
+
+---
 
 #### 1 Listening
 
@@ -8,11 +12,15 @@ Autonomous  learning 自主学习
 
 日记 语言APP 用英语发信息，写清单
 
+关于课堂学习策略的视频。观看视频。回答问题。
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/14/v/516414/U10.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 #### 2 Vocabulary
 
 write， notes， dictionary， phone， app， online
 
-- Top five tips to be a successful English learner:
+- Top five tips to be a successful English learner: How do you learn English outside the classroom?
 - One, use your phone in English.
 - Two, use online dictionaries.
 - Three, write English notes on your phone, for example, things to buy.

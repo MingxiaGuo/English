@@ -2,13 +2,13 @@
 
 9-1    Dining out 出去吃饭
 
-9-1-1 Making a dinner reservation 预定晚餐
+* 9-1-1 Making a dinner reservation 预定晚餐
 
-9-1-2 Ordering a meal 点餐
+* 9-1-2 Ordering a meal 点餐
 
-9-1-3 Making polite dinner conversation 用餐时礼貌交谈
+* 9-1-3 Making polite dinner conversation 用餐时礼貌交谈
 
-9-1-4 Ending the meal and paying the check 结束用餐和买单
+* 9-1-4 Ending the meal and paying the check 结束用餐和买单
 
 ---
 
@@ -82,7 +82,7 @@
 
 ---
 
-![](../assets/GE_9.1.1.1.4_epaper_v2.jpg)
+![](./assets/GE_9.1.1.1.4_epaper_v2.jpg)
 
 **Questions:** 
 
@@ -637,8 +637,8 @@ B: I'll be happy to do that!
 
 | **主句**                                                     | **从属分句**                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **We** **ordered** the perfect espresso 我们点了这杯完美的意式浓缩咖啡 | *when **we** **finished** dessert.* 当我们吃完甜品时。       |
-| **Everything** **was** fresh and delicious, 每道食物都很新鲜和美味， | *so **we'll** probably **go** again.* 所以，我们可能还会再去。 |
+| **We** **ordered** the perfect espresso 我们点了这杯完美的意式浓缩咖啡 | when **we** **finished** dessert. 当我们吃完甜品时。         |
+| **Everything** **was** fresh and delicious, 每道食物都很新鲜和美味， | so **we'll** probably **go** again. 所以，我们可能还会再去。 |
 
 
 

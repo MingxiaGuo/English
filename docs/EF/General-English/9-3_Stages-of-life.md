@@ -4,13 +4,10 @@
 
 9-3 Stages of life 人生各阶段
 
-9-3-1 How things have changed 事情是如何改变的
-
-9-3-2 Discussing work-life balance 讨论工作——生活平衡
-
-9-3-3 Changing lifestyle 改变生活方式
-
-9-3-4 Discussing future plans 讨论将来的计划
+* 9-3-1 How things have changed 事情是如何改变的
+* 9-3-2 Discussing work-life balance 讨论工作——生活平衡
+* 9-3-3 Changing lifestyle 改变生活方式
+* 9-3-4 Discussing future plans 讨论将来的计划
 
 ---
 

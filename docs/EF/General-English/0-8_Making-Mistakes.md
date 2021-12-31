@@ -1,4 +1,8 @@
-## 0-8 Making Mistakes 犯错
+## 0-8 Making Mistakes
+
+0-8 Making Mistakes 犯错
+
+---
 
 #### 1 Listening
 
@@ -6,9 +10,13 @@ The importance of Mistakes 犯错的重要性
 
 学习语言主要需要练习，犯错也是练习之一，自己犯错能意识到很重要
 
+关于课堂学习策略的视频。观看视频。回答问题。
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/17/v/516417/U8.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 #### 2 Vocabulary
 
-speak，learn，new，help，wrong，words，mistake，language
+speak，learn，new，help，wrong，words，mistake，language， always 一直, never， sometimes， bad 不好
 
 #### 3 Grammar
 
@@ -25,6 +33,8 @@ always	一直
 - I sometimes try new language.
 - I always try new language.
 
+I always try new language. I sometimes make mistakes
+
 #### 4 Writing
 
 I **sometimes** speak in class. 
@@ -32,6 +42,12 @@ I **sometimes** speak in class.
 I **always** try new language. 
 
 I **sometimes** make mistakes.
+
+I **always** ask for help.
+
+I **sometimes** learn new words.
+
+I **never** make mistakes.
 
 #### 5 Final Task
 

@@ -1,12 +1,11 @@
 ## Unit 5 Shopping
 
-1-5-1 Trying on clothes in s store
+1-5 Shopping
 
-1-5-2 Describing what someone is wearing
-
-1-5-3 Talking to a sales clerk
-
-1-5-4 Talking about where you shop
+* 1-5-1 Trying on clothes in s store
+* 1-5-2 Describing what someone is wearing
+* 1-5-3 Talking to a sales clerk
+* 1-5-4 Talking about where you shop
 
 ----
 
@@ -46,24 +45,13 @@ A small one.
 
 
 
-### 1-5-1 Trying on clothes in s store
+### 1-5-1 Trying on clothes in a store
 
-```
-指示形容词
+Watch the video and study the language.
 
-LAURA:  Hmm.  This shirt.  And ....  How about these pants?  No. 嗯。 这件衬衣。 还有... 这条裤 子怎么样？ 不怎么样。 
-•LAURA:  A skirt.  How about ....  This dress!  No. 一条裙 子。 要不要... 这套衣服！ 不好看
-```
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-```
-颜色词汇
-
-MICHELLE:  I know!  A blue shirt ....  And ....  a long, black skirt.  Nnnh Hnn. 我知道！ 一件蓝色的衬衣... 还有... 一条黑 色长裙 。 嗯。 •
-MICHELLE:  It's too long!  How about .... my new pants?  And ....  My pink T-shirt.  And. My short, black jacket. 这条太长 了！ 我的新裤子怎么样？ 还有... 我的粉红色T恤。 我的黑色短茄克  。
-LAURA:  I know .... white pants!  Or .... green T shirt?  OK .... blue jeans?  No .... the shirt!  And .... my red shoes! 我知道。。。白色的裤子！ 或者...绿色的T恤？ 好的...蓝色牛仔裤  ？ 不是的...是衬衫！ 还有...我的红鞋子！
-```
-
-
+00:01
 
 ```
 [KELLY] Excuse me - can I try these on?
@@ -76,7 +64,394 @@ LAURA:  I know .... white pants!  Or .... green T shirt?  OK .... blue jeans?  N
 [SALES ASSISTANT] How about these shoes?
 ```
 
+
+
+#### a) Vocabulary: Clothes
+
+Clothes – singular and plural
+
+
+
+Some words for clothes are always plural, even though they refer to a single object.
+
+ 
+
+
+
+
+
+pants                           pants
+
+
+
+jeans   jeans
+
+When clothing comes as a pair, it is usually plural.
+
+
+
+
+
+socks                               socks
+
+
+
+shoes   shoes
+
+When you talk about pants, jeans, socks and shoes, you can use the counter a pair of.
+
+ 
+
+
+
+
+
+I have a new pair of pants.     I have a new pair of pants.
+
+
+
+Culture note: In British English, pants means underwear. In the United Kingdom, people say trousers.
+
+ 
+
+
+
+
+
+trousers                                        trousers
+
+ 
+
+
+
+ 
+
+
+
+ a skirt, a pair of socks, a dress, a jacket, a pair of jeans, a pair of pants, a shirt, a pair of shoes, a T-shirt
+
+#### b) Grammar: Demonstartive adjectives
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/4/v/19914/0a.7%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+00:15
+
+You must watch the entire movie once before you can adjust the timeline.
+
+00:41
+
+```
+指示形容词
+
+LAURA:  Hmm.  This shirt.  And ....  How about these pants?  No. 嗯。 这件衬衣。 还有... 这条裤 子怎么样？ 不怎么样。 
+•LAURA:  A skirt.  How about ....  This dress!  No. 一条裙 子。 要不要... 这套衣服！ 不好看
+```
+
+Demonstrative adjectives
+
+ 
+
+Use the demonstrative adjectives this, that, these and those to identify things around you.
+
+ 
+
+Use this and these for things that are near you. Use this for a single object and these for two or more objects.
+
+ 
+
+
+
+this shirt                                      this shirt
+
+
+
+these shirts    these shirts
+
+​         
+
+Use that and those for things that are not near you. Use that for a single object and those for two or more objects.
+
+​         
+
+
+
+that shirt          that shirt
+
+
+
+those shirts    those shirts
+
+ 'Here' and 'there'
+
+ 
+
+Demonstrative adjectives are often used with the location words here and there. Here is used with this and these to indicate something near the speaker. There is used with that and those to indicate something not near the speaker. You can also say over here or over there for emphasis.
+
+ 
+
+
+
+I like this dress over here.    I like this dress over here.
+
+
+
+I really like that shirt there. I really like that shirt there.
+
+
+
+I really like those shoes over there.   I really like those shoes over there.
+
+ 
+
+Intensifier: 'too' + adjective
+
+ 
+
+Use the word too with an adjective to indicate too much of something.
+
+​         
+
+
+
+This dress is too big.  This dress is too big.
+
+
+
+These pants are too small.  These pants are too small.
+
+ 
+
+
+
+
+
+
+
+> JOHN: I like this shop. Hey, how's  **this** jacket?
+> STELLA: It's nice, and I like the color.
+> JOHN: Yeah. And how about  **those** this beautiful pants in the window?
+> STELLA: They're too big for me! How about **that** shirt for you?
+> JOHN: I like it. The color's nice.
+> STELLA: Great. I really like it, too. How about **these** shoes?
+> JOHN: Nah. I don't think so. They're too big!
+> STELLA: Oh, well. Let's go back to work.
+
+
+
+This shirt is **too** big for me. 
+**These** shoes here are nice.
+**That** shirt over there is really expensive.
+**Those** pants in the window are great!
+**This** shirt here is beautiful.
+
+
+
+I really like that shirt over there.
+
+These shoes here are nice
+
+Those pants in the window are great!
+
+This skirt is nice, but it's expensive.
+
+I like the color of that sweater there.
+
+This shirt is too big for me.
+
+#### c) Expressions: Asking for opinions
+
+Asking for opinions
+
+
+
+Use the phrases what about and how about to ask someone's opinion about something.
+
+ 
+
+
+
+
+
+A: What about this dress?
+
+
+
+What about this dress?
+
+
+
+B: It's beautiful.
+
+
+
+It's beautiful.
+
+​         
+
+
+
+A: How about those shoes?
+
+
+
+How about those shoes?
+
+
+
+B: They're ugly!
+
+
+
+They're ugly!
+
+​         
+
+You can also use What do you think? to ask someone's opinion.
+
+ 
+
+
+
+A: What do you think?   What do you think?
+
+
+
+B: I think it's nice.   I think it's nice.
+
+
+
+
+
+> BRIAN: What **about** this T-shirt?
+> SHARON: It's too big.
+> BRIAN: **How** about these jeans?
+> SHARON: They're nice. I like them.
+> BRIAN: Do you **like** that shirt in the window?
+> SHARON: No, I **don't** . It's ugly. But I like this dress. What do you **think** ?
+> BRIAN: It's beautiful.
+> SHARON: I really **like it** , too.
+
+
+
+What about these pants?
+
+They're too short.
+
+Try to repeat the audio.
+
+Correct Try again!
+
+2 / 6How about this dress?
+
+Try to repeat the audio.
+
+Correct Try again!
+
+3 / 6
+
+NEXT
+
+Back to top
+
+[ENGLISH](https://ec.ef.com.cn/school/studyunit#)
+
+[**All EF Programs**](http://www.ef.com/)
+
+Copyright © 2006 - 2021 EF Education First.
+
+Translate
+
+<iframe id="weava-popover-iframe" scrolling="no" frameborder="0" src="chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/iframe/popoverIframe/popover-index.html" style="text-size-adjust: auto !important; display: block; top: 418px; right: 50px; z-index: 2147483645 !important; margin: 0px !important; animation-delay: 0s !important; animation-direction: normal !important; animation-duration: 0.18s !important; animation-fill-mode: forwards !important; animation-iteration-count: 1 !important; animation-name: pop-upwards !important; animation-timing-function: linear !important; transition: top 0.075s ease-out 0s, left 0.075s ease-out 0s !important; position: fixed !important; opacity: 1 !important; background: none !important; width: 178px !important; height: 77px !important; user-select: auto; pointer-events: all !important; border: none !important; left: 596.219px;"></iframe>
+
+
+
+I really like it.
+
+Do you like that skirt in the window?
+
+No, I don't. It's ugly.
+
+#### d) Final Task: Trying on clothes in a store
+
+You are in a clothing shop looking at clothes with a friend. Answer her questions about the clothing she shows you, then ask her questions about the clothing you see.
+
+ 
+
+Listen and record the correct response.
+
+```
+A: How abut these jeans?
+B: They're too big.
+A: What about this dress?
+B: It's nice. I like it.
+A: Do you like that shirt in the window
+B: No, I don't. It's ugly.
+A: Yes it is
+B: But what about this T-shirt?
+A: It;s beautiful
+B: I really like it, too.
+```
+
+```
+
+```
+
+
+
+```
+[BRIAN]: What about this T-shirt?
+[SHARON]: It's too big.
+[BRIAN]: How about these jeans?
+[SHARON]: They're nice. I like them.
+[BRIAN]: Do you like that shirt in the window?
+[SHARON]: No, I don't . It's ugly. But I like this dress. What do you think ?
+[BRIAN]: It's beautiful.
+[SHARON]: I really like it , too.
+```
+
 ### 1-5-2 Describing what someone is wearing
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/20/05/8/v/20058/0a.7%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+```
+颜色词汇
+
+MICHELLE:  I know!  A blue shirt ....  And ....  a long, black skirt.  Nnnh Hnn. 我知道！ 一件蓝色的衬衣... 还有... 一条黑 色长裙 。 嗯。 •
+MICHELLE:  It's too long!  How about .... my new pants?  And ....  My pink T-shirt.  And. My short, black jacket. 这条太长 了！ 我的新裤子怎么样？ 还有... 我的粉红色T恤。 我的黑色短茄克  。
+LAURA:  I know .... white pants!  Or .... green T shirt?  OK .... blue jeans?  No .... the shirt!  And .... my red shoes! 我知道。。。白色的裤子！ 或者...绿色的T恤？ 好的...蓝色牛仔裤  ？ 不是的...是衬衫！ 还有...我的红鞋子！
+```
+
+
+
+#### a) Vocabulary: color
+
+black, yellow, green, blue, white, purple, pink, brown, red
+
+#### b) Grammar: Present continuous 
+
+
+
+**The present continuous**
+ 
+
+Use the present continuous for actions that are happening now. Form the present continuous with the verb **be** and a verb **+ ing**.
+ 
+
+| **statements** | **negatives** |                                                              |              |                    |
+| -------------- | ------------- | ------------------------------------------------------------ | ------------ | ------------------ |
+| **subject**    | **be**        | **verb + ing**                                               | **be + not** | **verb** **+ ing** |
+| I              | **am**        | **coming.**                                                  | I'm not      | **coming.**        |
+| You            | **are**       | You're notYou aren't                                         |              |                    |
+| HeSheIt        | **is**        | He's notHe isn'tShe's notShe isn'tIt's notIt isn't           |              |                    |
+| WeYouThey      | **are**       | We're notWe aren'tYou're notYou aren'tThey're notThey aren't |              |                    |
+
+ 
+
+#### c) Final Task: Describing what someone is wearing
 
 ```
 [JOHN]: I like this shop. Hey, how's this that these those jacket?
@@ -90,14 +465,7 @@ LAURA:  I know .... white pants!  Or .... green T shirt?  OK .... blue jeans?  N
 ```
 
 ```
-[BRIAN]: What about this T-shirt?
-[SHARON]: It's too big.
-[BRIAN]: How about these jeans?
-[SHARON]: They're nice. I like them.
-[BRIAN]: Do you like that shirt in the window?
-[SHARON]: No, I don't . It's ugly. But I like this dress. What do you think ?
-[BRIAN]: It's beautiful.
-[SHARON]: I really like it , too.
+
 ```
 
 ```

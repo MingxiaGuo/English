@@ -1,4 +1,8 @@
-## 0-9 The 6 sounds to master 六个最难掌握的音
+## 0-9 The 6 sounds to master 
+
+0-9 The 6 sounds to master 六个最难掌握的音
+
+---
 
 #### 1 Listening
 
@@ -10,6 +14,10 @@ Reading for Fluency 为了流畅度的阅读
 
 beach sun mother think fish voice
 
+关于课堂学习策略的视频。观看视频。回答问题。
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/13/v/516413/U9.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 #### 2 Pronunciation
 
 sit meet every there yes month sheet sleep
@@ -17,6 +25,8 @@ sit meet every there yes month sheet sleep
 #### 3 Final Task
 
 阅读的时候读出声来有助于发音学习。大声朗读这些单词。
+
+which word has the  /i/ sound?
 
 fish	鱼	                                                                                                             
 
@@ -30,3 +40,4 @@ voice	声音
 
 sun	太阳
 
+tin slip very sink

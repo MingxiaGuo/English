@@ -1,6 +1,6 @@
 ## 0-6 Vital verbs 重要动词
 
-0-6 重要动词
+0-6  Vital verbs 重要动词
 
 ---
 
@@ -26,13 +26,26 @@ Ding: Do you drink hot/cold **water** ?
 
 Lucy: No, I drink hot **tea/water** .
 
+Ding: I drink hot water.
+
+
+
 Lucy: Do you eat **vegetables** ?
 
-Ding: No, I don't.
+Ding: No, I don't. I eat fish and cold noodles in summer.
+
+
+
+Lucy: Do you eat cold noodles?
+
+Ding: Yes. I do. I eat cold noodles/
 
 #### 3 Final Task
 
-新词汇 - 动词：购买、喝、吃。名词：蔬菜、面条、鱼、水、茶。新形容词：热的、冷的。
+新词汇 
+
+* 动词：购买、喝、吃。名词：蔬菜、面条、鱼、水、茶。
+* 形容词：热的、冷的。
 
 Ding: Do you drink hot water? 你喝热水吗？ 
 
@@ -46,7 +59,6 @@ Ding: No, I drink hot water.	不、我喝热水。
 
 
 I buy cold water.	我买冷水。
-
 
 I buy noodles and fish and tea.	我买面条和鱼和茶。
 
@@ -65,4 +77,12 @@ I buy noodles.	我买面条。
 I drink tea.	我喝茶。
 
 I don't **buy** cold fish.
+
+
+
+A: Do you drink hot water?
+
+B: Yes. I drink hot water.
+
+
 

@@ -1,6 +1,6 @@
 ## 0-5 Building Sentences
 
- 0-5 构句
+ 0-5 Building Sentences 构句
 
 ---
 
@@ -16,7 +16,7 @@
 
 #### 2 Expressions 表达
 
-team， customers， go (to) 前往，work (in) 工作，meet 见面，write，emails，meetings
+team 团队， customers 客户， go (to) 前往，work (in) 工作，meet 见面，write，emails 电子邮件，meetings 会议
 
 #### 3 Grammar 语法
 

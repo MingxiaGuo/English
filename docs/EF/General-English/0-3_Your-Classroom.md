@@ -1,8 +1,14 @@
 ## 0-3 Your Classroom
 
-0-3 你的课堂
+0-3 Your Classroom 你的课堂
+
+* 0-3-1 Prepare for class 课前准备
+
+* 0-3-2 Review and practice 复习和练习
 
 ---
+
+### 0-3-1 Prepare for class 课前准备
 
 #### 1 Listening: Your Classroom
 
@@ -26,13 +32,29 @@ In groups ...	分组 ......
 
 In pairs ...	两人一组 ......
 
+|                        |                                                              |                    |
+| ---------------------- | ------------------------------------------------------------ | ------------------ |
+| write                  | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/write.jpg" style="zoom:10%;" /> | 写                 |
+| read                   | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/read.png" style="zoom:10%;" /> | 读                 |
+| listen                 | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/listen.jpg" style="zoom:10%;" /> | 听                 |
+| talk                   | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/talk.png" style="zoom:10%;" /> | 谈话               |
+| in pairs               | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/in-pairs.png" style="zoom:10%;" /> | 两人一组           |
+| write in pairs         | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/write-in-pairs.png" style="zoom:10%;" /> | 两人一起写作       |
+| talk in groups         | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/talk-in-groups.jpg" style="zoom:5%;" /> | 分组讨论           |
+| in groups              | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/in-groups.jpg" style="zoom:10%;" /> | 分组               |
+| Can I have some paper? | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/Can-i-have-some-paper.png" style="zoom:10%;" /> | 我可以要些纸吗？   |
+| I don't understand     | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/I-dont-understand.jpg" style="zoom:5%;" /> | 我不懂。           |
+| Can I have a pen?      | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/can-i-have-a-pen.jpg" style="zoom:5%;" /> | 我可以要一支笔吗？ |
+
+
+
 #### 3 Expressions: Your Classroom
 
 Can you repeat that please?	可以请你再重复一遍吗？
 
 Can I have a pen, please?	我可以要一支笔吗？
 
-Can I have some paper?
+Can I have some paper? 
 
 Can you read this?
 
@@ -50,7 +72,21 @@ Listen to the audio
 
 I don't understand.	我不懂。
 
+read  读
+
+write 写
+
+talk 谈话
+
+listen 听
+
+in groups. 分组 ......
+
+in pairs. 两人一组 ......
+
 #### 4 Final Task: Your Classroom
 
+Some we work in pairs
 
+I don't understand. Can you please repeat that?
 
