@@ -1,4 +1,4 @@
-## n1-4 People
+## 1-4 People
 
 1-4 People
 
@@ -122,8 +122,6 @@ makeup remover
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/15/v/111215/GE_1.4.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-metadata"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
-
-
 ```
 [TODD] Wow! Is that your family?
 [SALLY] Yeah. It’s big, huh?
@@ -136,8 +134,6 @@ makeup remover
 [TODD] Actually, I’m an only child.
 [TODD] But, I have Silas, Sarah and my wife, Angela.
 ```
-
-
 
 #### a) Vocabulary
 
@@ -155,40 +151,27 @@ family, father, mother, sister, brother, aunt, uncle, grandfather, grandmother
 
 ##### i) Simple present statements
 
-**Simple present statements**
+* **一般现在时陈述句**： Use the simple present to state facts and habits. Look at the chart to see how the simple present is formed. Use the verb **+ s** after **he**, **she** and **it**.
+| **Statements** 陈述句 |                |            |
+| --------------------- | -------------- | ---------- |
+| **subject**           | **verb**       | **object** |
+| I/You                 | come from      | Italy.     |
+| He/She/It             | come**s from** | Italy.     |
+| We/You/They           | come from      | Italy.     |
 
- 
+* **Simple present negatives** **一般现在时的否定句**： To make a negative statement in the present simple with **I**, **you**, **we** or **they**, use **do not +** main verb. With **he**, **she** or **it**, use **does not +** main verb. Notice that the main verb doesn't change.
 
-Use the simple present to state facts and habits. Look at the chart to see how the simple present is formed. Use the verb **+ s** after **he**, **she** and **it**.
+  In spoken English, the negative **do not** is almost always contracted to **don't**. The negative **does not** is almost always contracted to **doesn't**.
 
 
+| **Negatives**否定句 |                       |            |
+| ------------------- | --------------------- | ---------- |
+| **subject**         | **verb**              | **object** |
+| I/You               | **don't** come from   | Italy.     |
+| He/She/It           | **doesn't** come from | Italy.     |
+| We/You/They         | **don't** come from   | Italy.     |
 
-| **Statements** |                |            |
-| -------------- | -------------- | ---------- |
-| **subject**    | **verb**       | **object** |
-| IYou           | come from      | Italy.     |
-| HeSheIt        | come**s from** | Italy.     |
-| WeYouThey      | come from      | Italy.     |
-
- **Simple present negatives**
-
-To make a negative statement in the present simple with **I**, **you**, **we** or **they**, use **do not +** main verb. With **he**, **she** or **it**, use **does not +** main verb. Notice that the main verb doesn't change.
-
-In spoken English, the negative **do not** is almost always contracted to **don't**. The negative **does not** is almost always contracted to **doesn't**.
- 
-
-| **Negatives** |                       |            |
-| ------------- | --------------------- | ---------- |
-| **subject**   | **verb**              | **object** |
-| IYou          | **don't** come from   | Italy.     |
-| HeSheIt       | **doesn't** come from | Italy.     |
-| WeYouThey     | **don't** come from   | Italy.     |
-
- **Irregular verb 'have'**
-
- 
-
-For the verb **have**, use the form **has** for the third person – **he, she** and **it**. With the negative of **have**, the word **any** is usually used. When the verb **have** is negative, do not use the form **has**.
+* **Irregular verb 'have'** **不规则动词'have'**： For the verb **have**, use the form **has** for the third person – **he, she** and **it**. With the negative of **have**, the word **any** is usually used. When the verb **have** is negative, do not use the form **has**.
 
 |      | *I **have** one brother.*            | I have one brother.            |
 | ---- | ------------------------------------ | ------------------------------ |
@@ -321,118 +304,28 @@ They come from Japan.
 
 ##### ii) Questions with 'how many'
 
-Questions with 'how many'
+**用'how many'提问的问句：** 
 
+* Use **how many** to ask about quantity
 
+  * A： **How many** people are in your family?  
 
-Use how many to ask about quantity.
+    B： There are four people in my family.｜I have two sisters and one brother.｜I am an only child.
 
- 
 
+* In **how many** questions, the noun is always plural.在**how many**的问句中，名词总是复数的
+  * How many student**s** are there?    There are eight students.
 
-
-
-
-​    
-
-How many people are in your family?
-
-
-
-How many people are in your family?
-
-
-
-In how many questions, the noun is always plural.
-
-
-
-
-
-How many students are there?
-
-
-
-How many students are there?
-
-
-
-Notice that some nouns, like the word people, are irregular plurals and don't end in s.
-
-
-
-
-
-​    How many people are there?  How many people are there?
-
-
-
-There are six people.   There are six people.
-
-
-
-
-
-
-How
-
-many
-
-people
-
-are
-
-there?
-
-
-
-
-How
-
-many
-
-students
-
-are
-
-there?
-
-
-How
-
-many
-
-people
-
-live
-
-here?
-
-
-
-How many students are there?
-
-There are eight students.
-
-How many people are in your family?
-
-There are four people in my family.
-
-I have two sisters and one brother.
-
-I am an only child.
-
+* Notice that some nouns, like the word **people**, are irregular plurals and **don't** end in **s**.
+  * How many **people** are there?  There are six **people**. 
+  * How many **people** live here?
 
 
 #### c) Final Task: Talking about families
 
 A friend is talking about her family.
 
- 
-
 Listen and record the correct response. When you see a blank, give true information about yourself.
-
-
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/57/9/v/28579/VR_A.4.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
@@ -449,24 +342,7 @@ A: They are nineteen and tewnty-one. how many people are in your family?
 B: There are __ people in my family.
 A: where are you from?
 B: we're from__
-A: 
 ```
-
-
-
-```
-
-```
-
-```
-询问对方职业
-
-
-```
-
-
-
-
 
 ```
 I live with John Harrison. He and I are friends. John is from the United Kingdom. He is 25 years old. He's tall and has brown hair and eyes. John is very intelligent and hardworking . He is very friendly . He always smiles.
@@ -480,10 +356,6 @@ Watch the video and study the language.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/1/v/19911/0a.6%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-00:10
-
-00:03You must watch the entire movie once before you can adjust the timeline.
-
 ```
 [JAMES] So. Tell me about your date with Laura.
 [KEN] She's nice.
@@ -494,10 +366,6 @@ Watch the video and study the language.
 [KEN] And she has a cute smile.
 [JAMES]:  Uh?  Ken?  Ken? 
 ```
-
-
-
-#### 
 
 ##### i) Head and face
 
@@ -523,15 +391,11 @@ She has blue eyes.
 
 They have brown hair.
 
-
-
 #### b) Expressions: Asking what someone looks like
 
 Watch the video and study the language.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/90/9/v/19909/0a.6%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
-
-00:
 
 ```
 [MICHELLE] Hi
@@ -550,128 +414,60 @@ Watch the video and study the language.
 [MICHELLE] Does he have a brother?
 ```
 
-Asking for a description of someone
+**Asking for a description of someone****询问对某人的描述**
 
+* Use the following questions to ask for **general descriptions of people.**
 
+  * What does he look like?
 
-Use the following questions to ask for general descriptions of people.
+  * What does she look like?
 
+  * What do they look like?
 
+* Use the following questions to ask about someone's **hair color**.
+  * What color is his hair?
 
+* Use the following question to ask about the **length of someone's hair**.
+  * Is his hair long or short?
 
+* Use the following questions to ask about someone's **eye color**.
 
-What does he look like?
+  * What color are her eyes?                
+  * What color are his eyes? In British English, the word color is spelled colour. 
 
-What does he look like?
+* Use the following question to ask about someone's **height**.
+  * Is he tall or short? 
 
+* Use the conjunction **or** to list choices.
+  * Are his eyes blue or brown?
 
+* Use the adverb **very** before an adjective, like **long**, to make the adjective stronger.
 
-What does she look like?
+  * A: What does he look like?  
 
-What does she look like?
+    B: He has very long hair.  
 
+------
 
-
-What do they look like?
-
-What do they look like?
-
- 
-
-Use the following questions to ask about someone's hair color.
-
-
-
-
-
-What color is his hair?
-
-What color is his hair?
-
- 
-
-Use the following question to ask about the length of someone's hair.
-
-
-
-
-
-Is his hair long or short?
-
-Is his hair long or short?
-
-Use the following questions to ask about someone's eye color.
-
-
-
-
-
-What color are her eyes?                
-
-What color are her eyes?
-
-
-
-What color are his eyes?
-
-What color are his eyes?
-
-
-
-In British English, the word color is spelled colour.
-
-
-
- 
-
-Use the following question to ask about someone's height.
-
-
-
-
-
-Is he tall or short?
-
-Is he tall or short?
-
- 
-
-Use the conjunction or to list choices.
-
-
-
-
-
-Are his eyes blue or brown?
-
-Are his eyes blue or brown?
-
- 
-
-Use the adverb very before an adjective, like long, to make the adjective stronger.
-
-
-
-
-
-A: What does he look like?  What does he look like?
-
-B: He has very long hair.   He has very long hair.
-
-
-
-
-
-- - What does she look like?
-  - She's beautiful!
-- - What color are his eyes?
-  - They're brown.
-- - What color is her hair?
-  - It's blond.
-- - Is he tall or short?
-  - He's very short.
-- - Is her hair long or short?
-  - It's short.
+- What does she look like?
+  
+  She's beautiful!
+  
+- What color are his eyes?
+  
+  They're brown.
+  
+- What color is her hair?
+  
+  It's blond.
+  
+- Is he tall or short?
+  
+  He's very short.
+  
+- Is her hair long or short?
+  
+  It's short.
 
 
 
@@ -708,8 +504,6 @@ She's very tall.
 
 Listen to your friend describing her new boyfriend. Find out what he looks like.
 
- 
-
 Listen and record the correct response.
 
 ```
@@ -726,18 +520,6 @@ B: Is he tall ot short?
 A: He is very tall.
 B: How old is he?
 A: He is 25
-```
-
-
-
-```
-询问对方长相
-
-
-```
-
-```
-
 ```
 
 ```
@@ -765,8 +547,6 @@ PAUL:  Long, dark hair.  I like long, dark hair. 长黑发 。 我喜欢长黑�
 •JAMES:  Well you're not tall. 但是你也不高
 ```
 
-
-
 ### 1-4-3. Describing a colleague
 
 Watch the video and study the language.
@@ -790,191 +570,61 @@ Watch the video and study the language.
 [TODD] She’s a really good manager.
 ```
 
-
-
 #### a) Vocabulary: Adjectives for describing colleagues
 
-Antonyms
+**Antonyms反义词**
 
+* When you are learning adjectives, it's helpful to learn their opposites, or antonyms, at the same time. Look at the adjectives and their opposites:
+  * hardworking – lazy
+  * intelligent – stupid
+  * serious – funny
+  * good – bad
 
-
-When you are learning adjectives, it's helpful to learn their opposites, or antonyms, at the same time. Look at the adjectives and their opposites:
-
-hardworking – lazy
-
-intelligent – stupid
-
-serious – funny
-
-good – bad
-
-Use the prefix un- to change some adjectives to their opposites.
-
-happy – unhappy
-
-happy – unhappy
-
-friendly – unfriendly
-
-friendly – unfriendly
-
-
-
- 
-
-
+* Use the prefix un- to change some adjectives to their opposites.
+  * happy – unhappy
+  * happy – unhappy
+  * friendly – unfriendly
+  * friendly – unfriendly
 
 #### b) Grammar: object pronouns
 
-Object pronouns
+宾格
 
+* Use object pronouns after prepositions such as **in, from, to, for** and **with**.
 
+  * I have a question **for him**.     
 
-Use object pronouns after prepositions such as in, from, to, for and with.
+  * She is very friendly **to me.**
 
- 
 
+* Use the preposition **with** when describing the relationship of one thing to another
+  * John is **with** **them**.                   
 
 
+* Look at the chart to see all of the object pronouns.
 
+| Subject pronouns主格 | Object pronouns宾格 |                                                  |
+| -------------------- | ------------------- | ------------------------------------------------ |
+| I                    | me                  | John always comes to Paris **with me.**          |
+| you                  | you                 | I have a question **for you.**                   |
+| he                   | him                 | Mary is **with him**.                            |
+| she                  | her                 | I am always very friendly **to her.**            |
+| it                   | it                  | He has a big house. Seven people live **in it.** |
+| we                   | us                  | My grandmother lives **with us.**                |
+| they                 | them                | John is **with them.**                           |
 
-I have a question for him.      
+ We have a question for him.
 
 
+His brother lives with us.
 
-I have a question for him.
 
-
-
-She is very friendly to me.
-
-
-
-She is very friendly to me.
-
-Use the preposition with when describing the relationship of one thing to another.
-
-
-
-
-
-John is with them.                   
-
-
-
-John is with them.
-
- 
-
-Look at the chart to see all of the object pronouns.
-
-​                 
-
-Subject pronouns    Object pronouns     
-
-​       
-
-
-
- 
-
-I   me  
-
- 
-
-
-
-John always comes to Paris with me.
-
-John always comes to Paris with me.
-
-you you  
-
-
-
-I have a question for you.  I have a question for you.
-
-he  him  
-
-
-
-Mary is with him.   Mary is with him.
-
-she her  
-
-
-
-I am always very friendly to her.   I am always very friendly to her.
-
- Subject pronouns   Object pronouns          
-
-it  it   
-
-
-
-He has a big house. Seven people live in it.    He has a big house. Seven people live in it.
-
-we  us   
-
-
-
-My grandmother lives with us.   My grandmother lives with us.
-
-they    them     
-
-
-
-John is with them.  John is with them.
-
- 
-
-
-We
-
-have
-
-a
-
-question
-
-for
-
-him.
-
-
-His
-
-brother
-
-lives
-
-with
-
-us.
-
-
-I
-
-live
-
-with
-
-them.
+I live with them.
 
 They look unhappy to me.
 
 
-He
-
-always
-
-goes
-
-with
-
-you.
-
-
+He always goes with you.
 
 They always come with  her .
 
@@ -992,101 +642,33 @@ Seven people live in it.
 
 I always go to Beijing with them.
 
-
-
 #### c) Expressions: Describing personality
 
-Describing personality
+**Describing personality 描述性格**
 
+* Use the questions below to ask about someone's personality.
 
+  * A: **What's she/he like**? 她看起来怎么样？
 
-Use the questions below to ask about someone's personality.
+    B: She's hardworking.
 
- 
+  * A: **What are they like**?              
 
+    B: They're friendly.
 
+  * A: Is she tall or short?
 
+    B: She has long, black hair.
 
+* Adjectives 形容词： There are different ways to describe someone's personality. For example, you can use adjectives.
+  * He's **lazy**.           
+  * She's **friendly**.          hardworking              
+  * They're **funny**.  
 
-A: What's she like?
-
-What's she like?
-
-
-
-B: She's hardworking.
-
-She's hardworking.
-
-​         
-
-
-
-A: What are they like?              
-
-What are they like?
-
-
-
-B: They're friendly.
-
-They're friendly.
-
- Adjectives
-
-
-
-There are different ways to describe someone's personality. For example, you can use adjectives.
-
- 
-
-
-
-
-
-He's lazy.           
-
-He's lazy.
-
-
-
-She's friendly.                        
-
-She's friendly.
-
-
-
-They're funny.  They're funny.
-
-
-
-Adverbs
-
-
-
-You can also use adverbs to describe personality. Use the adverb always to describe a behavior that happens all the time. Use the adverb never to describe a behavior that happens none of the time.
-
- 
-
-
-
-
-
-She never smiles.                  
-
-She never smiles.
-
-
-
-They're always busy.
-
-They're always busy.
-
-
-
-He always looks unhappy.    He always looks unhappy.
-
-
+* Adverbs副词：You can also use adverbs to describe personality. Use the adverb **always** to describe a behavior that happens all the time. Use the **adverb** never to describe a behavior that happens none of the time.
+  * She **never** smiles.  ｜  She's never busy.     
+  * They're **always** busy.｜He **always** looks unhappy.    
+  * They're **very** hardworking.   
 
 ```
 I live with John Harrison. He and I are friends. John is from the United Kingdom. He is 25 years old. He's tall and has brown hair and eyes. John is very intelligent and hardworking. He is very friendly. He always smiles.
@@ -1097,25 +679,9 @@ What does John look like?
 What is John like?  He's hardworking and intelligent.
 ```
 
-
-
-She's never busy.
-
-They're very hardworking.
-
-He has long, black hair.
-
-Is she tall or short?
-
-What's he like?
-
-
-
 #### d) Final Task: Describing a colleague
 
 Describe a female friend to a colleague. When you see a blank, give true information.
-
- 
 
 Listen carefully and then record the correct answer.
 
@@ -1158,45 +724,37 @@ FRANK:  What do we do?  Well. 我们做什么工作？ 嗯...
 •MARY:  I like my job. 我喜欢我的工作。 •FRANK:  Me too. 我也是
 ```
 
-
-
 #### a) Vocabulary: Jobs
 
 firefighter, sales assistant, engineer, doctor, teacher, secretary, artist, architect, manager
 
 #### b) Grammar: Simple present questions
 
+**一般现在时疑问句**
+
 To form yes-no questions in the simple present, put the word **do** before **I**, **you**, **we** and **they**. Put **does** before **he**, **she** and **it**. Put the verb after the pronoun. Look at the chart to see examples of questions.
 
-
-
-| **Yes-no questions** | **Short answers**   |                  |                             |                                 |
-| -------------------- | ------------------- | ---------------- | --------------------------- | ------------------------------- |
-| **do / does**        | **subject pronoun** |                  | **yes**                     | **no**                          |
-| Do                   | you                 | like your job?   | Yes, I do.                  | No, I don't.                    |
-| Does                 | heshe               | live in Berlin?  | Yes, he does.Yes, she does. | No, he doesn't.No, she doesn't. |
-| Does                 | it                  | come from Italy? | Yes, it does.               | No, it doesn't.                 |
-| Do                   | they                | like their jobs? | Yes, they do.               | No, they don't.                 |
-
-
+| **Yes-no questions** 一般疑问句 |                          |                  | **Short answers**简短回答   |                                 |
+| ------------------------------- | ------------------------ | ---------------- | --------------------------- | ------------------------------- |
+| **do / does**                   | **subject pronoun** 主格 |                  | **yes**                     | **no**                          |
+| Do                              | you                      | like your job?   | Yes, I do.                  | No, I don't.                    |
+| Does                            | he/she                   | live in Berlin?  | Yes, he does.Yes, she does. | No, he doesn't.No, she doesn't. |
+| Does                            | it                       | come from Italy? | Yes, it does.               | No, it doesn't.                 |
+| Do                              | they                     | like their jobs? | Yes, they do.               | No, they don't.                 |
 
 To form simple present questions with question words, put the question word before **do** or **does**.
 
 
- 
+| **question words** 疑问词 | **do / does** |           |
+| ------------------------- | ------------- | --------- |
+| Where                     | do            | you live? |
+| What                      | does          | he do?    |
+| How many sisters          | do            | you have? |
+| Where                     | do            | you work? |
 
-| **question words** | **do / does** |           |
-| ------------------ | ------------- | --------- |
-| Where              | do            | you live? |
-| What               | does          | he do?    |
-| How many sisters   | do            | you have? |
-| Where              | do            | you work? |
+Does she work in an office?
 
- 
-
- Does she work in an office?
-
-Do  they live in Korea?
+Do  they live in Korea? Do you live in Paris?
 
 Where does  John work?
 
@@ -1204,90 +762,31 @@ What do they do?
 
 Where does it come from?
 
-How many brothers does you have?
+How many brothers/sisters does you have?
 
-
-
-
-Do
-
-you
-
-like
-
-your
-
-job?
-
-
-How
-
-many
-
-sisters
-
-do
-
-you
-
-have?
-
-
-What
-
-do
-
-they
-
-do?
-
-
-Where
-
-does
-
-he
-
-live?
-
-
-Do
-
-you
-
-live
-
-in
-
-Paris?
-
-
-Where
-
-do
-
-they
-
-work?
-
-
-
-
-
-
-
-- - Where does she come from?
-  - She comes from Italy.
-- - Do they work in an office?
-  - No, they don't.
-- - How many does he have?
-  - He has six.
-- - Where do they work?
-  - In an office.
-- - Where does he live?
-  - He lives in Russia.
-- - Does he live in Brazil?
-  - No, he doesn't.
+- Where does she come from?
+  
+  She comes from Italy.
+  
+- Do they work in an office?
+  
+  No, they don't.
+  
+- How many does he have?
+  
+  He has six.
+  
+- Where do they work?
+  
+  In an office.
+  
+- Where does he live?
+  
+  He lives in Russia.
+  
+- Does he live in Brazil?
+  
+  No, he doesn't.
 
 #### c) Expressions: Networking
 
@@ -1301,111 +800,34 @@ Watch the video and study the language.
 [LAURA] : So what do I do? I'm a doctor.
 ```
 
+**Networking联谊**： At networking events, it's important to try to meet as many people as possible in a short amount of time, so the conversations may be very fast. People want to find out quickly what others do, where they work and where they live to see if they have enough in common to have a longer conversation.
 
+* **Common questions:**
 
+  * What do you do?                I'm a doctor.      
 
+  * What company do you work for?  
 
-Networking
+  * Do you like your job?   I like it very much
 
 
+* Although it is not recommended to ask someone whether they are married or if they have children, it is okay to ask follow-up questions if they mention one of these topics.
 
-At networking events, it's important to try to meet as many people as possible in a short amount of time, so the conversations may be very fast. People want to find out quickly what others do, where they work and where they live to see if they have enough in common to have a longer conversation.
+  * A: I live with my wife in New York. 
 
+    B: What does your wife do? 
 
+    A: She's a teacher.
 
-Common questions:
+* When you are talking to someone at a networking event, it's important to keep the conversation going. Even a short response is better than silence. Your responses can be positive, neutral or sympathetic.
 
- 
-
-
-
-
-
-What do you do?                         What do you do?
-
-
-
-What company do you work for?   What company do you work for?
-
-
-
-Do you like your job?   Do you like your job?
-
-Although it is not recommended to ask someone whether they are married or if they have children, it is okay to ask follow-up questions if they mention one of these topics.
-
-
-
-
-
-A: I live with my wife in New York. I live with my wife in New York.
-
-
-
-B: What does your wife do?  What does your wife do?
-
-
-
-​    When you are talking to someone at a networking event, it's important to keep the conversation going. Even a short response is better than silence. Your responses can be positive, neutral or sympathetic.
-
-
-
-Positive:
-
- 
-
-
-
-
-
-That's interesting. That's interesting.
-
-
-
-Really? Really?
-
-
-
-That's great!   That's great!
-
-
-
-
-
-Neutral:
-
- 
-
-
-
-
-
-I see.                                              I see.
-
-
-
-Uh-huh. Uh-huh.
-
-
-
-Oh. Oh.
-
-
-
-Sympathetic:
-
- 
-
-
-
-
-
-That's too bad.                         That's too bad.
-
-
+| Positive            | Neutral:        | Sympathetic:    |
+| ------------------- | --------------- | --------------- |
+| That's interesting. | I see.          | That's too bad. |
+| Really?             | Uh-huh. Uh-huh. |                 |
+| That's great!       | Oh.             |                 |
 
 ```
-
-
 ANN: Hi! I'm Ann.
 HARRY: Nice to meet you. I'm Harry.
 ANN: Nice to meet you  too !
@@ -1422,29 +844,9 @@ ANN: He's an artist.
 HARRY: That's interesting .
 ```
 
-What do you do?
-
-I'm a doctor.
-
-Do you like your job?
-
-I like it very much
-
-What does your wife do?
-
-She's a teacher.
-
-Try to repeat the audio.
-
-Correct Try again!
-
-6 / 6
-
 #### d) Final Task: Meeting people at a networking event
 
-You are at a business conference. Introduce yourself.
-
- 
+You are at a business conference. Introduce yourself. 
 
 Listen and record the correct response. When you see a blank, give true information about yourself.
 
@@ -1467,7 +869,7 @@ B: That's interesting.
 
 
 
-
+=====================================================================
 
 ```
 •KEN:  So how many people are in your family? 那么，你们家有几口人呢？ 
@@ -1504,7 +906,7 @@ LAURA:  He's twenty three years old.  My brother's a student.  He lives in Paris
 
 
 
-![](../assets/parts-of-the-body.jpg)
+![](../../assets/parts-of-the-body.jpg)
 
 ### The Face
 

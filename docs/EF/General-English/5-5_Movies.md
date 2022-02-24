@@ -2,17 +2,16 @@
 
 5-5    Movies 电影
 
-5-5-1 Talking about a movie you recently saw 谈论你最近看过的电影
-
-5-5-2 Describing your favorite movie 描述你最爱的电影
-
-5-5-3 Choosing a movie to see 选择一部要看的电影
-
-5-5-4 Writing about a movie 写关于一个电影
+* 5-5-1 Talking about a movie you recently saw 谈论你最近看过的电影
+* 5-5-2 Describing your favorite movie 描述你最爱的电影
+* 5-5-3 Choosing a movie to see 选择一部要看的电影
+* 5-5-4 Writing about a movie 写关于一个电影
 
 ---
 
 ### 5-5-1 Talking about a movie you recently saw
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/84/75/v/128475/MOB_5.5.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/66/8/v/15668/4.1%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Let me introduce you to .. Kevin.
@@ -59,7 +58,7 @@ A: Ahh, boring. Well, thanks for joining us.
 
 #### b) Grammar: 'One' as a replacement noun
 
-**'One'作替代名词**：不需重复会话里已提及的一个名词，您可以用one代替它。
+**'One'作替代名词**：不需重复会话里已提及的一个名词，您可以用**one**代替它。
 
 * A: I really like watching nature documentaries. 我非常喜欢观看自然纪录片。
   B: Yeah, me, too. Have you seen this one?	是的，我也是。你看过这部吗？ 	 	 
@@ -96,7 +95,7 @@ A: Ahh, boring. Well, thanks for joining us.
 
 #### c) Expressions: Giving opinions with 'I think that'
 
-用'think that' 提出观点
+**用'think that' 提出观点**
 
 * I think that Brad Pitt is a great actor.	我认为 Brad Pitt 是一位优秀的演员。
 
@@ -105,20 +104,20 @@ A: Ahh, boring. Well, thanks for joining us.
 * A: Do you think that I should watch this horror movie? 你认为我该看这部恐怖片吗？
   B: No, I don't think you should watch it. It's too scary.	不，我觉得你不该看。太吓人了。
 
-通常省略that，特别是在英语口语中。
+通常省略**that**，特别是在英语口语中。
 
 * A: What did you think of 'Cat Woman'? 您对'Cat Woman'的看法是什么？
   B: I thought it was fun, but a bit silly.	我认为它很好笑，但有点傻。
 
 ---
 
-JENNY: I just saw another Joseph Fiennes movie.
-LUCAS: Which **one** ? Is it an **action** movie?
-JENNY: Uh, 'Shakespeare in Love.' It's a romantic comedy. But **I think that** there's some good history in it, too. It's funny because Shakespeare can't think of any good ideas. I **thought** it was quite entertaining.
-LUCAS: Me, too. **I don't usually like** romances, but that's one of my favorite movies. It's an old one.
-JENNY: Yeah, it's quite old, but it's still good.
-LUCAS: Mm-hmm. Did you watch it with your kids?
-JENNY: No, but **I think I could** show this one to my kids.
+> JENNY: I just saw another Joseph Fiennes movie.
+> LUCAS: Which **one** ? Is it an **action** movie?
+> JENNY: Uh, 'Shakespeare in Love.' It's a romantic comedy. But **I think that** there's some good history in it, too. It's funny because Shakespeare can't think of any good ideas. I **thought** it was quite entertaining.
+> LUCAS: Me, too. **I don't usually like** romances, but that's one of my favorite movies. It's an old one.
+> JENNY: Yeah, it's quite old, but it's still good.
+> LUCAS: Mm-hmm. Did you watch it with your kids?
+> JENNY: No, but **I think I could** show this one to my kids.
 
 ---
 
@@ -131,11 +130,28 @@ JENNY: No, but **I think I could** show this one to my kids.
 
 #### d) Final Task: Talking about a movie you recently saw
 
+你在派对上遇到一位女士，开始和她聊电影。
+
 ```
- 
+ A: I just saw that Ryan Gosling movie
+ B: Which one?
+ A: oh, I can't remember the name, you know , the one where he's a police officer
+ B: Is it an action movie?
+ A: yeah, action and thriller, oh, that's right,  Gangster Squad, I thought it was awful
+ B: You thought it was awful? That's too bad.
+ A: Yeah, too many people died in it
+ B: Do you usually like action movies?
+ A: Yeah , i do, and I really like horror movie too, how about you
+ B: I like _____.
+ A: what's the last move you saw
+ B: I saw _____.
+ A: What did you think about it
+ B: I thought _____.
 ```
 
 ### 5-5-2 Describing your favorite movie
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/84/77/v/128477/MOB_5.5.2.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/66/9/v/15669/4.1%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: I don't agree. You know? I think a soundtrack is very important to a movie. Soundtracks aren't boring. Ok, I agree that not all soundtracks are great. But movies like 'Jaws' and 'Superman' and 'Indiana Jones' have some of the best action movie soundtracks of all time.
@@ -143,7 +159,7 @@ A: I don't agree. You know? I think a soundtrack is very important to a movie. S
 
 #### a) Vocabulary: Movie vocabulary
 
-电影词汇
+**电影词汇**
 
 使用以下单词描述影片中的人物。注意，这些词也可用于描述戏剧中的角色。
 
@@ -157,7 +173,7 @@ A: I don't agree. You know? I think a soundtrack is very important to a movie. S
 
 语言点：actor 一词常用作没有性别指向的中性词，男女都能指代。
 
-director 是掌控影片制作的人。你可以使用动词 **direct**，描述导演所做的事情。
+**director** 是掌控影片制作的人。你可以使用动词 **direct**，描述导演所做的事情。
 
 * Jenny Lindstrom **directed** 15 movies during her long career. She was an incredible **director**. Jenny Linstrom 在她漫长的职业过程中拍摄了 15 部电影。她是一位了不起的导演。
 
@@ -191,17 +207,17 @@ director 是掌控影片制作的人。你可以使用动词 **direct**，描述
 
 ##### i) 'One of the' and 'some of the'
 
-带有'one of the' 和 'some of the' 的表达
+**带有'one of the' 和 'some of the' 的表达**
 
-用one of the + 最高级 +复数名词表达某物是某一组的以一部分，是无法超越的。
+用**one of the + 最高级 +复数名词**表达某物是某一组的以一部分，是无法超越的。
 
 * 'The Birds' has one of the most exciting plots I've ever seen.	'The Birds'里有我见过的最令人振奋的情节之一。
 
-用some of the + 最高级 +复数名词来表达未被超过的一组中的两个或更多个东西。
+用**some of the + 最高级 +复数名词**来表达未被超过的一组中的两个或更多个东西。
 
 * 'Avatar' has some of the best special effects ever.	'Avatar'有一些前所未有最好的的特殊效果。
 
-您可以用诸如of all time 和 ever的表达来加重强调。
+您可以用诸如**of all time** 和 **ever**的表达来加重强调。
 
 * Amelie is one of the greatest characters of all time.	Amelie是有史以来最伟大的人物之一。
 
@@ -228,9 +244,9 @@ Questions
 
 ##### ii) Asking about and describing a movie
 
-询问电影的情况
+**询问电影的情况**
 
-以下是一些你可以询问影片的常见问题。注意，movie 和 film 所指相同，但 film 更正式一点。
+以下是一些你可以询问影片的常见问题。注意，**movie** 和 **film** 所指相同，但 **film** 更正式一点。
 
 * A: What did you think of the film?	你觉得这部影片怎么样？
   B: I loved it!	我非常喜欢！ 	 	 
@@ -244,7 +260,7 @@ Questions
 * A: What's your favorite movie?	你最喜欢哪部电影？
   B: My favorite movie is 'Chinatown.'	我最喜欢的电影是 'Chinatown。'	 	 
 
-你可以使用短语 all-time favorite，谈论你最爱的电影。
+你可以使用短语 **all-time favorite**，谈论你最爱的电影。
 
 * My all-time favorite movie is 'Casablanca.'	我最喜爱的电影是 'Casablanca。'
 
@@ -305,11 +321,25 @@ Questions
 
 #### c) Final Task: Describing your favorite movie
 
-```
+你刚在商场偶遇一位朋友。和他聊自己最爱的电影 'Blade Runner'，这部电影是史上最著名的美国科幻电影之一，电影配乐非常出名。
 
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/61/3/v/28613/VR_4.1.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+```
+A: I just brought a DVD , my all-time favorite movie
+B: Cool
+A: Blade Runner, You know, 1982 science fiction movie by Rudy Soott
+B: I've heard of it. It's one of the most famous movies ever.
+A: The story takes place in 2019 in Los Angeles, there are these robots that look like humans who it's really exciting
+B: Who's the star?
+A: Harrison Ford, he plays a blade runner in Blade Runners are like policeman , their job is defined and killed or robots
+B: Why is it your favorite movie of all time?
+A: It's a great story and the special eddects are amazing
 ```
 
 ### 5-5-3 Choosing a movie to see
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/84/80/v/128480/MOB_5.5.3.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/67/0/v/15670/4.1%20Scene%203.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 A: What's the doing to her?
@@ -379,9 +409,9 @@ A: No, I just.. I just know how it's going to end.
 
 #### b) Grammar: Present passive
 
-现在时被动语态
+**现在时被动语态**
 
-一种常见的句型是主语 +动词+宾语。
+一种常见的句型是**主语 +动词+宾语**。
 
 * Ai Jones + directed + this fantastic film.	Ai Jones 执导了这部优秀的影片。
 
@@ -430,7 +460,7 @@ by 短语指明了执行动作的人或物。如果该信息不重要，则可�
 
 #### c) Expressions: What do you want to see?
 
-你想做什么？
+**你想做什么？**
 
 以下是一些选择要看的电影的有用问句。
 
@@ -482,19 +512,34 @@ by 短语指明了执行动作的人或物。如果该信息不重要，则可�
 
 #### d) Final Task: Deciding on a movie to see
 
-```
+和朋友讨论看什么电影。
 
+```
+A: so what kind of movie should we watch tonight
+B: I'm in the mood for a comedy.
+A: Hmm, I feel like seeing an action movie, you know something is execiting
+B: That's OK with me.
+A: Great, there's a few new ones out, there's a remake of a James Bond movie and there's a new French one
+B: Let's watch the remake.
+A: okay, let me check the reviews, hmm, the reviews of the remake are pretty negative
+B: So, let's watch a comedy.
+A: which one
+B: It's called 'Good Times.' You'll like it.
+A: The radio, what's it about
+B: It's about two friends on vacation.
+A: okay, I guess, I'll see if I can get a few laughs out of it, what else do you know about it
+B: It's directed by Bob Brown.
 ```
 
 ### 5-5-4 Writing about a movie
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/84/74/v/128474/MOB_5.5.4.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/67/1/v/15671/4.1%20Scene%204.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: I don't agree with Kevin. He thinks that books are better than movies. I think movies are more fun. Some actors are amazing. They don't have to be famous. 
 B: Ian likes westerns. Some westerns are dreadful. The plot and the setting are always the same. The characters are too simple: a good guy and a bad guy. First, there's a town. Everyboby's happy there. Then, the bad guys arrive, and the people aren't happy anymore. And next, a new sheriff comes to town to help these poor people. And finally, there is a flight in the middle of the town between the new sheriff and the bad people. Guess who wins? It's so simple. you know - a good guy and a bad guy, good against evil, saving a girl, always a happy ending. I mean, that's just me. I prefer dark stories. 
 
 ```
-
-
 
 #### a) Vocabulary: Adjectives for movies
 
@@ -535,35 +580,32 @@ Were they the same?
 
 #### b) Grammar: Past passive
 
- 过去时被动语态
+ **过去时被动语态**
 
 
-如果您要把焦点放在一个过去的动作，而不是完成该动作的人，用过去被动式。结构与现在被动式相同，除了助动词be 用过去式而不是现在式。
+如果您要把焦点放在一个过去的动作，而不是完成该动作的人，用过去被动式。结构与现在被动式相同，除了助动词**be** 用过去式而不是现在式。
 
-    The special effects were created by 23 people.  特效由 23 个人制作。
-    The bank manager was shot by the bad guys.  银行经理被坏人开枪击中了。
+* The special effects were created by 23 people.  特效由 23 个人制作。
+* The bank manager was shot by the bad guys.  银行经理被坏人开枪击中了。
 
-如果完成了事情的人不重要或未知，by +人从句可以省略。
+如果完成了事情的人不重要或未知，**by +人**从句可以省略。
 
-    A: Guess what? The producer was fired.
-B: Why?
-A: The actors weren't paid.
-B: Oh, no! Was a new producer hired?    猜猜怎么着？制片人被解雇了。
-为什么？
-演员没收到钱。
-不是吧！新制片人请好了吗？
+* A: Guess what? The producer was fired.  猜猜怎么着？制片人被解雇了。
+  B: Why? 为什么？
+  A: The actors weren't paid.演员没收到钱。
+  B: Oh, no! Was a new producer hired?   不是吧！新制片人请好了吗？
 
  
 
-TIM: Wow. Amazing. 'Shaun of the Dead.' I can't believe that movie was                     **made** with so little money.
-MEGAN: Oh? How much money **did they spend**  ?
-TIM: $6.1 million. It seemed like it  **was created**  for $50 million.
-MEGAN: But $6.1 million is a lot of money!
-TIM: Not really. Most Hollywood films cost, like, $100 million, or more.
-MEGAN: Huh. How did they do it?
-TIM: Well, it **was directed by** Edgar Wright. He's brilliant.
-MEGAN: Yeah?
-TIM: He said they **weren't given** much money, and they **were told** to spend it carefully. So he was really careful and worked really hard.        
+> TIM: Wow. Amazing. 'Shaun of the Dead.' I can't believe that movie was                     **made** with so little money.
+> MEGAN: Oh? How much money **did they spend**  ?
+> TIM: $6.1 million. It seemed like it  **was created**  for $50 million.
+> MEGAN: But $6.1 million is a lot of money!
+> TIM: Not really. Most Hollywood films cost, like, $100 million, or more.
+> MEGAN: Huh. How did they do it?
+> TIM: Well, it **was directed by** Edgar Wright. He's brilliant.
+> MEGAN: Yeah?
+> TIM: He said they **weren't given** much money, and they **were told** to spend it carefully. So he was really careful and worked really hard.        
 
 
 
@@ -577,85 +619,69 @@ TIM: He said they **weren't given** much money, and they **were told** to spend 
 
 #### c) Reading: Reading a movie review
 
- 推断
+**推断**
 
 
 文本中，事实和观点往往并不直接说明。在这种情况下，你必须做出推断。推断是一种猜测。
 
-Gene Kelly did a great job in the movie 'Singin' in the Rain'! He's an excellent dancer.    Gene Kelly 在影片 'Singin' in the Rain' 中表现非常出色！他舞跳得很好。
+* Gene Kelly did a great job in the movie 'Singin' in the Rain'! He's an excellent dancer.    Gene Kelly 在影片 'Singin' in the Rain' 中表现非常出色！他舞跳得很好。
 
 作者并没有直接说 Gene Kelly 在影片 'Singin' in the Rain' 有跳舞，但因为两个关于电影和 Gene Kelly 的句子前后相邻，我们可以推断他在电影中跳过舞。
-     
-'The Class' is a great movie. It was made in France.    'The Class' 是一部优秀的影片。影片在法国制作。
-     
+
+* 'The Class' is a great movie. It was made in France.    'The Class' 是一部优秀的影片。影片在法国制作。
+
 作者并没有直接说影片 'The Class' 中讲哪种语言，但由于影片在法国制作，我们可以推断它是法语影片。
 
- 
+> Movies
+>
+> **Home**|
+>
+> |**Category**|**News**|**Gallery**|**About**
+>
+> 'A Simple Life' was made in Hong Kong. It was directed by Ann Hui.  It's about an old woman, but there's never a dull moment. It's very  different from big Hollywood action movies.
+>
+> ![img](https://cns2.ef-cdn.com/Juno/11/16/97/v/111697/GE_5.5.4.3.2_old_asian_woman-250.jpg)
 
-​				It's very different from big Hollywood action movies. 		
-
+```
+It's very different from big Hollywood action movies. 		
 - ​						The movie has a lot of action. 				
-- ​						There aren't many special effects. 				
-- ​						The movie was made in Hollywood. 				
+- ​						There aren't many special effects.  Y				
+- ​						The movie was made in Hollywood. 			
 
-Movies
-
-**Home**|
-
-
-
-|**Category**|**News**|**Gallery**|**About**
-
-'A Simple Life' was made in Hong Kong. It was directed by Ann Hui.  It's about an old woman, but there's never a dull moment. It's very  different from big Hollywood action movies.
-
-![img](https://cns2.ef-cdn.com/Juno/11/16/97/v/111697/GE_5.5.4.3.2_old_asian_woman-250.jpg)
-
-Contact Us |  Terms and Conditions  |  About Us  |  Services 
-
-​			 		
-
-
-
-It's very different from big Hollywood action movies.
-
-​			
-
-- ​						
-- ​						There aren't many special effects. 				
-- ​		
-
-
-
-​				There's never a dull moment. 		
-
-- ​				
+There's never a dull moment. 					
 - ​						The plot is very interesting. 				
 
+The movie was made in Hong Kong. 		
+- ​						It might not be in English. 		
+```
 
+> Movies
+>
+> I don't like baseball, but 'Moneyball' was a very interesting movie.  The story is a little dark. You learn some dreadful things about sports, but 'Moneyball' has a happy ending. 'Moneyball' is about the Oakland  A's general manager, the famous Billy Beane. Beane wasn't given much  money. He had to get creative. Billy Beane was played by Brad Pitt, and  'Moneyball' was directed by Bennett Miller. I think that actors always  do a good job when they work with Bennett Miller.
+>
+> ![img](https://cns2.ef-cdn.com/Juno/11/16/95/v/111695/GE_5.5.4.3.3_baseball_player.jpg) **Runtime:** 2 hr. 6 min.  **Genres:** Drama
 
-​				The movie was made in Hong Kong. 		
-
-- ​					
-- ​						It might not be in English. 				
-
-
-
-Movies
-
-| I don't like baseball, but 'Moneyball' was a very interesting movie.  The story is a little dark. You learn some dreadful things about sports, but 'Moneyball' has a happy ending. 'Moneyball' is about the Oakland  A's general manager, the famous Billy Beane. Beane wasn't given much  money. He had to get creative. Billy Beane was played by Brad Pitt, and  'Moneyball' was directed by Bennett Miller. I think that actors always  do a good job when they work with Bennett Miller. | ![img](https://cns2.ef-cdn.com/Juno/11/16/95/v/111695/GE_5.5.4.3.3_baseball_player.jpg) **Runtime:** 2 hr. 6 min.  **Genres:** Drama |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
-
-​			 					What is the movie probably about? 		
-
-- ​							
+```
+What is the movie probably about? 		
 
 What was probably difficult for Billy Beane?
 
 How does the movie probably end?
 
-​				What does the writer probably think about Brad Pitt? 		
-
-- ​							
+What does the writer probably think about Brad Pitt? 							
+```
 
 #### d) Final Task: Writing about a movie
+
+写一段介绍你最近看过的影片的文字。提出事实和观点。影片由谁主演，由谁导演，讲的什么故事？
+
+```
+答案
+I just saw 'Rear Window.' What an amazing movie! 'Rear Window' was made in 1954 and was directed by the famous Alfred Hitchcock. 'Rear Window' is a dark story, like most Hitchcock movies. L.B. is played by James Stewart. L.B. is a photographer, but his leg is broken. He has to stay home, so he watches his neighbors through their windows. I felt sorry for his poor neighbors! Soon, L.B. begins using his camera to fight evil. I saw the remake in 1998, but it's not the same. Daryl Hannah's acting was dreadful!
+```
+
+```
+我的
+I saw Angel Amily recently, it is an art films and was directed by Jean Pierre Jeunet. The main character is called Amily, she was played by Audrey Tautou. Amily has a terrible childhood. She couldn’t go to school because she was thought she has heart disease by doctor which is her father. When she was child, she saw her mother was died by herself. But she still was positive. She helped other people. And then she felt into love.
+```
+

@@ -25,18 +25,18 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 * Listen. Choose the correct word.
   * write name close say listen open partner eyes see letter
 
-  * |         |                                                              |          |
-    | ------- | ------------------------------------------------------------ | -------- |
-    | Write   | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/write.jpg" style="zoom:10%;" /> | 写       |
-    | Name    | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/name.jpg" style="zoom:10%;" /> | 名字     |
-    | Close   | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/close.jpg" style="zoom:10%;" /> | 闭上     |
-    | Say     | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/say.jpg" style="zoom:10%;" /> | 说       |
-    | Listen  | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/listen.jpg" style="zoom:10%;" /> | 听       |
-    | Open    | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/open.jpg" style="zoom:10%;" /> | 睁开     |
-    | Partner | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/partner.jpg" style="zoom:10%;" /> | 学习搭档 |
-    | Eyes    | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/eyes.jpg" style="zoom:10%;" /> | 眼睛     |
-    | See     | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/see.jpg" style="zoom:10%;" /> | 看       |
-    | letter  | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/letters_(1).jpg" style="zoom:10%;" /> | 字母     |
+  * |         |                                                          |          |
+    | ------- | -------------------------------------------------------- | -------- |
+    | Write   | <img src="./assets/write.jpg" style="zoom:10%;" />       | 写       |
+    | Name    | <img src="./assets/name.jpg" style="zoom:10%;" />        | 名字     |
+    | Close   | <img src="./assets/close.jpg" style="zoom:10%;" />       | 闭上     |
+    | Say     | <img src="./assets/say.jpg" style="zoom:10%;" />         | 说       |
+    | Listen  | <img src="./assets/listen.jpg" style="zoom:10%;" />      | 听       |
+    | Open    | <img src="./assets/open.jpg" style="zoom:10%;" />        | 睁开     |
+    | Partner | <img src="./assets/partner.jpg" style="zoom:10%;" />     | 学习搭档 |
+    | Eyes    | <img src="./assets/eyes.jpg" style="zoom:10%;" />        | 眼睛     |
+    | See     | <img src="./assets/see.jpg" style="zoom:10%;" />         | 看       |
+    | letter  | <img src="./assets/letters_(1).jpg" style="zoom:10%;" /> | 字母     |
   
 * EF Classroom language. Remember this classroom language.
   * Close your eyes.  闭上你的眼睛。

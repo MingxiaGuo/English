@@ -2,17 +2,16 @@
 
 4-1     Entertainment 娱乐
 
-4-1-1. Describing entertainment options 描述休闲娱乐的选择
-
-4-1-2. Talking about upcoming events 谈论即将发生的活动
-
-4-1-3. Planning a night out with friends 计划与朋友晚上外出
-
-4-1-4. Going to the movies 看电影
+* 4-1-1. Describing entertainment options 描述休闲娱乐的选择
+* 4-1-2. Talking about upcoming events 谈论即将发生的活动
+* 4-1-3. Planning a night out with friends 计划与朋友晚上外出
+* 4-1-4. Going to the movies 看电影
 
 ---
 
 ### 4-1-1. Describing entertainment options
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/13/10/66/v/131066/GE_4.1.1.3.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/61/5/v/15615/2.4%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 A: It's beautiful, Mark.
@@ -27,137 +26,148 @@ A: I love driving at home in England. It's fun. But here in the US? I don't know
 
 #### a) Vocabulary:Events
 
-* **a play**: Molly is going to a play this weekend.
-* **a concert**: There is a jazz concert in the park next Saturday.
-* **a game**: Danny goes to every baseball game he can.
-* **a lecture**: A famous professor of physics is giving a lecture at the university tomorrow.
-* **a musical**: I would like to see a comedy this Saturday, but my husband wants to see a musical.
-* **a movie**: We went to a movie last night about superheros saving the world.
-* **a dance**: We hold a dance every year to raise money for charity.
+* **a play**: Molly is going to a play this weekend.｜trying out for a play
+* **a concert**: There is a jazz concert in the park next Saturday.｜going to a concert downtown
+* **a game**: Danny goes to every baseball game he can.｜watching a game on TV
+* **a lecture**: A famous professor of physics is giving a lecture at the university tomorrow..｜attending a lecture at the museum
+* **a musical**: I would like to see a comedy this Saturday, but my husband wants to see a musical. ｜ 
+* We hold a dance every year to raise money for charity.
+    我们每年举行一场舞会，为慈善事业募捐。
+* **a movie**: We went to a movie last night about superheros saving the world.｜seeing a movie together
+* **a dance**: We hold a dance every year to raise money for charity.  我们每年举行一场舞会，为慈善事业募捐。
 
 #### b) Grammar: Gerunds and infinitives
 
-动名词&不定时：Gerunds:verb+ing.  infinitives: to+verb
+**动名词&不定时**：Gerunds:verb+ing.  infinitives: to+verb
 
-动名词和不定式用于谈论复杂的观点。动名词由 -ing 构成，不定式由 to 加动词构成。有些动词后面既可用动名词，也能用不定式。
+动名词和不定式用于谈论复杂的观点。动名词由 **-ing** 构成，不定式由 **to** 加动词构成。有些动词后面既可用动名词，也能用不定式。
 
-* 动名词（动词 + -ing）：
+* 动名词（动词 + **-ing**）：
   
-  * Oscar enjoys cooking dinner for Frank.	Oscar 喜欢为 Frank 做饭。
-* 不定式（to + 动词）：	   	 
+  * Oscar enjoys **cooking** dinner for Frank.	Oscar 喜欢为 Frank 做饭。
+* 不定式（**to + 动词**）：	   	 
 	
-	* Frank plans to eat out.
+	* Frank plans **to eat** out.
 * 有的动词后面只能接动名词，有的动词则只能接不定式。有的动词既可以接动名词，也可以接不定式。
-*  这些动词只能后接动名词，Infinitives only:
-  * emjoy doing sth 享受，喜爱     I enjoy listening to music.  	我喜欢听音乐。
-  * keep doing 	继续 Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
-  * think about doing 思考，考虑 We're thinking about going to a concert.	我们在考虑去听音乐会。
-* 这些动词只能后接不定式，Gerunds only:
-  * plan to do sth 打算，计划 We're planning to go to the soccer game.	我们计划去看足球赛。
-  * want to do 想要 We want to see the play in the park this week.	我们本周想去公园看戏。      
-  * need to do 需要 I need to get some money for the concert.	我需要为音乐会准备一点钱。
+  * 这些动词只能后接动名词，Infinitives only:
+    * emjoy doing sth 享受，喜爱     I enjoy listening to music.  	我喜欢听音乐。
+    * keep doing 	继续 Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
+    * think about doing 思考，考虑 We're thinking about going to a concert.	我们在考虑去听音乐会。
 
-* 这些动词可后接动名词或不定式，Infinitives and Gerunds:
-  
-  * like doing / like to do  喜欢
-  
-    * I like going to musicals.	我喜欢听音乐剧。
-    * I like to go to musicals.	我喜欢听音乐剧。
-  
-  * love doing / love to do 非常喜欢，热爱
-  
-    * Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭。
-  
-    * Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭。
-  
+  * 这些动词只能后接不定式，Gerunds only:
+    * plan to do sth 打算，计划 We're planning to go to the soccer game.	我们计划去看足球赛。
+    * want to do 想要 We want to see the play in the park this week.	我们本周想去公园看戏。      
+    * need to do 需要 I need to get some money for the concert.	我需要为音乐会准备一点钱。
+
+  * 这些动词可后接动名词或不定式，Infinitives and Gerunds:
+    * like doing / like to do  喜欢
+      * I like going to musicals.	我喜欢听音乐剧。
+      * I like to go to musicals.	我喜欢听音乐剧。
+
+    * love doing / love to do 非常喜欢，热爱
+      * Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭。
+
+      * Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭。
+
     * begin doing /begin to do  开始
-  
+
       * It began to snow.	开始下雪了。
       * It began snowing.	开始下雪了。
+
 
 #### c) Expressions
 
 ##### i) Expressing ability:
 
-表达能力
+**表达能力**
+
 - can('t/not): describe ability
 - (don't) know how to : means you have the knowledge or ability to do something.
 - be(not) (very, really, pretty )good/bad at  : describe degress of ability
 - be terrible at: decribe extrmely low ability
 
-使用单词 can 搭配动词描述能力。 
-* John can drive.	 	John 会开车。
+* 使用单词 **can** 搭配动词描述能力。 
+  * John can drive.	 	John 会开车。
 
-Can 有两种否定形式：can't 和 cannot，它们意思相同。  
-* I can't speak Spanish.	 	我不会讲西班牙语。
-* I cannot speak Spanish.   	 	我不会讲西班牙语。
 
-Can 在句中通常不重读，Can't 通常重读。聆听句中两个单词的发音。注意 Can 说得很快。 
-* I can play tennis.	 	我会打网球。
-* I can't play tennis.   	 	我不会打网球。
+* **Can** 有两种否定形式：**can't** 和 **cannot**，它们意思相同。  
 
-添加 do not 或 don't 使其表达否定的含义。 
-* I know how to drive.	我知道怎么开车。
-* I don't know how to swim.    	我不知道怎么游泳。
+  * I can't speak Spanish.	 	我不会讲西班牙语。
 
-你也可以使用短语 good at 和 bad at 描述能力程度。这些短语常常与 really、very 和 pretty 等副词搭配使用。   
-* Carol is really good at chess.	Carol 非常擅长下棋。
-* James is pretty bad at computer games.	James 玩电脑游戏很差劲。
+  * I cannot speak Spanish.   	 	我不会讲西班牙语。
 
-你可以使用短语 terrible at 描述非常差的能力。
-* I'm terrible at driving.	我开车很差劲。
 
-语言点：单词 pretty 有两层意思，它既表示某人外表迷人，做副词使用时，则修饰强调后接的形容词。
+* **Can** 在句中通常不重读，**Can't** 通常重读。聆听句中两个单词的发音。注意 **Can** 说得很快。 
+
+  * I can play tennis.	 	我会打网球。
+
+  * I can't play tennis.   	 	我不会打网球。
+
+
+* 添加 **do not** 或 **don't** 使其表达否定的含义。 
+
+  * I know how to drive.	我知道怎么开车。
+
+  * I don't know how to swim.    	我不知道怎么游泳。
+
+
+* 你也可以使用短语 **good at** 和 **bad at** 描述能力程度。这些短语常常与 **really**、**very** 和 **pretty** 等副词搭配使用。   
+
+  * Carol is really good at chess.	Carol 非常擅长下棋。
+
+  * James is pretty bad at computer games.	James 玩电脑游戏很差劲。
+
+
+* 你可以使用短语 terrible at 描述非常差的能力。
+  * I'm terrible at driving.	我开车很差劲。
+
+
+* 语言点：单词 pretty 有两层意思，它既表示某人外表迷人，做副词使用时，则修饰强调后接的形容词。
 
 ##### ii) Asking about and describing options
 
-询问和谈谈选择
+**询问和谈谈选择**
 
-使用类似这样的问题向他人询问他们想做的事情和可以从事的活动：
+* 使用类似这样的问题向他人询问他们想做的事情和可以从事的活动：ask what people want to do and what acticities are avaliable:
 
-* What do you want to do?	你想做什么？  
-
-* What are we going to do tonight?	我们今天晚上要做什么？
-
-* What's going on?	有什么正在进行的活动？
-
-使用短语 there is 和 there are 搭配 and 来列举演出活动。
-
-* There's a new movie at the theater and a lecture at the university.	电影院新上映了一部影片，大学有一场讲座。
-
-* There are some great movies and plays going on this week.	本周有不少好看的电影和戏剧。
-
-使用 can 和 could 介绍可能的活动，搭配 or 来提出不同的选择。
-
-* We can go to the lecture or the movie.	我们可以去听讲座或看电影。
-
-* You could go swimming or you could go hiking.	你可以去游泳或者去远足。
-
-使用 what else 搭配问题来询问更多选择。
-
-* What else is there to do?	还可以做什么？
-
-* What else is going on?	还有什么活动？
-
----
-
-* ask what people want to do and what acticities are avaliable:
-  * what do you want to do?
-  * what are we going to do tonight?
-  * what's going on?
-
-* list events:
-  * **There's** a new movie at the theater and a lecture at the university.
-  * **There are** some great movies and plays going on this week.
-
-* introduce possible activities
-  * we **can** go to the lecture **or** the movie
-  * You **could** go swimming **or** you could go hiking
+  * What do you want to do?	你想做什么？  
 
 
-* ask more choices:
-  * What else is there to do ?
-  * What else is going on?
+  * What are we going to do tonight?	我们今天晚上要做什么？
+
+
+  * What's going on?	有什么正在进行的活动？
+
+
+* 使用短语 **there is** 和 **there are** 搭配 **and** 来列举演出活动。list events:
+
+  * There's a new movie at the theater and a lecture at the university.	电影院新上映了一部影片，大学有一场讲座。
+
+
+  * There are some great movies and plays going on this week.	本周有不少好看的电影和戏剧。
+  * There's a wonderful play in the park. 公园有一场精彩的演出。
+
+
+* 使用 **can** 和 **could** 介绍可能的活动，搭配 **or** 来提出不同的选择。introduce possible activities
+
+  * We can go to the lecture or the movie.	我们可以去听讲座或看电影。｜So we can watch a movie or go to a play. 所以我们可以去看电影，或是观看演出
+
+
+  * You could go swimming or you could go hiking.	你可以去游泳或者去远足。
+  * Or we could go to a movie. 或者我们可以去看电影。
+
+
+* 使用 **what else** 搭配问题来询问更多选择。ask more choices:
+
+  * What else is there to do?	还可以做什么？
+
+
+  * What else is going on?	还有什么活动？
+
+
+Let's go to the movie. 那我们去看电影吧。
+
+That sounds good. 听起来不错
 
 ```
 SUSAN: Hey, Joe. What are we going to do tonight?
@@ -171,14 +181,10 @@ JOE: Oh, yeah. So the movie sounds good.
 SUSAN: Great!
 ```
 
-* What are we going to do tonight? 我们今晚做什么？
-* There's a wonderful play in the park. 公园有一场精彩的演出。
-* Or we could go to a movie. 或者我们可以去看电影。
-* So we can watch a movie or go to a play. 所以我们可以去看电影，或是观看演出
-* Let's go to the movie. 那我们去看电影吧。
-* That sounds good. 听起来不错
-
 #### d) Final Task: Describing entertainment options
+
+你正在和朋友 Yvonne 谈论今天晚上去做什么。你们都想外出。
+
 ```
 Yvonne: Hi, how are you doing?
 me:     I'm fine, How are you?
@@ -195,6 +201,8 @@ me:     That sounds good.
 I'm not very good at it.
 
 ### 4-1-2. Talking about upcoming events
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/63/19/v/126319/GE_4.1.2.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/41/v/125641/GE_4.1.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 TODD:  Sally, Could you give a favor?
@@ -218,32 +226,46 @@ Sally: You're welcome.
 
 #### a) Vocabulary: Places for events
 
-* auditorium
-* aquarium
-* theater: Broadway theaters 百老汇的剧院
-* restaurant: an Italian restaurant 一家意大利餐厅
-* concert hall: The orchestra performed at the concert hall in the center of town.
-* nightclub
-* cafe: Alcohol is not usually served in British or American cafes
-* bar: We met at a bar called the Flamingo
-* stadium: a football/sports stadium
+* auditorium  礼堂 /ˌɔːdɪˈtɔːriəm/
+* aquarium 水族馆 /əˈkweəriəm/
+* theater 剧院, 剧场: Broadway theaters 百老汇的剧院
+* restaurant: an Italian restaurant 一家意大利餐厅 
+* concert hall 音乐厅: The orchestra performed at the concert hall in the center of town. ｜ a large concert hall
+* nightclub 夜总会
+* cafe 咖啡馆: Alcohol is not usually served in British or American cafes
+* bar: We met at a bar called the Flamingo 我们在一家名为佛朗明哥的酒吧相遇
+* stadium 体育馆 /ˈsteɪdiəm/ : a football/sports stadium 足球/运动场
+
+请将下列事情和最可能出现的地方相匹配。
+
+- lecture -- auditorium
+- fish -- aquarium
+- food and drink -- cafe
+- dancing -- nightclub
+- game --stadium
 
 #### b) Grammar: Prepositions of time and place
-时间和地点介词：in, on, at
-* in: large areas or periods of time, like countries or years,month | morning, afternoon, evening. 大的地区或长的时间，比如国家或年
-  * Beijing is in China.	北京位于中国。
+**时间和地点介词**：三个时间和地点介词 **in, on, at**
+
+* **in**: large areas or periods of time, like countries or years,month | morning, afternoon, evening. 大的地区或长的时间，比如国家或年 
+  
+  * Beijing is in China.	北京位于中国。｜I lived in France for one year
   * They came here in 2005.	他们 2005 年来到这里。
-* on: smaller areas, like streets, and for days and dates 像街道等较小的地区以及星期和日期用 on
-  * I live on Main Street.	我住在 Main Street 街。
-  * The lecture is on Monday.	讲座在星期一。
+  * My brother is coming in February. ｜I came to this city in October 2011.
+  
+* **on**: smaller areas, like streets, and for days and dates 像街道等较小的地区以及星期和日期用 on
+  
+  * I live on Main Street.	我住在 Main Street 街。｜I live on Second Street.
+  * The lecture is on Monday.	讲座在星期一。｜The lecture is on Tuesday afternoon.
   * My birthday is on April 17th.	我生日是 4 月 17 日。
-* at: addresses, business and buildings, and for precise periods of time.| night, midnight, noon 地址、公司和建筑，以及表示确切时间则使用 at。
+  
+* **at**: addresses, business and buildings, and for precise periods of time.| night, midnight, noon 地址、公司和建筑，以及表示确切时间则使用 at。
 
   * His house is at 465 Pine Street.	他家在 Pine Street 街 465 号。
-  * The concert is at 5 p.m.	音乐会下午 5 点开始。
+  * The concert is at 5 p.m.	音乐会下午 5 点开始。｜The plane leaves at 5:30.
   * The lecture is at the auditorium.	讲座在礼堂举行。
 
-* 使用 in 搭配 morning、afternoon 和 evening。使用 at 搭配 night、midnight 和 noon。
+* 使用 **in** 搭配 **morning**、**afternoon** 和 **evening**。使用 **at** 搭配 **night**、**midnight** 和 **noon**。
   * In the morning, I'm very tired.	早上我很累。
   * At night, I like to read.	晚上我喜欢阅读。 
 
@@ -254,23 +276,22 @@ Sally: You're welcome.
   | 1947          | First Street | night             |
   | the afternoon |              |                   |
 
-* The lecture is on Tuesday afternoon.
-* My brother is coming in February.
-* The plane leaves at 5:30.
-* I came to this city in October 2011.
-* I live on Second Street.
-* I lived in France for one year
-
 #### c) Expressions: Asking for help
 
-* asking for help: 请求帮助
-  * **Could you** do me a favor?
-  * (Excuse me, but) **Could you** help me?
+**asking for help: 请求帮助**
+
+* 用下列带有 **Could you** 的问句请求帮助。
+
+  * **Could you** do me a favor? 您能帮我一个忙吗？
+
+  * (Excuse me, but) **Could you** help me? 您能帮我吗？
+
   * **Could you** help me find something interesting?
+
 * agree to someone's request for help: 对他人的帮助请求表示同意
-  * Sure. What do you need?
-  * No problem.
-  * OK.
+  * Sure. What do you need? 当然。
+  * No problem. 没问题。
+  * OK.  好的。
 * disagree to someone's request for help: 如果你帮不了忙，你可以说 **I'm sorry, but** 来表示道歉，然后说明原因。
   * **I'm sorry, but** I'm really busy right now.
   * **I'm really sorry, but** I can't help you.
@@ -297,9 +318,9 @@ Sally: You're welcome.
 
 * 专有名词
   * 我们使用专有名词来命名事物，比如人、公司或地点。专有名词首字母始终大写，这样易于辨认。不要被这些名词所迷惑。在这些名称中寻找你明白的单词。比如，在 Central Park 中，你可以看到你知道意思的单词 park。在下列专有名词中，各种地点的关键词以粗体表示，通过这些词帮你理解该短语。
-  * The Monterey Bay Aquarium
-  * The Empire State Building
-  * Harry's Bar and Grill
+  * The Monterey Bay **Aquarium**
+  * The Empire State **Building**
+  * Harry's **Bar** and Grill
 
 * 看该段文字，体会使用关键词策略的优势。理解这段文字，你不必逐字逐句阅读，只用理解关键词。在下面这段文字中，关键词以粗体表示。
   * **Concert** in the **Park**
@@ -307,12 +328,24 @@ Sally: You're welcome.
 
 ---
 
+> **Springdale Week**
+>
+> **Picnic in the Park**
+>
+> This weekend, residents of Springdale are going to enjoy their annual picnic in Hooper Park. The party will start at 10 in the morning and continue until 7 in the evening. There will be games for the children and food for everyone! Admission is free! | 
+>
+> **Mozart for May**
+>
+> The Springfield Orchestra will perform *The Magic Flute* in the Smith Concert Hall on Sunday night, May 3rd. The program begins at 8 p.m. and will last about three hours. Admission is $10 for adults and $5 for children. 
+
 * What is the adult admission for the Mozart concert?
 * Where is the picnic?
 * When does the picnic start?
 * What music is the orchestra going to perform?
 
 #### e) Final Task: Talking about upcoming events
+
+帮助您的朋友选择一个活动。当您看到空白时，请提出自己的建议。
 
 ```
 A: Hi, could you help me?
@@ -327,6 +360,8 @@ A: No problem. Thanks for your help.
 B: Sure. Have a good time.
 ```
 #### 4-1-3. Planning a night out with friends
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/63/22/v/126322/GE_4.1.3.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/22/v/125622/GE_4.1.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 Sally: Oh! There's a samba band at, uh...
@@ -353,6 +388,9 @@ Jake:  Okay.
 #### a) Vocabulary: 
 
 ##### i) Adjectives to describe events
+
+**有关演出的形容词**; 许多可以用来描述演出的形容词都以 **-ing** 结尾，从动词变化而来。比如，形容词 **relaxing** 来自动词 **relax**。
+
 * interesting - boring 有趣的-无聊的
 * relaxing - exciting 轻松的-令人兴奋的
 * surprising 令人惊讶的
@@ -361,12 +399,25 @@ Jake:  Okay.
 * loud - quiet 喧闹的-安静的
 * wonderful - terrible 出色的 - 糟糕的
 
+> JIM: Hi, Ann! Hey, how was your vacation? You went to New York, right?
+> ANN: Yeah.
+> JIM: How was it?
+> ANN: Oh, I love New York! It's a really exciting city.
+> JIM: Hmm. It's too big and too loud for me. So, what did you do in New York?
+> ANN: Well, we went to a musical. That was fun ! And we ate at some really interesting restaurants. The food was delicious .
+> JIM: It sounds wonderful .
+> ANN: And the Museum of Modern Art was incredible !
+> JIM: That's great! Well, I have a meeting. See you later.
+> ANN: Bye.
+
+**What does Ann think of New York?**
+
 ##### ii) Movie Genres
-* comedy: a romantic comedy
-* horror: In this section you'll find horror and science fiction
-* romance: She's a compulsive reader of romances.
-* classic: English classics such as 'Alice in Wonderland'
-* drama: She loves watching historical drama.
+* comedy 喜剧: a romantic comedy爱情喜剧
+* horror 惊骇, 惊恐: In this section you'll find horror and science fiction你可以在这一部份找恐怖和科幻小说
+* romance 富于想像力的故事; 浪漫故事: She's a compulsive reader of romances.她热衷于阅读爱情故事。
+* classic 经典作品: English classics such as 'Alice in Wonderland' 英国的经典名著，如《爱丽丝梦游仙境》
+* drama 戏剧: She loves watching historical drama.古装/历史剧
 * sci-fi (science fiction)
 * action
 * cartoon (2D)
@@ -398,16 +449,23 @@ ANN: Bye.
 
 #### b) Grammar: 'Why' and 'because'
 
-Why 和 because
+**Why 和 because**
+
+* 使用疑问词 **why** 询问原因，使用单词 **because** 说明原因。
+
+  * A: Why did you go to Paris?你为什么去巴黎？
+
+    B: I went to Paris because it's beautiful!	我去巴黎因为她太美了！| 
+
+  
+  * I can't help you, because I'm busy.| We go to concerts, because we love music.| I love New York City, because it's big and exciting.|I don't like festivals, because they're boring and loud.
+  * Why did he go to the concert? He went because he loves classical music.
+  * Why are you going home? We're going home because we're tired.
+  
+  * Why is Frank angry? He's angry because Oscar got a new dog.
 
 
-使用疑问词 why 询问原因，使用单词 because 说明原因。
-
-* A: Why did you go to Paris?
-* B: I went to Paris because it's beautiful!	你为什么去巴黎？
-  我去巴黎因为她太美了！
-
-单词 because 引出原因从句，比如 because it's beautiful。原因从句与提出句子主题的主句共同使用，比如 I went to Paris。下面还有一些例子。
+* 单词 **because** 引出原因从句，比如 **because it's beautiful**。原因从句与提出句子主题的主句共同使用，比如 **I went to Paris**。下面还有一些例子。
 
 | 主句 | 原因从句 |
 | :----: | :--------: |
@@ -415,58 +473,34 @@ Why 和 because
 | I love surfing | because it's exciting. |
 | because it's exciting. | because I enjoy classical music. |
 
-在英语口语中，常常只用带有 because 的分句回答问题。主句 (I went to Paris) 意思都明白。
+* 在英语口语中，常常只用带有 **because** 的分句回答问题。主句 **(I went to Paris)** 意思都明白。
 
-* A: Why did you go to Paris?
-* B: Because it's beautiful!	Why did you go to Paris? Because it's beautiful!
-  因为它美极了！
-
----
-
-- I can't help you, because I'm busy.
-- We go to concerts, because we love music.
-- I love New York City, because it's big and exciting.
-- I don't like festivals, because they're boring and loud.
-
----
-
+  * A: Why did you go to Paris?
+    B: Because it's beautiful!	因为它美极了！
 * Why did you go to Beijing? Because I love Chinese history.
-
-* Why did he go to the concert? He went because he loves classical music.
-
-* Why are you going home? We're going home because we're tired.
-
-* Why is Frank angry? He's angry because Oscar got a new dog.
-
 #### c) Expressions: Suggesting activities
 
-**建议活动**
+**建议活动**: 提出活动建议有几种方法。
 
-* Let's + base form of verb
+* ***\*Let's +\** 搭配动词原形**: Let's + base form of verb
   
-  * Let's go to the dance performance.
+  * Let's go to the dance performance. |Let's see that new movie.
   
-* 'How about' or 'What about' + verb +'-ing'
+* ***\*How about\** 或 \**what about +\** 搭配动名词**'How about' or 'What about' + verb +'-ing'
   
-  * What about meeting some friends?
+  * What about meeting some friends? | What about going out for a drink?
+  * How about meeting some friends?
   
-* 'Cloud' + base form of verb
+* ***\*Could +\** 搭配动词原形** 'Cloud' + base form of verb
   
-  * We cloud go out for a drink at Harry's Bar
+  * We cloud go out for a drink at Harry's Bar |We could go to a dance performance.
   
-* 'Why don't we' +base form of vefrb.
+* ***\*Why don't we +\** 搭配动词原形** 'Why don't we' +base form of vefrb.
+  
   * Why don't we try a new restaurant?
   
   Disagree someone's opinion
   Agree someone's opinion
-
----
-
-- Why don't we try a new restaurant?
-- We could go to a dance performance.
-- Let's see that new movie.
-- How about meeting some friends?
-- What about going out for a drink?
 
 ---
 
@@ -479,6 +513,11 @@ Why 和 because
 * How about trying that new French restaurant? 去新开的那家法国餐厅尝尝怎么样？
 
 #### d) Final Task: Planning a night put with friends
+
+你正在和朋友 John 聊天，晚上还没有什么计划。你很想去什么地方玩玩，肯定不想呆在家里
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/12/54/08/v/125408/GE_4.1.3_VRP.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 ```
 A: Hi
 B: Hi, John. How are you doing?
@@ -497,6 +536,8 @@ B: Great! Let's go.
 ```
 ### 4-1-4. Going to the movies
 
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/63/25/v/126325/GE_4.1.4.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/21/v/125621/GE_4.1.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+
 ```
 A: Jake, it's seventeen clock. The movie starts at eight!
 B: Ok, Ok ,I'm ready.
@@ -513,37 +554,32 @@ B: This is so stupid.
 
 #### a) Grammar: Future with the simple present 
 
-一般现在时表示将来时
+**一般现在时表示将来时**
 
-谈论将来时，你有时可以使用一般现在时，如果谈及的演出活动隶属某计划表、时间表或演出日程，这种情况最为常见。表示演出开始或结束的动词，比如 begin 和 close，常常以一般现在时来表示将来时。
+谈论将来时，你有时可以使用一般现在时，如果谈及的演出活动隶属某计划表、时间表或演出日程，这种情况最为常见。表示演出开始或结束的动词，比如 **begin** 和 **close**，常常以一般现在时来表示将来时。
 
-表示演出开始的一般现在时
+* 表示演出开始的一般现在时
 
- 	begin	开始
- 	start	开始
- 	open	开始
+  * begin	开始 |The dance performance begins at 8 o'clock tonight.	舞蹈演出今晚八点开始。
 
-    The dance performance begins at 8 o'clock tonight.	舞蹈演出今晚八点开始。
-    Harold's Department Store opens at 9 a.m. tomorrow.	Harold's Department Store 明天早上九点开张。
-表示演出结束的一般现在时
+  * start	开始
 
- 	close 	结束
- 	end 	结束
- 	be over 	结束，完了
- 	finish 	结束
+  * open	开始 | Harold's Department Store opens at 9 a.m. tomorrow.	Harold's Department Store 明天早上九点开张。
 
-    The movie is over at 9:15 p.m.       	电影晚上九点一刻结束。
-    She closes her shop at 6 o'clock.	她六点钟关店。
+* 表示演出结束的一般现在时
+  * close 	结束 | She closes her shop at 6 o'clock.	她六点钟关店。
+  * end 	结束
+  * be over 	结束，完了 | The movie is over at 9:15 p.m.       	电影晚上九点一刻结束。
+  * finish 	结束
 
-语言点：记住在 he、she 和 it 后面，动词一般现在时后加 s。例如：  
-
-    The movie ends at midnight. 	电影午夜结束。
+* 语言点：记住在 **he、she 和 it** 后面，动词一般现在时后**加 s**。例如：  
+  * The movie ends at midnight. 	电影午夜结束。
 
 
 #### b) Expressions: 
 ##### i) Asking for information about movies
 
-想去看电影时，你需要了解有关电影的一些基本信息。你需要知道电影开始的时间、上映地点和电影票价。同时还要了解在哪里买票。使用下列问题来获取这一信息。
+**询问有关电影的信息**:想去看电影时，你需要了解有关电影的一些基本信息。你需要知道电影开始的时间、上映地点和电影票价。同时还要了解在哪里买票。使用下列问题来获取这一信息。
 
 * Can you give me some information?	你能告诉我一些信息吗？
 * Do you have a website?	你们有网站吗？
@@ -556,51 +592,48 @@ B: This is so stupid.
 * How much do adult tickets cost?
 * What is the theater's website?
 
-```
-EMPLOYEE: Good afternoon. Springdale Theater.
-NANCY: Good afternoon. Can you give me some information  about the film 'Mommy Mommy'?
-EMPLOYEE: Certainly. What would you like to know?
-NANCY: When is the next show  ?
-EMPLOYEE: It's at 3:15.
-NANCY: That's good. And are there still tickets  for it?
-EMPLOYEE: Yes. That's not a problem. Afternoons are never sold out  .
-NANCY: OK. And can I buy tickets online?
-EMPLOYEE: Yes, just go to our website  , www.springdaletheater.com.
-NANCY: Thanks! Oh, and how much are tickets for adults  and children?
-EMPLOYEE: Adults are $13, and kids are $6.
-```
+> EMPLOYEE: Good afternoon. Springdale Theater.
+> NANCY: Good afternoon. Can you give me some information  about the film 'Mommy Mommy'?
+> EMPLOYEE: Certainly. What would you like to know?
+> NANCY: When is the next show  ?
+> EMPLOYEE: It's at 3:15.
+> NANCY: That's good. And are there still tickets  for it?
+> EMPLOYEE: Yes. That's not a problem. Afternoons are never sold out  .
+> NANCY: OK. And can I buy tickets online?
+> EMPLOYEE: Yes, just go to our website  , www.springdaletheater.com.
+> NANCY: Thanks! Oh, and how much are tickets for adults  and children?
+> EMPLOYEE: Adults are $13, and kids are $6.
+
+**What time is the next show?**
+
+**What is the theater's website?**
+
+**How much do adult tickets cost?**
+
+**What is the theater's address?**
 
 ##### ii) Expressing imitation
 
-表达愤怒：主要的方法是提高说话音量。这表达出强烈的情感
+**表达愤怒**：表达恼怒有许多方法。主要的方法是提高说话音量。这表达出强烈的情感
 
-* 重复
-
-    表达恼怒的另一种方法是重复短语表示强调。
-
+* **重复**：表达恼怒的另一种方法是重复短语表示强调。
     * OK, OK. I'm coming. I'm coming.	好好，我来了，我来了。                           
-
-* 表达怀疑
-
-    通过表示你不相信某人做了某事，也能传达你的恼怒。
+    
+* **表达怀疑**：通过表示你不相信某人做了某事，也能传达你的恼怒。
     * I don't believe it! 	我不相信！
     * I can't believe it!	我不敢相信！
- * 夸张
-
-    你也可以通过夸大某人犯错的频率来表达愤怒。使用 always 和 never 来表示夸大。重读这些词来强调频率。
+ * **夸张**： 你也可以通过夸大某人犯错的频率来表达愤怒。使用 always 和 never 来表示夸大。重读这些词来强调频率。
+    * Jake **always** forgets.	Jake 老是忘记。
+    * Mary **never** helps me.	Mary 从来不帮我。
     
-    * Jake always forgets.	Jake 老是忘记。
-    * Mary never helps me.	Mary 从来不帮我。
-
-* 表达强烈的恼怒
-
-    你可以使用 stupid 或 crazy 等形容词表达程度更强的恼怒。如果你用这些词形容一个人，表示你不是恼怒，而是生气了。谨慎使用这些词，因为它们可能伤害人的感情。
-    
+* **表达强烈的恼怒**：你可以使用 **stupid** 或 **crazy** 等形容词表达程度更强的恼怒。如果你用这些词形容一个人，表示你不是恼怒，而是生气了。谨慎使用这些词，因为它们可能伤害人的感情。
     * This is stupid!	这很傻。
     * Are you crazy?	你疯了吗？
 
-
 #### c) Final Task: Going to the movies
+
+你打电话到 Springdale Theater 电影院了解关于 6 点场影片《Believe it》的信息。询问影院员工来获取该信息。
+
 ```
 A: Good afternoon. Springdale Theater.
 B: Hi. I need some information about the film 'Believe It.'
@@ -615,6 +648,3 @@ B: And you're on Pine Street?
 A: Yes, 587 Pine Street where next to the supermarket
 B: OK. Thanks a lot for the information.
 ```
-
-
-

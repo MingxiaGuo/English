@@ -13,6 +13,9 @@
 ---
 
 ### 5-1-1. Talking about flight arrangements 
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/91/21/v/129121/GE_5.1.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/89/08/v/128908/GE_5.1.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 ```
 A: Passport, ticket, uh, don't need a visa for Sweden.
 B: Are you going somewhere?
@@ -47,49 +50,55 @@ A: Okay, Western. No problem. Yes. I need a taxi at 3 p.m.
 * Which **airline** do you fly on most frequently?
 * Everyone needs a **passport** for international travel.
 
-#### b) Grammar: Present perfect 现在完成时
+#### b) Grammar: Present perfect
 
-* Checking is someone has done something **检查某人是否做了某事**
+ **现在完成时**
+
+* **检查某人是否做了某事** Checking is someone has done something 
   
-    使用现在完成时，谈论对现在有特定影响的一个过去的动作或事件，例如，检查某人是否做了某事。
+    * 使用现在完成时，谈论对现在有特定影响的一个过去的动作或事件，例如，检查某人是否做了某事。
+        * **Have you packed** your bags?	您收拾好了吗？
+        * **Have you printed** your boarding pass?	您打印登机牌了吗？
     
-    * Have you packed your bags?	您收拾好了吗？
-* Have you printed your boarding pass?	您打印登机牌了吗？
-  
-    构成现在完成时疑问句的方法：have + subject + 过去分词。
     
-* Have you brought your passport?	您带护照了吗？
-  
-    以下是一些有用的过去分词。拿它们和现在时及过去式对比。
-    * pack – packed – packed
-    * print – printed – printed
-    * book – booked – booked
-* bring – brought – brought
-  
-* lose – lost – lost
-  
-* Responding to questions **回答问题**
-    如果有人问您是否做了某事，您可以使用像这样简短的短语回答：
+    * 构成现在完成时疑问句的方法：**have + subject + 过去分词**。
+      * **Have you brought** your passport?	您带护照了吗？
     
+    * 以下是一些有用的过去分词。拿它们和现在时及过去式对比。
+    
+      * pack – packed – **packed**
+    
+      * print – printed – **printed**
+    
+      * book – booked – **booked**
+      * bring – brought – **brought**
+      * lose – lost – **lost**
+    
+* **回答问题**Responding to questions ： 如果有人问您是否做了某事，您可以使用像这样简短的短语回答：
+
     * A: Have you printed your boarding pass? 您打印登机牌了吗？
-    * B: Yes, I have. 是的，打印了。
-	* A: Have you packed your bags? 您收拾好了吗？
-    * B: No, not yet. 没，还没呢。
-    
-* Saying what you have or haven't done **表达您做了什么或者没做什么**
 
-    要表达您做了什么，用类似这样的短语：
-	
-    * I have booked a taxi.	我订了出租车。
+      B: **Yes, I have.** 是的，打印了。
+
+    * A: Have you packed your bags? 您收拾好了吗？
+
+      B: **No, not yet**. 没，还没呢。
+
+* **表达您做了什么或者没做什么**Saying what you have or haven't done 
+
+    * 要表达您做了什么，用类似这样的短语：
+      * I **have booked** a taxi.	我订了出租车。
+
+
+    * 在讲话中，代名词和动词通常缩写。
+      * I**'ve booked** a taxi.	我订了出租车。
+
+
+    * 要告诉某人您没做什么，在 **have** 后面加 **n't**。
     
-    在讲话中，代名词和动词通常缩写。
-	
-    * I've booked a taxi.	我订了出租车。
+      * I **haven't** printed my boarding pass.	我没有打印我的登机牌。
     
-	要告诉某人您没做什么，在 have 后面加 n't。
-    
-    * I haven't printed my boarding pass.	我没有打印我的登机牌。
-    * I haven't checked in yet.	我还没有办理值机。
+      * I **haven't** checked in yet.	我还没有办理值机。
 
 ---
 
@@ -128,9 +137,7 @@ Questions:
 
 #### c) Expressions: Asking for and giving flight information
 
-Asking for and giving flight information. 询问和提供航班信息
-
-使用类似表达谈论航班信息。在本例中，一个人从芝加哥飞往巴黎。
+**询问和提供航班信息** Asking for and giving flight information. ： 使用类似表达谈论航班信息。在本例中，一个人从芝加哥飞往巴黎。
 
 * A: When are you leaving for Chicago? 你什么时候离开？
   B: On the 23rd.	 在23日。
@@ -204,6 +211,8 @@ Questions:
 
 #### d) Final Task: Talking about flight arrangements
 
+你购买了一张从中国北京到阿根廷布宜诺斯艾利斯的机票。你的同事对你的航班有些疑问
+
 ```
 A: So, are you ready for your trip?
 B: Yes. I've got my ticket, and I've packed my bag.
@@ -220,6 +229,8 @@ B: Thank you.
 ```
 
 ### 5-1-2. Checking in for a fight 
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/81/01/v/128101/GE_5.1.2.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/59/81/v/125981/GE_5.1.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Good afternoon. Where are you flying today?
@@ -284,7 +295,7 @@ B: Gate B25, Okay. Thank you.
 - To: JFK
 - SEAT: 12C
 
-![](../assets/boarding_pass_v1.jpg)
+![](../../assets/boarding_pass_v1.jpg)
 
 Questions: 
 
@@ -303,8 +314,13 @@ Questions:
 * **What's the seat number?**
 
 #### c) Final task: Checking in for a flight
+
+你在办理到纽约的航班的登机手续。跟航空公司的代理交谈。 
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/15/56/67/v/155667/GE_5.1.2.3.1_VRP.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 ```
-A: Good afternoon. Where are you flying today?
+A: Good afternoon. Where are you flying to today?
 B: I'm flying to New York.
 A: May I see your ticket and passport, please?
 B: Yes, here they are.
@@ -320,6 +336,8 @@ A: All right. Here is your boarding pass and baggage claim. Go thourgh security,
 B: Gate E24. OK. Thank you.
 ```
 ### 5-1-3. Getting to your hotel 
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/81/02/v/128102/GE_5.1.3.3.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/20/v/125620/GE_5.1.3_v3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Excuse me. Did you help me? 
@@ -347,28 +365,23 @@ B: My pleasure.
 ```
 
 #### a) Vocabulary: Airport transportation
-* express train: We traveled by express train to New York. 特快列车
-* rental car: I got a rental car at the airport.We hired a rental car. 租车
+* express train 特快列车: We traveled by express train to New York. 
+* rental car  租车: I got a rental car at the airport.We hired a rental car.
 * taxi: a taxi driver/ride
-* limousine: A large luxurious vehicle that often times has a division separating the driver and passenger compartments. 大型豪华轿车
+* limousine /ˌlɪməˈziːn/: A large luxurious vehicle that often times has a division separating the driver and passenger compartments. 大型豪华轿车
 * subway: the New York subway
-* shuttle: a shuttle service between London and Edinburgh. 穿梭班机﹑ 公共汽车
+* shuttle 穿梭班机﹑ 公共汽车: a shuttle service between London and Edinburgh. 
 #### b) Grammar: 'have to' for necessary or obligation
-Have to for necessity or obligation **'Have to'****表达必要和义务**
+**'Have to'表达必要和义务** Have to for necessity or obligation 
 
-* 你可以使用have to +动词表达你需要做的事情。
+* 你可以使用**have to +动词**表达你需要做的事情。
 
     * Danielle's flight leaves in an hour. She'll have to catch the express train.	Danielle 的航班一小时后起飞。她必须赶乘特快列车。
     * The company gave me a limousine, so I didn't have to take the shuttle.	公司给我派了一辆豪华汽车，所以我不必乘坐机场大巴。
-	
-* 你也可以使用have to +动词表达你有义务要做的事。
+* 你也可以使用**have to +动词**表达你有义务要做的事。
   
     * A: Did you have to drive Ted to the airport? 你必须开车送 Ted 去机场吗？
     * B: Yes, I did. He drove me last time.	是的，我得送他。上次他开车送的我。
-    
-* ```
-    
-    ```
 
 ---
 
@@ -391,23 +404,25 @@ Have to for necessity or obligation **'Have to'****表达必要和义务**
 
 #### c) Pronunciation: Reduced forms of 'have to'
 
-省略形式 Reduced forms
+**省略形式** Reduced forms
 
 记住，在英语口语中，单词的每个音素并非始终发音。尤其是元音常常缩短或省略。这些形式在书面英语中并不使用，但听到时要能够辨认，这非常重要。
 
-请听 have to 的省略形式。注意书面和口语中不同的书写形式。Have to 听起来像 'hafta'，Has to 听起来像 'hasta'，Had to 听起来像 'hadta'。
+请听 **have to 的**省略形式。注意书面和口语中不同的书写形式。Have to 听起来像 'hafta'，Has to 听起来像 'hasta'，Had to 听起来像 'hadta'。
 
 * Have to
-* They have to take a taxi.
+    * They have to take a taxi.
     * I have to catch the express train.
     * Do you have to rent a limousine?
+
 * Has to
-* She has to wake up early and get on the subway.
+    * She has to wake up early and get on the subway.
     * The bus driver has to wait for those passengers.
     * Karl has to get his rental car.
+
 * Had to
     * I had to find the subway station.
-* He had to walk.
+    * He had to walk.
     * Lisa had to take a morning flight.
 
 ---
@@ -425,30 +440,33 @@ Questions:
 #### d) Expressions: Presenting options
 
 * **询问选择**
-    如果您想获得有关抵达某个目的地的交通工具选择的帮助，您可以使用类似的问题。
-
-    * Excuse me – how do I get downtown?	不好意思，请问我怎样去市中心？
-
-    * I need to get to the Grand Hotel. What's the best way to get there?	我要去 Grand Hotel 酒店。怎样去最好？ 
+  
+    * 如果您想获得有关抵达某个目的地的交通工具选择的帮助，您可以使用类似的问题。
+    
+      * Excuse me – how do I get downtown?	不好意思，请问我怎样去市中心？
+    
 	
-    您可能听到提供一些选择的回答。
+      * I need to get to the Grand Hotel. What's the best way to get there?	我要去 Grand Hotel 酒店。怎样去最好？ 
 
-    * You can take the shuttle, or you can take a taxi.	您可以坐机场大巴，也可以乘坐出租车。
-
-    * You could take the express train or the subway.	您可以乘坐快速列车或者地铁。
-
-* **更多的问题**：如果您想询问更多其他选择的问题，或者获得建议，您可以询问类似的问题：
+    
+    * 您可能听到提供一些选择的回答。
+    
+      * You can take the shuttle, or you can take a taxi.	您可以坐机场大巴，也可以乘坐出租车。
+    
+    
+      * You could take the express train or the subway.	您可以乘坐快速列车或者地铁。
+    
+* **更多的问题**：
   
-* Would a taxi be expensive?	出租车贵吗？
+  * 如果您想询问更多其他选择的问题，或者获得建议，您可以询问类似的问题：
+      * Would a taxi be expensive?	出租车贵吗？
+      * What do you suggest?	您有什么建议？
+      * Do I have any other options?	我还有别的选择吗？
+      * What's the best way to get there?
   
-    * What do you suggest?	您有什么建议？
-* Do I have any other options?	我还有别的选择吗？
+  * **获取路线**：一旦决定了交通工具，您可能想知道在哪里乘坐。
+      * Where is the subway from here?	从这出发的地铁在哪？
   
-* What's the best way to get there?
-  
-* **获取路线**：一旦决定了交通工具，您可能想知道在哪里乘坐。
-  
-* Where is the subway from here?	从这出发的地铁在哪？
 
 ---
 
@@ -489,8 +507,10 @@ Questions
 * Do I have any other options? 我还有别的选择吗？
 * Where is the subway from here? 从这出发的地铁在哪？
 
-
 #### e) Final Task
+
+您抵达了机场。给您的同事打电话，询问前往您入住酒店的最佳方式。
+
 ```
 A: Hello, Jerry is speacking.
 B: Hey, Jerry. It's me. I've just arrived.
@@ -508,6 +528,8 @@ B: Granting for the terminal, just tell the assistant where you going
 A: OK. Thanks for your help!
 ```
 ### 5-1-4. Letting someone know you've arrived
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/81/03/v/128103/GE_5.1.4.2.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/28/v/125628/GE_5.1.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Hi, Todd
@@ -529,10 +551,13 @@ A: There's a restaurant over there. Come om. I'm buying.
 ```
 
 #### a) Grammar: 
-##### i) Most past participles **更多过去分词**
-有些不规则动词的过去分词和过去时形式不同。
+##### i) Most past participles 
 
-|	现在时形式	 |	过去时形式	 	过去分词形式|
+**更多过去分词**: 
+
+有些不规则动词的过去分词和过去时形式不同
+
+|	现在时形式	 |	过去时形式	| 	过去分词形式|
 |--|--|--|
 | be	| was/were	| been |
 |come	|came	|come |
@@ -565,29 +590,35 @@ A: There's a restaurant over there. Come om. I'm buying.
 
 ##### ii) Advers for the present perfect
 
-**现在完成时态中的副词**：用副词 yet already never ever在现在完成时中表示从过去到现在一段时间。
+**现在完成时态中的副词**：用副词 **yet already never ever**在现在完成时中表示从过去到现在一段时间。
 
-**'Yet'**：用副词yet 表示某事尚未发生，或询问某事是否已经发生。该副词常放在句尾。
+* **'Yet'**：用副词yet 表示某事尚未发生，或询问某事是否已经发生。该副词常放在句尾。
 
-* I haven't printed my boarding pass yet.	我还没有打印登机牌。
-* They haven't packed their bags yet.	他们还没有收拾行李。
-* Has she left for the airport yet?	她已经出发去机场了吗？
+  * I haven't printed my boarding pass yet.	我还没有打印登机牌。
 
-**'Already'**：使用副词already 来表达某事已经发生，或询问某事是否已经发生。该副词常直接放在主要动词之前。
+  * They haven't packed their bags yet.	他们还没有收拾行李。
 
-* You can't come? But I've already booked the tickets!	你来不了吗？可我机票都定好了！
-* Carly has already been to Paris, but I haven't.	Carly 已经去过巴黎，我还没去过。
-* Has John already been to the Louvre?	John 已经去过卢浮宫了吗？
+  * Has she left for the airport yet?	她已经出发去机场了吗？
 
-**'Never' 和'ever'**：用副词ever询问是否有事情发生，或谈论某人的经历。作为否定的回应，用never，这类副词常常放在主要动词前面。
 
-* A: Have you ever lived in another country? 你在其他国家生活过吗？
-  B: No, I've never lived in another country.	不，我从未居住在另一个国家。
+* **'Already'**：使用副词already 来表达某事已经发生，或询问某事是否已经发生。该副词常直接放在主要动词之前。
 
-语言提示：学习者的一个普遍的错误是在肯定句中使用副词ever ，注意在例子中做出正确反应。
+  * You can't come? But I've already booked the tickets!	你来不了吗？可我机票都定好了！
 
-* A: Have you ever been to Paris? 您去过巴黎吗？
-  B: Yes, I have been to Paris.	是的，我去过巴黎。
+  * Carly has already been to Paris, but I haven't.	Carly 已经去过巴黎，我还没去过。
+
+  * Has John already been to the Louvre?	John 已经去过卢浮宫了吗？
+
+
+* **'Never' 和'ever'**：用副词ever询问是否有事情发生，或谈论某人的经历。作为否定的回应，用never，这类副词常常放在主要动词前面。
+  * A: Have you ever lived in another country? 你在其他国家生活过吗？
+    B: No, I've never lived in another country.	不，我从未居住在另一个国家。
+
+
+* 语言提示：学习者的一个普遍的错误是在肯定句中使用副词ever ，注意在例子中做出正确反应。
+  * A: Have you ever been to Paris? 您去过巴黎吗？
+    B: Yes, I have been to Paris.	是的，我去过巴黎。
+
 
 ---
 
@@ -623,7 +654,7 @@ Questions：
 * I've never been to Canada. 我从没去过加拿大。
 
 #### b) Expressions: Foreign travel
-回答有关您的航班的问题
+**回答有关您的航班的问题**
 当您在旅行后与人交谈，他们可能会友好地问一些关于航班或您的身体状况的问题。您可以通过详细讲述飞机上的情况，对问题做出回答。
 
 * A: How was your flight? 你的飞行顺利吗？
@@ -690,9 +721,12 @@ Questions：
 > **What does the writer have to do tonight?**
 
 #### d) Final Task: Letting someone know you've arrived
+
+打电话通知同事您已安全抵达。
+
 ```
-A: Hi, jo's beginning
-B: Hi, Jo. It's me. I'm at my hotel.
+A: Hi, joe's beginning
+B: Hi, Joe. It's me. I'm at my hotel.
 A: Great, How was your flight?
 B: Hi, Jo. It's me. I'm at my hotel.
 A: That's too bad. Dis you get any sleep on the plane?

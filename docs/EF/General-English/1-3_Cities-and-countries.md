@@ -37,7 +37,7 @@
 
 | country                   | City                                   |
 | ------------------------- | -------------------------------------- |
-| Brazil                    | Salvador                               |
+| Brazil /brəˈzɪl/ 巴西     | Salvador                               |
 | Canada                    | Vancouver                              |
 | China                     | Shanghai                               |
 | France                    | Paris                                  |
@@ -54,53 +54,20 @@
 | Philippines 菲律宾        |                                        |
 | England                   |                                        |
 
-
-
 #### b) Grammar
 
 ##### i) 'Be from' and 'live in'
 
 'Be from' and 'live in'
 
-Use the verb be + from to indicate that a person was born somewhere. Use the verb live + in to indicate that a person is living somewhere now but was not necessarily born there. For he, she and it, add s to the end of the verb live.
+* Use the verb **be + from** to indicate that a person was born somewhere. Use the verb **live + in** to indicate that a person is living somewhere now but was not necessarily born there. For he, she and it, add s to the end of the verb live.
 
- 
+  * I**'m from** the US.         John **is from** Korea.        They're from Paris.    We're from Vancouver, Canada. He's not from Italy. He's from France.
 
-I'm from the US.                       	I'm from the US.
+  * I **live in** Japan.           He **lives in** London, England.     They live in Tokyo.      She lives in Moscow.
 
-I live in Japan.	I live in Japan.
- 	 	 
-
-John is from Korea.                  	John is from Korea.
-
-He lives in London, England.	He lives in London, England.
-
-Use but to contrast the place a person is from and where they're living now.
-
-He's from Los Angeles, but he lives in New York.	He's from Los Angeles, but he lives in New York.
- 	 
-
-
-
-He's not from Italy. He's from France.
-
-They live in Tokyo.
-
-They're from Paris.
-
-Try to repeat the audio.
-
-
-
-We're from Vancouver, Canada.
-
-He's from Los Angeles, but he lives in New York
-
-She lives in Moscow.
-
-
-
-
+* Use **but** to contrast the place a person is from and where they're living now. 用 **but** 对比一个人的家乡和他现在居住的地方。
+  * He's from Los Angeles, **but** he lives in New York.
 
 ##### ii) 'Where' questions
 
@@ -108,114 +75,56 @@ Watch the video and study the language.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/26/v/119026/GE_1.3.1.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-00:00
 
-You must watch the entire movie once before you can adjust the timeline.
 
-00:27
+'**Where' questions**： **“哪里”的问题**
+
+* Use **where** questions to ask where someone is from and where a place is. Use the word **in** to explain what country a city is in.
+
+  * **Where** are you from?     I'm from Lyon. 
+
+  * **Where** is Lyon?            Lyon is **in** France.   
+* People will sometimes tell you both the city and the country they are from. In writing, put a comma **(,)** after the city.
+  * **Where** are you from?            I'm from Rome**,** Italy.  
+* **to be + from + country/city** 回答来自哪里
+  - I am from the USA
+  - We are from Canada.
+  - He is from Seoul.
+  - They are from London.
+
+---
 
 - Hey, where are you from?
 - Where are you from, Laura?
+- She lives in Vancouver.   Where is Vancouver?
+- Where are they from?   They're from China.
+- Are New York and L.A. in the US?     Yes, they are.
+- Where are you from?     I'm from Japan.
+- Where is he from?        He's from Berlin, Germany.
+- Where is Moscow?        It's in Russia.
 
-
-
-'Where' questions
-
-
-
-Use where questions to ask where someone is from and where a place is. Use the word in to explain what country a city is in.
-
- 
-
-
-
-​    Where are you from? Where are you from?
-
-
-
-​    I'm from Lyon.  I'm from Lyon.
-
-
-
-​    Where is Lyon?              Where is Lyon?
-
-
-
-​    Lyon is in France.  Lyon is in France.
-
-​             
-
-People will sometimes tell you both the city and the country they are from. In writing, put a comma (,) after the city.
-
- 
-
-
-
-​    Where are you from?         Where are you from?
-
-
-
-​    I'm from Rome, Italy.   I'm from Rome, Italy.
-
-
-
-
-
-
-
-- - She lives in Vancouver.
-  - Where is Vancouver?
-- - Where are they from?
-  - They're from China.
-- - Are New York and L.A. in the US?
-  - Yes, they are.
-- - Where are you from?
-  - I'm from Japan.
-- - Where is he from?
-  - He's from Berlin, Germany.
-- - Where is Moscow?
-  - It's in Russia.
-
-
-
-So, where are you from? I'm from Osaka.大阪市
-
-Where's Osaka? It's in Japan.
-
-Oh, Japan! Nice.
-
-I live in Los Angeles.
+> A: So, where are you from? I'm from Osaka.大阪市
+> B: Where's Osaka? It's in Japan.
+> A: Oh, Japan! Nice.
+> B: I live in Los Angeles.
 
 #### c) Final Task: Saying where are you from
 
 You have made a new friend and are exchanging personal information about where you are from.
 
- 
-
 Listen and record the correct response. When you see a blank, give true information about yourself.
 
-A： Nice to meet you
-
-B: Nice to meet you too.
-
-A: So where are you from? 
-
-B: I'm from __
-
-A: uhammmm
-
-B: where are you from?
-
-A: I'm from Lima
-
-B: Where is LIma
-
-A: It's in Peru
-
-B: Oh, Peru. Nice.
-
 ```
-
+A： Nice to meet you
+B: Nice to meet you too.
+A: So where are you from? 
+B: I'm from __
+A: uhammmm
+B: where are you from?
+A: I'm from Lima
+B: Where is LIma
+A: It's in Peru
+B: Oh, Peru. Nice.
 ```
 
 ```
@@ -228,29 +137,11 @@ PAUL:  Michelle.  Her name's Michelle.  And she's from? Michelle。 她叫Michel
 FRANK:  She's from. New York? 她来自...纽约？ 
 PAUL:  Nope, Laura's from New York.  Michelle is from. 不是，Laura来自纽约。 Michelle来自... 
 FRANK:  Brighton. 布赖顿。 
-
 ```
-
-
-
-
 
 #### b) Grammar 
 
-**1) to be + from + country/city**
-
-- I am from the USA
-- We are from Canada.
-- He is from Seoul.
-- They are from London.
-
-**2) to be + nationality**, **We never use the article “the” in front of a country.**
-
-- You are Italian.
-- We are Chinese.
-- I am Russian.
-- She is Arabian.
-- The nationality of someone from Turkey is Turkish.
+- 
 
 ### 1-3-2. Introducing a colleague
 
@@ -281,55 +172,25 @@ FRANK:  Nice to meet you. 很高兴见到你。
 PAUL:  You too. 你也是。
 ```
 
-
-
 #### a) Expressions: Introducing others informally
 
-Introducing others informally
+**非正式的介绍他人**
 
-​     
+* Use **this is** to introduce friends or others informally.
 
-Use this is to introduce friends or others informally.
+  * Eric, **this is** Brenda. Brenda, **this is** Eric.      
 
-​     
+  * Han, **this is** my friend, Brenda.     
 
+* It is also common to give some information about the person you are introducing - for example, where they are from or where they live.
 
+  * This is my friend, Han. **He's from** Korea. **He lives in** Seoul.
 
-Eric, this is Brenda. Brenda, this is Eric.         Eric, this is Brenda. Brenda, this is Eric.
+* Use the expression **How's it going**? as an informal greeting. It is similar in meaning to **How are you?** but doesn't necessarily require a response.     
 
+  * A: Hi! **How's it going?**  嗨！最近怎么样？
 
-
-Han, this is my friend, Brenda. Han, this is my friend, Brenda.
-
-​     
-
-It is also common to give some information about the person you are introducing - for example, where they are from or where they live.
-
-​     
-
-
-
-This is my friend, Han. He's from Korea.
-
-He lives in Seoul.
-
-
-
-This is my friend, Han. He's from Korea. He lives in Seoul.
-
- Use the expression How's it going? as an informal greeting. It is similar in meaning to How are you? but doesn't necessarily require a response.
-
-​     
-
-
-
-A: Hi! How's it going?  Hi! How's it going?
-
-
-
-B: Hi!  Hi!
-
- 
+    B: Hi!  Hi!
 
 ```
 A: Ron, this is Ken. Ken, this is Ron.
@@ -342,53 +203,39 @@ B: New York, what a beautiful city.
 C: Thanks.
 ```
 
-This is my friend, Brenda.
-
-Eric, this is Brenda. Brenda, this is Eric
-
-How's it going?
-
-
+* This is my friend, Brenda.
+* Eric, this is Brenda. Brenda, this is Eric
+* How's it going?
 
 #### b) Vocabulary: Nationalities
 
+**Countries and nationalities 国家和国籍**
 
+Nouns are used to refer to countries, adjectives to describe nationality or language. To change the noun to an adjective, a suffix is added, **-ian**, -ese and **-ish** being the most common.
 
-Countries and nationalities
-
- 
-
-Nouns are used to refer to countries, adjectives to describe nationality or language. To change the noun to an adjective, a suffix is added, -ian, -ese and -ish being the most common.
-
- 
-
-| country                  | nationality |
-| ------------------------ | ----------- |
-| Japan                    | Japanese    |
-| France                   | French      |
-| Brazil                   | Brazilian   |
-| Russia                   | Russian     |
-| the US                   | American    |
-| the UK  (United Kingdom) | British     |
-| Germany                  | German      |
-| China                    | Chinese     |
-| Australia                | Australian  |
-| Italy                    | Italian     |
-| Germany                  | German      |
-| Canada                   | Canadian    |
-| Korea                    | Korean      |
-| Spain                    | Spanish     |
-| Turkey                   | Turkis      |
-| Europe                   | European    |
-| Arab nations             | Arabian     |
-
-
+| country 国家             | nationality 国籍 |
+| ------------------------ | ---------------- |
+| Japan                    | Japanese         |
+| France                   | French           |
+| Brazil                   | Brazilian        |
+| Russia                   | Russian          |
+| the US                   | American         |
+| the UK  (United Kingdom) | British          |
+| Germany                  | German           |
+| China                    | Chinese          |
+| Australia                | Australian       |
+| Italy                    | Italian          |
+| Germany                  | German           |
+| Canada                   | Canadian         |
+| Korea                    | Korean           |
+| Spain                    | Spanish          |
+| Turkey                   | Turkis           |
+| Europe                   | European         |
+| Arab nations             | Arabian          |
 
 Do you know how to say and spell your country and nationality in English?
 
 ```
-
-
 LISA: Hi, Joe.
 JOE: Hi, Lisa.
 LISA: Joe, this is my friend, Paul. He's British , but he lives here in Rome.
@@ -396,6 +243,16 @@ JOE: Nice to meet you.
 PAUL: Nice to meet you, too. So, Joe, where are you from?
 JOE: I'm Chinese . I'm from Beijing.
 ```
+
+**问国籍**：What is his/her nationality?
+
+**回答**：to be + nationality**, **We never use the article “the” in front of a country.**
+
+- You are Italian.
+- We are Chinese.
+- I am Russian.
+- She is Arabian.
+- The nationality of someone from Turkey is Turkish.
 
 **Where is Paul from?**
 
@@ -413,59 +270,22 @@ We're Canadian.
 
 He's British.
 
-
-
-
-
 #### c) Grammar: 'And' and 'but'
 
-Conjunctions: 'and,' 'but'
+**Conjunctions: 'and,' 'but' 连词**
 
+* Use the conjunction **and** to connect two words or clauses that express a similar idea.
 
+  * Hank is Australian, **and** Sheila is, too. 
 
-Use the conjunction and to connect two words or clauses that express a similar idea.
+  * There are a lot of windows **and** a nice kitchen.  
+* Use the conjunction **but** to connect two clauses that express different ideas.
 
- 
+  * Hiro is Japanese, **but** he lives in Italy.   
 
-
-
-
-
-Hank is Australian, and Sheila is, too. Hank is Australian, and Sheila is, too.
-
-
-
-There are a lot of windows and a nice kitchen.  There are a lot of windows and a nice kitchen.
-
-
-
-Use the conjunction but to connect two clauses that express different ideas.
-
- 
-
-
-
-
-
-Hiro is Japanese, but he lives in Italy.    Hiro is Japanese, but he lives in Italy.
-
-
-
-She's from Paris, but she lives in New York.    She's from Paris, but she lives in New York.
-
-
-
-Punctuation: When connecting two sentences with but and and, it's common to use a comma ( , ) after the first clause.
-
- 
-
-
-
-
-
-There is a desk, but there is no chair. There is a desk, but there is no chair.
-
- 
+  * She's from Paris, **but** she lives in New York.    
+* Punctuation: When connecting two sentences with **but** and **and**, it's common to use a comma ( , ) after the first clause.
+  * There is a desk, **but** there is no chair. 
 
 ```
 A: So Sharen, hwere are you from?
@@ -474,8 +294,6 @@ A: I'm from UK, I live in London and Tokyo
 B: Nice.
 ```
 
-
-
 * Hank is Australian, and Sheila is, too.
 * Hiro is Japanese, but he lives in Italy.
 * I love New York, but I hate London.
@@ -483,13 +301,9 @@ B: Nice.
 * I like France, and I like Italy.
 * She's from Berlin, but she lives in Shanghai.
 
-
-
 #### d) Final Task: Introducing a colleague
 
 You are at a business conference in London. One morning, you are talking to your colleague, Harry, when Ann appears. They do not know each other, so make the introductions.
-
- 
 
 Listen and record the correct response
 
@@ -508,8 +322,6 @@ A: Nice to meet you
 C: Nice to meet you too
 ```
 
-
-
 ```
 A: Hi, June
 B: Hi, Lisa.
@@ -519,8 +331,6 @@ C: Nice to meet you, too. So, June. Where are you from?
 B: I'm chinese, I'm from Beijing.
 
 ```
-
-
 
 ### 1-3-3. Meeting new people
 
@@ -544,256 +354,90 @@ Watch the video and study the language.
 [SALLY] No, thanks. That's OK
 ```
 
-
-
 #### a) Grammar: Adjectives
 
-Adjectives
-
- 
-
-An adjective is a word that describes a noun. Use adjectives after the verb be or before a noun.
-
- 
-
-Adjectives after the verb 'be'
-
- 
-
-
-
-Paris is beautiful. Paris is beautiful.
-
-
-
-London is expensive.    London is expensive.
-
-​         
-
-Use the adverb really to make an adjective stronger.
-
- 
-
-
-
-Brazil is really big.   Brazil is really big.
-
-
-
-Salvador is really exciting.    Salvador is really exciting.
-
- Use the articles a or an before an adjective when the adjective comes before a singular noun. A and an mean 'one of something.' Use an before words that start with the vowels sounds a, e, i, o or u.
-
-
-
-Article + adjective + noun
-
- 
-
-
-
-
-
-Paris is a beautiful city.  Paris is a beautiful city.
-
-
-
-Brazil is a big country.    Brazil is a big country.
-
-
-
-Salvador is an exciting city.   Salvador is an exciting city.
-
- When you learn adjectives, try to learn their opposites at the same time. Here are some examples.
-
-
-
- 
-
-
-
-
-
-exciting    boring  exciting – boring
-
-
-
-beautiful   ugly    beautiful – ugly
-
-
-
-big small   big – small
-
-
-
-wonderful   terrible    wonderful – terrible
-
-
-
-expensive   cheap   expensive – cheap
-
-
-
-quiet   noisy   quiet – noisy
-
- 
-
-
-
-
-Tokyo
-
-is
-
-an
-
-expensive
-
-city.
-
-
-There
-
-are
-
-wonderful
-
-beaches.
-
-
-
-
-Beijing
-
-is
-
-a
-
-big
-
-city.
-
-
-
-New
-
-York
-
-is
-
-crowded.
-
-
-
-
-Rome
-
-is
-
-an
-
-old
-
-city.
-
-
-
-Berlin is a great city.
-I live in a small city.
-China is a big country.
-Paris is a really beautiful city.
-My city is really nice .
-London is really expensive .
+**Adjectives**： An **adjective** is a word that describes a noun. Use adjectives after the verb **be** or before a noun.
+
+* **Adjectives after the verb 'be'**
+  * Paris **is beautiful.**
+  * London **is expensive.**   
+
+* Use the adverb **really** to make an adjective stronger.
+  * Brazil **is really big.** 
+  * Salvador **is really exciting.**    
+
+* Use the articles **a** or **an** before an adjective when the adjective comes before a singular noun. **A** and **an** mean 'one of something.' Use **an** before words that start with the vowels sounds **a, e, i, o or u.**
+  * **Article + adjective + noun**  冠词+形容词+名词
+    * Paris is **a beautiful city.** 
+    * Brazil is a big country.    
+    * Salvador is **an exciting city.**  
+
+* When you learn adjectives, try to learn their opposites at the same time. Here are some examples.
+  * exciting – boring
+  * beautiful – ugly
+  * big – small
+  * wonderful – terrible 美好的 - 糟糕的
+  * expensive – cheap
+  * quiet – noisy
+
+-----------
+
+* Tokyo is an expensive city.
+* There are wonderful beaches.
+* Beijing is a big city.
+* New York is crowded.
+* Rome is an old city.
+* Berlin is a great city.
+* I live in a small city.
+* China is a big country.
+* Paris is a really beautiful city.
+* My city is really nice .
+* London is really expensive .
 
 #### b) Expressions: Asking about a city or country
 
-Asking about a city or country  **What's it like?**
+Asking about a city or country  **What's it like?**  **询问关于一座城市或一个乡村的情况** ***\**What's it like?\** \***
 
- 
+* Use **what's + noun + like** questions to get a description or opinion of a city or country.
 
-Use what's + noun + like questions to get a description or opinion of a city or country.
+  * A**: What's Britain like?** 
 
- 
+    B: It's great! 
 
+  * A: **What's it like?**  
 
+    B: It's crowded!   
 
-A: What's Britain like? What's Britain like?
+* You can also use **how** questions to ask someone's opinion about a city or country.
 
+  * A: **How's London?**    
 
+    B: It's exciting. 
 
-B: It's great!  It's great!
+  * A: **How is it?**   
 
-​         
-
-
-
-A: What's it like?  What's it like?
-
-
-
-B: It's crowded!    It's crowded.
-
- You can also use how questions to ask someone's opinion about a city or country.
-
- 
-
-
-
-A: How's London?    How's London?
-
-
-
-B: It's exciting.   It's exciting.
-
-​         
-
-
-
-A: How is it?   How is it?
-
-
-
-B: It's boring. It's boring.
-
- 
+    B: It's boring.
 
 ```
 Tom: So, where are you from, Brenda?
-
 Brenda: I'm from Berlin.
-
 Tom: Germany, huh? How is Berlin?
-
 Brenda: Oh, it's a big city. It's crowded and expensive. So where are you from?
-
 Tom: I'm from Los Angeles.
-
 Brenda: What's it like?
-
 Tom: Well, it's crowded and expensive, too!
-
-
 ```
 
-What's Berlin like?
-
-**How is Berlin?**
-
-Well, it's great!
-
-How's Bangkok?
-
-It's exciting, but noisy.
-
-That's great.
-
-
+* What's Berlin like
+* **How is Berlin?**
+* Well, it's great!
+* How's Bangkok?
+* It's exciting, but noisy.
+* That's great.
 
 #### c) Final Task: Meeting new people
 
 You have made a new friend. Find out where he’s from, where he lives and what it’s like there.
-
- 
 
 Listen and record the correct response. When you see a blank, give true information about yourself.
 
@@ -812,8 +456,6 @@ A: Well, it's a big city and it's beautiful.
 B: That's great.
 ```
 
-
-
 ```
 FRANK:  We should go over here too. 我们也应该走这边。 
 MARY:  Ah that looks like fun. 那看起来很有趣。 
@@ -827,10 +469,6 @@ FRANK:  Yeah we live in London.  My name's Frank. 是的，我们住在伦敦。
 LAURA:  I'm Laura. 我是Laura。 
 MARY:  And I'm Mary.  Where are you from Laura? 我是Mary。 Laura，你从哪儿来？ 
 LAURA:  I'm from New York. 我来自纽约
-```
-
-```
-
 ```
 
 ### 1-3-4. Describing your country
@@ -852,8 +490,6 @@ Watch the video and study the language.
 [CARLOS] No, not really.
 [SALLY] I’m sorry to hear that.
 ```
-
-
 
 #### a) Vocabulary: Buildings and places around town
 
@@ -878,107 +514,43 @@ A:  what is it?
 B: It's a good restaurant.
 ```
 
-
-
 #### b) Grammar: Articles
 
-Indefinite articles **a** and **an**
+**Indefinite articles a and an** ** 不定冠词Alan
 
+* Use the articles **a** and **an** before a non-specific, singular noun or the adjective that comes before a singular noun. 
 
+  * It's **a** shop.
 
-Use the articles a and an before a non-specific, singular noun or the adjective that comes before a singular noun. 
+  * **An** with vowels***\**An\\* 搭配元音**: Use an before a noun or adjective beginning with a, e, i, o or u.
 
+    * It's **an** expensive shop. 
 
+    * It's **an** office. 
 
- 
+* There is + a or an: Use the indefinite article with there is.
+    * There's a big park in New York. There's a big park in New York.
 
 
+------
 
+* **He lives in a noisy building.**
 
+* *There's a quiet street.
 
-It's a shop.
+* Is there an Italian restaurant?**
 
+* There are great restaurants.
 
+* It's an exciting city
 
-It's a shop.
+* There are a lot of skyscrapers.
 
- 
-
-
-
-An with vowels
-
-
-
-
-
-Use an before a noun or adjective beginning with a, e, i, o or u.
-
-
-
- 
-
-
-
-
-
-It's an expensive shop. It's an expensive shop.
-
-
-
-It's an office. It's an office.
-
- 
-
-
-
-There is + a or an
-
-
-
- 
-
-
-
-Use the indefinite article with there is.
-
-
-
- 
-
-
-
-
-
-There's a big park in New York. There's a big park in New York.
-
- 
-
- 
-
-**It's an expensive city.**
-
-**He lives in a noisy building.**
-
-**There's _a___ quiet street.**
-
-**Is there an Italian restaurant?**
-
-
-
-There are great restaurants.
-
-It's an exciting city
-
-There are a lot of skyscrapers.
-
-There's a beautiful bridge.
+* There's a beautiful bridge.
 
 #### c) Final Task: Describing your city
 
 Describe where you live to a colleague in a different country. Give true information about yourself.
-
- 
 
 Listen carefully and then record the correct answer.
 
@@ -994,8 +566,6 @@ B: I live in
 A: what's it like?
 B: It's __
 ```
-
-
 
 ```
 K: I am an American. Where are you from?

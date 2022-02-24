@@ -2,13 +2,10 @@
 
 9-4    Health and safety 健康与安全
 
-9-4-1 Explaining rules and regulations 解释规则和规定
-
-9-4-2 Reporting an injury 报告受伤
-
-9-4-3 Discussing workplace safety 讨论工作场所安全
-
-9-4-4 Giving your opinion about safety laws 就安全法律提供意见
+* 9-4-1 Explaining rules and regulations 解释规则和规定
+* 9-4-2 Reporting an injury 报告受伤
+* 9-4-3 Discussing workplace safety 讨论工作场所安全
+* 9-4-4 Giving your opinion about safety laws 就安全法律提供意见
 
 ---
 

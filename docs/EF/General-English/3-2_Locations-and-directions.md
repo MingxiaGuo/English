@@ -127,6 +127,8 @@ live at具体号码
 
 ### 3-2-1 Telling someone where you live
 
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/22/86/v/122286/GE_3.2.1.3.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/51/v/111251/GE_3.2.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 ```
 [SALLY] So, Todd? Are you coming to the party Friday night?
 [TODD] Party? What party?
@@ -142,7 +144,161 @@ live at具体号码
 [TODD] All right. See you on Friday.
 ```
 
+#### a) Expressions: Review locations
+
+**Locations in a city 城市里的位置** 
+
+* Use **next to** to indicate that a place is next to another one.
+  * The library **is next to** the playground.  | The pizza place **is next to** the playground.
+
+* Use **on the corner of + two street names** to indicate the place where two streets intersect.
+  * The bank **is on the corner of** Pine Street **and** First Street.  
+
+* Use **in front of** to indicate that a place is in front of another one.
+  * The bus stop **is in front of** the supermarket.  
+
+* Use **between + two place names** to indicate that a place is between two others.
+  * The post office is **between** the restaurant **and** the movie theater. | The park is **between** the restaurant **and** the bank.
+
+* Use **behind** to indicate that a place is behind another one.
+  * The pizza place **is behind** the library.  | The supermarket **is behind** the bus stop.
+
+* Use **across the street** to indicate that a place is across the street, and **across the street from** to indicate that a place is across the street from another place.
+  * The bookstore **is across the street** from the restaurant. |The bank **is across the street** from the movie theater.
+
+![GE_2.5.3.2.2_epaper_v2](https://cns2.ef-cdn.com/Juno/12/00/12/v/120012/GE_2.5.3.2.2_epaper_v2.jpg)
+
+```
+**It's across the street from the movie theater.**
+- the playground
+- the bank Y
+- the post office
+
+**It's next to the playground.**
+- the pizza place Y
+- the park
+- the bank
+
+**It's behind the bus stop.**
+- the supermarket Y
+- the theater
+- Pine Street
+
+**It's between the restaurant and the theater.**
+- Pine Street
+- the post office Y
+- the supermarket
+
+**It's on the corner of Pine and First.**
+- the bank Y
+- the pizza place
+- the playground
+
+**It's in front of the supermarket.**
+- the pizza place
+- the bookstore
+- the bus stop Y
+```
+
+#### b) Vocabulary: Addresses
+
+**Addresses 地址**
+
+* There are many different words used for streets. Here are some key words and their abbreviations. The abbreviations are used mostly to write formal addresses for documents, letters and mail. Remember to capitalize street words if they are used with a specific name, such as **Fourth Avenue.**
+  * street = St.    street
+  * road = Rd.  road
+  * avenue = Ave.   avenue
+  * boulevard = Blvd.   boulevard
+  * drive = Dr. drive
+  * way way         
+
+* Use **on** to talk about the street or road where a place is located.
+  * I live on Maple Road.  
+  * The library is on Pine Street/Green Avenue..  | My house is **on**  Royal Drive.|The bookstore is on Maple Drive.
+  * Is the bank on Fourth or Fifth Avenue?
+
+* Use **at** to talk about the specific number of a street or road.
+  * I live at 1215 Maple Road.    | They live at 3009 Golf Road.                  
+  * The library is at 57 Pine Street.  | The party's  **at**  115 First Street. | The library is at 79 University Drive. | The restaurant is at 28 Mountain Road. | The theater is at 406 Sunshine Way.
+* Use in to talk about city where you live
+  * They live **in**  Paris, but they're from the US. | We live  **in**  Vancouver, Canada.
+
+* There are many different ways to say street numbers. If the number has one or two numerals, say the number normally.
+  * The bank is at 43 Central Boulevard.    The bank is at 43 Central Boulevard.         
+
+* If the number has three or four numerals, it can be said in various ways. Listen to some examples.、
+  * I live at 570 Beverly Drive.          
+  * I live at 1215 Maple Road. 
+  * The theater is at 406 Sunshine Way. The theater is at 406 Sunshine Way.
+
+* If the number has more than four numerals, say each numeral.
+  * The bank is at 11743 Fifth Avenue.     
+
+* Notice that if any numeral is **0**, you can say it as **zero** or **oh**.
+  * I live at 570 Beverly Drive.                        
+  * He lives at 1208 Maple Road.    
+  * The library is at 21409 Second Avenue.  
+
+#### c) Expressions: Asking for addresses
+
+**Asking for addresses** **询问地址**
+
+* Use these questions to ask where someone lives or the address of a place.
+
+  * A: Where do you live?
+
+    B: I live on Pine Street. | I live in Los Angeles.
+
+  * A: What's your address?
+
+    B: It's 507 Pine Street.  | It's 21 Maple Street. ｜ I live at 2905 Tenth Street.        
+
+  * A: What's the address of the restaurant?
+
+    B: The restaurant's at 819 Ocean Avenue.    
+
+* Once you are told the address, you might need to ask follow-up questions.
+
+  * A: What's the cross street?
+
+    B: The cross street is Fourth Avenue. | The cross street's Sunshine Drive.
+
+  * A: What's your apartment number?
+
+    B: It's 2314.   | My apartment is number 16.          
+
+  * A: What floor do you live on?
+
+    B: The 23rd floor.  | I live on the 25th.  I live on the second floor.
+
+  - A: Is it next to the bank?
+
+    B: No. It's near the park.
+
+#### d) Final Task: Relling someone where you live
+
+You and a friend are discussing a party. Listen and record the correct response.
+
+<img src="https://cns2.ef-cdn.com/Juno/10/46/33/v/104633/GE_3.2.1.4.1_young_woman.jpg" alt="img" style="zoom:25%;" />
+
+```
+A: Are you coming to my party this Saturday?
+B:Yes, I am. What's your address?
+A: I Live at 758 Park Drive
+B: What's the cross street?
+A: The cross street is 3rd avenue
+B: OK. Third Avenue and Park Drive.
+A: That;s right, my apartment buildings across the street from the bug supermarket.
+B:What's your apartment number?
+A: It's number 12
+B: OK. Number 12. What floor?
+A: I'm on the third floor
+B: Cool. See you this weekend.
+```
+
 ### 3-2-2 Giving directions
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/23/23/v/122323/GE_3.2.2.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/55/5/v/15555/1.4%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 [SARAH] Concentrate on driving. We don't want to crash.
@@ -155,11 +311,156 @@ live at具体号码
 [MARK] Let's park here, OK?
 ```
 
+#### a) Expressions
+
+##### i) Review directions
+
+**Giving directions 指路**
+
+* Use these expressions to tell someone to go straight ahead on a street:
+  * **Go straight on** Pine Avenue.
+  * **Go down** Oak Street.       
+
+* Use the expressions **turn right** and **turn left** to indicate direction. These expressions are followed by on.
+  * Go straight on Pine Avenue. Then turn right on Central Boulevard.   Go straight on Pine Avenue. Then turn right on Central Boulevard.
+  * Go down Oak Street. Next, turn left on Valley Road. Go down Oak Street. Next, turn left on Valley Road. 
+
+* You can also use these expressions to tell someone to turn right or left:
+  * Go right on Central Boulevard.  
+  * Make a left on Valley Road. 
+
+* To say if a place is on the right or left side of a street, use these expressions:
+  * His house is on the right. 
+  * The building is on the left.    
+
+```
+Listen to the people giving directions.Select the correct answer.
+
+**Select the correct option.**
+- Make a left. Go straight. It's on the right.
+- Go straight. Then turn right. It's on the right.
+- Make a right. Go straight. It's on the right. Y 
+
+**Select the correct option.**
+- Go down Valley Road. Turn left on Second. Turn right on Market. Y
+- Turn left on Valley Road. Go straight on Second. It's on the right.
+- Go down Valley. Then turn right on Second. It's on the right.
+
+**Select the correct option.**
+- Turn left on Oak. Go straight on Valley. It's on the right.
+- Go straight. Then turn left. It's on the right.
+- Go straight on Oak Street. Turn left on Valley. It's on the left. Y
+
+**Select the correct option.**
+- Go right. Go straight. It's on the right. Y
+- Go right. Go straight. It's on the left.
+- Go straight. Go right. It's on the left.
+
+**Select the correct option.**
+- Go down Pine. Turn left on Green. It's on the left.
+- Go down Green. Make a left on Pine. It's on the left. Y
+- Turn right on Pine. Go down Green. Turn left.
+```
+
+##### ii) Repeating directions
+
+**Repeating directions** **重复路线**
+
+* You can use the word **so** when you repeat directions for confirmation.
+
+  * A: Go down Main Street, and then make a right on Terrace Drive.
+
+    B: So, I go down Main and make a right on Terrace.
+
+    A: Yes, that's right.
+
+* The person giving you directions will tell you if you have understood correctly.
+  * Correct.    Correct.
+  * Uh-huh. Uh-huh.
+  * Yes, that's right.  Yes, that's right.
+
+* Or you'll be told that you've misunderstood.
+
+  * A: Go down Main Street, and then make a right on Terrace Drive.
+
+    B: OK. Go down Main Street and make a left on Terrace.
+
+    A: No. Make a right on Terrace.
+
+    B: Oh, OK. Go down Main Street and make a right on Terrace.
+
+    A: Correct.
+
+* Be careful: The word right can be both a direction and another way to say correct.
+
+  * A: Make a right on Terrace Drive.                            
+
+    B: OK. I make a right on Terrace.
+
+    A: Yes, that's right.
+
+> A: Go down Green Road, and turn right on Main Street.
+> B: So, I go down Green Road and turn right on Main.
+> A: Correct. It's at 57 Main Street, across from the bank.
+> B: OK. That's 57 Main, and it's across from the bank.
+> A: Yes, that's right.
+
+```
+Listen to the woman giving directions to an address. Select the correct answer.
+
+**What is the address?**
+- 1412 Fourth Street
+- 1412 Bay Avenue Y
+- 1412 Outlook Drive
+
+**He should _____ Outlook Drive.**
+- make a left on
+- go down Y
+- make a right on
+
+**He should _____ on Fourth Street.**
+- go straight
+- make a right
+- make a left Y
+
+**He should _____ on Bay Avenue.**
+  - make a left
+  - go straight
+  - make a right Y
+
+**1412 Bay Avenue is _____.**
+- on the right
+- on the left Y
+- on Fourth
+```
+
+#### b) Final Task: Giving directions
+
+You spot your friend Kim on the street and decide to invite her to a party. Listen and record what you hear.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/59/1/v/28591/VR_1.4.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+```
+A: HI
+B: Hi, Kim! How are you?
+A: I'm good, so what's up
+B: 
+Well, there's a party at David's house tonight.
+A: Great, what time does it start
+B: It's at 7:30. Can you come?
+A: Sure where does he live?
+B: He lives on Station Street.
+A: Station street, where is that.
+B: Go down Grand Avenue, and turn left on Black Street.
+A: Go down Grand Avenue, and turn left on Black Street. okay,\
+B: 
+Then go down Black Street, and it's on the right.
+A: on the right, okay, what number is this house?
+B: It's number 74.
+A: Cool, see you at 7:30
+```
+
 ### 3-2-3 Asking for directions to a business
-
-```
-
-```
 
 where do you live?
 
@@ -183,7 +484,168 @@ It's 2314
 
 What flu do you live on
 
+#### a) Vocabulary: Transportation
+
+* go by car：to go to a place by riding in a car, a road vehicle that carries only a few people｜Should we go by car or take the train?｜go by car to the meeting
+* go on foot：to go to a place by walking｜We usually go on foot to the ice cream store.｜go on foot to the park
+* take the subway：to go to a place by riding on a train that travels in tunnels beneath the city｜I always take the subway when I am in New York.｜take the subway downtown
+* ride a bike：to go to a place by riding a bicycle｜Chris rides a bike to work everyday.｜ride a bike to school
+* take the bus：to go to a place by riding on a bus, a large passenger vehicle that has regular stops along a fixed route｜Does Jessica take the bus to school every day?｜take the bus home
+* take the train：to go to a place by riding on a train, a passenger vehicle that rides on rails and has many cars linked together and pulled by an engine｜John takes the train to visit his brother at school.｜take the train to work
+* take a taxi：to go to a place by riding in a taxi, a car that has a driver and charges money to drive people places｜We are late for the meeting, so we should take a taxi.｜Let's take a taxi instead of taking the subway. I want to see the sights.
+* go by ferry：to go to a place by riding on a ferry, a large boat that carries people and sometimes cars across a body of water, such as a river｜When we go across the river to Grandma's house, can we go by ferry?｜go by ferry to the island
+* go by plane：to go to a place by riding on an airplane, a passenger vehicle that flies in the air｜They are going by plane to the vacation resort.｜usually go by plane
+* ride the streetcar：to go to a place by riding on a vehicle that runs on electric rails through a city or town｜The kids love to ride the streetcar.｜ride the streetcar through town
+
+#### b) Expressions
+
+##### i) More directions
+
+**More directions** **更多方位**
+
+* The four compass directions are **north (N), south (S), east (E) and west (W).** These four words are commonly used when giving directions.
+  * Go north on Third Avenue.   
+  * Go down Central Boulevard, and turn east on Clover Street. 
+
+* You can also ask direction questions with **which**.
+  * A: Which direction is it
+  * B: It's west.   
+
+* A **block** is a section of a street, from one corner to the other. It is commonly used in giving directions.
+  * Go down Main Street for three blocks, and then make a right.    
+  * Go south for two blocks, and turn left. 
+
+Make a left on Pine Street.
+
+> Take the number 13 bus, and get **off** at Pine Street. Then walk **north** on First Street for three **blocks** . Our office is on the **left** 
+>
+> at 3489. We're on the fourth **floor** in office **number** 420.
+
+```
+Listen to the audio and answer the questions.
+
+**What is the bus number?**
+- 13
+- 15
+- 30
+
+**Where should the person get off the bus?**
+- Fourth Street
+- First Street
+- Pine Street
+
+**Walk in which direction on First Street?**
+- west
+- north
+- south
+
+**What is the address?**
+- 8439
+- 4938
+- 3489
+
+**What floor is the office on?**
+- third
+- first
+- fourth
+
+**What is the office number?**
+- 13
+- 3489
+- 420
+```
+
+##### ii) Asking for directions to a business
+
+**Asking for directions to a business** **询问公司的方位**         
+
+* When you phone a company, a receptionist may answer and say something like:
+  * ABC Industries. How can I help you? ABC Industries. How can I help you?         
+
+* If you are going to visit a business, you might ask for the address or directions to get there. Add **please** to make the question more polite
+  * What's your address, please?    What is your address, please?
+  * Where's your office, please?    Where is your office, please?
+  * How do I get to your office, please?    How do I get to your office, please?
+  * Can you please tell me how to get there?    Can you please tell me how to get there?
+
+* The person you are asking might need more information from you. For example:
+  * Where are you now?                  Where are you now?            
+  * How are you coming? How are you coming?         
+
+* After you receive the directions, you might want to ask how long it takes to get there. The receptionist will probably give you an estimate
+  * A: How long does it take?   How long does it take?
+  * B: It takes about 20 to 30 minutes. It takes about 20 to 30 minutes.     
+
+* Don't forget to thank the receptionist.
+  * **Thank you** for your help!                                    Thank you for your help!                                 
+
+> A: Good morning. Telex Company. How can I help you?
+> B: Yes, good morning. I have a meeting at your company today. Can you tell me how to get to your office, please?
+> A: Yes, of course. Where are you **coming from** ?
+> B: I'm in front of the Regency Hotel on Park Drive. I'm walking.
+> A: Oh, OK. First, go **north** on Park Drive for two blocks, and **make a right** on Seventh Avenue.
+> B: North on Park, turn right on Seventh.
+> A: Correct. Next, go one **block** on Seventh, and take a left on Chase Street. Our building is **on the right** – number 729. We're on the third **floor** . Our office is number 316.
+
+```
+Listen to the audio and answer the questions.
+
+**What is the name of the company?**
+- Regency
+- Telex Y
+- Chase
+
+**How is the woman going to the office?**
+- by car
+- by bus
+- on foot Y
+
+**What street is the company on?**
+- Park St.
+- Seventh St.
+- Chase St. Y
+
+**What is the company address?**
+- 729 Y
+- 617
+- 316
+
+**What floor is the office on?**
+- second
+- third Y
+- first
+
+**What is the office number?**
+- 273
+- 729
+- 316
+```
+
+#### c) Final Task: Asking for directions to a business
+
+You have a meeting at the Comfort Company today and need to know how to get there. Call the office and ask for directions.
+
+<img src="https://cns2.ef-cdn.com/Juno/10/46/42/v/104642/GE_3.2.3.4.1_male_receptionist1.jpg" alt="img" style="zoom:25%;" />
+
+```
+A: Good afternoon, comfort company
+B: Hi, I have a meeting at your company today.
+A: Okay, how can I help you
+B: How do I get to your office, please?
+A: Where are you now
+B: In my car, on the corner of First Avenue and Oak Street.
+A: Okay, first drive west on 3rd avenue  about five blocks, make a left on Grant boulevard
+B: 
+West on Third and left on Grant.
+A: Yes ,that's right, next go straight on grant for a block or two and turn right on 2nd anveue.
+B: Straight on Grant and right on Second.
+A: Correct, Our building is on the right 117 Second Avenue, our office is on the second floor number 105.
+B Great. Thank you very much.
+```
+
 ### 3-2-4 Describing the location of a city
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/22/87/v/122287/GE_3.2.4.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/58/v/111258/GE_3.2.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 [Calos]: That's my homwtown. Salvador. There.
@@ -199,6 +661,181 @@ What flu do you live on
 [Calos]: No, where is that?
 [Sally]: It's in California, is in the mountains, but it's also on the coast.
 [Sally]: There, it is on the west coast, it's so beautiful there. In the summer time , you can go camping.
+```
+
+#### a) Vocabulary: 
+
+##### i) Geography
+
+* desert: a large area of land that has very little water and very few plants growing on it. Many deserts are covered by sand |the Sahara Desert
+* forest: a large area of land that is thickly covered with trees|a tropical forest
+* coast：the land beside or near to the sea or ocean｜a town on the south coast of England
+* valley：an area of low land between hills or mountains, often with a river flowing through it; the land that a river flows through｜a small town set in a valley
+* hills：an area of land that is higher than the land around it, but not as high as a mountain｜I love walking in the hills (= in the area where there are hills).
+* lake：a large area of water that is surrounded by land｜We swam in the lake.
+* mountains：a very high hill, often with rocks near the top｜a mountain rescue team
+* beach：an area of sand or small stones (called shingle), beside the sea or a lake｜tourists sunbathing on the beach
+* ocean：the mass of salt water that covers most of the earth's surface｜the depths of the ocean
+* river：a natural flow of water that continues in a long line across land to the sea/ocean｜the River Thames
+
+##### ii) Giving the location of a city ot town
+
+**Giving the location of a city or town** **表达城市或小镇的位置**
+
+* **Hometown** refers to the place where you were born or grew up.
+
+  * A: What's your hometown?    What's your hometown?
+
+    B: It's New York City.  It's New York City.
+
+* If someone is unfamiliar with your hometown, you might be asked where it is. Use the preposition **on** with the following geographical vocabulary. Notice that, in this context, **on** has the same meaning as **next to.**
+  * Where is it?    Where is it?
+  * It's on the ocean.  It's on the ocean.
+  * It's on a lake. It's on a lake.
+  * It's on the beach.  It's on the beach.
+  * It's on a river.    It's on a river.
+  * It's on the coast.  It's on the coast.
+
+* Use the preposition **in** with the following geographical vocabulary. Notice that, in this context, in has the same meaning as in the middle of.
+  * Where is it?    Where is it?
+  * It's in a forest.   It's in a forest.
+  * It's in the mountains.  It's in the mountains.
+  * It's in the hills.  It's in the hills.
+  * It's in a valley.   It's in a valley.
+  * It's in the desert. It's in the desert.
+
+* To give the location of a city, you can also use the preposition in with the points of the compass: **north, south, east and west.**
+  * It's in the north.  It's in the north.
+  * It's in the south.  It's in the south.
+  * It's in the east.   It's in the east.
+  * It's in the west.   It's in the west.
+
+Group the geographical features according to whether you live **in** them or **on** them.Move the words to the correct verb collocation. Example: My hometown is **on** the ocean.
+
+| in            | on        |
+| ------------- | --------- |
+| the hills     | the beach |
+| the desert    | a river   |
+| a valley      | a lake    |
+| a forest      | the coast |
+| the mountains | the ocean |
+
+#### b) Expressions: Asking for and giving distances
+
+**Asking for and giving distances** **询问和回答距离**
+
+* Use the expression **How far is it**? to ask about the distance to a place.
+
+  * A: Let's go to the coffee shop.         
+
+    B: How far is it?
+
+    A: It's only two blocks.    
+
+* To ask about the distance between two places, use the expression **How far is it from (place) to (place)?**
+
+  * A: How far is it from your house to the beach? |
+
+    B: It's about two kilometers.  | 
+    
+  * How far is the restaurant? 餐厅有多远？
+
+    It's not far. Only two or three blocks. 不远，只隔两三个街区
+    
+  * How far is it from Rio to Salvador? 里约热内卢到萨尔瓦多有多远？
+
+    It's about 1200 kilometers. 大约 1200 公里
+    
+  * How far is it from Los Angeles to San Francisco? 洛杉矶到旧金山有多远？
+
+    It's about 400 miles. 大约 400 英里
+
+* Most of the world uses **kilometers** (km) to measure distance. The UK and the United States use **miles**. One mile is approximately 1.6 kilometers. If you don't know the exact amount, you can use **around** or **about** before the number.
+
+  * A: How far is it from London to Paris? 
+
+    B: It's about 340 kilometers.           
+
+  * It's around 215 miles from London to Paris. It's around 215 miles from London to Paris. 
+
+> Two friends, Sarah and Paul, are driving from Paris to Berlin. Listen to the audio and answer the questions.
+>
+> SARAH: So, how far is it from Paris to Berlin?
+> PAUL: Well, first we drive from Paris to Bruges, in Belgium. It's about 300 kilometers . Then we drive from Bruges to Berlin.
+> SARAH: How far is it from Bruges to Berlin?
+> PAUL: About 800 kilometers.
+> SARAH: Wow. That's pretty far.
+
+```
+**How far is it from Paris to Bruges?**
+- 300 km
+- 300 miles 
+- 800 km
+
+**How far is it from Bruges to Berlin?**
+- 300 km
+- 800 miles
+- 800 km Y
+```
+
+```
+**Where is Salvador?**
+- in the west
+- on the south coast
+- on the east coast Y
+
+**How far is it from Salvador to Rio?**
+- 120 kilometers
+- 12 kilometers
+- 1200 kilometers Y
+
+I**s Big Sur far from the ocean?**
+- No, it isn't.
+- Yes, it is. Y
+```
+
+#### c) Reading: Reading about locations
+
+> Rio de Janeiro is a big city in the south of Brazil. It's on the east coast of the country. Rio has beautiful beaches on the Atlantic Ocean. Two very famous beaches are Ipanema and Copacabana. Rio also is in the mountains. Sugarloaf is the name of a very famous mountain in Rio.
+
+```
+Where in Brazil is Rio de Janeiro?
+It's in the north.
+It's in the south. Y
+It's in the west.
+
+What coast is Rio on?
+the north coast
+the south coast
+the east coast Y
+
+What ocean is Rio on?
+Sugarloaf
+Ipanema
+Atlantic Y
+
+Where is Rio?
+It's on the beach, but not in the mountains.
+It's in the south, but not on the coast.
+It's on the ocean and in the mountains. Y
+
+What famous mountain is in Rio?
+Atlantic
+Copacabana
+Sugarloaf Y
+```
+
+#### d) Final Task: Describing the location of a city
+
+阅读别人介绍自己家乡的一篇博客，然后写出您了解的一个城市。 输入到输入框。 请写 30–50 个单词。
+
+
+我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
+
+> The city of Hangzhou is in the south of China. It's about 170 kilometers from Shanghai. Many people from Shanghai travel to Hangzhou by train on the weekend. It isn't on the coast, but it is on a beautiful lake. West Lake is very famous. There are beautiful hills, valleys and mountains near the city. There are also bamboo forests
+
+```
+Edinburgh is in Scotland. It's a really beautiful city. It's on the east coast of the country, on the North Sea. It's not in the mountains, but there are mountains nearby. It's around 400 miles from London to Edinburgh. By car, that's about seven hours. Come in the summer – in winter, it's really cold!    
 ```
 
 ## 问路&指路

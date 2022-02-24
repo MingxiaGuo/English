@@ -24,8 +24,6 @@ good afternoon， good morning， good evening
 
 hello，good 好的，thank you， happy， angry 生气的，ok可以的
 
-
-
 How are you? 你好吗？
 
 I'm good, thank you.  我很好,谢谢.

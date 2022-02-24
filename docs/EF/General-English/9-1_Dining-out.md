@@ -82,7 +82,7 @@
 
 ---
 
-![](./assets/GE_9.1.1.1.4_epaper_v2.jpg)
+![](../../assets/GE_9.1.1.1.4_epaper_v2.jpg)
 
 **Questions:** 
 

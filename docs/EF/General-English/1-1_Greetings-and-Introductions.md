@@ -1,19 +1,11 @@
 ## 1-1 Greetings and Introductions
+
 1-1 Greetings and Introductions 问候及介绍
 
 * 1-1-1.  Introducing yourself 自我介绍
 * 1-1-2. Giving your name to some one 把您的名字告诉某人
 * 1-1-3. Exchanging phone numbers 交换电话号码
 * 1-1-4. Greetings 问候
-
-----
-
-### **Discussion Questions**
-
-- Are you having a good day today?                                                       
-- How is your week going?
-- How is your family doing?
-- What is your favorite part of the day?
 
 ---
 
@@ -23,32 +15,37 @@
 
 ##### i) saying hello for the first time
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/15/92/27/v/159227/GE_1.1.1.1.1_rw_poster_v2.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/92/22/v/159222/GE_1.1.1.1.1_rw_x.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
-
-> Hi, I'm James.
-> Hi, I'm Bill
-> Hi, I'm Sally.
-> Hi, my name is Cathy.
-> Hello, my name is Tom.
-> Hello, my name is Andy.
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/15/92/27/v/159227/GE_1.1.1.1.1_rw_poster_v2.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/92/22/v/159222/GE_1.1.1.1.1_rw_x.mp4" </video>
 
 
 
-* Saying hello: Use hello and hi to greet people. Hello can be used in formal and informal situations. Hi is informal. Both hello and hi can be used at all times of the day.
+```
+第一次问好
+Hi, I'm James.
+Hi, I'm Bill
+Hi, I'm Sally.
+Hi, my name is Cathy.
+Hello, my name is Tom.
+Hello, my name is Andy.
+```
 
-  * Hello.	Hello.
+* Saying hello: Use **hello** and **hi** to greet people. **Hello** can be used in formal and informal situations. **Hi** is informal. Both hello and hi can be used at all times of the day.
 
-  * Hi!	Hi!
+  * **Hello.**
 
-* Saying your name: Use I'm and My name is to tell people your name.
-  * I'm Paul.	I'm Paul.
-  * My name is Nancy.	My name is Nancy.a
+  * **Hi!**  **Hey**
+
+* Saying your name: Use **I'm** and **My name is** to tell people your name.
+  * **I'm** Paul.	
+  * **My name is** Nancy.
 
 ##### ii) Asking for and giving names
 
+询问和回答姓名
+
 Sally and Carlos are new employees. They meet for the first time in the office kitchen.Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/11/82/97/v/118297/GE_1.1.1.1.1_poster.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/06/v/111206/GE_1.1.1_v4.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/11/82/97/v/118297/GE_1.1.1.1.1_poster.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/06/v/111206/GE_1.1.1_v4.mp4" ></video>
 
 > [Calos]：Hi!
 > [Sally]：Hello,
@@ -59,31 +56,32 @@ Sally and Carlos are new employees. They meet for the first time in the office k
 > [Calos]：Well. Good bye.
 > [Sally]：Bye
 
-**Asking for and giving names**
+* **Asking for and giving names**
 
-* To ask someone for their name, use the question word **what**.
-  * **What's** your name? What's his/her name?
-  
-* There are two common ways to give your name. You can say **I'm** + your name. **I'm** is a contraction of **I am**. In speech, we use a lot of contractions.
-  * **I'm** Joe.	
-  
-* You can also use the expression **My name is** + your name. This is a little bit more formal than **I'm**.
-  * My name is Ann.	
-* Culture note: In English, when people ask for your **name**, they usually mean your first name, not your family name.
+  * To ask someone for their name, use the question word **what**.
+    * **What's** your name?   What's his/her name?
+  * There are two common ways to give your name.
+    *  You can say **I'm** + your name. **I'm** is a contraction of **I am**. In speech, we use a lot of contractions.
+      * **I'm** Joe.	
+    * You can also use the expression **My name is** + your name. This is a little bit more formal than **I'm**.
+      * **My name is** Ann.	
+  * Culture note: In English, when people ask for your **name**, they usually mean your **first name**, not your family name.
 
-**When you first meet someone** 与人初次见面
 
-* When you first meet someone, say that it is nice to meet them. They will reply by saying that it is nice to meet you too. The word too means also.
-  * A: Nice to meet you.	
-    B: Nice to meet you too.	 	 	 	 	 
+* **When you first meet someone** 与人初次见面
+  * When you first meet someone, say that it is nice to meet them. They will reply by saying that it is nice to meet you too. The word too means also.
+    * A: **Nice to meet you.**	
+      B: **Nice to meet you too.**	 	 	 	 	 
 
-**Saying goodbye** 	 
 
-* Use the word goodbye at the end of a conversation. Bye is a shorter version of goodbye. It is more informal.
+* **Saying goodbye** 	 
+  * Use the word **goodbye** at the end of a conversation. **Bye** is a shorter version of goodbye. It is more informal.
 
-  * Goodbye.	
+    * **Goodbye.**	
+    * **Bye**.
+    * See you later.  I will see you later.
+    * Catch you later
 
-  * Bye.
 
 #### b) Final Task: Introducing yourself
 
@@ -91,21 +89,17 @@ You are getting coffee in the office kitchen when you see a colleague you have n
 
  Listen and record the correct response. When you see a blank, give true information about yourself.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/37/51/v/113751/GE_1.1.1_VRP.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
-
-
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/37/51/v/113751/GE_1.1.1_VRP.mp4" ></video>
 
 ```
-[Michelle]: Hi, my name is Michelle.
-[James]: Michelle! 
-[Michelle]:Hi, James.
-[James]: Hi!
-[Bob]: Hi, Jamesz
-[James]: Hi, Bob. 
-[Bob]: Hi!
-[James]: Bob,um... this is Michelle. Michelle, this is Bob.
-[Michelle]: Hi, nice to meet you.
-[Bob]: Nice to meet you, too.
+A: Hi
+B: Hello
+A: I'm Harry, what's your name?
+B: My name is _____.
+A: Nice to meet you
+B: Nice to meet you too.
+A: Well, goodbye.
+B: Bye.
 ```
 
 ```
@@ -123,89 +117,71 @@ Listen to the letters of the alphabet. As you listen, repeat the letters to your
 
 #### b) Expressions: Spelling names
 
-Sally is a new employee. She is getting her name tag.
+Sally is a new employee. She is getting her name tag. Watch the video and study the language.
 
-Watch the video and study the language.
-
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/07/v/111207/GE_1.1.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/07/v/111207/GE_1.1.2_v2.mp4" ></video>
 
 > ```Sally```: Hi
->
 > ```Boss```: Hello
->
 > ```Sally```: Uh, my name is Sally. Sally Phillps. I'm new.
->
 > ```Boss```: Sally, <mark>how do you spell your last name?</mark>
->
 > ```Sally```: It's p-h-i-l-l-p-s.
->
 > ```Boss```: Oh, yes. Here you are.
->
 > ```Sally```: Thank you
->
 > ```Boss```: You're welcome.
 
 **Asking for spelling**
 
-In English, people usually give two names: a first name, which is your given name, and a last name. The last name is also called a family name because it comes from your family. Here are some examples of first names and last names:
+* In English, people usually give two names: a **first name**, which is your given name, and a **last name**. The **last name** is also called a **family name** because it comes from your family. Here are some examples of first names and last names:
 
-| First name | Last name or family name |
-| ---------- | ------------------------ |
-| Sally      | Phillips                 |
-| Carlos     | Cruz                     |
-| Steve      | Jobs                     |
-
+  | First name | Last name or family name |
+  | ---------- | ------------------------ |
+  | Sally      | Phillips                 |
+  | Carlos     | Cruz                     |
+  | Steve      | Jobs                     |
 * Use these questions to ask people to spell their names.
 
-  * How do you spell your name? How do you spell your name?
+  * **How do you spell** your name? 
 
-  * How do you spell your last name?    How do you spell your last name?
+  * **How do you spell** your last name?    
 
-  * How do you spell that?  How do you spell that? 
+  * **How do you spell** that? 
 
 * Use it's to give your name.
-  * A: How do you spell your last name?     How do you spell your last name?
-    B: It's P-H-I-L-L-I-P-S.    It's P-H-I-L-L-I-P-S.
+  * A: How do you spell your last name?   
+    B: **It's** P-H-I-L-L-I-P-S.   
 
 * Use thanks or thank you to thank people for spelling their names. Thanks is less formal than thank you. Use you're welcome to respond to thanks.
-  * Thanks! 
+  * **Thanks**! 
   
-  * A: Thank you.     
-    B: You're welcome. 
+  * A: **Thank you.**     
+    B: **You're welcome**. 
 
 #### c) Final Task:  Giving your name to some one
 
+```
 > A: Hi.
 > B: Hello.
->
 > A: What's your name?
 > B: My name is Smythe. John Smythe.
 > A: How do you spell your last name?
 > B: It's S-M-Y-T-H-E.
 > A: Thank you!
 > B: You're welcome .        
+```
 
-
-
-> [James]: Hello! My name? My name is James Gold. 
-> 
-> [James]: Ok. It's J-a-m-e-s G-o-l-d. 
-> 
-> [James]: Who is this? 
-> 
-> [James]: umm? Ok, so two o'clock. See you later.
-
-
+```
+[James]: Hello! My name? My name is James Gold. 
+[James]: Ok. It's J-a-m-e-s G-o-l-d. 
+[James]: Who is this? 
+[James]: umm? Ok, so two o'clock. See you later.
+```
 
 ### 1-1-3. Exchanging phone numbers
 
-#### a) Vocabulary: Numbers 0-10
-
 Two new roommates are exchanging phone numbers. Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/13/v/111213/GE_1.1.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
-
-
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/13/v/111213/GE_1.1.3_v2.mp4" ></video>
 
 ```
 [Jake]: So what's your phone number?
@@ -217,108 +193,40 @@ Two new roommates are exchanging phone numbers. Watch the video and study the la
 [Jake]: See you.
 ```
 
-Numbers 0-10
-
- My phone number is 503-2176.
+#### a) Vocabulary: Numbers 0-10
 
 Listen to the numbers.
 
- 
-
-
-
-(0) zero    
-
-
-
-(4) four    
-
-
-
-(8) eight
-
-
-
-(1) one 
-
-
-
-(5) five    
-
-
-
-(9) nine
-
-
-
-(2) two 
-
-
-
-(6) six 
-
-
-
-(10) ten
-
-
-
-(3) three   
-
-
-
-(7) seven       
-
- 
-
-
-
- 
+(0) zero    (1) one   (2) two   (3) three   (4) four    (5) five    (6) six   (7) seven     (8) eight   (9) nine   (10) ten 
 
 Language note: In a sequence of numbers, you will sometimes hear zero said as oh.
 
-​         
-
-
-
-My phone number is 503-2176.    
-
 #### b) Grammar
 
-##### i) The verd 'be'
+##### i) The verb 'be'
 
-**The verb be**
+**The verb be** has three forms: **am**, **is** and **are**. Use the form of the verb depending on what the personal pronoun is. 
 
- 
+Look at the personal pronouns below:
 
-The verb be has three forms: am, is and are. Use the form of the verb depending on what the personal pronoun is. Look at the personal pronouns below:
-
-I   it  you  we  he  you she  they   
-
-​                         
+​		**I   it  you  we  he  you she  they**             
 
 Notice that the personal pronoun you can be singular or plural.
 
 * Use am with the personal pronoun I.
-  * I am Sally.  I am an architect.
-
+  * **I am** Sally.  I am an architect.
 * Use is with the personal pronouns he, she and it.
-  * He is an architect. 
-  * She is an engineer. 
-  * It is new. 
-
+  * **He is** an architect. 
+  * **She is** an engineer. 
+  * **It is** new. 
 * Use are with the pronouns we, you and they.
-  * We are roommates.   
-  * We  are engineers.
-  * You are new.     
-  * You are welcome.
-  * They are architects.  
-
- 
+  * **We are** roommates.    **We are** engineers.
+  * **You are** new.     **You are** welcome.
+  * **They are** architects.  
 
 ##### ii) The verd 'be': contractions
 
-**The verb 'be': contractions**: A contraction is two words joined together to become one word. Use contractions to make your speech sound more natural. Look at the full forms and contractions in the sentences below.
+**The verb 'be': contractions**(缩写): A contraction is two words joined together to become one word. Use contractions to make your speech sound more natural. Look at the full forms and contractions in the sentences below.
 
 | Full form            | Contraction         |
 | -------------------- | ------------------- |
@@ -332,21 +240,27 @@ Notice that the personal pronoun you can be singular or plural.
 
 #### c) Expressions: Asking for a telephone number
 
-There are two words for telephones: telephone, phone
+There are two words for telephones: **telephone**, **phone**
 
 * Use the following questions to ask people for their telephone numbers:
-  * What's your telephone number?  
-  * What's your phone number?  
-  * What's your cellphone number?  
-  * What's your number?
+  * **What's your** telephone **number**?  
+  * **What's your** phone **number**?  
+  * **What's your** cellphone **number**?  
+  * **What's your number**?
 
 * To ask someone for another person's phone number, use the person's name plus 's.
-  * What's Mary's telephone number?
-  * What's Joe's phone number?  
+  * What's **Mary's** telephone number?
+  * What's **Joe's** phone number?  
 
 * Use the word it's to give a telephone number.
-  * A: What's John's telephone number?  What's John's telephone number?
-    B: It's 555-6792.   It's 555-6792.
+  
+  * A: What's your phone number
+  
+    B: **My phone number is** 503-2176.    
+  
+  * A: What's John's telephone number?  
+    B: **It's** 555-6792.  
+  
 
 #### d) Final Task: Exchanging phone numbers
 
@@ -371,8 +285,6 @@ A: It's 485-2056
 B: Thanks
 ```
 
-
-
 ```
 [Paul]: Michelle. Your name is Michelle, right?
 [Michelle]: Yes.
@@ -391,10 +303,6 @@ A: It's 819023
 B: Can you repeat that?
 ```
 
-![Image result for Exchanging phone numbers english](https://i.ytimg.com/vi/SIyQ1dRVjEI/maxresdefault.jpg)
-
-
-
 > **Tip** Telephone，Mobilephone，Cellphone，Smartphone有什么不同？
 > phone是喇叭的意思,是指用电话听筒代表电话。
 > telephone有希腊语词头tele,远程的意思.可以远程传话的话筒就是电话。
@@ -403,74 +311,7 @@ B: Can you repeat that?
 > https://zhidao.baidu.com/question/576786248.html?sort=11&rn=5&pn=5#wgt-answers
 > https://www.zybang.com/question/5727678b99a63395497804c8036aaff1.html
 
-
-
 ### 1-1-4. Greetings
-
-#### a) Grammar: 
-
-##### i) Negatives of 'be'
-
-**Negatives of 'be' 'be'的否定式**： Use the word not to make negative sentences with the verb be. The word not comes after the verb be.
-
-* I am a student.
-  I am not a student.
-
-* He is busy. 
-  He is not busy. 
-
-* They are neat.  
-  They are not neat.  
-
- **Negative contractions with 'be'**： There are two ways to make negative contractions for be. The first way is to contract the subject pronoun and the verb be.
-
-* I am not a student. 
-  I'm not a student. 
-
-* She is not neat.    
-  She's not neat. 
-
-* We are not teachers.   
-  We're not teachers.
-
- The other way is to contract the verb be and the word not. This is not possible with the subject pronoun I.
-
-* He is not a student.   
-  He isn't a student.
-
-* They are not new students.  
-  They aren't new students.  
-
-##### ii) questions with the verb 'be'
-
-**Questions with 'be'**: To make yes-no questions with be, move the verb to the front of the sentence. Remember to put a question mark ( ? ) at the end of a question.
-
-| Statement        | Question         |
-| ---------------- | ---------------- |
-| He is a student. | Is he a student? |
-| They are new     | Are they new?    |
-| You are busy.    | Are you busy?    |
-
-​                     
-
-**Short answers for yes-no questions**:  We usually answer yes-no questions with short answers that start with either yes or no and a form of be.
-
-| Question         | Short answer     |
-| ---------------- | ---------------- |
-| Is he a student? | Yes, he is.      |
-| Is she new?      | No, she isn't.   |
-| Is it 555-1212?  | No, it's not.    |
-| Are they busy?   | Yes, they are.   |
-| Are they OK?     | No, they aren't. |
-
-**Questions with a question word**: Some questions begin with a question word, like how or what. Notice that the question word comes first and is followed by the verb be.
-
-* What's your name?  
-* How are you?   
-* What's your telephone number?  
-* What's your last name? 
-
-#### b) Expressions: everyday greetings
 
 Todd is greeting various people at his office. Watch the video and study the language.
 
@@ -482,57 +323,101 @@ Todd is greeting various people at his office. Watch the video and study the lan
 > [Todd]: I'm good.
 > [Jane]: Well, have a nice day.
 > [Todd]: You too.
->
 > [Catos]: Good afternoon.
 > [Todd]: Good afternoon, Catos.
 > [Catos]: Are you busy?
->
-> [Todd]: No
->
+> [Todd]：No
 > [Jame]: Good evening, Todd.
 > [Catos]: Good evening, Jame
 > [Catos]: Good night.
 > [Jame]: Good night, Todd
 
+#### a) Grammar: 
 
+##### i) Negatives of 'be'
+
+* **Negatives of 'be' ('be'的否定式)**： Use the word not to make negative sentences with the verb be. The word not comes after the verb be.
+  * I am a student.     I am **not** a student.
+    
+  * He is busy.            He is **not** busy. 
+    
+  * They are neat.      They are **not** neat.  
+
+
+*  **Negative contractions with 'be'**： 
+
+  * There are two ways to make negative contractions for be. The first way is to contract the subject pronoun and the verb be.
+
+    * I am not a student.         I**'m not** a student. 
+    * She is not neat.               She**'s not** neat. 
+    * We are not teachers.      We**'re not** teachers.
+  
+  
+  * The other way is to contract the verb be and the word not. This is not possible with the subject pronoun I.
+      * He is not a student.                    He **isn't** a student.
+      * They are not new students.      They **aren't** new students.  
+  
+
+
+##### ii) questions with the verb 'be'
+
+* **Questions with 'be'**: To make yes-no questions with be, move the verb to the front of the sentence. Remember to put a question mark ( ? ) at the end of a question.
+
+  | Statement        | Question         |
+  | ---------------- | ---------------- |
+  | He is a student. | Is he a student? |
+  | They are new     | Are they new?    |
+  | You are busy.    | Are you busy?    |
+
+* **Short answers for yes-no questions**:  We usually answer **yes-no** questions with short answers that start with either **yes** or **no** and a form of be.
+
+  | Question         | Short answer     |
+  | ---------------- | ---------------- |
+  | Is he a student? | Yes, he is.      |
+  | Is she new?      | No, she isn't.   |
+  | Is it 555-1212?  | No, it's not.    |
+  | Are they busy?   | Yes, they are.   |
+  | Are they OK?     | No, they aren't. |
+
+* **Questions with a question word**: Some questions begin with a question word, like **how** or **what**. Notice that the question word comes first and is followed by the verb be.
+
+  * **What's** your name?  
+
+  * **How** are you?   
+
+  * **What's** your telephone number?  
+
+  * **What's** your last name? 
+
+
+#### b) Expressions: everyday greetings
 
 **Everyday greetings** : Morning – afternoon – evening
 
 * Use the greeting good morning before noon. Use the greeting good afternoon from noon to around 6 p.m. Use the greeting good evening from around 6 p.m. to midnight.
-  * Good morning.                     
-  * Good afternoon.
-  * Good evening.  
+  * **Good morning.**                     
+  * **Good afternoon.**
+  * **Good evening.**  
 
 * Use the expression good night to say goodbye to someone in the evening or to indicate that you are going to sleep.
-  * Good night.                   
+  * **Good night.**                   
 
 * Use the greeting How are you? in a somewhat formal situation, like in an office.
-  * How are you?                             
+  * **How are you?**                             
 
 * Use the following sentences to respond to the greeting How are you?
-  * I'm fine, thanks. And you?    
-  * I'm good.        
-
+  * I'm **fine**, thanks. And you?    
+  * I'm **good**.        **fine** / **well** / **good** / so-so / **okay** (**ok**)
+  * I feel amazing. 
+  *  I'm not doing so well.
+  
 * To end a conversation in the morning, you can tell someone you hope they have a nice day:
-  * Have a nice day!                  
+  * Have a nice day!    
+  * Have a good morning / afternoon / evening / night              
 
+**Punctuation and capitalization** 
 
-
-
-
-> LIN: Good evening, Kim.
-> KIM: Good evening, Lin.
-> LIN: How are you?
-> KIM: I'm fine, thanks. How are you?
-> LIN: I'm busy.
-> KIM: Well, good night.
-> LIN: Good night.
-
-
-
-**Punctuation and capitalization**
-
-* Punctuation
+* Punctuation 标点符号
 
   * Use a period (.) at the end of a sentence.   
     * They are students.
@@ -546,7 +431,7 @@ Todd is greeting various people at his office. Watch the video and study the lan
   * Use a comma (,) to show a pause in speech.   
     * I'm fine, thanks.
 
-* Capitalization
+* Capitalization 大写
 
   * Use a capital letter for the first letter of the first word in a sentence.
     * How are you today?
@@ -556,11 +441,17 @@ Todd is greeting various people at his office. Watch the video and study the lan
 
 
 
-Listen to the audio and write down what you hear. Pay particular attention to punctuation, especially your use of capital letters, apostrophes, question marks, commas and periods.
+> LIN: Good evening, Kim.
+> KIM: Good evening, Lin.
+> LIN: How are you?
+> KIM: I'm fine, thanks. How are you?
+> LIN: I'm busy.
+> KIM: Well, good night.
+> LIN: Good night.
 
- 
 
-Type in the input box. Write 12 words. This activity is non-graded.
+
+Listen to the audio and write down what you hear. Pay particular attention to punctuation, especially your use of capital letters, apostrophes, question marks, commas and periods.Type in the input box. Write 12 words. This activity is non-graded.
 
 ```
 Good evening.
@@ -570,34 +461,32 @@ We're busy.
 Good night.
 ```
 
-
-
 #### c) final task: Introducing yourself at an event
 
-You are a businessperson registering at a conference. Give the person at the registration table your personal information for your name card.
-
- Listen and record the correct response. When you see a blank, give true information about yourself.
+You are a businessperson registering at a conference. Give the person at the registration table your personal information for your name card. Listen and record the correct response. When you see a blank, give true information about yourself.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/38/36/v/113836/GE_1.1.4_VRP.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
+```
+A: Good afternoon.
+B: Good afternoon.
+A: How are you today?
+B: I'm fine, thanks. How are you?
+A: I'm fine. What's your last name?
+B: It's ___
+A: how do you spell your last name
+B: It's ___
+A: Here it is.
+B: Thank you
+```
 
 
-> * Good afternoon.
->
-> * Good afternoon.
->
-> * How are you today?
-> * I'm fine, thanks. How are you?
-> * I'm fine. What's your last name?
-> * It's ___
-> * how do you spell your last name
-> * Iit's ___
-> * Here it is.
-> * Thank you
+
+
+
+=======================================================================================
 
 Greeting: a ways of saying hello to someone when you meet them
-
-
 
 ```
 - Q: Good morning. How are you. John? / Hello John, how are you?
@@ -607,13 +496,6 @@ Greeting: a ways of saying hello to someone when you meet them
 - A: I'm not doing so well.
 - Q: why, what's wrong?
 ```
-
-
-
-#### Introductions
-
-- Self-introduction
-- Introducing a person to another person
 
 #### Introducing yourself to someone you’ve just met(self-introduction)
 
@@ -666,8 +548,6 @@ Greeting: a ways of saying hello to someone when you meet them
   - My name is john, What’s yours?
 
   - **What's** your name?  What's his/her name? 
-
-    
 
 #### Introducing a person to another person
 
@@ -790,41 +670,14 @@ Greeting: a ways of saying hello to someone when you meet them
 
  
 
-#### Say good bye to a friend
 
-- See you later
-- Catch you later
-- Goodbye
-- Bye 
 
 ### 1-1-5 Summary
 
-- good morning / afternoon / evening / night
-- hello / hi
-- goodbye / bye / see you later
-- What is your name?
-- I am / My name is _______.
-- How are you?
-- fine / well / good / so-so / okay (ok)
-- thank you / thanks
-- nice to meet you
 - please
 - excuse me / pardon me
 - I am sorry.
 - take care
-- have a good morning / afternoon / evening / night
-
-- Pardon me. My name is Kevin. What is your name?
-- Good evening. How are you?
-- Have a good morning. I will see you later.
-- Good morning. My name is Kevin.
-- How are you? I am fine.
-
-
-
-
-
-
 
 
 
@@ -835,3 +688,13 @@ Greeting: a ways of saying hello to someone when you meet them
 
 
 ![everyday-conversation](../../assets/EF_1-1_everyday-conversation_2.PNG)
+
+
+
+### **Discussion Questions**
+
+- Are you having a good day today?                                                       
+- How is your week going?
+- How is your family doing?
+- What is your favorite part of the day?
+

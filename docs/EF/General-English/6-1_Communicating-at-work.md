@@ -2,17 +2,16 @@
 
 6-1    Communicating at work 工作交流
 
-6-1-1 Giving feedback 给予反馈
-
-6-1-2 Passing on information 转达信息
-
-6-1-3 Running a meeting 主持会议
-
-6-1-4 Summarizing a meeting 总结会议
+* 6-1-1 Giving feedback 给予反馈
+* 6-1-2 Passing on information 转达信息
+* 6-1-3 Running a meeting 主持会议
+* 6-1-4 Summarizing a meeting 总结会议
 
 ---
 
 ### 6-1-1 Giving feedback
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/91/85/v/129185/GE_6.1.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/68/2/v/15682/4.4%20Scene%203.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Leo's my best friend. We've been friends for years. We went to the university together. I graduated from the university, and he didn't. He's worked at a pet shop since last year. That's one year of feeding animials, walking animals, cleaning animals. 
@@ -22,44 +21,19 @@ A: In the past, he's been a waiter, a gardener... I mean, there's nothing wrong 
 
 #### a) Vocabulary: Adjectives to describe an employee
 
-描述员工的形容词
+**描述员工的形容词**
 
+* 以下是一些可用于描述员工的形容词。把形容词和它的反义词一起识记，这种方法一直都很好。
+  * clever - stupid	聪明的 - 愚蠢的
+  * outgoing - shy	外向的 - 害羞的
 
-以下是一些可用于描述员工的形容词。把形容词和它的反义词一起识记，这种方法一直都很好。
+* 注意，否定前缀 un- 常用于构成反义词。
+  * reliable - unreliable	可靠的 - 不可靠的
+  * ambitious - unambitious	有雄心壮志的 - 无抱负的
 
-clever - stupid	聪明的 - 愚蠢的
-
-outgoing - shy	外向的 - 害羞的
-
-注意，否定前缀 un- 常用于构成反义词。
-
-
-reliable - unreliable	可靠的 - 不可靠的
-
-ambitious - unambitious	有雄心壮志的 - 无抱负的
-
-否定前缀 dis- 不如 un- 常见，但是也用于构成一些重要的反义词。
-
-honest - dishonest	诚实的 - 不诚实的
-
-organized - disorganized	有条理的 - 紊乱的
-
-
-
-- - honest
-  - dishonest
-- - organized
-  - disorganized
-- - clever
-  - stupid
-- - outgoing
-  - shy
-- - ambitious
-  - unambitious
-- - reliable
-  - unreliable
-
-
+* 否定前缀 dis- 不如 un- 常见，但是也用于构成一些重要的反义词。
+  * honest - dishonest	诚实的 - 不诚实的
+  * organized - disorganized	有条理的 - 紊乱的
 
 She walked over and told me her name. She seems very **outgoing** .
 
@@ -105,47 +79,33 @@ I'm outgoing - I love to talk with new people.
 
 ##### i) 'Fast', 'hard' and 'good'
 
-'Fast,' 'hard'和'good' 用作形容词和副词
+**'Fast,' 'hard'和'good' 用作形容词和副词**
 
+* 很多形容词在词后加上-ly即可用作副词。
 
-很多形容词在词后加上-ly即可用作副词。
+  * He's clever.	他很聪明。
 
+  * He managed the project cleverly.	他巧妙地管理项目。
 
-He's clever.	他很聪明。
+* **Fast, hard和good**都是例外。 用**fast**作形容词放在名词前面。 
+  * She's a fast learner.	她是一个学东西很快的人。
 
-He managed the project cleverly.	他巧妙地管理项目。
+* 用**fast** 作为副词放在动词之后。注意它没有**-ly** 后缀。
+  * She learns fast.	她学东西很快。
 
-Fast, hard和good都是例外。 用fast作形容词放在名词前面。
+* 用 **hard** 作形容词放在一个名词的前面。
+  * Bill is a hard worker.	Bill 是一个工作努力的人。
 
- 
+* 用 hard 做副词放在动词后面。注意：它没有-ly 后缀。
+  * Bill works hard.	Bill 工作努力。
 
-She's a fast learner.	她是一个学东西很快的人。
+* 用 good 作形容词放在名词前面。
+  * He's a good guy.	他是个不错的小伙子。
 
-用fast 作为副词放在动词之后。注意它没有-ly 后缀。
+* 用well,不是good放在动词后作副词。
+  * I work well with the team.	我与团队合作融洽。
 
-She learns fast.	她学东西很快。
-
-用 hard 作形容词放在一个名词的前面。
-
-
-Bill is a hard worker.	Bill 是一个工作努力的人。
-
-用 hard 做副词放在动词后面。注意：它没有-ly 后缀。
-
-
-Bill works hard.	Bill 工作努力。
-
-用 good 作形容词放在名词前面。
-
-
-He's a good guy.	他是个不错的小伙子。
-
-用well,不是good放在动词后作副词。
-
-
-I work well with the team.	我与团队合作融洽。
-
-语言点：guy 一词在非正式场合可用于指代男性。它也可在口语中指代一群男人或女人。
+* 语言点：**guy** 一词在非正式场合可用于指代男性。它也可在口语中指代一群男人或女人。
 
 
 
@@ -180,23 +140,17 @@ She's a fast learner.
 
 ##### ii) Duration with 'for' and 'since'
 
-用'for' 和 'since' 表达持续
+**用'for' 和 'since' 表达持续时间**
 
-用for 谈论一段时间。
+* 用**for** 谈论一段时间。
+  * Dave met with us for an hour.	Dave 与我们会晤了一小时。
+  * Laura will work in Munich for three years.	Laura 将在慕尼黑工作三年。
 
+* 用**since** 谈论强调从过去某一个时间点起至今的一段时间
+  * Lindsey and Carol have worked here since Wednesday.	Lindsey 和 Carol 从星期三起就在这里上班了。
+  * He's been our customer since last year.	他从去年起就一直是我们的顾客。 	 
 
-Dave met with us for an hour.	Dave 与我们会晤了一小时。
-
-Laura will work in Munich for three years.	Laura 将在慕尼黑工作三年。
-
-用since 谈论强调从过去某一个时间点起至今的一段时间
-
-
-Lindsey and Carol have worked here since Wednesday.	Lindsey 和 Carol 从星期三起就在这里上班了。
-
-He's been our customer since last year.	他从去年起就一直是我们的顾客。
- 	 
-注意： Since 通常与现在完成时使用。
+* 注意： Since 通常与现在完成时使用。
 
 
 
@@ -212,41 +166,26 @@ Abe met with the CEO **for** 20 minutes.
 
 Jane hasn't come to work **since** yesterday.
 
-
-
-
-
 #### c) Expressions: Talking about job performance
 
-谈论员工表现
+**谈论员工表现**
 
+* 在评估员工表现时，经理可能找你了解一位同事或你的下属的信息。你可能会听到以下问题。
+  * How long has she been on your team?	她在你的团队做多久了？
+  * In general, how's he doing?	总体而言，他表现怎么样？
+  * Can you give me some details?	你能告诉我一些细节吗？
 
-在评估员工表现时，经理可能找你了解一位同事或你的下属的信息。你可能会听到以下问题。
+* 经理在了解一位员工的优缺点后，可能会马上询问你他怎样才可能改进。注意提问和回答中 **could** 一词的使用。
 
+  * A: How could she improve?	她能够怎样改进？
+    B: Well, she's sometimes late to work. She could take an earlier train in the morning.	嗯，她有时上班迟到。她早上可以坐早一点的列车。 	 	 
 
-How long has she been on your team?	她在你的团队做多久了？
+  * A: What could he do better?	A：他怎样能做得更好？
+    B: Umm, he could pay more attention to deadlines.	B：嗯，他可以多注意截止期限。
 
-In general, how's he doing?	总体而言，他表现怎么样？
-
-Can you give me some details?	你能告诉我一些细节吗？
-
-经理在了解一位员工的优缺点后，可能会马上询问你他怎样才可能改进。注意提问和回答中 could 一词的使用。
-
-
-
-A: How could she improve?	她能够怎样改进？
-B: Well, she's sometimes late to work. She could take an earlier train in the morning.	嗯，她有时上班迟到。她早上可以坐早一点的列车。
- 	 	 
-
-A: What could he do better?	A：他怎样能做得更好？
-B: Umm, he could pay more attention to deadlines.	B：嗯，他可以多注意截止期限。
-
-使用表达 working on it 和 getting better，谈论正在进步的员工。
-
-
-He's often disorganized, but he's working on it.	他做事常常缺乏条理，但正在努力改进。
-
-She's sometimes a bit shy in meetings, but she's getting better.	她有时开会有点害羞，但正在慢慢改进。
+* 使用表达 **working on it** 和 **getting better**，谈论正在进步的员工。
+  * He's often disorganized, but he's working on it.	他做事常常缺乏条理，但正在努力改进。
+  * She's sometimes a bit shy in meetings, but she's getting better.	她有时开会有点害羞，但正在慢慢改进。
 
  
 
@@ -273,39 +212,47 @@ In general, he's doing pretty **well** . He's a good guy.
 
 How is Jack doing, in general
 
-In general, he's doing very well.
+In general, he's doing very well. 总的来说，他做得非常不错。
 
-总的来说，他做得非常不错。
+Can you give me some details? 你能告诉我一些细节吗
 
-Can you give me some details?
+Well, he works hard, and he works fast. 好吧，他做事又努力又快
 
-你能告诉我一些细节吗
+And how could he improve? 那么他还有什么可以改进的呢？
 
-Well, he works hard, and he works fast.
+Let's see. Sometimes he's pretty shy. 让我看看，有时候他非常害羞。
 
-好吧，他做事又努力又快
+Is that a big problem? 那问题严重吗？
 
-And how could he improve?
-
-那么他还有什么可以改进的呢？
-
-Let's see. Sometimes he's pretty shy.
-
-让我看看，有时候他非常害羞。
-
-Is that a big problem?
-
-那问题严重吗？
-
-No, it's getting better. We're working on it.
-
-不严重，越来越好了 - 我们正想办法解决。
-
-
+No, it's getting better. We're working on it. 不严重，越来越好了 - 我们正想办法解决。
 
 #### d) Final Task: Describing an employee
 
+您的人力资源经理正在进行工作评估，她想了解萨拉，您团队里的一位雇员。萨拉工作很勤奋，尽管有时有些散漫。
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/12/54/14/v/125414/GE_6.1.1_2_VRP.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+ ```
+ A: Do you have a minute? I'd like to ask you a few questions about Sarah for her employee review. First, how long has she been on your team
+ B: She's been with us for six months, since the end of the year.
+ A: And how is she doing
+ B: She's doing really well.
+ A: can you give me some details, what kind of a worker is she
+ B: Well, she's very clever. And she works really hard.
+ A: okay, glad to hear it, anything else
+ B: Yes - she's very outgoing.
+ A: great, and how could she improve
+ B: Well, she's a little disorganized sometimes.
+ A: really, is that a big problem
+ B: No, she's working on it. It's getting better.
+ A: so in genetal sh's doing well
+ B:Yes. She's a good worker.
+ A: Thanks for yout time
+ ```
+
 ### 6-1-2 Passing on information
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/17/64/92/v/176492/MOB_6.1.2.1.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-metadata"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 A: So, I'm meeting with my team tomorrow, and I'm wondering what to say. Some people already know we're buying another computer company. 
@@ -323,138 +270,82 @@ A: Got it. Thanks, Jean.
 
 #### a) Vocabulary: Thoughts and feelings
 
-描述我们的心理过程
- 	 	 
-在人群之间传递信息时，引用您的心理过程或您对他人心理过程的猜测是有用的：
- 	 	 
+**描述我们的心理过程**
 
-A: I was wondering when we'll move to a new office.	我在考虑我们什么时候会搬到新的办公室。
-B: **As you know**, we need to move pretty soon.	如你所知，我们需要尽快搬迁。
- 	 	 
+在人群之间传递信息时，引用您的心理过程或您对他人心理过程的猜测是有用的： 
 
-A: We expect big changes in the next months.	我们预计未来几个月会有大的变化。
-B: **Got it**.	明白了。
- 	 	 
-能够解释您和其他人的感受也很有用。
- 	 	 
+* A: I was wondering when we'll move to a new office.	我在考虑我们什么时候会搬到新的办公室。
+  B: **As you know**, we need to move pretty soon.	如你所知，我们需要尽快搬迁。
+  
+* A: We expect big changes in the next months.	我们预计未来几个月会有大的变化。
+  B: **Got it**.	明白了。 	 	 
 
-A: People are worrying about job cuts.	人们在担心裁员。
-B: It doesn't surprise me.	这没有让我感到惊讶。
+能够解释您和其他人的感受也很有用。   	 	 
 
-Can we expect better salaries?
+* A: People **are worrying** about job cuts.	人们在担心裁员。
+  B: **It doesn't surprise me**.	这没有让我感到惊讶。
 
-我们能期望更高的工资吗？
+Can we expect better salaries? 我们能期望更高的工资吗？
 
-I'm wondering what to say about the new office.
+I'm wondering what to say about the new office. 我在想怎么说新办公室的事。
 
-我在想怎么说新办公室的事。
+OK, got it. 好的，明白了。
 
-OK, got it.
-
-好的，明白了。
-
-People are worrying about job cuts.
-
-人们在担心裁员。
-
-
+People are worrying about job cuts. 人们在担心裁员。
 
 #### b) Grammar: Reporting what people say
+
+**过去时和现在时的引述**	 	  	 	 	 
+
+* 当您引述某人说过的话，您用的引述动词，如 **say**，可以采用过去时。	 	 
+  * Hey, boss, I was wondering ... Brad said we're moving to a new office. 	 	老板，我在想……Brad 说我们要搬到新的办公室。 	 	 	 
+
+* 但您也可以用现在时态引述。这突出强调该人说过的话与现在相关，即便说话在过去。
+  * Some people **are saying** that it's going to be really far from the center.	 	有人说这会离市中心很远。
+  * And Tanya **says** there's no subway station nearby.	 	Tanya 说附近没有地铁站。
+
+
+
+Benny said we'd move to a new office. 本尼说我们会搬到新的办公室。
+
+People said there wouldn't be a new system. 人们说将不会有一个新的系统。
+
+Everyone is saying there will be a new manager. 每个人都在说将有一个新的经理。
+
+Tanya says there will be job cuts. 谭雅说会有裁员。
 
 引述他人说的话
 
 **What phrases do you hear?**
 
-过去时和现在时的引述	 	 
- 	 	 	 
-当您引述某人说过的话，您用的引述动词，如 say，可以采用过去时。	 	 
- 	 	 	 
-
-Hey, boss, I was wondering ... Brad said we're moving to a new office. 	 	老板，我在想……Brad 说我们要搬到新的办公室。
- 	 	 	 
-但您也可以用现在时态引述。这突出强调该人说过的话与现在相关，即便说话在过去。
- 	 	 	 
-
-Some people are saying that it's going to be really far from the center.	 	有人说这会离市中心很远。
-
-And Tanya says there's no subway station nearby.	 	Tanya 说附近没有地铁站。
-
-
-
-Benny said we'd move to a new office.
-
-本尼说我们会搬到新的办公室。
-
-试试复述录音的内容。
-
-正确 再试试！
-
-1 / 4
-
-People said there wouldn't be a new system.
-
-人们说将不会有一个新的系统。
-
-Everyone is saying there will be a new manager.
-
-每个人都在说将有一个新的经理。
-
-Tanya says there will be job cuts.
-
-谭雅说会有裁员。
-
-
-
 #### c) Expressions: Asking for and giving advice
 
-讲话许可？	 
- 	 	 
-在公司知道什么能告诉别人，什么不能告诉别人，这有时很重要。类似这样的问句很有帮助：
- 	 	 
+**讲话许可？**	  	 	 
 
-What can I tell people about the move? 	这次搬迁我能跟人说什么？
+* 在公司知道什么能告诉别人，什么不能告诉别人，这有时很重要。类似这样的问句很有帮助：
+  * What can I tell people about the move? 	这次搬迁我能跟人说什么？
+  * Should I tell the guys?	我该告诉大家吗？ 	 	 
+* 相应地，您可能期待像这样的回答：     	 	 
 
-Should I tell the guys?	我该告诉大家吗？
- 	 	 
-相应地，您可能期待像这样的回答：
- 	 	 
+  * A: What can I tell people about the move? 	这次搬迁我能跟人说什么？
+    B: It's best to be honest. It will happen very soon.	最好坦白说。很快就会发生。 	 	 
 
-A: What can I tell people about the move? 	这次搬迁我能跟人说什么？
-B: It's best to be honest. It will happen very soon.	最好坦白说。很快就会发生。
- 	 	 
+  * A: Should I tell the guys?	我该告诉大家吗？
+    B: If I were you, I wouldn't say anything for now.	我要是你，我现在什么也不会说。
 
-A: Should I tell the guys?	我该告诉大家吗？
-B: If I were you, I wouldn't say anything for now.	我要是你，我现在什么也不会说。
-
-A
-
-
-
-Chatting。。。。
-
-###  You
-
-Steven, what can I say to the guys about the new computer system?
-
-#### Boss
-
-Hmm. It's best to be honest. We don't have enough money for one.
-
-### You
-
-Should I tell them now?
-
-#### Boss
-
-If I were you, I'd wait a few days.
-
-### You
-
-OK. Lunch, later?
-
-#### Boss
-
-Sure.
+> Chatting。。。。
+>
+> You：Steven, what can I say to the guys about the new computer system?
+>
+> Boss：Hmm. It's best to be honest. We don't have enough money for one.
+>
+> You：Should I tell them now?
+>
+> Boss：If I were you, I'd wait a few days.
+>
+> You：OK. Lunch, later?
+>
+> Boss：Sure.
 
 **Will there be a new computer system?**
 
@@ -462,48 +353,44 @@ Sure.
 
 
 
-What should I say to Donna?
+What should I say to Donna? 我应该跟 Donna 说什么呢？
 
-我应该跟 Donna 说什么呢？
+You should confirm that the deal is final. 你应该确认这是最终结果。
 
+What can I tell the team? 我能告诉团队什么呢？
 
-收听音频
+If I were you, I'd say there will be some job cuts. 如果我是你，我会说可能会有一些裁员。
 
-You should confirm that the deal is final.
+It's best to be honest. 最好实话实说。
 
-你应该确认这是最终结果。
+Should I tell our customers? 我应该告诉我们的客户吗？
 
-What can I tell the team?
+Yes, it's always good to talk with customers. 是的，和顾客交谈从来都是有好处的。
 
-我能告诉团队什么呢？
-
-If I were you, I'd say there will be some job cuts.
-
-如果我是你，我会说可能会有一些裁员。
-
-It's best to be honest.
-
-最好实话实说。
-
-Should I tell our customers?
-
-我应该告诉我们的客户吗？
-
-Yes, it's always good to talk with customers.
-
-是的，和顾客交谈从来都是有好处的。
-
-Got it. Thanks!
-
-明白了。谢谢！
-
-
-
-
+Got it. Thanks! 明白了。谢谢！
 
 #### d) Final Task: Passing on information
 
+```
+A: hi, what's up
+B: I was wondering what's happening with the new system.
+A: Well, as you know, we need to update the system , it's becomming reliable
+B: Everyone is saying the new one will be difficult to use.
+A: It doesn't surprise me, they can be a little lazy somethimes you know
+B: Right. But what can I tell the guys?
+A: It's best to be honest, if I were you, I'd tell them that it will be a little extra work, but the new system will be more reliable than the old
+B: But they are saying it will be a lot of extra work.
+A: Tell them not to worry, after a few months, It'll be much easier
+B: Got it. So when can we expect the new system?
+A: The compnay says it's ready to come and install it next week
+B: Should I tell the guys that?
+A: sure, you can tell them
+B: OK. Great!
+```
+
 ### 6-1-3 Running a meeting
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/91/47/v/129147/GE_6.1.3.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/61/20/v/126120/GE_6.1.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 A: Thanks for coming, guys. I know that you're really busy. Have you looked at the agenda?
@@ -521,53 +408,39 @@ A: Yes. Harry. We're getting to that.
 
 #### a) Vocabulary: Meeting words
 
-有关会议的有用词汇和短语
- 	 	 
-以下是一些会议中经常出现的词汇：
- 	 	 
+**有关会议的有用词汇和短语**: 以下是一些会议中经常出现的词汇：
 
-Has everyone got the agenda?	大家都拿到议事日程了吗？
-
-There are three items today. 	今天有三个议题。
-
-First, we have several new hires.	首先，我们招聘了几位新员工。
-
-Jane is leaving for personal reasons.	Jane 因个人原因离职。
-
-I'll give an update on that later.	稍后我会就此予以最新说明。
+* Has everyone got the **agenda**?	大家都拿到议事日程了吗？
+* There are three **items** today. 	今天有三个议题。
+* First, we have several **new hires**.	首先，我们招聘了几位新员工。
+* Jane is **leaving for personal reasons**.	Jane 因个人原因离职。
+* I'll **give an update** on that later.	稍后我会就此予以最新说明。
 
 
 
-
-
-WEEKLY MEETING  - 4/12*
-
-Meeting started: 2 p.m.
-*
-
- 
-
-Agenda items
-
-\1. NEW HIRES
-
-New architect (Ari Rivera) hired Tuesday. Worked at BTFL Designs.
-
-Tony leaving. Moving outside the country! Party for Tony – Friday at 3 p.m.
-
-
-\2. OFFICE VISITS
-
-Three visitors next week (from New York). Clean up desk.
-
-
-\3. COMPANY UPDATES
-
-Continue with employee reviews in May.
-
-*Meeting ended: 2:15 p.m.*
-
-
+> WEEKLY MEETING  - 4/12*
+>
+> Meeting started: 2 p.m.
+>
+> Agenda items
+>
+> \1. NEW HIRES
+>
+> New architect (Ari Rivera) hired Tuesday. Worked at BTFL Designs.
+>
+> Tony leaving. Moving outside the country! Party for Tony – Friday at 3 p.m.
+>
+>
+> \2. OFFICE VISITS
+>
+> Three visitors next week (from New York). Clean up desk.
+>
+>
+> \3. COMPANY UPDATES
+>
+> Continue with employee reviews in May.
+>
+> *Meeting ended: 2:15 p.m.*
 
 **At the top of the page, Ana wrote '4/12.' What does it mean?**
 
@@ -604,44 +477,38 @@ Continue with employee reviews in May.
 
 #### b) Grammar: 'Say' vs 'tell'
 
+**使用 *say* 和 *tell* 引述他人说的话** 	 	 
+
+* Say 和 tell 意义相近。 	 	 
+
+  * He said that she's very nice but a little shy. 	他说她很善良，但有点腼腆。
+
+  * He told me that she's very nice but a little shy. 	他告诉我她很善良，但有点腼腆。 	 	 
 
 
-使用 *say* 和 *tell* 引述他人说的话
- 	 	 
-Say 和 tell 意义相近。
- 	 	 
-
-* He said that she's very nice but a little shy. 	他说她很善良，但有点腼腆。
-* He told me that she's very nice but a little shy. 	他告诉我她很善良，但有点腼腆。
-   	 	 
-
-正如您可能注意到的，tell 通常与 me、you 或 us 等词搭配使用，而 say 无需搭配这些词。
-   	 	 
-
-* He said he would tell us the news next week. 	他说他下周告诉我们消息。
+* 正如您可能注意到的，tell 通常与 me、you 或 us 等词搭配使用，而 say 无需搭配这些词。   	 	 
+  * He said he would tell us the news next week. 	他说他下周告诉我们消息。
 
 
+* 如果您希望语气更随便，在 say 或 tell 引导的句子中就不需要 that。 	 	 
 
-如果您希望语气更随便，在 say 或 tell 引导的句子中就不需要 that。
- 	 	 
-
-* He said he would let us know.  	他说他会告诉我们。
-
-* He told me the news about the move.	他告诉了我搬迁的消息。
-   	 	 
-
-如果您引述 will 或 can 之类的情态动词引导的句子，将情态动词变为过去时形式。
-   	 	 
-
-* John told us he would check.	John 跟我们说他会检查。
-* Tandy said she could finish the work herself. 	Tandy 说她独自能完成工作。
+  * He said he would let us know.  	他说他会告诉我们。
 
 
+  * He told me the news about the move.	他告诉了我搬迁的消息。 	 	 
 
-Rebecca **said** that new hires is the first item on the agenda.
-Isaac told **Roberto** that there are 14 new hires.
-**Cindy** said **that** there are 13 new hires.
-Cindy **told** Roberto that she has a new computer for **him** .
+
+* 如果您引述 will 或 can 之类的情态动词引导的句子，将情态动词变为过去时形式。   	 	 
+
+  * John told us he would check.	John 跟我们说他会检查。
+
+  * Tandy said she could finish the work herself. 	Tandy 说她独自能完成工作。
+
+
+> Rebecca **said** that new hires is the first item on the agenda.
+> Isaac told **Roberto** that there are 14 new hires.
+> **Cindy** said **that** there are 13 new hires.
+> Cindy **told** Roberto that she has a new computer for **him** .
 
 
 
@@ -654,9 +521,7 @@ Cindy **told** Roberto that she has a new computer for **him** .
 
 #### c) Expressions: Conducting a meeting
 
-主持会议
-
-你可以分步安排会议，每一步骤都清楚明了。
+**主持会议**:你可以分步安排会议，每一步骤都清楚明了。
 
 1.问候和感谢参会者。
 
@@ -732,7 +597,30 @@ Now let's move to item two - company updates. 现在我们来到第二项 – �
 
 #### d) Final Task: Running a meeting
 
+你正在主持一个小型会议，参会的三人是和你关系密切的同事。向他们介绍会议第一部分的安排。
+
+```
+A: okay, shall we start
+B: Sure. Hi, everyone. Thanks for coming.
+A: Good afternoon, hi, hi
+B: Has everyone seen the agenda?
+A: Yes, but i just got it
+B: OK. We don't have much time, so let's move quickly.
+A: sounds good, what's the first item
+B: First, new hires. Unfortunately, Brandi's leaving.
+A: Too bad, victor said that it's for personal reasons
+B: Really? Well, I'll miss her.
+A: Mee too, but I'm sorry for asking, who's going to do her work
+B: Calvin said that he can do her work.
+A: Great
+B: Any questions before we continue?
+A: no, I don't think so
+B: Great. Now let's move to item two - office visits.
+```
+
 ### 6-1-4 Summarizing a meeting
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/88/04/v/128804/GE_6.1.4.2.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/61/18/v/126118/GE_6.1.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 A: Okay. Next item on the agenda is the company update. Some of you have asked me about Sunset Computers.
@@ -756,49 +644,30 @@ C: I heard some people talking abut it, but ..
 
 ```
 
-
-
 #### a) Grammar: 
 
 ##### i) Reported questions - past tense
 
+**间接疑问句 - 过去时**
 
+* 说话内容可用过去时和现在时进行转述。
+  * I want to know the latest sales figures.	我想知道最新的销售数字。
+  * Cody says he wants to know the latest sales figures.	Cody 说他想知道最新的销售数据。
+  * Cody said he wants to know the latest sales figures.	Cody 说他想知道最新的销售数据。
 
-间接疑问句 - 过去时
+* 无论如何，问题通常用过去时提出。注意，在提出的问题里，句子的顺序改回主语+ 动词。
+  * How's the team doing?	团队工作表现怎么样？
+  * Cody asked how the team is doing.  	Cody 问团队工作表现怎么样。
+  * When are we going to get a new computer system?	我们什么时候会获得新的计算机系统？
+  * John asked when we were going to get a new computer system.	John 问我们什么时候会获得新的计算机系统。
 
-说话内容可用过去时和现在时进行转述。
+* 记住，当你转述某人的提问时，你可能需要改变代词和动词来进行正确转述。
+  * Where are you meeting?	你们在哪开会？
+  * Cody asked where we are meeting.	Cody 问我们在哪开会。
 
-
-I want to know the latest sales figures.	我想知道最新的销售数字。
-
-Cody says he wants to know the latest sales figures.	Cody 说他想知道最新的销售数据。
-
-Cody said he wants to know the latest sales figures.	Cody 说他想知道最新的销售数据。
-
-无论如何，问题通常用过去时提出。注意，在提出的问题里，句子的顺序改回主语+ 动词。
-
-
-How's the team doing?	团队工作表现怎么样？
-
-Cody asked how the team is doing.  	Cody 问团队工作表现怎么样。
-
-When are we going to get a new computer system?	我们什么时候会获得新的计算机系统？
-
-John asked when we were going to get a new computer system.	John 问我们什么时候会获得新的计算机系统。
- 记住，当你转述某人的提问时，你可能需要改变代词和动词来进行正确转述。
-
-
-Where are you meeting?	你们在哪开会？
-
-Cody asked where we are meeting.	Cody 问我们在哪开会。
-
-以下是一些直接疑问句和间接疑问句的例子。
-
-
-Who are the visitors?	访客是什么人？
-
-Cody asked who the visitors are.	
-Cody 问访客是什么人。
+* 以下是一些直接疑问句和间接疑问句的例子。
+  * Who are the visitors?	访客是什么人？
+  * Cody asked who the visitors are.	Cody 问访客是什么人。
 
  	 	 
 
@@ -816,26 +685,15 @@ Cody asked why the visitors are coming.  	Cody 问访客为什么前来。
 
 ##### ii) 'Anyone' and 'anything'
 
-'Anyone' 和 'anything'
+**'Anyone' 和 'anything'**
 
 
+当你谈论的东西的数目并不重要或不易识别时，在否定句和问句中用不定代词**anyone** 和**anything** 。
 
-
-当你谈论的东西的数目并不重要或不易识别时，在否定句和问句中用不定代词anyone 和anything 。
-
-
-
-Don't tell anyone about this.	不要跟任何人讲这件事。                            
-
-Does anyone have questions?	
-还有人有问题吗？
-
-
-I don't have anything to report.	
-我没有什么要报告的。
-
-
-Mike, do you want to say anything?	Mike，你有什么要说的吗？
+* Don't tell anyone about this.	不要跟任何人讲这件事。                            
+* Does anyone have questions?	 还有人有问题吗？
+* I don't have anything to report.	 我没有什么要报告的。
+* Mike, do you want to say anything?	Mike，你有什么要说的吗？
 
 
 
@@ -849,18 +707,18 @@ Mike, do you want to say anything?	Mike，你有什么要说的吗？
 
 
 
-ROGER: Peter, do you have **anything** to report on the Westmore project?
-PETER: No, I don't have **anything** . Maybe I'll know more on Tuesday.
-ROGER: OK. And Sarah, how about the visitors from Turkey? Is **anyone**
-here yet?
-SARAH: Uh, yes, three of the five visitors are already here.
-ROGER: OK, great.
-SARAH: And there are two more things I'd like to say about the visitors.
-ROGER: All right. Let's get together after the meeting to discuss them.
-SARAH: Sure.
-ROGER: Well, I think that's it. Does **anyone** have **anything** else to say?
-SARAH: No.
-PETER: No.
+> ROGER: Peter, do you have **anything** to report on the Westmore project?
+> PETER: No, I don't have **anything** . Maybe I'll know more on Tuesday.
+> ROGER: OK. And Sarah, how about the visitors from Turkey? Is **anyone**
+> here yet?
+> SARAH: Uh, yes, three of the five visitors are already here.
+> ROGER: OK, great.
+> SARAH: And there are two more things I'd like to say about the visitors.
+> ROGER: All right. Let's get together after the meeting to discuss them.
+> SARAH: Sure.
+> ROGER: Well, I think that's it. Does **anyone** have **anything** else to say?
+> SARAH: No.
+> PETER: No.
 
 显示正确答案
 
@@ -872,33 +730,21 @@ PETER: No.
 
 
 
-Britney didn't have anything to say.
+Britney didn't have anything to say. Britney 没什么要说。
 
-Britney 没什么要说。
+Is anyone taking notes? 有人在记笔记吗？
 
-Is anyone taking notes?
+Do you want anything from the snack table? 餐桌上的东西你要吃点什么吗？
 
-有人在记笔记吗？
+Don't tell anyone about the update. 关于公司的最新情况，不要告诉任何人。
 
-Do you want anything from the snack table?
-
-餐桌上的东西你要吃点什么吗？
-
-Don't tell anyone about the update.
-
-关于公司的最新情况，不要告诉任何人。
-
-Does anyone have anything else to say?
-
-大家有什么其它要说的吗？
+Does anyone have anything else to say? 大家有什么其它要说的吗？
 
 
 
 #### b) Expressions: Closing a meeting
 
-结束会议
-
-会议结尾常常分为几个步骤，每步都清楚明了。
+**结束会议**: 会议结尾常常分为几个步骤，每步都清楚明了。
 
 1.最后提问。
 
@@ -934,9 +780,7 @@ That's **it** , everyone. Thanks for coming.
 
 **Jan says, 'First, we have visitors next week.' What is she doing?**
 
-- 
-
-  **What is the action item?**
+**What is the action item?**
 
 **At the end of the meeting, what does Jan say?**
 
@@ -944,72 +788,45 @@ That's **it** , everyone. Thanks for coming.
 
 #### c) Writing: Writing a meeting summary
 
-撰写会议总结
+**撰写会议总结**
 
 会后，你可能需要把总结发邮件告诉同事。这里有一份可供参照的样文。
 
 1. 撰写简短准确的 subject line（主题行）。
+   * Royal project meeting summary	Royal 项目会议总结
+     Summary of Thursday's budget meeting	周四预算会议总结 	 
 
-Royal project meeting summary	Royal 项目会议总结
-Summary of Thursday's budget meeting	周四预算会议总结
- 	 
 2. 简要说明你撰写这封邮件的 main reason（主要原因）。
+   * I'm writing to summarize our meeting about the Royal project.	我写信是要总结这次 Royal 项目的会议。 	 
 
-
-I'm writing to summarize our meeting about the Royal project.	我写信是要总结这次 Royal 项目的会议。
- 	 
- 3. 列出所讨论的 main topics（主要话题），包括提出的问题和给出的答案。
-
-
-Randy asked who is working on the project.	Randy 问现在谁在做这个项目。
-Jeremy said that Bill and Lucy are working on the project.	
-Jeremy 说 Bill 和 Lucy 正在做那个项目。
+  3. 列出所讨论的 main topics（主要话题），包括提出的问题和给出的答案。
+     * Randy asked who is working on the project.	Randy 问现在谁在做这个项目。
+       Jeremy said that Bill and Lucy are working on the project.	
+       Jeremy 说 Bill 和 Lucy 正在做那个项目。
 
 
 4. 列出会议达成的所有 action items（行动决议）。
+   * Jeremy said that he can confirm the budget by Monday.	Jeremy 说 他周一之前可以确认预算。
 
+​	
 
-
-Jeremy said that he can confirm the budget by Monday.	Jeremy 说 他周一之前可以确认预算。
-
-
-
-
-
-Summary of Friday's sales meeting
-
-From:
-
-tj@actionidea.com
-
-To:
-
-
-
-vince@actionidea.com; robert@actionidea.com; mary@actionidea.com; ted@actionidea.com; todd@actionidea.com
-
-
-
-Hi.
-
-I'm writing to summarize our sales meeting from Friday:
-
-- Robert asked what customers are saying about the new product.
-  Vince said that he hasn't heard from anyone yet.
-- Mary asked how many new customers there are.
-  Vince said that there are more than 300 new customers.
-
-
-Action items:
-
-- Vince said that we need to think of ways to get new customers.
-
-
-Did I miss anything? Please let me know.
-
-Thanks.
-
-TJ
+> Subject: **Summary** of Friday's sales meeting
+>
+> From: tj@actionidea.com
+>
+> To: vince@actionidea.com; robert@actionidea.com; mary@actionidea.com; ted@actionidea.com; todd@actionidea.com
+>
+> Hi: I'm writing to **summarize** our sales meeting from Friday:
+>
+> * Robert **asked what** customers are saying about the new product. Vince said that he hasn't heard from anyone yet.
+>
+> * Mary asked how many new customers there are. Vince **said that** there are more than 300 new customers.
+>   **Action** items:
+>
+> * Vince said that we need to think of ways to get new customers.
+>   Did I miss **anything** ? Please let me know.
+>
+> Thanks.
 
 
 
@@ -1019,17 +836,41 @@ TJ
 
 **What is the action item?**
 
-
-
-Subject: **Summary** of Friday's sales meeting
-Hi:
-I'm writing to **summarize** our sales meeting from Friday:
-\* Robert **asked what** customers are saying about the new product. Vince said that he hasn't heard from anyone yet.
-\* Mary asked how many new customers there are. Vince **said that** there are more than 300 new customers.
-**Action** items:
-\* Vince said that we need to think of ways to get new customers.
-Did I miss **anything** ? Please let me know.
-
-
-
 #### d) Final Task: Summarizing a meeting
+
+撰写一封你最近参加的会议的总结邮件，内容包括会上提出的问题和回答，讲话人和讲话的内容等所有详情，以及会上作出的决议。如果你并不是经常参加会议，那就虚构一场会议。
+
+
+ ```
+ 答案
+ SALES MEETING NOTES
+ 
+ People at meeting: Adam, Chris, Taylor
+ 
+ Adam: How many new customers do we have?
+ Taylor: We have about 50 new customers.
+ Chris: What are we doing to increase sales?
+ Taylor: We should pay more to salespeople with big sales.
+ 
+ Action item:
+ Taylor: You all need to think of anything else that will increase sales.
+ ```
+
+```
+我的：没通过
+
+Summary of sales meeting
+
+I&apos;m writing to summarize our sales meeting. There four people in the meeting: Adam, Chris, Taylor and me.
+* Adam asked how many new customers we have.
+* Chris asked What we&apos;re doing to increase sales?
+* Taylor suggested we should pay more to salespeople with big sales.
+
+Action item:
+Taylor said we all need to think of anything else that will increase sales.
+
+Anything else? Please let me know
+```
+
+
+

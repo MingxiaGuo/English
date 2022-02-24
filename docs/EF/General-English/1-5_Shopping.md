@@ -7,11 +7,9 @@
 * 1-5-3 Talking to a sales clerk
 * 1-5-4 Talking about where you shop
 
-----
+---
 
 ### shopping for food
-
-
 
 Can I help you, sir?
 
@@ -19,10 +17,6 @@ Yes, please show me the yellow T-shirts.
 
 What size? Large or small?
 A small one.
-
-
-
-
 
 | shop            |                               |
 | --------------- | ----------------------------- |
@@ -43,15 +37,9 @@ A small one.
 | total           |                               |
 | change          |                               |
 
-
-
 ### 1-5-1 Trying on clothes in a store
 
-Watch the video and study the language.
-
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
-
-00:01
 
 ```
 [KELLY] Excuse me - can I try these on?
@@ -64,170 +52,58 @@ Watch the video and study the language.
 [SALES ASSISTANT] How about these shoes?
 ```
 
-
-
 #### a) Vocabulary: Clothes
-
-Clothes – singular and plural
-
-
-
-Some words for clothes are always plural, even though they refer to a single object.
-
- 
-
-
-
-
-
-pants                           pants
-
-
-
-jeans   jeans
-
-When clothing comes as a pair, it is usually plural.
-
-
-
-
-
-socks                               socks
-
-
-
-shoes   shoes
-
-When you talk about pants, jeans, socks and shoes, you can use the counter a pair of.
-
- 
-
-
-
-
-
-I have a new pair of pants.     I have a new pair of pants.
-
-
-
-Culture note: In British English, pants means underwear. In the United Kingdom, people say trousers.
-
- 
-
-
-
-
-
-trousers                                        trousers
-
- 
-
-
-
- 
-
-
 
  a skirt, a pair of socks, a dress, a jacket, a pair of jeans, a pair of pants, a shirt, a pair of shoes, a T-shirt
 
-#### b) Grammar: Demonstartive adjectives
+**Clothes – singular and plural 衣服-单数和复数**
 
-Watch the video and study the language.
+* Some words for clothes are always plural, even though they refer to a single object.
+  * pants 裤子
+  * jeans 牛仔裤
+
+* When clothing comes as a pair, it is usually plural.
+  * socks 袜子
+  * shoes
+
+* When you talk about **pants**, **jeans**, **socks** and **shoes**, you can use the counter **a pair of.**
+  * I have **a** new **pair of** pants.
+
+* Culture note: In British English, **pants** 内裤means **underwear**. In the United Kingdom, people say **trousers**.
+  * trousers 长裤
+
+#### b) Grammar: Demonstartive adjectives
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/4/v/19914/0a.7%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-00:15
 
-You must watch the entire movie once before you can adjust the timeline.
 
-00:41
 
 ```
-指示形容词
-
-LAURA:  Hmm.  This shirt.  And ....  How about these pants?  No. 嗯。 这件衬衣。 还有... 这条裤 子怎么样？ 不怎么样。 
-•LAURA:  A skirt.  How about ....  This dress!  No. 一条裙 子。 要不要... 这套衣服！ 不好看
+LAURA:  Hmm.  This shirt.  And ....  How about these pants?  No. 不怎么样。 
+LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 ```
 
-Demonstrative adjectives
+**Demonstrative adjectives 指示形容词**
 
- 
+* Use the demonstrative adjectives **this, that, these** and **those** to identify things around you.
 
-Use the demonstrative adjectives this, that, these and those to identify things around you.
+  * Use **this** and **these** for things that are near you. Use **this** for a single object and **these** for two or more objects.
+    * **this** shirt      | **This** shirt here is beautiful/nice, but it's expensive.                    
+    * **these** shirts   | **These** shoes here are nice.
 
- 
+  * Use **that** and **those** for things that are not near you. Use **that** for a single object and **those** for two or more objects.
+    * **that** shirt       | **That** shirt over there is really expensive.
+    * **those** shirts  | **Those** pants in the window are great!
 
-Use this and these for things that are near you. Use this for a single object and these for two or more objects.
+* **'Here' and 'there'**：Demonstrative adjectives are often used with the location words **here** and **there**. Here is used with this and these to indicate something near the speaker. **There** is used with **that** and **those** to indicate something not near the speaker. You can also say **over here** o**r over there** for emphasis.
+  * I like **this** dress **over here**.   |I really like **that** shirt **over there**.
+  * I really like **that** shirt **there**. |I like the color of **that** sweater **there**.
+  * I really like **those** shoes over there.  
 
- 
-
-
-
-this shirt                                      this shirt
-
-
-
-these shirts    these shirts
-
-​         
-
-Use that and those for things that are not near you. Use that for a single object and those for two or more objects.
-
-​         
-
-
-
-that shirt          that shirt
-
-
-
-those shirts    those shirts
-
- 'Here' and 'there'
-
- 
-
-Demonstrative adjectives are often used with the location words here and there. Here is used with this and these to indicate something near the speaker. There is used with that and those to indicate something not near the speaker. You can also say over here or over there for emphasis.
-
- 
-
-
-
-I like this dress over here.    I like this dress over here.
-
-
-
-I really like that shirt there. I really like that shirt there.
-
-
-
-I really like those shoes over there.   I really like those shoes over there.
-
- 
-
-Intensifier: 'too' + adjective
-
- 
-
-Use the word too with an adjective to indicate too much of something.
-
-​         
-
-
-
-This dress is too big.  This dress is too big.
-
-
-
-These pants are too small.  These pants are too small.
-
- 
-
-
-
-
-
-
+* Intensifier: 'too' + adjective**强调成分：'too' + 形容词**： Use the word **too** with an adjective to indicate too much of something.
+  * This dress is **too** big.  |This shirt is **too** big for me.
+  * These pants are **too** small.  
 
 > JOHN: I like this shop. Hey, how's  **this** jacket?
 > STELLA: It's nice, and I like the color.
@@ -238,91 +114,31 @@ These pants are too small.  These pants are too small.
 > JOHN: Nah. I don't think so. They're too big!
 > STELLA: Oh, well. Let's go back to work.
 
-
-
-This shirt is **too** big for me. 
-**These** shoes here are nice.
-**That** shirt over there is really expensive.
-**Those** pants in the window are great!
-**This** shirt here is beautiful.
-
-
-
-I really like that shirt over there.
-
-These shoes here are nice
-
-Those pants in the window are great!
-
-This skirt is nice, but it's expensive.
-
-I like the color of that sweater there.
-
-This shirt is too big for me.
-
 #### c) Expressions: Asking for opinions
 
-Asking for opinions
+**Asking for opinions 征求意见**
 
+* Use the phrases **what about** and **how about** to ask someone's opinion about something.
 
+  * A: **What about** this dress?｜What about these pants?
 
-Use the phrases what about and how about to ask someone's opinion about something.
+    B: It's beautiful.｜They're too short.
 
- 
+  * A: **How about** those shoes?｜How about this dress?
 
+    B: They're ugly!｜I really like it.
 
+* You can also use **What do you think**? to ask someone's opinion.
 
+  * A**: What do you think?**   
 
+    B: I think it's nice.   
 
-A: What about this dress?
+* 一般疑问句
 
+  * A：**Do you like** that skirt in the window?
 
-
-What about this dress?
-
-
-
-B: It's beautiful.
-
-
-
-It's beautiful.
-
-​         
-
-
-
-A: How about those shoes?
-
-
-
-How about those shoes?
-
-
-
-B: They're ugly!
-
-
-
-They're ugly!
-
-​         
-
-You can also use What do you think? to ask someone's opinion.
-
- 
-
-
-
-A: What do you think?   What do you think?
-
-
-
-B: I think it's nice.   I think it's nice.
-
-
-
-
+    B：No, I don't. It's ugly.
 
 > BRIAN: What **about** this T-shirt?
 > SHARON: It's too big.
@@ -333,51 +149,9 @@ B: I think it's nice.   I think it's nice.
 > BRIAN: It's beautiful.
 > SHARON: I really **like it** , too.
 
-
-
-What about these pants?
-
-They're too short.
-
-Try to repeat the audio.
-
-Correct Try again!
-
-2 / 6How about this dress?
-
-Try to repeat the audio.
-
-Correct Try again!
-
-3 / 6
-
-NEXT
-
-Back to top
-
-[ENGLISH](https://ec.ef.com.cn/school/studyunit#)
-
-[**All EF Programs**](http://www.ef.com/)
-
-Copyright © 2006 - 2021 EF Education First.
-
-Translate
-
-<iframe id="weava-popover-iframe" scrolling="no" frameborder="0" src="chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/iframe/popoverIframe/popover-index.html" style="text-size-adjust: auto !important; display: block; top: 418px; right: 50px; z-index: 2147483645 !important; margin: 0px !important; animation-delay: 0s !important; animation-direction: normal !important; animation-duration: 0.18s !important; animation-fill-mode: forwards !important; animation-iteration-count: 1 !important; animation-name: pop-upwards !important; animation-timing-function: linear !important; transition: top 0.075s ease-out 0s, left 0.075s ease-out 0s !important; position: fixed !important; opacity: 1 !important; background: none !important; width: 178px !important; height: 77px !important; user-select: auto; pointer-events: all !important; border: none !important; left: 596.219px;"></iframe>
-
-
-
-I really like it.
-
-Do you like that skirt in the window?
-
-No, I don't. It's ugly.
-
 #### d) Final Task: Trying on clothes in a store
 
 You are in a clothing shop looking at clothes with a friend. Answer her questions about the clothing she shows you, then ask her questions about the clothing you see.
-
- 
 
 Listen and record the correct response.
 
@@ -393,12 +167,6 @@ B: But what about this T-shirt?
 A: It;s beautiful
 B: I really like it, too.
 ```
-
-```
-
-```
-
-
 
 ```
 [BRIAN]: What about this T-shirt?
@@ -418,40 +186,92 @@ Watch the video and study the language.
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/20/05/8/v/20058/0a.7%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
-颜色词汇
-
-MICHELLE:  I know!  A blue shirt ....  And ....  a long, black skirt.  Nnnh Hnn. 我知道！ 一件蓝色的衬衣... 还有... 一条黑 色长裙 。 嗯。 •
-MICHELLE:  It's too long!  How about .... my new pants?  And ....  My pink T-shirt.  And. My short, black jacket. 这条太长 了！ 我的新裤子怎么样？ 还有... 我的粉红色T恤。 我的黑色短茄克  。
+MICHELLE:  I know!  A blue shirt ....  And ....  a long, black skirt.  Nnnh Hnn. 
+MICHELLE:  It's too long!  How about .... my new pants?  And ....  My pink T-shirt.  And. My short, black jacket.
 LAURA:  I know .... white pants!  Or .... green T shirt?  OK .... blue jeans?  No .... the shirt!  And .... my red shoes! 我知道。。。白色的裤子！ 或者...绿色的T恤？ 好的...蓝色牛仔裤  ？ 不是的...是衬衫！ 还有...我的红鞋子！
 ```
-
-
 
 #### a) Vocabulary: color
 
 black, yellow, green, blue, white, purple, pink, brown, red
 
-#### b) Grammar: Present continuous 
+#### b) Grammar: Present continuous
 
-
-
-**The present continuous**
- 
+**The present continuous** 现在进行时
 
 Use the present continuous for actions that are happening now. Form the present continuous with the verb **be** and a verb **+ ing**.
- 
 
-| **statements** | **negatives** |                                                              |              |                    |
-| -------------- | ------------- | ------------------------------------------------------------ | ------------ | ------------------ |
-| **subject**    | **be**        | **verb + ing**                                               | **be + not** | **verb** **+ ing** |
-| I              | **am**        | **coming.**                                                  | I'm not      | **coming.**        |
-| You            | **are**       | You're notYou aren't                                         |              |                    |
-| HeSheIt        | **is**        | He's notHe isn'tShe's notShe isn'tIt's notIt isn't           |              |                    |
-| WeYouThey      | **are**       | We're notWe aren'tYou're notYou aren'tThey're notThey aren't |              |                    |
+![](/Users/guomingxia/Documents/Workspace/English/docs/EF/General-English/assets/现在进行时.png)
 
- 
+**问句**
+
+将动词 **be** 置于句首构成一般疑问句。
+
+| 陈述句                                                       | 一般疑问句                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **He is** wearing a beautiful shirt.    他身穿一件漂亮的衬衫 | **Is he** wearing a beautiful shirt?    他是不是身穿一件漂亮的衬衫？ |
+| **They are** going home.    他们回家了。                     | Are they going home?    他们是不是要回家了？                 |
+
+将**what** 或 **where**这样的疑问词置于句首构成特殊疑问句。
+
+| 陈述句                                                     | 带疑问词的疑问句                       |
+| ---------------------------------------------------------- | -------------------------------------- |
+| **You are** going home. 您要回家了。                       | **Where are you** going?    您去哪？   |
+| **She is** wearing a blue dress.    她身穿一条蓝色连衣裙。 | **What is she** wearing?    她穿什么？ |
+
+where are they going?
+
+They're walking on Green street.
+
+She isn't shopping with Tom.
+
+- - Is she living in Korea?
+  - No, she's not.
+- - Where are you going?
+  - I'm going to the office.
+- - What is he wearing?
+  - He's wearing a new T-shirt.
+- - What is he doing?
+  - He's shopping.
+- - Is he walking to work?
+  - Yes, he is.
+- - Are Kelly and Tom shopping?
+  - No, they aren't.
+
+Is he shopping for clothes? 他在逛街买衣服吗？
+
+Yes, he is. 是的。
+
+What is she wearing? 她身穿什么
+
+She's wearing a blue dress. 她身穿一条蓝色连衣裙。
+
+Are you walking on Green Street? 您正漫步在格林街吗
+
+No, I'm not. 不。
 
 #### c) Final Task: Describing what someone is wearing
+
+新同事 Kevin 刚到你所在的城市。因为你要去接他，所以他打电话给你。告诉他你在 Green Street 街上，问他长什么样，穿的什么衣服。
+
+请听音频并录制 正确的回答。 当您看到空白处，请提供您真实的个人信息。
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/75/9/v/28759/VR_A.7.4.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+```
+A: Hi, It's Kevein. I'm on Green Street.
+B: I'm on Green Street, too.
+A: Right
+B: What do you look like?
+A: I'm have brown hair and brown eyes, oh, and I'm tall. what do you look like?
+B: I have _____ hair.
+A: uhn
+B: What are you wearing?
+A: I'm wearing a pink shirt, a blue jacket and jeans. what are you wearing?
+B: I'm wearing _____.
+A: Oh, Hi, I see you, nice to meet you.
+B: Nice to meet you, too.
+```
 
 ```
 [JOHN]: I like this shop. Hey, how's this that these those jacket?
@@ -462,10 +282,6 @@ Use the present continuous for actions that are happening now. Form the present 
 [STELLA]: Great. I really like it, too. How about this that these those shoes?
 [JOHN]: Nah. I don't think so. They're too big!
 [STELLA]: Oh, well. Let's go back to work.
-```
-
-```
-
 ```
 
 ```
@@ -480,9 +296,11 @@ LAURA:  Hi! 嗨！
 •MICHELLE:  Let's go. 我们出发吧 
 ```
 
-
-
 ### 1-5-3 Talking to a sales clerk
+
+Watch the video and study the language.
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/25/v/111225/GE_1.5.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 [SALES ASSISTANT] Can I help you?
@@ -496,6 +314,202 @@ LAURA:  Hi! 嗨！
 [SALES ASSISTANT] It’s $89.99.
 [SIMON] Okay. I’ll take it. Where are the jackets?
 [SALES ASSISTANT] They’re on the second floor.
+[SIMON] okay.
+```
+
+#### a) Expressions: Asking for and giving prices
+
+Asking for and giving prices 询问价格和出价
+
+* Use the phrase **how much** to ask for prices. The verb **cost** refers to a price. Use **it's** or **it costs** to give a price.
+
+  * A: **How much** is this?
+
+    B: **It's** $36.89.
+
+  * A: **How much** do they cost?  
+
+    B: They cost $86.45.    
+
+* Use the word **dollars** for a price in American currency when there are only paper bills, no coins.
+
+  * $14.00 – fourteen **dollars**
+
+  * $98 – ninety-eight **dollars**
+
+* There are two ways to give a price in **dollars** when it has **cents** – a long way and a short way. In the long way, people say the words dollars and cents. Most people use the short way.
+
+  * **Long way** 完整的表达
+    * $14.65 – fourteen **dollars** and sixty-five **cents**
+
+  * **Short way** 简短的表达
+    * $14.65 – fourteen sixty-five
+
+  * Cultural note: In the UK, the currency used is **pounds** and **pence**.
+
+--
+
+fifteen dollars, $15.00
+
+fifteen thirty-five $15.35
+
+eighty-nine dollars $89.00
+
+a dollar forty-eight $1.48
+
+sixty-three forty-five $63.45
+
+one hundred dollars.  $100.00
+
+one dollar $1.00
+
+sixty-three dollars $63.00
+
+eighty-nine twenty-six  $89.26
+
+**How much are these shoes?**
+
+**How much do these socks cost?**
+
+**How much is this wool sweater?**
+
+**How much is that jacket?**
+
+**How much is the keyboard?**
+
+How much does it cost?
+
+It costs forty-two dollars. It costs $42.
+
+How much are these shoes?
+
+They're sixty-eight fifty.
+
+They're $68.50.
+
+How much does this sweater cost?
+
+It's seventy-five dollars and sixty-five cents.
+
+It's $75.65.
+
+#### b) Reading: Reading a clothing label
+
+**Reading a clothing label 看衣服上的标签**： Three important things to know about clothing are size, material and origin.
+
+* **Size**
+
+  * On many labels, there will be a large letter – for example, **S** for **small**.
+
+    * small (S)   small
+
+    * medium (M)  medium
+
+    * large (L)   large
+
+  * Use the question form **what size** to ask for a size.
+
+    * A: What size is it? What size is it?
+
+      B: It's a medium.   It's a medium.
+
+* Material 材料
+
+  * The most common materials are listed below. These fabrics often have a percentage sign next to them when they are a blend of different fabrics.
+    * 50% **cotton**  50% 棉质
+    * 25% **wool**    25% 羊毛
+    * 25% **polyester**   25% 聚酯纤维
+
+  * Use the phrase **made of** to talk about a fabric.
+
+    * A: What's it **made of**?   
+
+      B: It's **made of c**otton.
+
+* Origin 原产地
+
+  * Look for the phrase **made in** to see where clothing was made.
+    * **Made in** China   
+    * **Made in** Italy   
+
+  * Use the question **Where's it from**? to ask where something came from.
+
+    * A: **Where's it from?** 
+
+      B: It's from Germany.   
+
+- - How much does it cost?
+  - It's $45.99.
+- - Where are the shoes?
+  - On the third floor.
+- - Can I help you?
+  - Yes, I'm looking for dresses.
+- - Where's it from?
+  - China.
+- - What's it made of?
+  - It's 100% cotton.
+- - What size is it?
+  - It's a medium.
+
+Here are some polyester socks from china.
+
+What size are they?
+
+Large.
+
+I'm a medium. That;s too bad.
+
+Oh, here's a nice sweater. it's 100% wool. where's it from
+
+australia
+
+I'm looking for a medium. what's size is it?
+
+Oh, it's large, that's too bad.
+
+The shirt is 50% cotton,
+
+what size is it?
+
+Medium.
+
+where was it made ?
+
+In italy. how much is it
+
+$75
+
+Can I help you?
+
+Yes. I'm looking for cotton T-shirts.
+
+What size are you?
+
+I'm a large.
+
+What's it made of?
+
+It's 50 percent cotton and 50 percent polyester.
+
+#### c) Final Task: Talking to a salesclerk
+
+You are in a department store and are looking for a wool sweater. Your friend told you that Australian wool is the best. You talk with a salesclerk.
+
+Listen and record the correct response. When you see a blank, give true information about yourself.
+
+```
+A: Can I help you?
+B: Yes. I'm looking for a wool sweater.
+A: what size are you?
+B: I'm __
+A: what about this sweater, it's your size.
+B: What's it made of?
+A: It's one hundred percent wool.
+B: Where is it from?
+A: It's from Australia.
+B: And how much is it?
+A: It's $35
+B: That's great!
 ```
 
 ```
@@ -524,6 +538,79 @@ I want shoes, but these this are really expensive.
 
 ### 1-5-4 Talking about where you shop
 
+#### a) Vocabulary: kinds of stores
+
+online store, shoe store, clothing store,
+
+|                  |                                                              |                       |                                                              |
+| ---------------- | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
+| mall             | a large building or covered area that has many shops/stores, restaurants, etc. inside it | Let's go to the mall. | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/GE_1.5.4.1.1_shop.jpg" alt="GE_1.5.4.1.1_shop" style="zoom:25%;" /> |
+| shop             | a building or part of a building where you can buy goods or services, often used interchangeably with 'store' | a shoe shop           | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/GE_1.5.4.1.1_mall.jpg" alt="GE_1.5.4.1.1_mall" style="zoom:25%;" /> |
+| department store | a large shop/store that is divided into several parts, each part selling a different type of goods |                       | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/GE_1.5.4.1.1_department_store.jpg" alt="GE_1.5.4.1.1_department_store" style="zoom:25%;" /> |
+
+#### b) Grammar
+
+##### i) Demonstratives
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+```
+[KELLY] Excuse me - can I try these on?
+[SALES ASSISTANT] Of course.
+[KELLY] This shirt’s too big. This shirt’s too small. And this is just ugly.
+[SALES ASSISTANT] What about this skirt?
+[KELLY] Hmmm. That skirt?
+[SALES ASSISTANT] So what do you think?
+[KELLY] I love it! But it’s too small.
+[SALES ASSISTANT] How about these shoes?
+```
+
+**指示代词**：**'This,' 'that,' 'these' and 'those'**
+
+* **This, that, these and those** can be used with nouns or without nouns.
+
+  * How about **these**? =How about **these shoes?**
+
+  * I like **those**.=I like **those pants.**
+
+* When **this** and **that** are used without a noun, they are sometimes followed by the word **one**.
+
+  * I like **this one.**                            I like this one.
+
+  * **That one** is too expensive.  That one is too expensive.
+
+* **That** is often used to give an opinion about a situation or event.
+
+  * **That's** too bad.                             
+
+  * **That's** great!
+
+  * **That's** stupid!  
+
+SALLY: Hey, how about **this** ? It's from Australia. 100% wool.
+TROY: No, it's too expensive. I like **this one** .
+SALLY: **That** one is too big for me. What about **these** sweaters over here?
+TROY: **Those** ? How much are they?
+SALLY: They're $200.
+TROY: Wow! $200?
+SALLY: I know. **That's** too expensive.
+
+No, I don't like **these**  . They're ugly.
+
+One hundred ninety-nine dollars? **That**  is too expensive for me.
+
+These pants are too small. But **those**  are too big.
+
+These shirts are nice! How about  **this** one?
+
+A jacket? How about  **that** one over there?
+
+I want shoes, but **these** are really expensive.
+
+##### ii) Adverbs
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/26/v/111226/GE_1.5.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
 ```
 副词-介绍你购物的地方
 [KELLY] Oh, look! There’s a sale on at Bandini’s.
@@ -537,6 +624,84 @@ I want shoes, but these this are really expensive.
 [KELLY] Excuse me. Can we have the bill, please?
 ```
 
+**Adverbs副词**： Adverbs are words that give extra information about verbs and adjectives. There are several kinds of adverbs.
+
+* **Adverbs of frequency 频率副词**；**Always** and **never** are adverbs of frequency. They tell you how often something happens. These adverbs come after the verb be in a sentence but in front of all other verbs.
+  * Their prices **are never** cheap.   Their prices are never cheap.
+  * Department stores **always have** sales.    Department stores always have sales.
+
+* **Intensifiers弹性副词**： Some adverbs, such as **really** and **very**, make an adjective or verb stronger. Use **really** in front of an adjective or a verb. Use **very** only in front of an adjective.
+
+  * **'Really' + verb**
+    * I **really** like shopping in the mall! I really like shopping in the mall!
+
+  * **'Really' and 'very' + adjective**
+    * Small shops are **really** expensive.   Small shops are really expensive.
+    * Small shops are **very** expensive. Small shops are very expensive.
+
+  * **'So' + adjective**
+    * Another way to make an adjective stronger is to add the adverb **so** before it.
+    * This shirt is **so** cool!  This shirt is so cool!
+
+* **Location adverbs 方位副词**：Use adverbs like **here** and **there** to give a location. Remember that **here** means something is near the speaker, and **there** means something is not near the speaker. The word **over** is sometimes used with **here** and **there** for emphasis.
+  * The bicycle store is **there**. The bicycle store is there.
+  * The computer store is **here**. The computer store is here.
+  * The clothing store is **over there**.   The clothing store is over there.
+  * Come **over here**. Come over here.
+
+The bicycle store is over **there** .
+
+She **never** shops in the mall.
+
+They look **very** happy.
+
+I **always** shop in small stores.
+
+I like **really** big department stores.
+
+Your computer is **here** .
+
+This shirt is too expensive.
+
+I never shop in malls.
+
+Their clothes are very beautiful.
+
+I really like that store
+
+Your book is here.
+
+I **never** go to department stores. I hate them! They're **so** big, and **really** expensive. I **usually** shop online. I can buy **very** cheap clothes online. I also go to small shops. The clothes are beautiful **there** . But usually I shop online.
+
+There's a nice store in the mall.
+
+What are you looking for?
+
+He really likes online stores.
+
+That shop is so expensive.
+
+That store has beautiful clothes.
+
+The department store is always busy.
+
+#### c) Final Task: Talking about shopping
+
+You're shopping with a friend. When you see a blank, give your personal information. Listen carefully and then record the correct answer.
+
+```
+A: I don't have any clothes, my clothes are so boring.
+B: Well, what are you looking for?
+A: I'm looking for a new jacket.
+B: There's a nice store on Green Street.
+A: That shop is really expensive.
+B: Yeah, but the clothes are beautiful.
+A: How about the department store in the mall?
+B: OK. But the mall is always busy.
+A: It is, but it's not so expensive, what stores do you like?
+B: I really like _____.
+```
+
 ```
 Make a purchase
 
@@ -545,11 +710,7 @@ Make a purchase
 EMMA:  Thanks. 谢谢。 •KATE:  Hey, Em, look at these!  Clogs. 嗨，嗯，看这些！   木底鞋  。 •MAN:  Would you like to try them on? 你想  试穿 一下吗？ •KATE:  Yeah. 是的。 •EMMA:  What are you doing? 你在做什么？ •KATE:  What do you think? 你觉得 怎样？ •EMMA:  Those are cool. 那些是凉的。 •KATE:  Yeah.  How much are they? 是的。 多少钱？ •MAN:  Twenty pounds. 20英镑。 •EMMA:  How much for these? 这些多少  钱？ •MAN:  Five pounds. 5英镑。 •KATE:  Oh Emma don't. 哦，Emma别。 •EMMA:  They're kind of cool. 他们很酷
 ```
 
---------
-
-
-
-
+---
 
 ```
 KATE:  I like clothes.  I like my clothes.  I love this dress, it's comfortable, it's silky soft, it's red!  I love red!  And I love my leggings, they're tight but sexy. 我喜欢衣服。 我喜欢我的衣服。 我喜欢我的连衣裙，很舒适 ，丝滑柔软，是红色的！ 我喜欢红色！ 还有，我喜欢 我的紧身裤 ，尽管很紧但是很性感。 •KATE:  I look great in this outfit.  I love shoes.  High heels or boots.  Never sneakers.  Not bad! 我穿这套衣服  很好看。 我喜欢鞋  子。 高跟的或靴 子。 从不穿胶底运动鞋。 不错！ •KATE:  Some people don't understand.  Clothes are important! 有些人不理解。 衣服是很重要的！ 
@@ -562,4 +723,3 @@ EMMA:  I remember now the scene where he kind of falls into the Cheerios, do you
 
 KATE:  T -shirt, sweatshirt, no, no, no, no. Hmm, Jeans. OK.  Shoes!  I think. boots!  Now, the accessories.  •Oh! T恤衫，运动衫  ，不，不，不，不...嗯，牛仔裤...好的。 鞋子！ 我想...靴子！ 现在，配件。 哦！ •KATE:  I love those earrings and that belt.  Wow, Emma.  You look nice!  Nineties, well I don't know if. Does he really act anymore? •我喜欢 这副耳环 和那条腰带 。 喔，Emma。 你看起来很好！ 90，嗯，我不知道 是否...他还在演吗？ •EMMA:  I'm not sure.  He was really funny though.  He was like the underdog, you know, all the time in the movies and he never got the girl but then in the end he kind of sometimes got the girl and sometimes not, I'm not sure, but he was really cute.•我不确定。 不管怎样他真有趣。 他就像失败者，你知道 的，在电视里，任何时候他都无 法得到女孩子，但是到最后 ，他有时能得到女孩，有时不能，我不确定，但是他真的很可爱。
 ```
-

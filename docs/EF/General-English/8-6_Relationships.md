@@ -2,13 +2,10 @@
 
 8-6    Relationships 关系
 
-8-6-1 Describing people 描述人物
-
-8-6-2 Describing team chemistry 描述团队默契
-
-8-6-3 Building report 建立融洽关系
-
-8-6-4 Getting the right tone 使用正确的语气
+* 8-6-1 Describing people 描述人物
+* 8-6-2 Describing team chemistry 描述团队默契
+* 8-6-3 Building report 建立融洽关系
+* 8-6-4 Getting the right tone 使用正确的语气
 
 ---
 

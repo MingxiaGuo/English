@@ -2,17 +2,16 @@
 
 5-4    Going to a restaurant 去餐馆
 
-5-4-1 Making a restaurant reservation 预定餐位
-
-5-4-2 Arriving at a restaurant 抵达餐厅
-
-5-4-3 Ordering food in a restaurant 在餐馆点菜
-
-5-4-4 Asking for the check and paying the bill 询问账单和付账
+* 5-4-1 Making a restaurant reservation 预定餐位
+* 5-4-2 Arriving at a restaurant 抵达餐厅
+* 5-4-3 Ordering food in a restaurant 在餐馆点菜
+* 5-4-4 Asking for the check and paying the bill 询问账单和付账
 
 ---
 
 ### 5-4-1 Making a restaurant reservation
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/91/24/v/129124/MOB_5.4.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/89/27/v/128927/GE_5.4.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: So what do you feel like eating tnight?
@@ -45,34 +44,40 @@ C: Okay. See you at 8:30.
 
 #### a) Vocabulary: Restaurants
 
+Where are they eating?
+* Restaurant 
+* Buffet 自助
+* canteen 食堂
+* market：夜市，
+
 **餐馆词汇**：在餐馆预订餐位时，有许多要考虑的事情。
 
 你可以谈论食物。
 
-* Seafood is their specialty.	海鲜是他们的特色菜。
+* Seafood is their **specialty**.	海鲜是他们的特色菜。
 
-* They serve authentic Italian food.	他们供应正宗意大利菜。
+* They serve **authentic** Italian food.	他们供应正宗意大利菜。
 
 你可以谈论餐馆的名声。
 
-* The restaurant has a great reputation.	这家餐馆名声很好。
+* The restaurant has a great **reputation**.	这家餐馆名声很好。
 
-* The reviews of the restaurant are excellent.	这家餐馆的评价非常高。
+* The **reviews** of the restaurant are excellent.	这家餐馆的评价非常高。
 
 你可以谈论餐馆的菜单和价格。
 
-* The menu has a wide variety of choices.	菜单有非常多的选择。
+* The menu has **a wide variety of** choices.	菜单有非常多的选择。
 
-* The prices are very reasonable.	价格非常合理。
+* The prices are very **reasonable**.	价格非常合理。
 
 你可以谈论餐馆的设施。
 
-* They have a lovely patio with outdoor seating.	他们有一个迷人的露台，设有户外座椅。
+* They have a lovely patio with **outdoor seating**.	他们有一个迷人的露台，设有户外座椅。
 
-* They offer free parking.	他们提供免费泊车。
+* They offer **free parking**.	他们提供免费泊车。
    	 	 
 
-语言点：在你谈论餐馆时，indoor 和 inside 的意思相同，outdoor 和 **outside* 同样意思一样。
+语言点：在你谈论餐馆时，**indoor** 和 **inside** 的意思相同，**outdoor** 和 **outside*** 同样意思一样。
 
 ---
 
@@ -109,31 +114,43 @@ C: Okay. See you at 8:30.
 
 #### c) Expressions: Making restaurant reservations
 
-餐馆订位
+**餐馆订位**
 
-有些餐馆要求顾客必须或者最好提前打电话订位。
+* 有些餐馆要求顾客必须或者最好提前打电话订位。
 
-* A: Good afternoon. Zen Garden. How can I help you? 下午好。这里是禅庄花园。有什么需要帮忙的吗？
-* B: Yes, good afternoon. I'd like to make a reservation.	 有，下午好。我想预订。
+  * A: Good afternoon. Zen Garden. How can I help you? 下午好。这里是禅庄花园。有什么需要帮忙的吗？
 
-你会被问及就餐人数、就餐日期和你想订的时间。
+    B: Yes, good afternoon. I'd like to make a reservation.	 有，下午好。我想预订。
 
-* A: Certainly. For what day?	当然可以，你想预订哪一天？
-* B: Tomorrow evening.	明天晚上。
-* A: OK, that's Friday the 19th. And how many people in your party?	好的，那就是19号，星期五。你的派对有多少人？
-* B: Three people. I was thinking around 7:30 or 8.	三个人。我想预订7:30或8点左右。
 
-你要求的时间可能没有空位。
+* 你会被问及就餐人数、就餐日期和你想订的时间。
 
-* A: I'm sorry, but the first opening for three people is at 9 o'clock. Does that work for you?	很抱歉，三个人的首次开放时间是9点。这样行吗？
-* B: Well, it's a bit late, but OK.	哦，有点晚，不过也行吧。
+  * A: Certainly. For what day?	当然可以，你想预订哪一天？
 
-在定下时间后，餐馆会询问你的姓名和确认预订。
+    B: Tomorrow evening.	明天晚上。
 
-* A: And what's the name, please?	请问，你的姓名是什么？
-* B: Jane Grimes.	简·格兰姆斯。
-* A: Very good, Ms. Grimes. I have you reserved for three people tomorrow night, Friday the 19th, at 9 pm. Thank you for calling.	很好，格兰姆斯女士。我帮你预订在明晚，即19号星期五，晚上九点，三个人。谢谢你的来电。
-* B: Great. Thank you very much.	很好。非常感谢。
+    A: OK, that's Friday the 19th. And how many people in your party?	好的，那就是19号，星期五。你的派对有多少人？
+
+    B: Three people. I was thinking around 7:30 or 8.	三个人。我想预订7:30或8点左右。
+
+
+* 你要求的时间可能没有空位。
+
+  * A: I'm sorry, but the first opening for three people is at 9 o'clock. Does that work for you?	很抱歉，三个人的首次开放时间是9点。这样行吗？
+
+    B: Well, it's a bit late, but OK.	哦，有点晚，不过也行吧。
+
+
+* 在定下时间后，餐馆会询问你的姓名和确认预订。
+
+  * A: And what's the name, please?	请问，你的姓名是什么？
+
+    B: Jane Grimes.	简·格兰姆斯。
+
+    A: Very good, Ms. Grimes. I have you reserved for three people tomorrow night, Friday the 19th, at 9 pm. Thank you for calling.	很好，格兰姆斯女士。我帮你预订在明晚，即19号星期五，晚上九点，三个人。谢谢你的来电。
+
+    B: Great. Thank you very much.	很好。非常感谢。
+
 
 ---
 
@@ -173,11 +190,32 @@ MAN: OK, thanks. See you Saturday.
 
 #### d) Final Task: Making a restaurant reservation
 
-```
+你正打电话到 Great Wall Restaurant 餐厅预订餐位。你想预订周日的两人餐位。你会开车去，所以询问停车情况。看到空白处时，说出你的姓名。
 
+```
+A: Grateful restaurant, how can I help you
+B: I'd like to make a reservation, please.
+A: Certainly, what day would you like
+B: Are you open on Sunday?
+A: Yes, we are, what time were you thinking of
+B: Six or six-thirty?
+A: We have a 6:30 available, how many people in your party
+B: Two, please.
+A: okay, and what's the name pls
+B: The name is _____.
+A: Great and one more question, would you like indoor or outdoor seating.
+B: Outdoor would be nice.
+A: Outdoor, very good, 
+B: I do have one question.
+A: Certainly
+B: Do you have free parking?
+A: yes, we do, we have a parking lot, just next to the restaurant
+B: Perfect. See you Sunday.
 ```
 
 ### 5-4-2 Arriving at a restaurant
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/81/12/v/128112/MOB_5.4.2.1.2.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/40/v/125640/GE_5.4.2_v3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ````
 A: Good evening. Do you have a reservation?
@@ -198,62 +236,54 @@ A: Certainly.
 
 #### a) Vocabulary: Parts of a meal
 
-一顿饭的各部分
+**一顿饭的各部分**
 
-在说英语国家的绝大部分餐馆，一份starter 或appetizer 是开餐的一小碟食物，包括类似这样的食品：
+在说英语国家的绝大部分餐馆，一份**starter** 或**appetizer** 是开餐的一小碟食物，包括类似这样的食品：
 
-* mushroom soup	蘑菇汤                                                
-* Caesar salad	凯撒沙拉
+* mushroom **soup** /sup/	蘑菇汤                                                
+* Caesar **salad**	凯撒沙拉
 * fresh oysters	新鲜生蚝
 * shrimp cocktail	鸡尾冷虾
 
-一个main course, 或entree, 是一餐饭的主菜。这将包括类似这样的东西：
+一个**main course**, 或**entree**, 是一餐饭的主菜。这将包括类似这样的东西：
 
 * roasted chicken with vegetables	烤鸡配蔬菜
 * steak and baked potato	牛排和烤土豆
 * fresh fish with rice	鲜鱼配米饭
 
-dessert通常是在饭后吃的一碟甜食，常配茶或咖啡吃。这包括这些东西：
+**dessert**通常是在饭后吃的一碟甜食，常配茶或咖啡吃。这包括这些东西：
 
 * apple pie	苹果派
 * chocolate mousse	巧克力慕斯
 * lemon sorbet	柠檬果汁冰球
+* Chocolate cake
 
-您的侍者也许会给您介绍餐馆提供的 specials ，也许没有列在菜单上。 specials 也许包括餐饮的任何部分。只有在一年的某个时段才能提供的新鲜的当地水果就是很好的例子，
+您的侍者也许会给您介绍餐馆提供的 **specials** ，也许没有列在菜单上。 specials 也许包括餐饮的任何部分。只有在一年的某个时段才能提供的新鲜的当地水果就是很好的例子，
 
 * chicken with vegetables：鸡肉配蔬菜；chicken cooked or served with vegetables
   * Drew made chicken with vegetables for dinner tonight.
   * chicken with summer vegetables
-
 * fresh fish with rice：鲜鱼配米饭；fish that has been recently caught, cooked and served with rice
   * Brian cooked fresh fish with rice last weekend.
   * preparing fresh fish with rice
-
 * chocolate mousse：巧克力慕斯；a soft, smooth, cold dessert made with chocolate, cream and egg whites
   * I'm making chocolate mousse for my boyfriend's birthday. It's his favorite.
   * delicious chocolate mousse
-
 * fresh oysters：生蚝；large shellfish that has been recently caught
   * Jason's son loves to eat fresh oysters.
   * fresh oysters on the half shell
-
 * mushroom soup：蘑菇汤；a soup, usually cream based, containing mushrooms
   * This restaurant is famous for its mushroom soup. You have to try it!
   * creamy mushroom soup
-
 * lemon sorbet：柠檬冰沙；a cold dessert made by freezing sweetened lemon water
   * I like to eat lemon sorbet in the summer because it's so refreshing.
   * homemade lemon sorbet
-
 * Caesar salad：凯撒沙拉；a salad of lettuce and croutons served with a mixture of oil, lemon juice, egg, etc.
-
 * steak and baked potato：牛排和烤土豆；a large cut of beef cooked and served with a whole potato which has been baked in an oven
   * My dad always orders steak and baked potato when we go out to eat.
   * medium-rare steak and baked potato
-
 * apple pie：苹果派；apples baked in a dish with pastry on the bottom, sides and top
   * a slice of apple pie 一份苹果派
-
 * shrimp cocktail：鲜虾盅；a cold dish containing cooked and peeled shrimp served with a spicy, tomato-based dipping sauce
   * We ordered shrimp cocktail as an appetizer last night.
   * cold shrimp cocktail
@@ -266,27 +296,35 @@ dessert通常是在饭后吃的一碟甜食，常配茶或咖啡吃。这包括�
 
 #### b) Grammar: 'Some' and 'try'
 
-'Some' 和 'any'
+**'Some' 和 'any'**
 
-在肯定句中用some 。
+* 在肯定句中用**some** 。
 
-* We have some fresh oysters today. 	我们今天有新鲜的生蚝。                        
-* I'll have some water. 	我要来点水。
+  * We have some fresh oysters today. 	我们今天有新鲜的生蚝。                        
 
-您也可以用 some 进行请求和提供。
+  * I'll have some water. 	我要来点水。
 
-* Can I have some water, please?	请给我来点水好吗？
-* Would you like some bread? 	您要来点面包吗？
 
-当您不能肯定是否得到某样东西时，在问题中用any。
+* 您也可以用 **some** 进行请求和提供。
 
-* Do you have any fresh oysters this evening?	你们今天晚上供应新鲜生蚝吗？
-* Do you have any lemon sorbet?	你们有柠檬果汁冰球吗？
+  * Can I have some water, please?	请给我来点水好吗？
 
-在否定句中用 any 表示您没有某物。
+  * Would you like some bread? 	您要来点面包吗？
 
-* No, we don't have any salad this evening. 	没有，今天晚上没有沙拉。
-* I'm sorry. We don't have any shrimp cocktail today.	我们今天没有鸡尾冷虾。
+
+* 当您不能肯定是否得到某样东西时，在问题中用**any**。
+
+  * Do you have any fresh oysters this evening?	你们今天晚上供应新鲜生蚝吗？
+
+  * Do you have any lemon sorbet?	你们有柠檬果汁冰球吗？
+
+
+* 在否定句中用 **any** 表示您没有某物。
+
+  * No, we don't have any salad this evening. 	没有，今天晚上没有沙拉。
+
+  * I'm sorry. We don't have any shrimp cocktail today.	我们今天没有鸡尾冷虾。
+
 
 ---
 
@@ -312,11 +350,11 @@ dessert通常是在饭后吃的一碟甜食，常配茶或咖啡吃。这包括�
 
 ##### i) Getting seated
 
-'waiter' 的不同说法
+**入座：'waiter' 的不同说法**
 
-传统上来讲，在餐厅里如果向您提供服务的是男士则被称为waiter，如果是女士则称为waitress。然而，随着英语越来越中性化，通常在餐厅里向您提供服务的男士和女士都一律称为waiters。  
+传统上来讲，在餐厅里如果向您提供服务的是男士则被称为**waiter**，如果是女士则称为**waitress**。然而，随着英语越来越中性化，通常在餐厅里向您提供服务的男士和女士都一律称为**waiters**。  
 
-您还可以使用另一个中性词server。该词适用于表达站在柜台后面的人，或等您点餐的人，或把食物送到您餐桌上的人。
+您还可以使用另一个中性词**server**。该词适用于表达站在柜台后面的人，或等您点餐的人，或把食物送到您餐桌上的人。
 
 ---
 
@@ -376,11 +414,28 @@ PENNY: Thank you very much. I think we need a few minutes.
 
 #### d) Final Task: Arriving at a restaurant
 
-```
+你到达 New Way 餐厅并就坐。听主人和服务员讲话并做出回答
 
+```
+A: Good evening, welcome to New way restaurant, do you have a reservation
+B: Yes, we do.
+A: Very good, and what name pls
+B: My name is _____.
+C: Good evening, my name is Carlos, I'll be your waiter tonight, here are your menus, can I get you something to drink
+B: Water is fine, thank you.
+C: Let me tell you about our specials. As a starter, we have fresh oysters, we also have a very nice shrimp cocktail
+B: Those sound delicious.
+C: for the main course, we have chicken with vegetables and we also have a sirlloin steak with baked potato.
+B: Do you have any fish specials?
+C: no, I'm sorrry we don't, but our dessert special is chocolate mousse with fresh strawberries.
+B: We need a few minutes to think, please.
+C: Certainly, would you like some bread while you're thinking
+B: Yes, please.
 ```
 
 ### 5-4-3 Ordering food in a restaurant
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/81/15/v/128115/GE_5.4.3.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/42/v/125642/GE_5.4.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: The sirlon steak sounds really good.
@@ -404,64 +459,63 @@ C: Excellent. I'll be right back with your tea.
 
 #### a) Vocabulary: Restaurant food
 
+More detail about food: [1-6_food](./1-6_Food.md)
+
 * blue cheese dressing：蓝奶酪沙拉酱；a creamy salad dressing made with blue cheese
   * Would you like blue cheese dressing on your salad?
   * homemade blue cheese dressing
-
 * steak and baked potato：牛排和烤土豆；a large cut of beef cooked and served with a whole potato which has been baked in an oven.
   * Jeff ordered a steak and baked potato at the restaurant last night.
   * I'll have a steak and baked potato.
-
-* mushroom soup：蘑菇汤；a soup, usually cream-based, containing mushrooms
+* mushroom soup /sup/：蘑菇汤；a soup, usually cream-based, containing mushrooms
   * This restaurant is famous for its mushroom soup. You have to try it!
   * creamy mushroom soup
-
 * french fries：薯条；potatoes that are cut into long, thin strips and fried
   * French fries are best when they are hot and salty.
   * french fries with ketchup
-
 * sour cream on the side：配酸奶油；cream which has deliberately been made sour, served in a small container on the side of the main dish in a meal
   * Could I have the sour cream on the side, please?
   * more sour cream on the side
-
 * chef's salad：主厨沙拉；a large salad consisting of lettuce, tomato and other vegetables with slices of cheese and meat such as chicken on top
-
 * a glass of iced tea：a drinking glass filled with brewed tea over ice
   * Nothing is better on a hot summer day than a glass of iced tea!
   * a freshly brewed glass of iced tea
-
 * wild salmon：野生大马哈鱼；a large fish with silver skin and pink flesh that is used for food and is caught, not raised commercially
   * He prefers to eat wild salmon.
 
 #### b) Reading: Reading a menu
 
-**看菜单**：没有两份菜单是一样的，但绝大多数被分为几个成分，诸如starters, main courses 和desserts。识别这些成分和知道在它们中要寻找什么会使得餐单更容易认读。
+**看菜单**：没有两份菜单是一样的，但绝大多数被分为几个成分，诸如**starters, main courses 和desserts**。识别这些成分和知道在它们中要寻找什么会使得餐单更容易认读。
 
-Starters, 或appetizers通常出现在菜单的开头。这部分也许包括诸如soups and salads的小部分。
+**Starters**, 或**appetizers**通常出现在菜单的开头。这部分也许包括诸如**soups and salads**的小部分。
 
 * A: Would you like a starter? 您要开胃菜吗？
 * B: The cheese appetizer sounds really good. 	奶酪开胃菜听起来真的不错。
 
-下一环节通常是main courses, 或 entrees。 Entree是一个法语词。听听该词的发音。
+下一环节通常是**main courses**, 或 **entrees**。 **Entree**是一个法语词。听听该词的发音。
 
 * A: Have you decided on your main course? 您决定好要点什么主菜了吗？
 * B: Does the chicken entree come with rice? 	鸡肉主菜配有米饭吗？
 
-主菜通常会是淀粉食物和蔬菜搭配在一起，如大米和胡萝卜。您也许会在菜单上看到：comes with 或served with。
+主菜通常会是淀粉食物和蔬菜搭配在一起，如大米和胡萝卜。您也许会在菜单上看到：**comes with** 或**served with**。
 
 * The steak is served with mashed potatoes and peas. 	牛排搭配土豆泥和青豆。
 * The fish comes with rice and beans. 	鱼搭配米饭和豆。
   
 
-如果您想要一份额外的食物，如薯条或蔬菜，来和您的主食一起吃或分享，那么您可以点一份 side dish.
+如果您想要一份额外的食物，如薯条或蔬菜，来和您的主食一起吃或分享，那么您可以点一份 **side dish.**
 
 * Let's get some extra side dishes for everybody at the table.	我们给桌上的每个人再来点配菜吧。
-* Desserts通常放在菜单的末尾，许多Desserts是根据它们的原产国而得名的。听听以下Desserts的发音。
+
+**Desserts**通常放在菜单的末尾，许多Desserts是根据它们的原产国而得名的。听听以下Desserts的发音。
+
 * tiramisu	提拉米苏                          
+
 * chocolate mousse	巧克力慕斯
+
 * lemon sorbet  	柠檬果汁冰球
 
-![](../assets/menu.jpg)
+![](../../assets/menu.jpg)
 
 * **How many starters does the restaurant serve?**
 
@@ -484,53 +538,59 @@ Starters, 或appetizers通常出现在菜单的开头。这部分也许包括诸
 
 #### c) Grammar: Quantifiers for ordering in a restaurant
 
-可数名词和不可数名词的量词
+**可数名词和不可数名词的量词**
 
-记住，大多数名词都是可数的，比如 apple 和 steak。这些可数名词都有复数形式，词尾通常是 s。
+* 记住，大多数名词都是可数的，比如 **apple** 和 **steak**。这些可数名词都有复数形式，词尾通常是 s。
+  *  one apple, two apples
 
-*  one apple, two apples
 
-有些名词不能这样计数，比如 soup 和 milk。要加以计数，你必须添加像 a cup of 或 two liters of 这样的短语。
+* 有些名词不能这样计数，比如 **soup** 和 **milk**。要加以计数，你必须添加像 **a cup of** 或 **two liters of** 这样的短语。
+  * a cup of soup, two cups of soup
 
-* a cup of soup, two cups of soup
 
-大多数量词要么与可数名词搭配使用，要么与不可数名词搭配使用。A lot of 是一个例外。你可以用它搭配可数和不可数名词，谈论某物非常大的数量。
+* 大多数量词要么与可数名词搭配使用，要么与不可数名词搭配使用。**A lot of** 是一个例外。你可以用它搭配可数和不可数名词，谈论某物非常大的数量。
 
-* The garden salad has a lot of tomatoes.	花园沙拉里有许多西红柿。
+  * The garden salad has a lot of tomatoes.	花园沙拉里有许多西红柿。
 
-* Is there a lot of bacon in the soup? 	汤里面熏猪肉多吗？
+
+  * Is there a lot of bacon in the soup? 	汤里面熏猪肉多吗？
+
 
 **搭配可数名词的量词**：
 
-使用 a few 搭配可数名词，谈论数量很少的东西。
+* 使用 **a few** 搭配可数名词，谈论数量很少的东西。
+  * I can only eat a few oysters.	我只能吃几个牡蛎。
 
-* I can only eat a few oysters.	我只能吃几个牡蛎。
 
-使用 many 搭配可数名词的复数形式，谈论很大的数量，或与否定形式连用，谈论很少的数量。
+* 使用 **many** 搭配可数名词的复数形式，谈论很大的数量，或与否定形式连用，谈论很少的数量。
 
-* They have many different kinds of ice cream.	他们有许多不同种类的冰淇淋。
+  * They have many different kinds of ice cream.	他们有许多不同种类的冰淇淋。
 
-* There aren't many strawberries in this fruit salad.	这份水果沙拉里面草莓很少。
 
-使用 how many 询问可数名词的数量。
+  * There aren't many strawberries in this fruit salad.	这份水果沙拉里面草莓很少。
 
-* How many sausages would you like?	你要多少香肠？
+
+* 使用 **how many** 询问可数名词的数量。
+  * How many sausages would you like?	你要多少香肠？
+
 
 **搭配不可数名词的量词**：
 
-使用 a little 搭配不可数名词，谈论数量很少的东西。
+* 使用 **a little** 搭配不可数名词，谈论数量很少的东西。
 
-* The soup has a little sour cream on top.	汤上面有一点酸奶油。
+  * The soup has a little sour cream on top.	汤上面有一点酸奶油。
 
-* Would you like a little milk with your coffee?	你咖啡要加点牛奶吗？
 
-在否定陈述句中使用 much 搭配不可数名词，谈论很少的数量。
+  * Would you like a little milk with your coffee?	你咖啡要加点牛奶吗？
 
-* I don't want much milk. Just a little, please.	我不要太多牛奶，请放一点点。
 
-使用 how much 询问不可数名词的数量。
+* 在否定陈述句中使用 **much** 搭配不可数名词，谈论很少的数量。
+  * I don't want much milk. Just a little, please.	我不要太多牛奶，请放一点点。
 
-* How much bread would you like?	你要多少面包？
+
+* 使用 **how much** 询问不可数名词的数量。
+  * How much bread would you like?	你要多少面包？
+
 
 ---
 
@@ -603,14 +663,37 @@ CUSTOMER: No, I'll wait, thank you.
 * I'd like rice with some egg, please. 请给我些米饭和鸡蛋。
 * And what would you like to drink? 您要喝点什么？
 * I'd like a glass of water, please. 我要一杯水，谢谢。
+* Could I have the soup to start please
+* Would you bring me a couple of slices of bread pls
+* May I have the soup pls
+* I’d like a hamburger ls
+* We’ll have two glasses of water pls.
 
 #### e) Final Task: Ordering food in a restaurant
 
-```
+您在一家餐厅，和服务员一起点菜
 
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/64/6/v/28646/VR_4.7.4.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+
+```
+A: what can I get you
+B: Could I have the Greek salad to start?
+A: Certainly, and for your main course
+B: Is the fish fresh today?
+A: Of course, our fish is always fresh
+B: Okay, I think I'll have the fish.
+A: WOuld you like a baked potato or rice with that? 
+B: I think I'll have the rice, please.
+A: and what would you like to drink
+B: I'd like a glass of iced tea.
+A: and would you like a order dessert now
+B: No, I think I'll wait.
+A: so that's a Greek salad followed by the fish with rice and a glass of iced tea. I'll be right back with your team.
 ```
 
 ### 5-4-4 Asking for the check and paying the bill
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/81/17/v/128117/GE_5.4.4.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/56/52/v/125652/GE_5.4.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Would you care for a dessert ot coffee?
@@ -631,7 +714,7 @@ A: Thank you very much.
 
 #### a) Vocabulary: Paying for a meal
 
-在餐馆结束用餐
+**在餐馆结束用餐**
 
 **给小费**：在美国，用餐者应留总额的 15% 到 20% 给服务员，这称为 tip。如用信用卡支付，通常账单上会有小费一栏。如用现金支付，你应留下用餐费和多余的钱。
 
@@ -640,12 +723,12 @@ A: Thank you very much.
 
 **食物打包**：在美国，用餐者常常将吃剩的食物带回家。服务员可能问您是否要打包带回家，您也可以问服务员可不可以打包。
 
-* to go 可指你在餐馆吃剩下、想带回家的食物，也指你没坐下来直接带走的外卖食物。
+* **to go** 可指你在餐馆吃剩下、想带回家的食物，也指你没坐下来直接带走的外卖食物。
 
-* Waiter: Would you like to take that home with you? 您想把这带回家吗？
+* **Waiter**: Would you like to take that home with you? 您想把这带回家吗？
   Customer: Yes, I would. Thanks!	是的，我要带走。谢谢！ 	 	 
 
-* Customer: I'd like the rest of my steak to go. 我想把我吃剩的牛排打包。
+* **Customer**: I'd like the rest of my steak to go. 我想把我吃剩的牛排打包。
   Waiter: No problem. I'll bring it back in just a minute.	 没问题。我一会就拿回来。
 
 ---
@@ -693,9 +776,9 @@ The Great Wall is my favorite restaurant. They serve authentic Chinese food. The
 
 #### c) Expressions: Asking for the check and paying
 
-在餐馆询问账单和付账
+**在餐馆询问账单和付账**
 
-用这些表达来叫您的侍者来 check, 或 bill。
+用这些表达来叫您的侍者来 **check**, 或 **bill**。
 
 * Could I have the bill, please?	请把账单给我好吗？
 * We're ready for our check. 	我们可以付账了。
@@ -704,7 +787,7 @@ The Great Wall is my favorite restaurant. They serve authentic Chinese food. The
 
 * Do you take credit cards?  	你们接受信用卡付款吗？
 
-当您讨论 tip*时，用动词leave**。
+当您讨论 **tip***时，用动词**leave****。
 
 * A: How much should we leave for a tip? 小费我们应该给多少？
   B: I think 15% is good. 	我觉得 15% 就可以了。 	 	 
@@ -733,7 +816,39 @@ The Great Wall is my favorite restaurant. They serve authentic Chinese food. The
 
 #### d) Final Task: Asking for the check and paying the bill
 
-```
+你和一位朋友正在要账单结账。与服务员对话，然后和朋友讨论小费留多少钱。
 
 ```
+A: would you care for anything else
+B: No, thanks. Just the check, please.
+A: Certainly, and how was everything
+B: Excellent. Can I take the rest of my steak to go?
+A: Of course, I'll be right back
+B: Great. Thank you.
+A: okay, here is your steak to go and your check
+B: Thanks. We really enjoyed our meal.
+C: hey, how much should we leave for a tip
+B: I usually leave fifteen percent.
+C: but the food was really food, and our waiter was very nice
+B: OK. I'll leave twenty percent.
+```
 
+
+
+Where would you like to have dinner
+
+where are they eating
+
+breeze 微风
+
+Yes , thank you.
+
+romantic
+
+Relax
+
+ocean
+
+Authentic
+
+it looks like

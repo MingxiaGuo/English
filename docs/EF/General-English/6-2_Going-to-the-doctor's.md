@@ -2,17 +2,16 @@
 
 6-2    Going to the doctor's 看病
 
-6-2-1 Making a doctor's appointment 预约医生
-
-6-2-2 Talking with the doctor 与医生对话
-
-6-2-3 Filling a prescription 填写处方
-
-6-2-4 Talking about an illness or injury 谈论疾病或受伤
+* 6-2-1 Making a doctor's appointment 预约医生
+* 6-2-2 Talking with the doctor 与医生对话
+* 6-2-3 Filling a prescription 填写处方
+* 6-2-4 Talking about an illness or injury 谈论疾病或受伤
 
 ----
 
 ### 6-2-1 Making a doctor's appointment
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/88/05/v/128805/GE_6.2.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/61/50/v/126150/GE_6.2.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Pam, are you okay? 
@@ -43,204 +42,150 @@ B: Thank you.
 
 ```
 
-
-
 #### a) Vocabulary: Basic medical symptoms
 
-基本病症
+**基本病症**
 
+* 使用以下医疗词汇，搭配动词 **have** 描述生病症状。
+  * I have a fever.	我发烧了。
+  * He has diarrhea.	他拉肚子了。
+  * She has a bad cough.	她咳嗽得很厉害。
 
-使用以下医疗词汇，搭配动词 have 描述生病症状。
+* 使用 sore 一词表示身体某个部位疼痛。
+  * I have a sore throat.	我嗓子疼。
 
+* 使用后缀 -ache 表示身体某个部位疼痛。该后缀并不适用于所有身体部位，只适用于 head、stomach、back 和 tooth。
+  * He has a headache.	他头痛。
+  * I have a stomachache.	我胃痛。
 
-I have a fever.	我发烧了。
+* 使用以下医疗词汇，搭配动词 be 或 feel 使用。
+  * I'm dizzy. I feel dizzy.	我头晕。我感觉头晕。
+  * She's nauseous. She feels nauseous.	她感觉恶心。她觉得恶心。
 
-He has diarrhea.	他拉肚子了。
-
-She has a bad cough.	她咳嗽得很厉害。
-
-使用 sore 一词表示身体某个部位疼痛。
-
-
-I have a sore throat.	我嗓子疼。
-
-使用后缀 -ache 表示身体某个部位疼痛。该后缀并不适用于所有身体部位，只适用于 head、stomach、back 和 tooth。
-
-
-He has a headache.	他头痛。
-
-I have a stomachache.	我胃痛。
-
-使用以下医疗词汇，搭配动词 be 或 feel 使用。
-
-
-I'm dizzy. I feel dizzy.	我头晕。我感觉头晕。
-
-She's nauseous. She feels nauseous.	她感觉恶心。她觉得恶心。
-
-如果是呕吐，使用动词 vomiting。
-
-I've been vomiting for about an hour.	我吐了一个小时左右。
+* 如果是呕吐，使用动词 vomiting。
+  * I've been vomiting for about an hour.	我吐了一个小时左右。
 
 
 
-I feel terrible. I didn't sleep last night because I had a bad **fever** . I was just too hot! I have a bad **cough** , too – maybe because I smoke? My colleagues always complain about the noise I make, but I can't answer them because I have a **sore throat** and I can't speak. I didn't eat all day because I felt **nauseous** and I had a **stomachache** , and every time I wanted to stand up, I couldn't because I was so **dizzy** .
+> I feel terrible. I didn't sleep last night because I had a bad **fever** . I was just too hot! I have a bad **cough** , too – maybe because I smoke? My colleagues always complain about the noise I make, but I can't answer them because I have a **sore throat** and I can't speak. I didn't eat all day because I felt **nauseous** and I had a **stomachache** , and every time I wanted to stand up, I couldn't because I was so **dizzy** .
 
 
 
-I have a headache, and I'm dizzy.
+I have a headache, and I'm dizzy. 我头疼，而且头晕。
 
-我头疼，而且头晕。
+I have a bad cough and a sore throat. 我咳嗽得厉害，而且嗓子疼。
 
-I have a bad cough and a sore throat.
+I have a stomachache, and I feel nauseous. 我胃疼，而且觉得恶心。
 
-我咳嗽得厉害，而且嗓子疼。
-
-I have a stomachache, and I feel nauseous.
-
-我胃疼，而且觉得恶心。
-
-I had a fever last night.
-
-我昨天晚上发烧了。
+I had a fever last night. 我昨天晚上发烧了。
 
 
-I have diarrhea.
-
-我拉肚子。
+I have diarrhea. 我拉肚子。
 
 
-I've been vomiting.
-
-我一直在吐。
+I've been vomiting. 我一直在吐。
 
 #### b) Grammar: Present perfect continuous
 
-现在完成时进行时
+**现在完成时进行时**
 
+* 用现在完成进行时谈论一种在过去开始一直延续到现在的病症或病。用 I have been + 动词 + -ing结构。
+  * I have been vomiting a lot.	我一直在吐，吐了好多。
+  * I have been having problems sleeping.	我一直都难以睡眠。
 
-用现在完成进行时谈论一种在过去开始一直延续到现在的病症或病。用 I have been + 动词 + -ing结构。
+* 用for 增加有关时间的信息。
+  * I have been feeling very bad for the last two days.	最近两天我一直都感觉不佳。
 
-I have been vomiting a lot.	我一直在吐，吐了好多。
-
-I have been having problems sleeping.	我一直都难以睡眠。
-
-用for 增加有关时间的信息。
-
-I have been feeling very bad for the last two days.	最近两天我一直都感觉不佳。
-
-医生也可能使用现在完成进行时提问。
-
-How long has this been going on?	这事持续多久了？
-
-How long have you been feeling like this?	你这样的感觉多久了?
+* 医生也可能使用现在完成进行时提问。
+  * How long has this been going on?	这事持续多久了？
+  * How long have you been feeling like this?	你这样的感觉多久了?
 
 
 
-RECEPTIONIST: What seems to be the problem?
-JENNY: Well, I've **been** vomiting, and I have diarrhea.
-RECEPTIONIST: Oh, I'm very sorry to hear that. How long has this been **going on** ?
-JENNY: **For** three days.
-RECEPTIONIST: Have you been **experiencing** any other problems?
-JENNY: **I've** been feeling really tired for a few days now. I **haven't** been sleeping well.
+> RECEPTIONIST: What seems to be the problem?
+> JENNY: Well, I've **been** vomiting, and I have diarrhea.
+> RECEPTIONIST: Oh, I'm very sorry to hear that. How long has this been **going on** ?
+> JENNY: **For** three days.
+> RECEPTIONIST: Have you been **experiencing** any other problems?
+> JENNY: **I've** been feeling really tired for a few days now. I **haven't** been sleeping well.
 
-How have you been feeling?
+How have you been feeling? 你感觉怎么样？
 
-你感觉怎么样？
+How long has this been going on? 这样有多久了？
 
-How long has this been going on?
+I've been vomiting all night. 我整个晚上都在吐。
 
-这样有多久了？
+I've been feeling sick for three days. 我觉得恶心有三天了。
 
-I've been vomiting all night.
-
-我整个晚上都在吐。
-
-I've been feeling sick for three days.
-
-我觉得恶心有三天了。
-
-I've been having problems sleeping.
-
-我一直很难睡着。
+I've been having problems sleeping. 我一直很难睡着。
 
 #### c) Expressions: Making an appointment
 
-patient:
+**patient:**
 
-**I'm a patient of Doctor Brennan's.**
+* I'm a patient of Doctor Brennan's.
+* I want to make an appointment to see the doctor.
+* Is there anything earlier?
 
-**I want to make an appointment to see the doctor.**
+**Receptionist**
 
-**Is there anything earlier?**
-
-Receptionist
-
-**Good morning. Doctor Brennan's office.**
-
-**What seems to be the problem?**
-
-**I'm very sorry to hear that.**
-
-**The doctor has some time at 1 o'clock.**
-
-**Could you make it then?**
+* Good morning. Doctor Brennan's office.
+* What seems to be the problem?
+* I'm very sorry to hear that.
+* The doctor has some time at 1 o'clock.
+* Could you make it then?
 
 
 
-- - The doctor has
-  - some time at 1 o'clock.
-- - I'm very sorry
-  - to hear that.
-- - Could you make
-  - it then?
-- - I want to
-  - make an appointment.
-- - What seems to be
-  - the problem?
-- - Is there
-  - anything earlier?
+- - The doctor has some time at 1 o'clock.
+- - I'm very sorry to hear that.
+- - Could you make it then?
+- - I want to make an appointment.
+- - What seems to be the problem?
+- - Is there anything earlier?
 
 
 
-Good morning. Doctor Brennan's office.
+Good morning. Doctor Brennan's office. 早上好。这里是 Brennan 医生的办公室。
 
-早上好。这里是 Brennan 医生的办公室。
+Good morning. I'm a patient of Doctor Brennan's. 早上好。我是 Brennan 医生的病人。
 
-Good morning. I'm a patient of Doctor Brennan's.
+How can I help you? 我可以帮你什么忙？
 
-早上好。我是 Brennan 医生的病人。
+I want to make an appointment to see the doctor. 我想预约看病
 
-How can I help you?
+What seems to be the problem? 有什么问题呢？
 
-我可以帮你什么忙？
+I've been feeling nauseous and tired. 我感觉恶心，好累
 
+The doctor has some time at 1 o'clock. 医生一点钟有空
 
-收听音频
-
-I want to make an appointment to see the doctor.
-
-我想预约看病
-
-What seems to be the problem?
-
-有什么问题呢？
-
-I've been feeling nauseous and tired.
-
-我感觉恶心，好累
-
-The doctor has some time at 1 o'clock.
-
-医生一点钟有空
-
-Is there anything earlier?
-
-还可以早点吗？
+Is there anything earlier? 还可以早点吗？
 
 #### d) Final Task: Making a doctor's appointment
 
+你正在打电话预约看医生。
+
+```
+A: good morning, Doctor Bab's office
+B: Good morning. I'm a patient of Doctor Babb's.
+A: how can I help you today
+B: I want to make an appointment.
+A: and what seems to be the problem
+B: I've been feeling tired and a little bit nauseous.
+A: how long have you been feeling like this
+B: For about a week.
+A: okay, let me have a look here, The doctor has some time at 3 p.m, can you make it then
+B: Do you have anything earlier?
+A: I'm sorry the doctor's very busy, today, so is 3pm all right
+B: Well, OK. Three p.m. is fine.
+A: Great, so that's this afternoon at 3pm . see you then
+B: Thank you very much.
+```
+
 ### 6-2-2 Talking with the doctor
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/12/88/07/v/128807/GE_6.2.2.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/12/62/13/v/126213/GE_6.2.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ```
 A: Good afternoon.
@@ -263,113 +208,32 @@ A: Take care.
 B: Thanks.
 ```
 
-
-
 #### a) Vocabulary: A doctor's visit
 
-#### symptoms
+* symptoms 征候,征兆 /ˈsɪmptəm/：a change in your body or mind that shows that you are not healthy｜Symptoms include a headache and sore throat. 症状包括头疼与喉咙溃疡
 
-征候,征兆
+* nurse 护士, 保姆：a person whose job is to take care of sick or injured people, usually in a hospital｜a qualified/registered nurse 一名合格的护士/一名注册护士
 
-/ˈsɪmptəm/
+* liquids 酒水，液体：a substance that flows freely and is not a solid or a gas, for example water or oil｜the transition from liquid to vapor 从液体到蒸汽的转换
 
-a change in your body or mind that shows that you are not healthy
+* prescription 处方,药方 /prɪˈskrɪpʃn/：an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's shop/drugstore｜The doctor gave me a prescription for antibiotics.医生给我开了抗生素。
 
-1. Symptoms include a headache and sore throat.
-     症状包括头疼与喉咙溃疡
+* the flu 流感 /ðə fluː/：short for influenza; an infectious disease like a very bad cold, that causes fever, pains and weakness｜James thought he had caught the flu.｜What medicine can I take for the flu?
 
+* blood pressure 血压 /blʌd ˈpreʃər/：the pressure of blood as it travels around the body｜to have high/low blood pressure
+  患有高/低血压
 
-
-#### nurse
-
-护士, 保姆
-
-/nɜːrs/
-
-a person whose job is to take care of sick or injured people, usually in a hospital
-
-1. a qualified/registered nurse
-     一名合格的护士/一名注册护士
+* medicine 医学, 医术 /ˈmedsn/：A substance, either a liquid or pills, that you drink or swallow…｜Did you take your medicine?
+  你吃药了吗？
 
 
 
-#### liquids
-
-酒水，液体
-
-/ˈlɪkwɪd/
-
-a substance that flows freely and is not a solid or a gas, for example water or oil
-
-1. the transition from liquid to vapor
-     从液体到蒸汽的转换
-
-
-
-#### prescription
-
-处方,药方
-
-/prɪˈskrɪpʃn/
-
-an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's shop/drugstore
-
-1. The doctor gave me a prescription for antibiotics.
-     医生给我开了抗生素。
-
-
-
-#### the flu
-
-流感
-
-/ðə fluː/
-
-short for influenza; an infectious disease like a very bad cold, that causes fever, pains and weakness
-
-1. James thought he had caught the flu.
-2. What medicine can I take for the flu?
-
-
-
-#### blood pressure
-
-血压
-
-/blʌd ˈpreʃər/
-
-the pressure of blood as it travels around the body
-
-1. to have high/low blood pressure
-     患有高/低血压
-
-
-
-#### medicine
-
-医学, 医术
-
-/ˈmedsn/
-
-A substance, either a liquid or pills, that you drink or swallow…
-
-1. Did you take your medicine?
-     你吃药了吗？
-
-
-
-- - Drink lots of
-  - liquids.
-- - I'll write you
-  - a prescription.
-- - What are
-  - your symptoms?
-- - I think you have the
-  - flu.
-- - You have high
-  - blood pressure.
-- - I'm not hungry. I have
-  - no appetite.
+- - Drink lots of liquids.
+- - I'll write you a prescription.
+- - What are your symptoms?
+- - I think you have the flu.
+- - You have high blood pressure.
+- - I'm not hungry. I have no appetite.
 
 #### b) Grammar: 'For' and 'since'
 

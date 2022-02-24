@@ -2,13 +2,10 @@
 
 8-4     Business travel 商务旅行
 
-8-4-1 Planning a business trip 计划商务旅行
-
-8-4-2 Booking a hotel 预定酒店
-
-8-4-3 Arranging a meeting 安排会议
-
-8-4-4 Giving a summary of a meeting 做一个会议总结
+* 8-4-1 Planning a business trip 计划商务旅行
+* 8-4-2 Booking a hotel 预定酒店
+* 8-4-3 Arranging a meeting 安排会议
+* 8-4-4 Giving a summary of a meeting 做一个会议总结
 
 -----
 
