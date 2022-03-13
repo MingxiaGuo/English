@@ -42,24 +42,20 @@ TV Genres
 * talk show
 
 which ones are your faorite?
-There are too many soap operas on TV at the moment, I think they're really boring!
-No way, I love soap operas, I don't think there are enough - I want to watch more!
 
-News is important, there aren **not enough** news programs on TV
-I've seen **too many** sitcoms this week, Let's watch some news
-My boyfriend watched **too much** animation. It's too childish for me.
-I'm bored of documentaries. There are **too many** on this channel
+* **aren't enough**: News is important, there are **not enough** news programs on TV
+* **are too many**:  There are too many soap operas on TV at the moment, I think they're really boring! | I've seen **too many** sitcoms this week, Let's watch some news | I'm bored of documentaries. There are **too many** on this channel
+* **is too much** : My boyfriend watched **too much** animation. It's too childish for me.
+* **is/are enough**: No way, I love soap operas, I don't think there are enough - I want to watch more!
+
 
 There is a lot of : uncountable
 * basketball, animation, news, drama, reality TV, sport
-*  
+
 There are a lot of: countable
 * entertainment programs, game shows, sitcoms, crime dramas, comedies, soap operas, documentaries, talk shows
 
-aren't enough
-are too many
-is too much
-is enough
+
 
 ##### ii) Vocabulary for TV programs
 
