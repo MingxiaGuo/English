@@ -23,16 +23,43 @@ B: My job is pretty intense and stressful, so when I get home, I generally like 
 #### a) Vocabulary
 
 ##### i) Types of TV programs
-
+TV Genres
 * sitcom(situation comedy)：情景喜剧
 * game show
 * science fiction
-* documentary: a television documentary about/on the future of nuclear power
+* documentary: countable, a television documentary about/on the future of nuclear power,
 * weather: to listen to the weather
 * news: to listen to/watch the news
 * Drama: She loves watching historical drama.
 * sports: There are excellent facilities for sport and recreation.
-* reality show: Reality shows are relatively cheap to produce.
+* reality show/ reality TV: Reality shows are relatively cheap to produce.
+* soap opera
+* comedy
+* crime drama
+* entertainment program
+* animation:
+* interview
+* talk show
+
+which ones are your faorite?
+There are too many soap operas on TV at the moment, I think they're really boring!
+No way, I love soap operas, I don't think there are enough - I want to watch more!
+
+News is important, there aren **not enough** news programs on TV
+I've seen **too many** sitcoms this week, Let's watch some news
+My boyfriend watched **too much** animation. It's too childish for me.
+I'm bored of documentaries. There are **too many** on this channel
+
+There is a lot of : uncountable
+* basketball, animation, news, drama, reality TV, sport
+*  
+There are a lot of: countable
+* entertainment programs, game shows, sitcoms, crime dramas, comedies, soap operas, documentaries, talk shows
+
+aren't enough
+are too many
+is too much
+is enough
 
 ##### ii) Vocabulary for TV programs
 
