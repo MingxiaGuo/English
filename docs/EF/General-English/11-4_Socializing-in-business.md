@@ -370,53 +370,33 @@ Watch the video and study the language.
 
 ##### ii) Frustration and reassurance
 
-- Can I be honest with you?
+- Can I be honest with you? 我可以跟你说实话吗？
 
-  我可以跟你说实话吗？
+- I'm frustrated. 我很沮丧。
 
-- I'm frustrated.
+- People are reluctant to … 人们不愿意...
 
-  我很沮丧。
+- I feel that I'm getting the runaround. 我觉得人们搪塞我。
 
-- People are reluctant to …
+- Rest assured that … 请放心...
 
-  人们不愿意...
+- I can guarantee you …  我可以向你保证...
 
-- I feel that I'm getting the runaround.
-
-  我觉得人们搪塞我。
-
-- Rest assured that …
-
-  请放心...
-
-- I can guarantee you …
-
-  我可以向你保证...
 
 #### b) Grammar: Past and present
 
-- I've been feeling that …
+- I've been feeling that …. 我一直觉得 ...
 
-  我一直觉得 ...
+- I've already been here two days. 我已经来这里两天了。
 
-- I've already been here two days.
+- Our company's been doing …  我们公司一直在做...
 
-  我已经来这里两天了。
+- You've been having some problems.  你一直有一些问题。
 
-- Our company's been doing …
-
-  我们公司一直在做...
-
-- You've been having some problems.
-
-  你一直有一些问题。
 
 
 
 I've been asking a lot of questions.
-
-
 
 He's been getting the runaround for two weeks.
 
@@ -424,35 +404,25 @@ She's visited the company two times before.
 
 We've had two days of meetings.
 
+
+
 Is the speaker talking about a situation that is finished or still ongoing?
 
 I've gotten the runaoround last three days : **ongoing**
 
 
 
-The food was great, and the conversation excellent.
+The food was great, and the conversation excellent. 食物很棒，而且对话是极好的。
 
-食物很棒，而且对话是极好的。
+He's been talking about opening his own business. 他一直在谈论开他自己的公司。
 
-He's been talking about opening his own business.
+We went to a good restaurant last night. 昨晚我去了一个好饭店
 
-他一直在谈论开他自己的公司。
+I've gotten the runaround these last three days. 这最后三天我一直被搪塞。
 
-We went to a good restaurant last night.
+I've been feeling very worried about him recently. 我最近对他感到很担心。
 
-昨晚我去了一个好饭店
-
-I've gotten the runaround these last three days.
-
-这最后三天我一直被搪塞。
-
-I've been feeling very worried about him recently.
-
-我最近对他感到很担心。
-
-I've been given no clear information since I arrived.
-
-自从我来到这以来没有收到清晰的信息。
+I've been given no clear information since I arrived. 自从我来到这以来没有收到清晰的信息。
 
 #### c) Final Task: Meeting with a client
 

@@ -6,8 +6,8 @@ Level 0
 
 * [Unit 1 Letters and words](EF/General-English/0-1_Letters-and-words.md)
 * [Unit 2 Sounds](EF/General-English/0-2_Sounds.md)
-* [Unit 3 Your classroom](EF/General-English/0-3_Your-classroom.md)
-* [Unit 4 Rhythm and emotion](EF/General-English/0-4_Rhythm-and-emotion.md)
+* [Unit 3 Your classroom](EF/General-English/0-3_Your-Classroom.md)
+* [Unit 4 Rhythm and emotion](EF/General-English/0-4_Rhythm-and-Emotion.md)
 * [Unit 5 Building sentences](EF/General-English/0-5_Building-sentences.md)
 * [Unit 6 Vital verbs](EF/General-English/0-6_Vital-verbs.md)
 * [Unit 7 Joys](EF/General-English/0-7_Joys.md)
@@ -17,7 +17,7 @@ Level 0
 
 Level 1
 
-- [Unit 1 Greetings and Introductions](EF/General-English/1-1_Greetings-and-introductions.md)
+- [Unit 1 Greetings and Introductions](EF/General-English/1-1_Greetings-and-Introductions.md)
 - [Unit 2 Office and school](EF/General-English/1-2_Office-and-school.md)
 - [Unit 3 Cities and countries](EF/General-English/1-3_Cities-and-countries.md)
 - [Unit 4 People](EF/General-English/1-4_People.md)
@@ -108,18 +108,18 @@ Level 10
 
   - [Unit 1 Meetings](EF/General-English/10-1_Meetings.md)
   - [Unit 2 Dealing with change](EF/General-English/10-2_Dealing-with-change.md)
-  - Unit 3 Personal finances
-  - Unit 4 General-Englishfective presentations
-  - Unit 5 Extreme sports
-  - Unit 6 Lifestyles
+  - [Unit 3 Finance](EF/General-English/10-3_Finance.md)
+  - [Unit 4 Effective Presentations](EF/General-English/10-4_Effective-presentations.md)
+  - [Unit 5 Solving Problems](EF/General-English/10-5_Solving-problems.md)
+  - [Unit 6 Works and Life](EF/General-English/10-6_Work-and-life.md)
 
 Level 11
 
-  - Unit 1 Career paths
-  - Unit 2 Technology
-  - Unit 3 The power of the mind
-  - Unit 4 Performing arts
-  - Unit 5 Law
+  - [Unit 1 Job Interviews](EF/General-English/11-1_Job-interviews.md)
+  - [Unit 2 Technology](EF/General-English/11-2_Technology.md)
+  - [Unit 3 Travelling](EF/General-English/11-3_Travelling.md)
+  - [Unit 4 Socializing in Business](EF/General-English/11-4_Socializing-in-business.md)
+  - [Unit 5 Law](EF/General-English/11-5_Law.md)
   - Unit 6 What you read
 
 Level 12

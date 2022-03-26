@@ -1,4 +1,4 @@
-## 11-3 Traveling
+## 11-3 Travelling
 
 * 11-3-1 Planning a trip
 * 11-3-2 Making travel arrangements

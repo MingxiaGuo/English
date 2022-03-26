@@ -13,20 +13,35 @@
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/14/13/56/v/141356/GE_10.1.1.1.1.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/13/81/22/v/138122/GE_10.1.1_v2.mp4"></video>
 
 > [Joan]：OK, let's get started. Do you all have the agenda? The purpose of this meeting is to talk about our relationship with Sunset computers since the merger. The five of us are here because we do the most business with them. The first item of agenda is news about Sunset. Are you all aware that ArchieMorgan, their CEO, has resigned?
+> 
 > [Harry]： I didn't know that.
+> 
 > [Sally]： No, neither did I.
+> 
 > [Joan]： Yes, well. Our relationship with him just wasn't working. Sunset's chief financial officer, Mary Ozaki, will also be leaving.
+> 
 > [Simon]： That's good news.
+> 
 > [Simon]： I'm sorry. but it's time for a change over there.
+> 
 > [Joan]： Okay. Let's move on to the next item. I'll probably be flying out to meet the Sunset executives on Monday. The CEO's meeting about this right now. I'll have more information later today.
+> 
 > [Todd]：Okay.
+> 
 > [Joan]： The last item on the agenda is our problems with Sunset. I've been hearing some complaints from different people here, but I need more detailed information.
+> 
 > [Sally]： If you ask me, the primary problem's communication, or lack of it.
+> 
 > [Joan]： Could you be more specific, Sally?
+> 
 > [Sally]： Well, they're very slow inn answering our questions. For instance, just yesterday. I phoned their director of marketing and left a message. Then I sent an email. Still no answer.
+> 
 > [Harry]： Do they even have cellphones? I'm serious. I can't get cellphone numbers from them.
+> 
 > [Todd]： A huge challenge for me is figuring out who's responsible for what.
+> 
 > [Simon]： I have to say that their director of enngineerinng, Ed Fife, is incredible. He gets me what I need quickly, and it's always accurate.
+> 
 > [Joan]： Hmm. This is all very interesting.
 
 #### a) Vocabulary 
