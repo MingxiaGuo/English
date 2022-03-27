@@ -1,4 +1,4 @@
-## 1-6 Food
+# 1-6 Food
 
 <div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
@@ -12,7 +12,7 @@
 
 ----
 
-### **Discussion Questions**
+## **Discussion Questions**
 
 - What is your favorite vegetable?
 - Describe what a tomato tastes like.
@@ -23,9 +23,9 @@
 - What fruits are popular in your country?
 - What can you make with fruit?
 
-### 1-6-1.  Discussing a meal
+## 1-6-1  Discussing a meal
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/27/v/111227/GE_1.6.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/27/v/111227/GE_1.6.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 谈论一顿饭
@@ -41,7 +41,7 @@
 [SALLY] I want some chocolate ice cream.
 ```
 
-#### a) Vocabulary: Common foods
+### a) Vocabulary: Common foods
 
 Cheese, pasta, fried chicken, french fries, ice cream, rice, salad, hamburger, pizza
 
@@ -51,7 +51,7 @@ coffee, Bread, pasta, Spaghetti, red wine, soup, strawberry cake, tea, chocolate
 
 Water
 
-#### b) Expressions: Expressing wants and favorites
+### b) Expressions: Expressing wants and favorites
 
 **Expressing what you want 表达您的欲望**
 
@@ -92,7 +92,7 @@ Water
 > WAITER: And water, and coffee.
 > LINDA: Yes, **thanks** .
 
-#### c) Grammar: Countable and uncountable nouns
+### c) Grammar: Countable and uncountable nouns
 
 **Countable and uncountable nouns 可数和不可数名词**： Some nouns can be counted, and others cannot. Nouns that you can count (for example, **apples** or **hamburgers**) are called countable nouns. Nouns that you can't count (for example, rice or water) are uncountable nouns.
 
@@ -121,7 +121,7 @@ The chicken is horrible!
 
 I don't like carrots.
 
-#### d) Final Task: Discussing a meal
+### d) Final Task: Discussing a meal
 
 You are having lunch with a friend. Listen and record the correct response. When you see a blank, give true information about yourself.
 
@@ -184,9 +184,9 @@ FRANK:  Cucumber, some cheese.  Tomatoes, some lettuce.  A bottle of water and a
 
 
 
-### 1-6-2. Preparing a meal with friends
+## 1-6-2. Preparing a meal with friends
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/28/v/111228/GE_1.6.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/28/v/111228/GE_1.6.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 和朋友准备一顿饭
@@ -201,7 +201,7 @@ FRANK:  Cucumber, some cheese.  Tomatoes, some lettuce.  A bottle of water and a
 [KELLY] Hi! I love your place.
 ```
 
-#### a) Vocabulary: Food groups
+### a) Vocabulary: Food groups
 
 **Food groups** 食物分组：You can talk about food groups – categories of food. Look at the food groups and some of the foods they contain. Language note: Tomatoes are scientifically categorized as a fruit, but often considered a vegetable.
 
@@ -221,7 +221,7 @@ Chicken and beef are meats.
 
 Carrots and potatoes are vegetables.
 
-#### b) Grammar: Imperatives
+### b) Grammar: Imperatives
 
 **Imperatives 祈使句**
 
@@ -243,7 +243,7 @@ Carrots and potatoes are vegetables.
   * **Please give** me the cheese.  请把芝士给我。 |Please **slice** the bread.      
   * Help me, **please**.  请帮帮我。|Give me the milk, **please** .
 
-#### c) Final Task: Preparing a meal with friends
+### c) Final Task: Preparing a meal with friends
 
 You are about to make a pizza. Your friend offers to help. Answer her questions, and tell her what to do.
 
@@ -264,9 +264,9 @@ You are about to make a pizza. Your friend offers to help. Answer her questions,
  B: Yes, it looks really good.
  ```
 
-### 1-6-3. Suggesting a restaurant for lunch
+## 1-6-3. Suggesting a restaurant for lunch
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/29/v/111229/GE_1.6.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/29/v/111229/GE_1.6.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 推荐一家午餐餐厅
@@ -288,11 +288,11 @@ You are about to make a pizza. Your friend offers to help. Answer her questions,
 [KELLY] It’s 555 462 ...
 ```
 
-#### a) Vocabulary: Lunch
+### a) Vocabulary: Lunch
 
 desserts, drinks, orange juice, sandwiches, tea, soups, salads, chocolate cake
 
-#### b) Expressions: Describing food
+### b) Expressions: Describing food
 
 **Taste adjectives 描述味道的形容词**
 
@@ -326,7 +326,7 @@ desserts, drinks, orange juice, sandwiches, tea, soups, salads, chocolate cake
 * The soup isn't good. It tastes **bad** .Don't eat too much spicy food.
 * These vegetables taste fresh.I don't like the food/soup. It's too  salty  .
 
-#### c) Final Task: Suggesting a restaurant for lunch
+### c) Final Task: Suggesting a restaurant for lunch
 
 You're talking with a friend about lunch. When you see a blank, say what you like. Listen carefully and then record the correct answer.
 
@@ -343,9 +343,9 @@ A: Okay. Bos's kitchen it is.
 B: Good! I'm hungry, too.
 ```
 
-### 1-6-4. Ording take-out food
+## 1-6-4. Ording take-out food
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/31/v/111231/GE_1.6.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/31/v/111231/GE_1.6.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 订外卖
@@ -390,7 +390,7 @@ FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much. 
 •FRANK:  Mm hmm.  Here you are ....  Some beef and vegetables.  Ah yes .... some bread and butter. 嗯。 给你钱。   牛肉和蔬菜。 是的...一些面 包和黄油。
 ```
 
-#### a) Grammar: Counters
+### a) Grammar: Counters
 
 量词 **Using counters with uncountable nouns 量词与不可数名词一起使用**
 
@@ -412,10 +412,11 @@ FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much. 
   * a packet of ...: a packet of rice
   * a plate of .. 一盘.. | a plate of spaghetti
   * a slice of ...  一片.. | a slice of bread
+  * a pile of ... |  a pile of books
 
 What is it?
 
-#### b) Expressioons: Polite requests
+### b) Expressioons: Polite requests
 
 **Polite requests 礼貌的请求**
 
@@ -463,7 +464,7 @@ What is it?
 > Anything else?
 > No, thanks.
 
-#### c) Final Task: Ordering take-out food
+### c) Final Task: Ordering take-out food
 
 You are buying lunch at a delicatessen. Listen and record the correct response. When you see a blank, give true information about yourself.
 

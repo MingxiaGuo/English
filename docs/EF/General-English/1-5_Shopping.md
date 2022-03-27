@@ -1,8 +1,8 @@
 ## Unit 5 Shopping
 
 <div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
-
 1-5 Shopping
+
 * 1-5-1 Trying on clothes in s store
 * 1-5-2 Describing what someone is wearing
 * 1-5-3 Talking to a sales clerk
@@ -42,7 +42,7 @@ A small one.
 
 ### 1-5-1 Trying on clothes in a store
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [KELLY] Excuse me - can I try these on?
@@ -186,7 +186,7 @@ B: I really like it, too.
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/20/05/8/v/20058/0a.7%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/20/05/8/v/20058/0a.7%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 MICHELLE:  I know!  A blue shirt ....  And ....  a long, black skirt.  Nnnh Hnn. 
@@ -303,7 +303,7 @@ LAURA:  Hi! 嗨！
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/25/v/111225/GE_1.5.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/25/v/111225/GE_1.5.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [SALES ASSISTANT] Can I help you?
@@ -447,8 +447,8 @@ It's $75.65.
   - On the third floor.
 - - Can I help you?
   - Yes, I'm looking for dresses.
-- - Where's it from?
-  - China.
+- <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/31/v/111231/GE_1.6.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
+
 - - What's it made of?
   - It's 100% cotton.
 - - What size is it?
@@ -555,7 +555,7 @@ online store, shoe store, clothing store,
 
 ##### i) Demonstratives
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [KELLY] Excuse me - can I try these on?

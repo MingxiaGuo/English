@@ -123,7 +123,7 @@ makeup remover
 
 ### 1-4-1 Talking about families
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/15/v/111215/GE_1.4.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-metadata"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/15/v/111215/GE_1.4.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-metadata"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 [TODD] Wow! Is that your family?
@@ -357,7 +357,7 @@ I live with John Harrison. He and I are friends. John is from the United Kingdom
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/1/v/19911/0a.6%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/1/v/19911/0a.6%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [JAMES] So. Tell me about your date with Laura.
@@ -554,7 +554,7 @@ PAUL:  Long, dark hair.  I like long, dark hair. 长黑发 。 我喜欢长黑�
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/18/v/111218/GE_1.4.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/18/v/111218/GE_1.4.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 
@@ -705,7 +705,7 @@ B: She's _____.
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/89/6/v/19896/0a.5%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/89/6/v/19896/0a.5%20Scene%202.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 

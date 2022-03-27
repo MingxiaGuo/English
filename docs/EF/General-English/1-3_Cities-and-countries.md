@@ -1,4 +1,4 @@
-## 1-3 Cities and countries
+# 1-3 Cities and countries
 
 <div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
@@ -9,18 +9,16 @@
 * 1-3-4. Describing your country
 </div>
 
-----
-
-### Discussion Questions
+## Discussion Questions
 
 - Where are you from? What is your nationality?
 - Where is your tutor from? What is his/her nationality?
 - What countries have you been to?
 - Describe what people from your country are like.
 
-### 1-3-1. Saying where are you from
+## 1-3-1. Saying where are you from
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/85/8/v/19858/0a.3%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/85/8/v/19858/0a.3%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></div></div></video>
 
 > [Frank]：Hello <br/>
 > [Mary]: Hi, his name is Frank. <br/>
@@ -33,7 +31,7 @@
 > [Frank]: Oh, Of course, Of course. Now we live in London, but I'm from umm. <br/>
 > [Mary]: Los Angeles, in the US.
 
-#### a) Vocabulary: Countries
+### a) Vocabulary: Countries
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 | country                   | City                                   |
@@ -56,9 +54,9 @@
 | England                   |                                        |
 </div>
 
-#### b) Grammar
+### b) Grammar
 
-##### i) 'Be from' and 'live in'
+#### i) 'Be from' and 'live in'
 
 'Be from' and 'live in'
 
@@ -71,11 +69,11 @@
 * Use **but** to contrast the place a person is from and where they're living now. 用 **but** 对比一个人的家乡和他现在居住的地方。
   * He's from Los Angeles, **but** he lives in New York.
 
-##### ii) 'Where' questions
+#### ii) 'Where' questions
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/26/v/119026/GE_1.3.1.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/26/v/119026/GE_1.3.1.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 
@@ -110,7 +108,7 @@ Watch the video and study the language.
 > A: Oh, Japan! Nice.
 > B: I live in Los Angeles.
 
-#### c) Final Task: Saying where are you from
+### c) Final Task: Saying where are you from
 
 You have made a new friend and are exchanging personal information about where you are from.
 
@@ -141,13 +139,13 @@ PAUL:  Nope, Laura's from New York.  Michelle is from. 不是，Laura来自纽�
 FRANK:  Brighton. 布赖顿。 
 ```
 
-#### b) Grammar 
+### b) Grammar 
 
 - 
 
-### 1-3-2. Introducing a colleague
+## 1-3-2. Introducing a colleague
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/86/1/v/19861/0a.3%20Scene%203.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/86/1/v/19861/0a.3%20Scene%203.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
 ```
 [LAURA] Hey. Come and meet my friends.
@@ -174,7 +172,7 @@ FRANK:  Nice to meet you. 很高兴见到你。
 PAUL:  You too. 你也是。
 ```
 
-#### a) Expressions: Introducing others informally
+### a) Expressions: Introducing others informally
 
 **非正式的介绍他人**
 
@@ -209,7 +207,7 @@ C: Thanks.
 * Eric, this is Brenda. Brenda, this is Eric
 * How's it going?
 
-#### b) Vocabulary: Nationalities
+### b) Vocabulary: Nationalities
 
 **Countries and nationalities 国家和国籍**
 
@@ -272,7 +270,7 @@ We're Canadian.
 
 He's British.
 
-#### c) Grammar: 'And' and 'but'
+### c) Grammar: 'And' and 'but'
 
 **Conjunctions: 'and,' 'but' 连词**
 
@@ -303,7 +301,7 @@ B: Nice.
 * I like France, and I like Italy.
 * She's from Berlin, but she lives in Shanghai.
 
-#### d) Final Task: Introducing a colleague
+### d) Final Task: Introducing a colleague
 
 You are at a business conference in London. One morning, you are talking to your colleague, Harry, when Ann appears. They do not know each other, so make the introductions.
 
@@ -334,11 +332,11 @@ B: I'm chinese, I'm from Beijing.
 
 ```
 
-### 1-3-3. Meeting new people
+## 1-3-3. Meeting new people
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/22/v/111222/GE_1.3.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/22/v/111222/GE_1.3.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [SALLY] So where are you from, Carlos?
@@ -356,7 +354,7 @@ Watch the video and study the language.
 [SALLY] No, thanks. That's OK
 ```
 
-#### a) Grammar: Adjectives
+### a) Grammar: Adjectives
 
 **Adjectives**： An **adjective** is a word that describes a noun. Use adjectives after the verb **be** or before a noun.
 
@@ -396,7 +394,7 @@ Watch the video and study the language.
 * My city is really nice .
 * London is really expensive .
 
-#### b) Expressions: Asking about a city or country
+### b) Expressions: Asking about a city or country
 
 Asking about a city or country  **What's it like?**  **询问关于一座城市或一个乡村的情况** ***\**What's it like?\** \***
 
@@ -437,7 +435,7 @@ Tom: Well, it's crowded and expensive, too!
 * It's exciting, but noisy.
 * That's great.
 
-#### c) Final Task: Meeting new people
+### c) Final Task: Meeting new people
 
 You have made a new friend. Find out where he’s from, where he lives and what it’s like there.
 
@@ -473,11 +471,11 @@ MARY:  And I'm Mary.  Where are you from Laura? 我是Mary。 Laura，你从哪�
 LAURA:  I'm from New York. 我来自纽约
 ```
 
-### 1-3-4. Describing your country
+## 1-3-4. Describing your country
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/23/v/111223/GE_1.3.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/23/v/111223/GE_1.3.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [CARLOS] Where do you live, Sally?
@@ -493,7 +491,7 @@ Watch the video and study the language.
 [SALLY] I’m sorry to hear that.
 ```
 
-#### a) Vocabulary: Buildings and places around town
+### a) Vocabulary: Buildings and places around town
 
 street, park, bridge, building, shop, skyscraper, restaurant, museum
 
@@ -516,7 +514,7 @@ A:  what is it?
 B: It's a good restaurant.
 ```
 
-#### b) Grammar: Articles
+### b) Grammar: Articles
 
 **Indefinite articles a and an** ** 不定冠词Alan
 
@@ -550,7 +548,7 @@ B: It's a good restaurant.
 
 * There's a beautiful bridge.
 
-#### c) Final Task: Describing your city
+### c) Final Task: Describing your city
 
 Describe where you live to a colleague in a different country. Give true information about yourself.
 

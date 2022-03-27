@@ -1,4 +1,4 @@
-# 1-1 Greetings and Introductions
+# excuse me1-1 Greetings and Introductions
 <div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
 1-1 Greetings and Introductions 问候及介绍
@@ -28,12 +28,14 @@ Hello, my name is Andy.
 ```
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
+**第一次问好**
 * **Saying hello**: Use **hello** and **hi** to greet people. **Hello** can be used in formal and informal situations. **Hi** is informal. Both hello and hi can be used at all times of the day.
   * **Hello.**
   * **Hi!**  **Hey**
 * **Saying your name**: Use **I'm** and **My name is** to tell people your name.
   * **I'm** Paul.	
   * **My name is** Nancy.
+
 
 </div>
 
@@ -43,14 +45,16 @@ Sally and Carlos are new employees. They meet for the first time in the office k
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/11/82/97/v/118297/GE_1.1.1.1.1_poster.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/06/v/111206/GE_1.1.1_v4.mp4" ></video>
 
-> [Calos]：Hi!
-> [Sally]：Hello,
-> [Calos]：I'm Calos. What's your name?
-> [Sally]：My name is Sally.
-> [Calos]：Nice to meet you, Sally.
-> [Sally]： Nice to meet you, too.
-> [Calos]：Well. Good bye.
-> [Sally]：Bye
+```
+[Calos]：Hi!
+[Sally]：Hello,
+[Calos]：I'm Calos. What's your name?
+[Sally]：My name is Sally.
+[Calos]：Nice to meet you, Sally.
+[Sally]： Nice to meet you, too.
+[Calos]：Well. Good bye.
+[Sally]：Bye
+```
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -94,18 +98,20 @@ A: Well, goodbye.
 B: Bye.
 ```
 
-```
-[Kevin]: Good morning. My name is Kevin. 
-[Dorothy]: Excuse me. I think we’ve met before.
-[Kevin]: I am sorry. I don’t remember.
-[Dorothy]: That’s fine. It’s nice to meet you again!
-```
+> [Kevin] : Good morning. My name is Kevin. <br/>
+> [Dorothy] : Excuse me. <mark>I think we’ve met before.</mark> <br/>
+> [Kevin] : I am sorry. I don’t remember. <br/>
+> [Dorothy] : <mark>That’s fine.</mark> It’s nice to meet you again!
 
 ## 1-1-2. Giving your name to some one
 
 ### a) Vocabulary: The alphabet
 
-Listen to the letters of the alphabet. As you listen, repeat the letters to yourself. Notice that there is a capital letter and a small letter in each pair. Use capital letters at the beginning of sentences and as the first letter of people's names.
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
+Listen to the letters of the alphabet. As you listen, repeat the letters to yourself. Notice that there is a **capital letter** and a **small letter** in each pair. Use capital letters at the beginning of sentences and as the first letter of people's names.
+
+</div>
 
 ### b) Expressions: Spelling names
 
@@ -113,14 +119,14 @@ Sally is a new employee. She is getting her name tag. Watch the video and study 
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/07/v/111207/GE_1.1.2_v2.mp4" controls poster=""></video>
 
-> ```Sally```: Hi
+> ```Sally```: Hi <br/>
 > ```Boss```: Hello
-> ```Sally```: Uh, my name is Sally. Sally Phillps. I'm new.
-> ```Boss```: Sally, <mark>how do you spell your last name?</mark>
-> ```Sally```: It's p-h-i-l-l-p-s.
-> ```Boss```: Oh, yes. Here you are.
-> ```Sally```: Thank you
-> ```Boss```: You're welcome.
+> ```Sally```: Uh, my name is Sally. Sally Phillps. I'm new. <br/>
+> ```Boss```: Sally, <mark>how do you spell your last name?</mark> <br/>
+> ```Sally```: It's p-h-i-l-l-p-s. <br/>
+> ```Boss```: Oh, yes. Here you are. <br/>
+> ```Sally```: Thank you <br/>
+> ```Boss```: You're welcome. <br/>
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -132,17 +138,19 @@ Sally is a new employee. She is getting her name tag. Watch the video and study 
   | Sally      | Phillips                 |
   | Carlos     | Cruz                     |
   | Steve      | Jobs                     |
+  
 * Use these questions to ask people to spell their names.
   * **How do you spell** your name? 
   * **How do you spell** your last name?    
   * **How do you spell** that? 
+  
 * Use it's to give your name.
   * A: How do you spell your last name?   
     B: **It's** P-H-I-L-L-I-P-S.   
+  
 * Use thanks or thank you to thank people for spelling their names. Thanks is less formal than thank you. Use you're welcome to respond to thanks.
-  * **Thanks**! 
-  * A: **Thank you.**     
-    B: **You're welcome**. 
+  * A: **Thanks**! /**Thank you.**     
+    B: **You're welcome**. / Sure/ No problem
     </div>
 
 ### c) Final Task:  Giving your name to some one
@@ -282,20 +290,20 @@ Todd is greeting various people at his office. Watch the video and study the lan
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/16/v/111216/GE_1.1.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-> [Jane]: Good morning, Todd
-> [Todd]: Good morning, Jane. How are you today?
-> [Jane]: I'm fine. Thanks. And you?
-> [Todd]: I'm good.
-> [Jane]: Well, have a nice day.
-> [Todd]: You too.
-> [Catos]: Good afternoon.
-> [Todd]: Good afternoon, Catos.
-> [Catos]: Are you busy?
-> [Todd]：No
-> [Jame]: Good evening, Todd.
-> [Catos]: Good evening, Jame
-> [Catos]: Good night.
-> [Jame]: Good night, Todd
+> [Jane] : Good morning, Todd <br/>
+> [Todd] : Good morning, Jane. How are you today? <br/>
+> [Jane] : I'm fine. Thanks. And you? <br/>
+> [Todd] : I'm good. <br/>
+> [Jane] : Well, <mark>have a nice day.</mark> <br/>
+> [Todd] : <mark>You too. </mark><br/>
+> [Catos] : Good afternoon. <br/>
+> [Todd] : Good afternoon, Catos. <br/>
+> [Catos] : Are you busy? <br/>
+> [Todd]：No <br/>
+> [Jame] : Good evening, Todd. <br/>
+> [Catos] : Good evening, Jame <br/>
+> [Catos] : Good night. <br/>
+> [Jame] : Good night, Todd 
 
 ### a) Grammar: 
 
@@ -362,10 +370,12 @@ Todd is greeting various people at his office. Watch the video and study the lan
 * Use the expression good night to say goodbye to someone in the evening or to indicate that you are going to sleep.
   * **Good night.**                   
 * Use the greeting How are you? in a somewhat formal situation, like in an office.
-  * **How are you?**                             
+  * **How are you** (today)?
+  * **How are you doing**
+  * **How's it going**                          
 * Use the following sentences to respond to the greeting How are you?
   * I'm **fine**, thanks. And you?    
-  * I'm **good**/ **fine** / **well**  / so-so / **okay** (**ok**)  
+  * I'm **good**/ **fine** / **well**  / so-so / **okay** (**ok**)   I'm all right. 我很好。
   * I feel amazing. 
   *  I'm not doing so well.
 * To end a conversation in the morning, you can tell someone you hope they have a nice day:
@@ -396,13 +406,13 @@ Todd is greeting various people at his office. Watch the video and study the lan
 
 
 
-> LIN: Good evening, Kim.
-> KIM: Good evening, Lin.
-> LIN: How are you?
-> KIM: I'm fine, thanks. How are you?
-> LIN: I'm busy.
-> KIM: Well, good night.
-> LIN: Good night.
+> LIN: Good evening, Kim.<br/>
+> KIM: Good evening, Lin.<br/>
+> LIN: How are you?<br/>
+> KIM: I'm fine, thanks. How are you?<br/>
+> LIN: I'm busy.<br/>
+> KIM: Well, good night.<br/>
+> LIN: Good night.<br/>
 
 
 
@@ -427,14 +437,14 @@ A: Here it is.
 B: Thank you
 ```
 
-```
-- Q: Good morning. How are you. John? / Hello John, how are you?
-- A: I feel amazing. I am well/ so-so
-- Q: What happened?
-- Q: how are you?
-- A: I'm not doing so well.
-- Q: why, what's wrong?
-```
+> Q: Good morning. How are you. John? / Hello John, how are you? <br/>
+> A: I feel amazing. I am well/ so-so <br/>
+> Q: What happened?<br/>
+> Q: how are you?<br/>
+> A: I'm not doing so well.<br/>
+> Q: why, what's wrong? <br/>
+
+
 
 #### Introducing yourself to someone you’ve just met(self-introduction)
 

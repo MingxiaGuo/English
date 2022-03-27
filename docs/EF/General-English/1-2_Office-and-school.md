@@ -7,25 +7,22 @@
 * 1-2-2. Welcoming a new employee
 * 1-2-3. Giving personal information
 * 1-2-4. Describing your office
-
 </div>
-
------
 
 ## 1-2-1. Talking about your class
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/17/v/111217/GE_1.2.1_v3.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-> [CARLOS] Good morning.
-> [JOAN] Good morning, Carlos. How are you?
-> [CARLOS] I’m good. How are you, Joan?
-> [JOAN] Fine, thanks.
-> [JOAN] How’s your class?
-> [CARLOS] Uh, it’s good. The teacher’s great.
-> [JOAN] **How many students are in the class**?
-> [CARLOS] **There are** eight students.
-> [JOAN] Okay.
-> [JOAN] Well, **good luck**.
+> [CARLOS] Good morning. <br/>
+> [JOAN] Good morning, Carlos. How are you? <br/>
+> [CARLOS] I’m good. How are you, Joan? <br/>
+> [JOAN] Fine, thanks. <br/>
+> [JOAN] <mark>How’s your class?</mark> <br/>
+> [CARLOS] Uh, <mark>it’s good.</mark> <mark>The teacher’s great.</mark> <br/>
+> [JOAN] <mark>How many students are in the class?</mark> <br/>
+> [CARLOS] **There are** eight students. <br/>
+> [JOAN] Okay. <br/>
+> [JOAN] Well, <mark>good luck</mark>.
 
 ### a) Vocabulary: Classroom vocabulary
 
@@ -60,16 +57,18 @@
 
 Two students, Ella and Joe, are talking about their classes. Listen to the audio. Select the correct answer.
 
-> A: Good morning. Joe
-> B: Hi.Allen
-> A: How are you?
-> B: I'm fine. Thanks, but I'm busy. And you?
-> A: I'm good. How's your english class?
-> B: It's great.
-> A: And how's your teacher?
-> B: She's good. Her name is Miss Kelly. How are your classes?
-> A: They're okay. Well, see you later.
-> B: See you later.
+```
+A: Good morning. Joe
+B: Hi.Allen
+A: How are you?
+B: I'm fine. Thanks, but I'm busy. And you?
+A: I'm good. How's your english class?
+B: It's great.
+A: And how's your teacher?
+B: She's good. Her name is Miss Kelly. How are your classes?
+A: They're okay. Well, see you later.
+B: See you later.
+```
 
 ### c) Final Task: Talking about your class
 
@@ -141,18 +140,17 @@ Ok, read your answer
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/25/v/119025/GE_1.2.2.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-> KEN:  Mmh?  Is this your notebook? 嗯？ 这是你的记事本吗? 
-> MICHELLE:  Nope, it isn't. 不，不是的。 
-> LAURA:  Hey!  That's my notebook! 嘿！ 那是我的笔记本！ 
-> KEN:  Oh, it's your notebook? 哦，是你的笔记本吗？ 
-> LAURA:  Yes, it's my notebook. 是的，是我的笔记本。 
-> KEN:  Okay.  Here you go. 好的。 给你。 
-> LAURA:  Thanks.  Well, thanks again. 谢谢。 再次谢谢你。 
-> KEN:  No problem. 不客气
+> KEN:  Mmh?  Is this your notebook? 
+> MICHELLE:  Nope, it isn't. 
+> LAURA:  Hey!  That's my notebook! 
+> KEN:  Oh, it's your notebook? 
+> LAURA:  Yes, it's my notebook.  
+> KEN:  Okay.  <mark>Here you go.</mark> 好的。 给你。 
+> LAURA:  Thanks.  Well, thanks again. 
+> KEN:  <mark>No problem. </mark>
 
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
-
 **Possessive adjectives** **所有格形容词**: Look at the chart to see the subject pronouns and the possessive adjectives that go with them.
 
 Use possessive adjectives to show who an object belongs to. There is always a noun after a possessive adjective.
@@ -180,20 +178,20 @@ Watch the video and study the language.
 
 > A: Sally, sally Alice?<br/>
 > B: Oh, hi, Todd.<br/>
-> A: Hi. Welcome to the company.<br/>
-> B: Thanks.<br/>
-> A: Let me show you to the desk.<br/>
+> A: Hi. <mark>Welcome to the company.</mark> <br/>
+> B: <mark>Thanks.</mark><br/>
+> A: <mark>Let me show you to the desk.</mark><br/>
 > B: ok <br/>
 > A: So this is your desk.<br/>
 > B: ok<br/>
 > A: And that is my desk.<br/>
 > C: Hi<br/>
-> A: Hello, Joan. Sally, this is Joan. Joan, this is sally.<br/>
+> A: Hello, Joan. <mark>Sally, this is Joan. Joan, this is sally.</mark><br/>
 > C: Nice to mmet you.<br/>
 > B: Nice to meet you too.<br/>
 > C: Welcome to the company. <br/>
 > B: Thanks<br/>
-> C: OK, see you later.<br/>
+> C: <mark>OK, see you later.</mark><br/>
 
 ### d) Final Task: Welcoming a new employee
 
@@ -205,18 +203,18 @@ Listen and record the correct response. When you see a blank, give true informat
 
 ![img](https://cns2.ef-cdn.com/Juno/11/15/22/v/111522/GE_1.2.2.5.1_image1_2.jpg)
 
-> A: Good morning. I'm John. I'm a new employee.
-> B: Hi! I'm _____. Nice to meet you.
-> A: Nice to meet you too
-> B: Welcome to the company.
-> A: Thanks
-> B: John, this is your desk.
-> A: Great
-> B: And this is your computer
-> C: Hello 
-> B: John, this is Maria. Maria, this is John.
-> C: Nice to meet you
-> A: Nice to meet you too. 
+> A: Good morning. I'm John. <mark>I'm a new employee.</mark> <br/>
+> B: Hi! I'm _____. Nice to meet you. <br/>
+> A: Nice to meet you too  <br/>
+> B: Welcome to the company.  <br/>
+> A: Thanks  <br/>
+> B: John, this is your desk.  <br/>
+> A: <mark>Great</mark>  <br/>
+> B: And this is your computer  <br/>
+> C: Hello   <br/>
+> B: John, this is Maria. Maria, this is John.  <br/>
+> C: Nice to meet you  <br/>
+> A: Nice to meet you too.   <br/>
 > C: Ok, see you later
 
 ## 1-2-3. Giving personal information
@@ -225,14 +223,14 @@ Listen and record the correct response. When you see a blank, give true informat
 
 
 
-> A: This is my family.
-> B: They are so cute.
-> A: Thanks!
-> B: What are their names? 
-> A: Sara and Sala.
-> B: How old are they?
-> A: Sala is 11 now and Sara is 13.
-> B: They are beautiful!
+> A: This is my family.   <br/>
+> B: They are so cute.  <br/>
+> A: Thanks!  <br/>
+> B: What are their names?   <br/>
+> A: Sara and Sala.  <br/>
+> B: How old are they?  <br/>
+> A: Sala is 11 now and Sara is 13.  <br/>
+> B: They are beautiful!  <br/>
 > A: Thanks.
 
 ### a) Vocabulary: Numbers 11-100
@@ -286,12 +284,12 @@ B: Thank you.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/21/v/111221/GE_1.2.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-> A: So let me show you around.
-> B: okay
-> A: That's Joan's office. The meeting rooms are over there. And the restrooms are over there.
-> B: OKay
-> A: And that's the kitchen
-> B: Right. It's a great office./Is it a great office?
+> A: <mark>So let me show you around. </mark>  <br/>
+> B: okay   <br/>
+> A: That's Joan's office. The meeting rooms are over there. And the restrooms are over there.   <br/>
+> B: OKay   <br/>
+> A: And that's the kitchen   <br/>
+> B: Right. It's a great office./Is it a great office?   <br/>
 > A: Yes, it is.
 
 ### a) Vocabulary: in the office
@@ -368,56 +366,54 @@ B: Yes, it is.
 
 
 
+
+
 --------
 
+Stand right there and great, 站到右边，很好
 
+That'll do. 就这样。
 
+Here you go 你拿走吧
 
+There you go.
 
+Is there a Felton, 这/那里有Felton吗
 
+Excuse me, are you Felton Robert Miles? 打扰一下，你是Felton Robert Miles吗？
 
-======================================================================================
+OK, got it. 好的，明白了。 •
 
+It's not calling. 电话没有响。 it's calling.  It's your phone. 
 
+I was here first. 我第一次到这儿。 •
 
-​			
+ I cannot believe you. 我不相信你。
 
-```
-Roomates
-
-AMY:  Next, hi, smile!  Thank you.  No, name and age.  Right.  Stand right there and great, thank you. 下一个，嗨，笑一笑！ 谢谢你。 不是，名字和年龄。 对的。 站到右边，很好，谢谢你。 •IAN:  I'm nineteen.  How old are you? 我19岁。 你几岁了？ •AMY:  One more. 下一个。 •IAN:  One more?  OK. 下一个？ 好的。 •AMY:  Smile. 笑一笑。 •IAN:  What's your name? 你叫什么名字？ •AMY:  Amy. Amy。 •IAN:  Amy. Amy。 •AMY:  One more.  Thank you.  That'll do. 下一个。 谢谢你。 就这样。
-
-MAN:  Wendell, John Ignacius Wendell, is there a John Ignacius Wendell?  There you go.  Can I have a Sarah Broadhead?  Thank you.  Felton Robert Miles the Third. Wendell, John Ignacius Wendell，那里有John Ignacius Wendell吗？ 你拿走吧。 我能有Sarah Broadhead吗？ 谢谢你。 Felton Robert Miles第三。 •MAN:  Is there a Felton, Felton Robert Miles the Third?  Here you go. 这里有Felton吗？第三Felton Robert Miles。 给你。 •KEVIN:  Excuse me, are you Felton Robert Miles? 打扰一下，你是Felton Robert Miles吗？ •FELTON:  Yes. 是的。 •IAN:  The Third? 第三？ •KEVIN:  We're in room 203.. 我们在203房间。 •FELTON:  203? 203？ •KEVIN:  I'm Kevin, this is Ian.  It's nice to meet you. 我是Kevin，这是Ian。 很高兴见到你。 •FELTON:  Pleased to meet you.  How do you do? 很高兴见到你。 你好。 •IAN:  I'm all right. 我很好。
-```
+hey Kevin right? 哦，嗨，Kevin对吗？ •
 
 ```
 Battle for the bed
 
-ADMINISTRATOR:  two oh three, two oh four, two oh five. 203,204,205。 •AMY:  OK, got it. 好的，明白了。 •FELTON:  I was here first. 我第一次到这儿。 •IAN:  Hey Kevin, how many languages can you speak? Kevin，你会说几种语言？ •KEVIN:  Three: Khmer, English and Chinese. 三种：高棉语，英语和中文。 •FELTON:  Cool.  I can speak English, Spanish and French.  Oh my goodness, what are you doing? 很好。 我能说英语，西班牙语和法语。 哦，我的天哪，你在做什么？ •AMY:  Oh, hey Kevin right? 哦，嗨，Kevin对吗？ •KEVIN:  Tan, T A N. Tan, T A N. •AMY:  Tan.  Here you go. Tan。 你拿走吧
-
-KEVIN:  Thanks. 谢谢。 •AMY:  Sure. 当然。 •KEVIN:  He's Ian. 他是Ian。 •AMY:  Great.  And you are Felton Robert Miles? [IAN]] The Third. 很不错。 你是Felton Robert Miles吗？ [IAN] 第三。 •FELTON:  Yeah, I'm Felton. 是的，我是Felton。 •AMY:  Bye. 再见。 •FELTON:  I cannot believe you. 我不相信你。
+IAN:  Hey Kevin, how many languages can you speak? Kevin，你会说几种语言？ •
+KEVIN:  Three: Khmer, English and Chinese. 三种：高棉语，英语和中文。 •
+FELTON:  Cool.  I can speak English, Spanish and French.  Oh my goodness, what are you doing? 很好。 我能说英语，西班牙语和法语。 哦，我的天哪，你在做什么？ •
 ```
 
 
 
 ```
-LAURA:  Excuse me? 打扰一下。 •LOST AND FOUND GUY:  Can I help you? 我能帮你忙吗？ •LAURA:  Ah yes I'm looking for a bag. 恩，对的，我在找一个包。 •LOST AND FOUND GUY:  What color is your bag? 你的包是什么颜色的？ •LAURA:  It's a blue bag. 是个蓝色的包。 •LOST AND FOUND GUY:  OK.  Is this your bag? 好的。 这是你的包吗？ •LAURA:  Yes, yes it is. 是的，就是它。 •LOST AND FOUND GUY:  What's in it? 里边装了什么呢？ •LAURA:  OK .... ah there's a blue pen ....  And two yellow pencils ....  Oh, and there's a red notebook .... and my phone. 好的...嗯，有支蓝色的钢笔... 还有两支黄色的铅笔... 哦，里边还有个红色的笔记本...还有我的电话。 •LOST AND FOUND GUY:  A red notebook and a phone ....  No.  Sorry.  This is your bag, but there's no phone, and no notebook.  I'm sorry. 一个红色笔记本和一个电话... 没有。 对不起。 这是你的包，但是里边没有电话，没有笔记本。 对不起
+LAURA:  Excuse me? 
+LOST AND FOUND GUY:  Can I help you? 
+LAURA:  Ah yes I'm looking for a bag. 
+LOST AND FOUND GUY:  What color is your bag? 
+LAURA:  It's a blue bag.
+LOST AND FOUND GUY:  OK.  Is this your bag? 
+LAURA:  Yes, yes it is. 
+LOST AND FOUND GUY:  What's in it? 里边装了什么呢？ •
+LAURA:  OK .... ah there's a blue pen ....  And two yellow pencils ....  Oh, and there's a red notebook .... and my phone. 
+LOST AND FOUND GUY:  A red notebook and a phone ....  No.  Sorry.  This is your bag, but there's no phone, and no notebook.  I'm sorry. 
 ```
 
-```
-KEN:  Hmm. 嗯。 •
-PAUL:  Excuse me. 打扰一下。 •
-KEN:  Yes. 什么事呢？ 
-PAUL:  Is that my phone? 那是我的电话吗？ •
-KEN:  I don't know.  What's your phone number? 我不知道。 你的电话号码是多少？ •
-PAUL:  one - three - seven - two - one - oh - six - eight. 1 - 3 - 7 - 2 - 1 - 0 - 6 - 8。 •
-KEN:  One .... .... six .? 1 ... ... 6 ...? •P
-AUL:  one - oh - six - eight. 1 - 0 - 6 - 8。 •
-KEN:  It's not calling. 电话没有响。
-```
 
-```
-LAURA:  Is that my phone? 那是我的电话吗？ •
-KEN:  Hi! 嗨！ •LAURA:  Oh, hi.  Is that my phone? 哦，嗨。 那是我的电话吗？ •KEN:  I don't know.  Is this your phone? 我不知道。 这是你的电话吗？ •LAURA:  Yeah I think it's my phone. 是的，我想是我的电话。 •KEN:  Hey, what's your phone number? 嘿，你的电话号码是多少？ •LAURA:  5 - 5 - 6 - 4 - 2 - 9 - 8 - 3.. 5 - 5 - 6 - 4 - 2 - 9 - 8 - 3。 •KEN:  6 - 4 - 2 - 9 - 8 - 3 ....  Ah, it's calling.  It's your phone. 6 - 4 - 2 - 9 - 8 - 3 ... 啊，电话响了。 是你的电话。 •LAURA:  Thanks again.  For the phone.  And the notebook. 再次感谢。 为了这个电话。 还有笔记本。 •KEN:  You're welcome. 不客气。 
-```
 
