@@ -1,11 +1,13 @@
 ## 1-3 Cities and countries
 
-1-3 Cities and countries
+<div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
+1-3 Cities and countries
 * 1-3-1. Saying where are you from
 * 1-3-2. Introducing a colleague
 * 1-3-3. Metting new people
 * 1-3-4. Describing your country
+</div>
 
 ----
 
@@ -18,22 +20,21 @@
 
 ### 1-3-1. Saying where are you from
 
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/85/8/v/19858/0a.3%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
-
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/85/8/v/19858/0a.3%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
-
-> [Frank]：Hello
-> [Mary]: Hi, his name is Frank.
-> [Frank]: And her name is Mary. 
-> [Mary]: And I'm from the UK
-> [Frank]: We're from London, England. 
-> [Mary]: Uh, Frank? 
-> [Frank]：Yes?
-> [Mary]: I'm from London, you are not.
-> [Frank]: Oh, Of course, Of course. Now we live in London, but I'm from umm.
+> [Frank]：Hello <br/>
+> [Mary]: Hi, his name is Frank. <br/>
+> [Frank]: And her name is Mary. <br/>
+> [Mary]: And I'm from the UK <br/>
+> [Frank]: We're from London, England. <br/>
+> [Mary]: Uh, Frank? <br/>
+> [Frank]：Yes? <br/>
+> [Mary]: I'm from London, you are not. <br/>
+> [Frank]: Oh, Of course, Of course. Now we live in London, but I'm from umm. <br/>
 > [Mary]: Los Angeles, in the US.
 
 #### a) Vocabulary: Countries
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 | country                   | City                                   |
 | ------------------------- | -------------------------------------- |
@@ -53,6 +54,7 @@
 | Czech Republic 捷克共和国 |                                        |
 | Philippines 菲律宾        |                                        |
 | England                   |                                        |
+</div>
 
 #### b) Grammar
 
