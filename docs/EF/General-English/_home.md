@@ -1,25 +1,10 @@
 vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5/?action=prev
 
-* Online unit
-* Online Group Class
-* Online Private Class
-* Face to Face
-* WorkShop
-* Apply Life Club
-
-
-
 [Level skill](General/level skill.md)
-
-
 
 2018.12.10
 
-
-
-
-
-
+# [Beginning Low](0_Beginner-Low.md)
 
 # General English 
 
@@ -30,42 +15,42 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 - [x] Unit 1 Letters and words
 - [x] Unit 2 Sounds
 - [x] Unit 3 Your classroom
-- [ ] Unit 4 Rhythm and emotion
-- [ ] Unit 5 Building sentences
-- [ ] Unit 6 Vital verbs
-- [ ] Unit 7 Joys
-- [ ] Uint 8 Making mistakes
-- [ ] Uint 9 The six sounds to master
-- [ ] Uint 10 Taking control
+- [x] Unit 4 Rhythm and emotion
+- [x] Unit 5 Building sentences
+- [x] Unit 6 Vital verbs
+- [x] Unit 7 Joys
+- [x] Uint 8 Making mistakes
+- [x] Uint 9 The six sounds to master
+- [x] Uint 10 Taking control
 
 ### Level 1
 
-- Unit 1 Greetings and Introductions
-- Unit 2 Office and school
-- Unit 3 Cities and countries
-- Unit 4 People
-- Unit 5 Shopping
-- Unit 6 Food
+- [x] Unit 1 Greetings and Introductions
+- [x] Unit 2 Office and school
+- [x] Unit 3 Cities and countries
+- [x] Unit 4 People
+- [x] Unit 5 Shopping
+- [x] Unit 6 Food
 
 ## Beginning High
 
 ### Level 2
 
-- Unit 1 Times and days
-- Unit 2 Weather and seasons 
-- Unit 3 Sports and activities
-- Unit 4 Health
-- Unit 5 Places and transportation
-- Unit 6 Home
+- [x] Unit 1 Times and days
+- [x] Unit 2 Weather and seasons 
+- [x] Unit 3 Sports and activities
+- [x] Unit 4 Health
+- [x] Unit 5 Places and transportation
+- [x] Unit 6 Home
 
 ### Level 3
 
-- Unit 1 Hobbies and interests
-- Unit 2 Locations and directions
-- Unit 3 Hotels
-- Unit 4 Holidays and celebrations
-- Unit 5 Money and buying
-- Unit 6 Jobs and companies
+- [x] Unit 1 Hobbies and interests
+- [x] Unit 2 Locations and directions
+- [x] Unit 3 Hotels
+- [x] Unit 4 Holidays and celebrations
+- [x] Unit 5 Money and buying
+- [x] Unit 6 Jobs and companies
 
 # Elementary
 
@@ -73,20 +58,19 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
 
 - [x] [Unit 1 Entertainment](/4-1_Entertainment.md) 
 - [x] [Unit 2 Describing people](4-2_Describing-people.md)
-
-* [Unit 3 The past](4-3_The-Past.md)
-* [Unit 4 Milestones](4-4_Milestones.md)
-* [Unit 5 Welcome](4-4_Welcome.md.md)
-* [Unit 6 Vacations](4-6_Vacations.md) 
+- [x] [Unit 3 The past](4-3_The-Past.md)
+- [x] [Unit 4 Milestones](4-4_Milestones.md)
+- [x] [Unit 5 Welcome](4-4_Welcome.md.md)
+- [x] [Unit 6 Vacations](4-6_Vacations.md) 
 
 ## Level 5
 
-* [Unit 1 Travel](5-1_Travel.md)
-* [Unit 2 Making decisions](5-2_Making-decisions.md)
-* Unit 3 Telling stories
-* Unit 4 Going to a restaurant
-* Unit 5 Movies
-* Unit 6 Clothes and outfits
+- [x] [Unit 1 Travel](5-1_Travel.md)
+- [x] [Unit 2 Making decisions](5-2_Making-decisions.md)
+- [x] Unit 3 Telling stories
+- [x] Unit 4 Going to a restaurant
+- [x] Unit 5 Movies
+- [x] Unit 6 Clothes and outfits
 
 ## Level 6
 
@@ -124,36 +108,36 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 3 Stages of life
   - Unit 4 Health and safety
   - Unit 5 Moving to a new city
-  - Unit 6 Polite behavior
+  - Unit 6 Social occasions
 
 # Upper Intermediate
 
 ## Level 10
 
-  - Unit 1 Meetings
-  - Unit 2 Dealing with change
-  - Unit 3 Personal finances
-  - Unit 4 Effective presentations
-  - Unit 5 Extreme sports
-  - Unit 6 Lifestyles
+  - [x] Unit 1 Meetings
+  - [x] Unit 2 Dealing with change
+  - [x] Unit 3 Finance
+  - [x] Unit 4 Effective presentations
+  - [x] Unit 5 Solving problems
+  - [x] Unit 6 Work and life
 
 ## Level 11
 
-  - Unit 1 Career paths
-  - Unit 2 Technology
-  - Unit 3 The power of the mind
-  - Unit 4 Performing arts
-  - Unit 5 Law
-  - Unit 6 What you read
+  - [x] Unit 1 Job Interviews
+  - [x] Unit 2 Technology
+  - [x] Unit 3 Traveling
+  - [ ] Unit 4 Socializing in business
+  - [ ] Unit 5 Law
+  - [ ] Unit 6 What you read
 
 ## Level 12
 
-  - Unit 1 Manners and etiquette
-  - Unit 2 Coporate culture
-  - Unit 3 Leadership
-  - Unit 4 English in our world 
-  - Unit 5 Awkward situations
-  - Unit 6 Politics
+  - [ ] Unit 1 Manners and etiquette
+  - [ ] Unit 2 Coporate culture
+  - [ ] Unit 3 Leadership
+  - [ ] Unit 4 Business communication
+  - [ ] Unit 5 Awkward situations
+  - [ ] Unit 6 Hotels
 
 # Advanced
 
@@ -194,4 +178,3 @@ vocabulary: https://www.memrise.com/course/1353480/total-english-ef-vocabulary/5
   - Unit 4 Financial planing
   - Unit 5 Dealing with stress
   - Unit 6 Doing research
-
