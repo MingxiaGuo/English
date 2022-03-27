@@ -1,15 +1,3 @@
-EF 语法： https://cns.ef-cdn.com/EtownResources/Grammar/EIndex.html
-
-语音实验室：
-
-单次卡
-
-翻译
-
-写作
-
-
-
 ## 语言
 
 * 词汇

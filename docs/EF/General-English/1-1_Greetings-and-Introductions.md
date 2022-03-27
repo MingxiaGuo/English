@@ -4,7 +4,7 @@
 
 * 1-1-1.  Introducing yourself 自我介绍
 * 1-1-2. Giving your name to some one 把您的名字告诉某人
-* 1-1-3. Exchanging phone numbers 交换电话号码
+* 1-1-3 Exchanging phone numbers
 * 1-1-4. Greetings 问候
 
 ---
@@ -15,7 +15,7 @@
 
 ##### i) saying hello for the first time
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/15/92/27/v/159227/GE_1.1.1.1.1_rw_poster_v2.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/92/22/v/159222/GE_1.1.1.1.1_rw_x.mp4" </video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/15/92/27/v/159227/GE_1.1.1.1.1_rw_poster_v2.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/15/92/22/v/159222/GE_1.1.1.1.1_rw_x.mp4" >
 
 
 

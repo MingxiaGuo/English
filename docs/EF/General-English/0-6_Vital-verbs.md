@@ -12,13 +12,9 @@ Word Mapping 单词映射图
 
 语义映射：网状图、树状图、韦恩图，学习同一单词不同形式
 
-单词映射图能将单词串联起来。
-
 fish，noodles，cold，hot，eat，vegetables，drink，water，buy，tea
 
-
-
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/02/v/516402/U6.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/02/v/516402/U6.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 #### 2 Writing 写作
 

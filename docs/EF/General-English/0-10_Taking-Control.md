@@ -14,9 +14,9 @@ Autonomous  learning 自主学习
 
 关于课堂学习策略的视频。观看视频。回答问题。
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/14/v/516414/U10.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/14/v/516414/U10.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-#### 2 Vocabulary
+#### <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/13/v/516413/U9.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 write， notes， dictionary， phone， app， online
 

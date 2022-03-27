@@ -8,11 +8,11 @@
 
 The importance of Mistakes 犯错的重要性
 
-学习语言主要需要练习，犯错也是练习之一，自己犯错能意识到很重要
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/16/v/516416/U7.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 关于课堂学习策略的视频。观看视频。回答问题。
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/17/v/516417/U8.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/17/v/516417/U8.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 #### 2 Vocabulary
 

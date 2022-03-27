@@ -11,7 +11,7 @@
 
 ### 1-2-1. Talking about your class
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/17/v/111217/GE_1.2.1_v3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/17/v/111217/GE_1.2.1_v3.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 > [CARLOS] Good morning.
 > [JOAN] Good morning, Carlos. How are you?
@@ -130,7 +130,7 @@ Ok, read your answer
 
 ##### ii) Possessive adjectives
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/25/v/119025/GE_1.2.2.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/90/25/v/119025/GE_1.2.2.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 > KEN:  Mmh?  Is this your notebook? 嗯？ 这是你的记事本吗? 
 > MICHELLE:  Nope, it isn't. 不，不是的。 
@@ -165,7 +165,7 @@ Use possessive adjectives to show who an object belongs to. There is always a no
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/11/83/04/v/118304/GE_1.2.2.4.1_poster.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/19/v/111219/GE_1.2.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/11/83/04/v/118304/GE_1.2.2.4.1_poster.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/19/v/111219/GE_1.2.2_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 > A: Sally, sally Alice?
 > B: Oh, hi, Todd.
@@ -210,7 +210,7 @@ Listen and record the correct response. When you see a blank, give true informat
 
 ### 1-2-3. Giving personal information
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/20/v/111220/GE_1.2.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/20/v/111220/GE_1.2.3_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 
@@ -253,7 +253,7 @@ You are at the doctor's office. Introduce yourself and give the appropriate pers
 
 Listen and record the correct response. When you see a blank, give true information about yourself.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/57/7/v/28577/VR_A.2.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/57/7/v/28577/VR_A.2.3.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 A: What's your name?
@@ -270,7 +270,7 @@ B: Thank you.
 
 ### 1-2-4. Describing your office
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/21/v/111221/GE_1.2.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-source"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/21/v/111221/GE_1.2.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 > A: So let me show you around.
 > B: okay

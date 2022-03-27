@@ -12,11 +12,11 @@
 
 关于课堂学习策略的视频。
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/63/99/v/516399/U5.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/63/99/v/516399/U5.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 #### 2 Expressions 表达
 
-team 团队， customers 客户， go (to) 前往，work (in) 工作，meet 见面，write，emails 电子邮件，meetings 会议
+
 
 #### 3 Grammar 语法
 

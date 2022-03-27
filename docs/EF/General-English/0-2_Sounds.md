@@ -2,12 +2,12 @@
 
 0-2 Sounds 发音
 
-* 0-1-1 Prepare for class 上课准备
-* 0-1-2 Review and practice 复习和练习
+* 0-2-1 Prepare for class 上课准备
+* 0-2-2 Review and practice 复习和练习
 
 ---
 
-### 0-1-1 Prepare for class
+### 0-2-1 Prepare for class
 
 #### 1 Listening: Multichoice Video/Audio
 
@@ -15,7 +15,7 @@
 
 Illustration Learning：图示学习法。声音+文字+图像
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/03/v/516403/U2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/03/v/516403/U2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 

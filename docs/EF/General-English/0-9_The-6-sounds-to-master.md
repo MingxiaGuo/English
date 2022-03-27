@@ -12,11 +12,11 @@ Reading for Fluency 为了流畅度的阅读
 
 /v/   /i/   th  /θ/  /s/   /i:/   th  /ð/
 
-beach sun mother think fish voice
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/17/v/516417/U8.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 关于课堂学习策略的视频。观看视频。回答问题。
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/13/v/516413/U9.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/13/v/516413/U9.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 #### 2 Pronunciation
 

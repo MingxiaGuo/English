@@ -8,7 +8,7 @@
 
 关于课堂学习策略的视频。Language in music 听音乐学语言
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/16/v/516416/U7.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/16/v/516416/U7.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 

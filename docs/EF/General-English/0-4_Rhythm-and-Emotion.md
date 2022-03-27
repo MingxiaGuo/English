@@ -14,15 +14,11 @@
 
 你可以在表达的时候投入一些感情， 用不同的节奏说话
 
-
-
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/01/v/516401/U4.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/01/v/516401/U4.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 #### 2 Vocabulary: Rhythm and Emotion
 
 good afternoon， good morning， good evening
-
-hello，good 好的，thank you， happy， angry 生气的，ok可以的
 
 How are you? 你好吗？
 

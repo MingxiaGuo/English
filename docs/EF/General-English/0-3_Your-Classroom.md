@@ -16,7 +16,7 @@
 
 跟同伴合作能让你有更多开口的机会
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/12/v/516412/U3.mp4" ></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/51/64/12/v/516412/U3.mp4" controls poster="" ></video>
 
 
 #### 2 Vocabulary: Your Classroom
