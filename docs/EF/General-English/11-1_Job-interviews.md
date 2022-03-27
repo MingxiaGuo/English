@@ -13,7 +13,7 @@
 
 Two managers are looking over cover letters they have received. Select the correct option.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/18/36/70/v/183670/MOB_11.1.1.1.1.mp4" ></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/18/36/70/v/183670/MOB_11.1.1.1.1.mp4" controls poster=""></video>
 
 ### a) Grammar: Expressing sequence
 
@@ -22,14 +22,10 @@ Two managers are looking over cover letters they have received. Select the corre
 **顺序词**
 
 * 使用顺序词 **afterward** 或 **subsequently** 表达继一系列事件或时间点之后。     
-
   * I got my engineering degree from Delft. **Afterward**, I began working for Smoot. 我从 Delft 获得工程师学位，之后开始为 Smoot 效力。
-
   * I graduated from high school in 2004. **Subsequently**, I moved to England to study at Oxford. 2004 年我高中毕业，后前往英国求学牛津。         
 * 使用 **following** 搭配宾语来表达继一系列事件或时间点之后。
-
   * **Following my promotion,** I designed the Northside Professional Center. 升职之后，我设计了 Northside Professional Center 中心。
-
   * **Following that**, I was recognized as Architect of the Year.在此之后，我被评为年度建筑师。
 * 使用 **previously** 表示在一事件之前。
   * I started here in May. **Previously**, I was working for a competitor. 我五月在此就职，此前在一家竞争公司上班。
@@ -68,9 +64,11 @@ She was just hired there. **Previously**, she worked at IXW.
 
 
 
-I received a bachelor's degree in accounting from Harvard. Following graduation, I worked at Crispo Inc. for three years. Subsequently, I moved to Primo Products. I was at Primo for two years. I am currently working at Baker's Brand.
+> I received a bachelor's degree in accounting from Harvard. Following graduation, I worked at Crispo Inc. for three years. Subsequently, I moved to Primo Products. I was at Primo for two years. I am currently working at Baker's Brand.
 
-```
+<details>
+<summary>**总视频**：Two managers are looking over cover letters they have received. Select the correct option. </summary>
+
 What are the two people doing?
 - reading cover letters Y
 - interviewing a new accountant
@@ -90,7 +88,7 @@ What are they going to do?
 - call Hopkins for an interview Y
 - offer Hopkins the position
 - take Hopkins to lunch at Wings
-```
+</details>
 
 ### b) Vocabulary: Career vocabualry
 
@@ -99,27 +97,24 @@ What are they going to do?
 **职业词汇**: 在谈论自己的职业时，你经常需要提到自己占据的职位。**Head** 是一个通用头衔，意为 **director** 或 **manager**。**Head** 可作名词、动词或形容词。作名词时，后接单词 **of**。 
 
 * 名词 He's the **head** of quality assurance. 他是质量保障部主管。
-
 * 动词 She **heads** the sales department. 她领导销售部。
-
 * 形容词 He's the **head** teacher.  他是带头教师。
 
 组织或团体中处于下级的是帮助 **managers** 和 **directors** 的人，比如 **assistants** 和 **associates**。**associate** 的等级通常高过 **assistant**。
 
 * **associate** managing editor   副总编辑
-
 * **assistant** sales director    助理销售主管
 
 以下单词在谈论职业时使用。注意它们的不同形式。  
 
-|      | **verb**   |            | **noun**       |            | **adjective** |                    |
-| ---- | ---------- | ---------- | -------------- | ---------- | ------------- | ------------------ |
-|      | accomplish | 完成；实现 | accomplishment | 完成；成绩 | accomplished  | 完成的；精通的     |
-|      | achieve    | 达到；实现 | achievement    | 达到；成就 |               |                    |
-|      |            |            | expertise      | 专门知识   | expert        | 熟练的，老练的     |
-|      | promote    | 使提升     | promotion      | 提升，晋升 |               |                    |
-|      | recognize  | 赏识，表彰 | recognition    | 赏识，表彰 | recognizable  | 可识别的；可认可的 |
-|      | deserve    | 应得，值得 |                |            | deserved      | 应得的             |
+| **verb**   |            | **noun**       |            | **adjective** |                    |
+| ---------- | ---------- | -------------- | ---------- | ------------- | ------------------ |
+| accomplish | 完成；实现 | accomplishment | 完成；成绩 | accomplished  | 完成的；精通的     |
+| achieve    | 达到；实现 | achievement    | 达到；成就 |               |                    |
+|            |            | expertise      | 专门知识   | expert        | 熟练的，老练的     |
+| promote    | 使提升     | promotion      | 提升，晋升 |               |                    |
+| recognize  | 赏识，表彰 | recognition    | 赏识，表彰 | recognizable  | 可识别的；可认可的 |
+| deserve    | 应得，值得 |                |            | deserved      | 应得的             |
 
 | My manager is _____ me. | It's a recent _____. | Lee is _____ teacher. |
 | ----------------------- | -------------------- | --------------------- |
@@ -160,16 +155,18 @@ What are they going to do?
 
 </div>
 
+
+
 ```
 Listen to two managers discussing candidates for an accounting job.Move the text to the correct categories.
 
-##### Martin Rice
+**Martin Rice**
 * Southern University
 * Atwell Accounting
 * accounts manager at IXW
 * master's degree in accounting
 
-##### Rose Jackson
+**Rose Jackson**
 * degree in business
 * director of accounting at Smoot
 * MBA at Manchester
@@ -317,7 +314,7 @@ Put the text in the correct order from the highest to the lowest.
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/19/34/77/v/193477/GE_11.1.2.2.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/19/25/49/v/192549/MOB_11.1.2.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/19/34/77/v/193477/GE_11.1.2.2.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/19/25/49/v/192549/MOB_11.1.2.3.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 - It's a real pleasure to meet you. 真的很高兴见到你。
 - Please call me Frank. 请叫我弗兰克。
@@ -595,7 +592,7 @@ B: Well, a big challenge was _____.
 
 ## 11-1-4 Closing a job interview
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/19/34/81/v/193481/GE_11.1.4.1.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/19/25/51/v/192551/MOB_11.1.4.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/19/34/81/v/193481/GE_11.1.4.1.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/19/25/51/v/192551/MOB_11.1.4.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
 ### a) Expression: 
 
