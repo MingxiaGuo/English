@@ -1,5 +1,6 @@
-## 11-4 Socializing in business
-<div style='background:#FFDFBF; border-radius: 20px; padding: 2px 10px; '>
+# 11-4 Socializing in business
+<div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
+
 
 * 11-4-1 Discussing a team-building activity
 * 11-4-2 Networking at an event
@@ -8,35 +9,36 @@
 </div>
 ---
 
-### 11-4-1 Discussing a team-building activity
+## 11-4-1 Discussing a team-building activity
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" controls poster="https://cns2.ef-cdn.com/Juno/19/34/33/v/193433/GE_11.4.1.1.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/18/52/17/v/185217/MOB_11.4.1.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-#### a) Expression: 
+### a) Expression: 
 
-##### i) Stating considerations
+#### i) Stating considerations
 
 - What can I do for you? 我能为你做些什么？
-- 
 
 <div style='background:FFDFBF; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **表达考虑**
 
 * 当你在计划一个团队建设的活动时，你一定要考虑到团队中不同类型人的需求。这些表达方式可以帮到你。
-  * **We have to take into account** people's schedules. 我们一定要考虑到人们的日程安排。
-  * **You have to consider that** some people have families. 你一定要考虑到有些人有家庭。| You have to consider that some people are married. 你一定要考虑到有些人结婚了。
-  * **We have to make allowances** **for** vegetarians. 我们一定要考虑到素食主义者的需求。| make allowances for 考虑
-  * **Let's not forget** that some people don't drink.让我们不要忘记有些人不喝酒。| Let's not forget that some people have families. 让我们别忘了有些人有家庭。
-  * **You have to remember that** personal time is very valuable.你一定要记住私人时间是很宝贵的。| You have to remember that some people don't drink. 你一定要记得有些人不喝酒。
-  * **We need to take into consideration** the diversity of the group. 我们需要考虑到团队的多元性。| take into consideration 考虑 | We need to take into consideration the schedule. 我们需要把日程安排考虑进来。
+  * 考虑 + 名词短语
+    * **We have to take into account** people's schedules. 我们一定要考虑到人们的日程安排。
+    * **We have to make allowances** **for** vegetarians. 我们一定要考虑到素食主义者的需求。| make allowances for 考虑
+    * **We need to take into consideration** the diversity of the group. 我们需要考虑到团队的多元性。| take into consideration 考虑 | We need to take into consideration the schedule. 我们需要把日程安排考虑进来。
+  * 考虑 + 句子
+    * **You have to consider that** some people have families. 你一定要考虑到有些人有家庭。| You have to consider that some people are married. 你一定要考虑到有些人结婚了。
+    * **Let's not forget that** some people don't drink.让我们不要忘记有些人不喝酒。| Let's not forget that some people have families. 让我们别忘了有些人有家庭。
+    * **You have to remember that** personal time is very valuable.你一定要记住私人时间是很宝贵的。| You have to remember that some people don't drink. 你一定要记得有些人不喝酒。
 * 注意**take into**是可以拆分的。
   * We have to **take** people's schedules **into account**. 我们一定要考虑到人们的日程安排。	
-  * We need to **take** the diversity of the group **into consideration.**我们要考虑到团队的多元性。
+  * We need to **take** the diversity of the group **into consideration.** 我们要考虑到团队的多元性。
 
 </div>
 
-##### ii) Making objections
+#### ii) Making objections
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -49,7 +51,8 @@
   * **I would have to object to** places that allow smoking. 我反对去允许吸烟的地方。｜I would have to object to a weekend activity. 我不得不反对周末的活动。
   * **I'm very uncomfortable with** activities with lots of alcohol. 我不喜欢带有大量喝酒的活动。| I'm very uncomfortable with that.    ｜He's uncomfortable with activities with alcohol. 他不喜欢需要饮酒的活动。
 * 反对后，最好提出另外的一个选择。
-  * **One thing you might consider is** a fun activity outside. 一个你可能考虑的事是有意思的户外活动。| That's one thing you might consider. ｜We might want to consider an outdoor activity. 我们可以考虑一下一个户外活动。
+  * **One thing you might consider is** a fun activity outside. 一个你可能考虑的事是有意思的户外活动。| That's one thing you might consider.
+  * **We might want to consider** an outdoor activity. 我们可以考虑一下一个户外活动。
   * **I recommend** an activity during work hours. 我提议一个在工作时间做的活动。
 
 </div>
@@ -58,8 +61,8 @@
 
 <details>
 <summary>**对话答题**：A manager and employee are discussing a team-building activity. Watch the video, and answer the questions.</summary>
-**What does the woman think about weekend activities?**
 
+**What does the woman think about weekend activities?**
 - She doesn't like weekend team building. Y
 - She would prefer Saturday instead of Sunday.
 - She likes the idea of doing weekend activities.
@@ -82,7 +85,7 @@
 </details>
 
 
-#### b) Final Task: Discussing team building
+### b) Final Task: Discussing team building
 
 You're a manager. Another manager approaches you about a team-building activity.  Listen and record the correct response.
 
@@ -107,15 +110,15 @@ B: You're welcome. Thanks for listening.<br/>
 
 
 
-### 11-4-2 Networking at an event
+## 11-4-2 Networking at an event
 
 Two people, Jack and Amani, are at a networking event. ]]Watch the video, and answer the questions.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/18/36/73/v/183673/MOB_11.4.2.1.4.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-#### a) Expression
+### a) Expression
 
-##### i) Networking
+#### i) Networking
 
 <div style='background:; border-radius: 20px; padding: 2px 2px; border: 2px solid #FF9900; '>
 
@@ -199,7 +202,7 @@ A: It certainly is.<br/>
 </pre>
 </details>
 
-##### ii) More networking
+#### ii) More networking
 
 <div style='background:; border-radius: 20px; padding: 2px 2px; border: 2px solid #FF9900; '>
 
@@ -257,7 +260,7 @@ Select the three things you hear.
 </details>
 
 
-#### b) Reading: Understanding business cards
+### b) Reading: Understanding business cards
 
 <div style='background:; border-radius: 20px; padding: 2px 2px; border: 2px solid #FF9900; '>
 
@@ -307,7 +310,7 @@ Select the three things you hear.
 - assistant
 </details>
 
-#### c) FInal Task: Networking event
+### c) FInal Task: Networking event
 
 You meet Jennifer Weld at a networking event. You're looking for a new job. Make small talk, look at her card and arrange a follow-up meeting with her. 
 
@@ -331,15 +334,15 @@ A: No, if you'll execuse me. I see a colleague I need to speak with.<br/>
 B: Of course. Enjoy the evening.<br/>
 </div>
 
-### 11-4-3 Meeting a client in a social setting
+## 11-4-3 Meeting a client in a social setting
 
 Watch the video and study the language.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/21/v/111221/GE_1.2.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
-#### a) Expression
+### a) Expression
 
-##### i) Expressing frustration
+#### i) Expressing frustration
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -363,7 +366,7 @@ Select the correct answer.
 </details>
 
 
-##### ii) Frustration and reassurance
+#### ii) Frustration and reassurance
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -404,7 +407,7 @@ Select the correct answer.
 - The deal he wants is very close.
 </details>
 
-#### b) Grammar: Past and present
+### b) Grammar: Past and present
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -440,7 +443,7 @@ I've gotten the runaoround last three days : **ongoing**
 
 
 
-#### c) Final Task: Meeting with a client
+### c) Final Task: Meeting with a client
 
 You and a client are out socializing. He's frustrated, so reassure him.  Listen and record the correct response.
 
@@ -463,11 +466,11 @@ B: Great. And let me assure you I'll straighten things out.<br>
 
 
 
-### 11-4-4 Summarizing an evening with a client
+## 11-4-4 Summarizing an evening with a client
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" controls  poster="https://cns2.ef-cdn.com/Juno/19/34/42/v/193442/GE_11.4.4.1.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/19/25/56/v/192556/MOB_11.4.4.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-#### a) Grammar: Reporting what people said
+### a) Grammar: Reporting what people said
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -499,7 +502,7 @@ B: Great. And let me assure you I'll straighten things out.<br>
 
  </div>
 
-#### b) Writing: Summarizing
+### b) Writing: Summarizing
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
@@ -569,7 +572,7 @@ Read the email summary, and answer the questions.
 
 **What did Craig ask Jack to do?**
 
-#### c) Final Task: Summarizing
+### c) Final Task: Summarizing
 
 Think about a business situation you have been in with an unhappy client, or make something up. Write a summary of the situation. What did the client say? What did you do?
 

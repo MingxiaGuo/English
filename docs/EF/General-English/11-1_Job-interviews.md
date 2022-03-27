@@ -1,22 +1,23 @@
-## 11-1 Job interviews
+# 11-1 Job interviews
 
-11-1-1 Writing a cover letter
+<div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
-11-1-2 Starting a job interview
+* 11-1-1 Writing a cover letter
+* 11-1-2 Starting a job interview
+* 11-1-3 Interviewing for a job
+* 11-1-4 Closing a job interview
+</div>
 
-11-1-3 Interviewing for a job
 
-11-1-4 Closing a job interview
-
----
-
-### 11-1-1 Writing a cover letter
+## 11-1-1 Writing a cover letter
 
 Two managers are looking over cover letters they have received. Select the correct option.
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/18/36/70/v/183670/MOB_11.1.1.1.1.mp4" ></video>
 
-#### a) Grammar: Expressing sequence
+### a) Grammar: Expressing sequence
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **顺序词**
 
@@ -25,21 +26,19 @@ Two managers are looking over cover letters they have received. Select the corre
   * I got my engineering degree from Delft. **Afterward**, I began working for Smoot. 我从 Delft 获得工程师学位，之后开始为 Smoot 效力。
 
   * I graduated from high school in 2004. **Subsequently**, I moved to England to study at Oxford. 2004 年我高中毕业，后前往英国求学牛津。         
-
 * 使用 **following** 搭配宾语来表达继一系列事件或时间点之后。
 
   * **Following my promotion,** I designed the Northside Professional Center. 升职之后，我设计了 Northside Professional Center 中心。
 
   * **Following that**, I was recognized as Architect of the Year.在此之后，我被评为年度建筑师。
-
 * 使用 **previously** 表示在一事件之前。
   * I started here in May. **Previously**, I was working for a competitor. 我五月在此就职，此前在一家竞争公司上班。
-
 * 使用 **prior to** + 宾语表达在一事件或时间之前发生的事情。
   * **Prior to my time managing HR**, I wrote training courses. 在做人力管理之前，我撰写培训课程。         
-
 * 使用**currently**这个词来告诉某人你现在在哪里工作。
   * I'm **currently** working at Dewey and Jasper Inc. 我现在在 Dewey 和 Jasper 公司上班。
+
+</div>
 
 **Following** my work at Jackson, I worked at Taylor Inc. = **After** I worked at Jackson, I worked at Taylor Inc.
 
@@ -93,7 +92,9 @@ What are they going to do?
 - take Hopkins to lunch at Wings
 ```
 
-#### b) Vocabulary: Career vocabualry
+### b) Vocabulary: Career vocabualry
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **职业词汇**: 在谈论自己的职业时，你经常需要提到自己占据的职位。**Head** 是一个通用头衔，意为 **director** 或 **manager**。**Head** 可作名词、动词或形容词。作名词时，后接单词 **of**。 
 
@@ -126,6 +127,8 @@ What are they going to do?
 | recognizing             | achievement          | the head              |
 |                         | promotion            | an expert             |
 
+</div>
+
 * My greatest **accomplishment**  was getting my doctorate.
 * Then I took a position as the head **of** risk management.
 * My **expertise** is in quality assurance.
@@ -133,11 +136,14 @@ What are they going to do?
 * I was the **head** teacher at Nalidge School for 10 years.
 * I was **recognized** for my hard work. I got a promotion.
 
-#### c) Expression: Education and experience
+### c) Expression: Education and experience
 
-- I **graduated with** an MS in accounting. 我以会计硕士学位毕业。
+* I **graduated with** an MS in accounting. 我以会计硕士学位毕业。
+
 - He has such **extensive experience**. 他有如此丰富的经验。
 - It's a **solid background in** accounting. 这是一个坚实的会计背景。
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **描述你的教育**: 你可以使用下列表达方式来写你的大学教育。注意每个表达方式搭配使用的介词。
 
@@ -151,6 +157,8 @@ What are they going to do?
 * I have a **solid background in** product development. 我在产品研发方面有扎实的背景。 [software development|design|math]. 她的数学很扎实
 * I have **extensive experience** **in** [managing big projects/management/programming]. 我在管理大项目方面有大量的经验。/他的管理经验很丰富。
 * I was **promoted to** director of sales in 2010. 2010年我被提升为销售总监。 vice president of sales
+
+</div>
 
 ```
 Listen to two managers discussing candidates for an accounting job.Move the text to the correct categories.
@@ -168,7 +176,9 @@ Listen to two managers discussing candidates for an accounting job.Move the text
 * Oxford University
 ```
 
-#### d) Reading: Cover letters
+### d) Reading: Cover letters
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **为工作面试写一封求职信**
 
@@ -194,7 +204,7 @@ I worked for three years at Martinique Systems. Afterward, I worked at Hall and 
 
 Details about my education and experience are in the attached resume. Thank you for considering me for this position. I look forward to hearing from you
 
-
+</div>
 
 You're going to read a cover letter.  Read the text, and answer the questions.
 
@@ -238,7 +248,7 @@ You're going to read a cover letter.  Read the text, and answer the questions.
 - Cristo Systems
 ```
 
-#### e) Final Task: Writing a cover letter
+### e) Final Task: Writing a cover letter
 
 You are applying for a position as a manager at a major company. Imagine you have extensive business qualifications and experience, and write your cover letter.
 
@@ -268,9 +278,11 @@ We take your privacy seriously. Please don’t share any personal information (r
 I graduated from the University of Southern California with a degree in finance. Subsequently, I received an MBA from Stanford University. After graduation, I was hired as a product manager at Hall Corp. Two years later, I was promoted to product director. I have extensive experience in management as product director. I am currently working at Hall Corp.
 ```
 
-### 11-1-2 Starting a job interview
+## 11-1-2 Starting a job interview
 
-#### a) Vocabulary: Job titles
+### a) Vocabulary: Job titles
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **头衔和职位**
 
@@ -286,11 +298,12 @@ I graduated from the University of Southern California with a degree in finance.
 很多头衔都有c在里面。**c**代表**chief**。**CEO**是公司里的最高级别。其他的c-头衔向**CEO**汇报，但是总的来说高于**vice presidents**。这些是最常见的头衔。
 
 * **chief executive officer (CEO)** 首席执行官(CEO)
-
 * **chief operations officer (COO)** 首席运营官(COO)
 * **chief financial officer (CFO)** 首席财务官(CFO)
 * **chief technology officer (CTO)** 首席技术官(CTO)
 * She's the COO. 她是首席运营官。 
+
+</div>
 
 Put the text in the correct order from the highest to the lowest.
 
@@ -300,7 +313,7 @@ Put the text in the correct order from the highest to the lowest.
 - senior manager
 - manager
 
-#### b) Expression: Beginning the interview
+### b) Expression: Beginning the interview
 
 Watch the video and study the language.
 
@@ -312,6 +325,8 @@ Watch the video and study the language.
 - How was your flight? 你的飞机行程怎么样？
 - How's the hotel? 宾馆怎么样？
 - Shall we begin? 我们开始好吗？
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **找到面试官**
 
@@ -344,8 +359,9 @@ Watch the video and study the language.
 面试官会示意该开始面试了。
 
 * A: Well, we only have an hour. Shall we begin? 好的，我们只有一个小时。我们开始好吗？
-
 * B: Sounds good.好的。
+
+</div>
 
 ```
 What is the interviewer's name?
@@ -371,7 +387,7 @@ What is the interviewer's name?
 - one hour
 ```
 
-#### c) Final Task: Starting an interview
+### c) Final Task: Starting an interview
 
 You're going to start an interview for a director position. You'll meet Ms. Betty Smith in her office in Miami. Listen and record the correct response.
 
@@ -392,9 +408,11 @@ C: I'm glad to hear that, well We only have an hour, Shall we begin
 B: Yes, that sounds great.
 ```
 
-### 11-1-3 Interviewing for a job
+## 11-1-3 Interviewing for a job
 
-#### a) Vocabulary: Adjectives: strengths and weaknesses
+### a) Vocabulary: Adjectives: strengths and weaknesses
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **优点和缺点的形容词**
 
@@ -443,6 +461,8 @@ Connect the synonyms. Connect the matching texts.
 - thick-skinned -- resilient
 - sensitive -- understanding
 
+</div>
+
 Group the adjectives based on whether they are positive or negative. Move the text to the correct category.
 
 | positive      | negative     |
@@ -459,9 +479,11 @@ Group the adjectives based on whether they are positive or negative. Move the te
 * The boss was angry with her at the meeting, but she's **thick-skinned/resilient**, so I know she'll be all right.
 * Murielle is actually too confident; in fact, she's **arrogant/cocky**.
 
-#### b) Expression
+### b) Expression
 
-##### i) Talking about your strengths and weaknesses
+#### i) Talking about your strengths and weaknesses
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **谈论你的优点**
 
@@ -485,7 +507,11 @@ Group the adjectives based on whether they are positive or negative. Move the te
 * My **technical knowledge was a bit weak**, so I started taking computer classes at night. 我的技术知识有点弱，因此我已经开始在晚上去上电脑课了。
 * My team told me that I **needed to be a better listener**. [They're helping me work on that, and I've improved a lot./I sometimes misunderstand people.]    我的团 告诉我说我需要做一个更好的倾听者。他们在帮助我改善这一点，并且我已经提高了很多。 
 
-##### ii) Interview questions
+</div>
+
+#### ii) Interview questions
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **一些常见的面试问题**
 
@@ -511,6 +537,8 @@ Group the adjectives based on whether they are positive or negative. Move the te
 - My greatest strength is my curiosity. 我的最大的优点是我的好奇心。/ I'm very proactive with technical problems. 我对技术问题很有主动性。I started taking software classes at night. 我在晚上开始上软件课了。
 - What is your greatest weakness? 你最大的缺点是什么？ what would you say is your greatest weakness
 - My technical knowledge is weak. / I've had problems with public speaking. 曾经我的演讲能力不行。
+
+</div>
 
 ```
 Listen to an interview for a director of engineering position at Smoot Inc. Select the correct option.
@@ -546,7 +574,7 @@ What did Harry learn from this challenge?
 - He needs to praise his team more.
 ```
 
-#### c) Final Task: Interviewing for a job
+### c) Final Task: Interviewing for a job
 
 You are interviewing to be a director. When you see a blank, give information about yourself. Listen, then record the correct reply.
 
@@ -565,18 +593,20 @@ A: Hmm ,interesting, now tell me about a challenge that you faced at work and wh
 B: Well, a big challenge was _____.
 ```
 
-#### 11-1-4 Closing a job interview
+## 11-1-4 Closing a job interview
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" poster="https://cns2.ef-cdn.com/Juno/19/34/81/v/193481/GE_11.1.4.1.1_POSTER.jpg" preload="none" src="https://cns2.ef-cdn.com/Juno/19/25/51/v/192551/MOB_11.1.4.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
-#### a) Expression: 
+### a) Expression: 
 
-##### i) Asking interview questions
+#### i) Asking interview questions
 
 - Do you have any questions for me? 你有问题要问我吗？
 - I do have a few, if you don't mind. 我的确有几个问题，如果您不介意的话。
 - the greatest challenge the team's facing 团队面对的最大的挑战
 - What's your experience been like? 您的经验是什么样的？
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **问面试官问题**
 
@@ -589,6 +619,8 @@ B: Well, a big challenge was _____.
 你可能想和你的面试官在私人层面上建立良好关系。不要太勉强，但是可以找出你的面试官对公司的印象如何。
 
 * How do you **feel** about working at IBX? 您在 IBX 工作感觉怎样？
+
+</div>
 
 ```
 Sally is asking some questions at the end of the interview. Select the correct option.
@@ -619,12 +651,14 @@ Sally is asking some questions at the end of the interview. Select the correct o
 - The deadlines are too challenging.
 ```
 
-##### ii) Ending an interview
+#### ii) Ending an interview
 
 - What sort of timeline can I expect? 我可以期待什么样的时间表呢？
 - let people know by the end of the week 这周结束前会通知大家
 - When are you available to start? 你什么时候能开始？
 - Thank you once again for coming in. 再次感谢你能过来。
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **结束一个工作面试**
 
@@ -641,7 +675,10 @@ Sally is asking some questions at the end of the interview. Select the correct o
 * Thank you for taking the time to interview me. I hope to talk to you again soon. 感谢您抽时间来面试我。我希望我们会很快再通话。
 
 * Oh, and could I have one of your business cards 哦，我能要一张您的名片吗？
+
 * When do you think a decision will be made? 您认为什么时候决定会定下来呢？
+
+</div>
 
  ```
  **Is she still interested in the position?**
@@ -657,7 +694,7 @@ Sally is asking some questions at the end of the interview. Select the correct o
  - on Thursday morning
  ```
 
-#### b) Final Task: Closing a job interview
+### b) Final Task: Closing a job interview
 
 You're going to end your interview with Betty Smith.
 
