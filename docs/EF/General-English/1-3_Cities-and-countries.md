@@ -558,3 +558,20 @@ D: They are similar to Americans but nicer!
 K: That’s not true!
 ```
 
+
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/the-world-1.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/the-world-2.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/north-america.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/south-america.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/europe.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/africa-and-middle-east.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/asia.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/countries-and-nationalities.png)

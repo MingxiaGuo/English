@@ -92,18 +92,15 @@ Water
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Countable and uncountable nouns 可数和不可数名词**： Some nouns can be counted, and others cannot. Nouns that you can count (for example, **apples** or **hamburgers**) are called countable nouns. Nouns that you can't count (for example, rice or water) are uncountable nouns.
-
 * Use the articles **a** and **an** for singular, countable nouns.
   * a hamburger  = one hamburger (… two hamburgers, three  hamburgers)｜He wants **a** hamburger.
   * an apple  = one apple (… two apples, three apples)  ｜ She wants **an** apple.
   * I want **a**/**an** carrot/hamburger/apple
 * Use **some** with plural, countable nouns of a non-specific number.
-
   * **some** hamburgers
 * **some** carrots   ｜Do you want **some** carrots? 
   * I want **some** water/carrots/rice/french fries/beef
 * Also use **some** before uncountable nouns like **rice, water or beef.** 
-
   * **some** rice   ｜Do you want **some** rice?
   * **some** water 
   * **some** beef  ｜I want **some** beef.
@@ -223,20 +220,20 @@ FRANK:  Cucumber, some cheese.  Tomatoes, some lettuce.  A bottle of water and a
 | cooked   chicken |      |
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **Food groups** 食物分组：You can talk about food groups – categories of food. Look at the food groups and some of the foods they contain. Language note: Tomatoes are scientifically categorized as a fruit, but often considered a vegetable.
 
-* Fruits：apples；bananas；oranges, kiwi🥝, mangoes🥭, Mangosteen , pineapple, pear, peach, watermelon， strawberry；passion fruit ；grape；lemon；lime；cantaloupes🍈；tangerines🍊；graperfruit
-* nuts：raisins；prunes；dates
-* Vegetables：tomatoes；carrots；potatoes, lettuce🥬， cauliflower，broccoli🥦；cabbage；celery；corn；sweet potato🍠；asparagus；yams；artichokes；peas；eggplants🍆；zucchini🎃；radishes；beets；sweet peppers🫑；chili  peppers🌶️；parsley ；spinach；cucumbers🥒；squash；scallions；turnips；string beans；mushrooms🍄；onions🧅；garlic🧄
-* Dairy products乳制品：cheese；milk；yogurt酸奶；butter🧈；；；；
-* Meat：beef；mutton；steak；stewing beef；ground beef；pork chops；liver；tripe；bacon 🥓；sausages;  ham；beef ribs；lamb chops🐑；leg of lamb；lamb shanks；veal cutlets
-* Poultry and eggs： chicken；turkey🦃️；duck；eggs；chicken wings；chicken thighs🍗；chicken drumsticks
-* Grains谷物：bread；pasta通心粉🍝；rice；noodles
-* seafood: 
-
+* **Fruits**：apples；bananas；oranges, kiwi🥝, mangoes🥭, Mangosteen , pineapple, pear, peach, watermelon， strawberry；passion fruit ；grape；lemon；lime；cantaloupes🍈；tangerines🍊；graperfruit
+* **nuts**：raisins；prunes；dates
+* **Vegetables**：tomatoes；carrots；potatoes, lettuce🥬， cauliflower，broccoli🥦；cabbage；celery；corn；sweet potato🍠；asparagus；yams；artichokes；peas；eggplants🍆；zucchini🎃；radishes；beets；sweet peppers🫑；chili  peppers🌶️；parsley ；spinach；cucumbers🥒；squash；scallions；turnips；string beans；mushrooms🍄；onions🧅；garlic🧄
+* **Dairy products**乳制品：cheese；milk；yogurt酸奶；butter🧈；；；；
+* **Meat**：beef；mutton；steak；stewing beef；ground beef；pork chops；liver；tripe；bacon 🥓；sausages;  ham；beef ribs；lamb chops🐑；leg of lamb；lamb shanks；veal cutlets
+* **Poultry and eggs**： chicken；turkey🦃️；duck；eggs；chicken wings；chicken thighs🍗；chicken drumsticks
+* **Grains**谷物：bread；pasta通心粉🍝；rice；noodles
+* **seafood**: 
   * fish：salmon；halibut；haddock；flounder；catfish；trout；whle salmon；fresh fish；fronzen fish；filet of sole
   * shellfish：crabs🦀️；lobster🦞；shrimp🦐；scallops 扇贝；oysters🦪；mussels贻贝；clams 蛤蚌；；；；
-* Deli熟食：salami :salami:；roast beef；corned beef；American  cheese；chedder  cheese；Swiss chesse；jack cheese；ham；sausage；salmon steak；potato salad；pasta salad；cole slaw；pastrami
+* **Deli**熟食：salami :salami:；roast beef；corned beef；American  cheese；chedder  cheese；Swiss chesse；jack cheese；ham；sausage；salmon steak；potato salad；pasta salad；cole slaw；pastrami
 
 </div>
 
@@ -254,7 +251,8 @@ Carrots and potatoes are vegetables.
 
 #### ii) Ways of cooking food
 
-* 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 * fry: You can **fry** sausages in a **frying pan**.
 * barbecure: You **barbecue** meat and fish on a **barbecue**.
 * grill: You **grill** toast or meat under a **grill**.
@@ -264,29 +262,24 @@ Carrots and potatoes are vegetables.
 * stir-fry用旺火炒
 * Food which is not cooked is **raw**.
 
+</div>
+
 #### iii) Preparing and cooking food
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 * Recipe
-
 * **break** 3 eggs；beat well；**grease** the pan；**pour** the  eggs into the pan；**stir**；cook until  done
-
 * **peel** the  carots/potatoes and boil them
-
 * when they're boiling, **chop** an onion；**saute** the onion；**steam** the  broccoli；**grate** the  cheese
-
 * **Fry** the onion before **adding** some chopped tomatoes
-
 * **cut up** the chicken；**peel** the carots；**slice** the carrots；**boil** the chicken 
-
 * **mix** the  **ingredients**；**bake** at 350   for 45 minutes
-
 * Then **stir** it all for a few minutes
-
 * **add** the vegetables
-
 * **simmer** for   1hour
 
-  
+</div>
 
 ### b) Grammar: Imperatives
 
@@ -360,7 +353,9 @@ desserts, drinks, orange juice, sandwiches, tea, soups, salads, chocolate cake; 
 ### b) Expressions: Describing food
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **Taste adjectives 描述味道的形容词**
+
 
 * **What does it taste like?**
 
@@ -430,7 +425,6 @@ B: Good! I'm hungry, too.
 ```
 
 ```
-
 LINDA: What do you want? How about a salad?
 BILL: Mmm, no. I don't want a salad. I want a hamburger. It's my favorite food.
 LINDA: OK … I want chicken and rice.
@@ -444,14 +438,14 @@ LINDA: Yes, thanks
 ```
 
 ````
-FRANK:  I like chicken.  I don't really like beef.  But my wife Mary doesn't like chicken, so we usually eat beef.  I really like vegetables like carrots, onions, potatoes, peas ....  Mary doesn't like vegetables. 我喜欢吃鸡肉  。 我不是很喜欢牛肉。 但是我妻子Mary不喜欢吃鸡肉  ，所以我们通常吃牛肉。 我很喜欢吃蔬菜  ，如胡萝卜，洋葱 ，土豆，豌豆... Mary不喜欢吃蔬菜  。 
-•FRANK:  She likes meat .... and cake .... and cookies ....  Oh the beef!  Um, hello?  Yes, hello.  Is this the Mayfair Restaurant? 她喜欢吃肉...还有蛋糕...还有曲奇... 哦，牛肉 ！ 嗯，你好？ 你好。 请问是梅菲尔餐厅吗？ 
-•FRANK:  Yeah I'd like to make an order. 我想叫外卖了
+FRANK:  I like chicken.  I don't really like beef.  But my wife Mary doesn't like chicken, so we usually eat beef.  I really like vegetables like carrots, onions, potatoes, peas ....  Mary doesn't like vegetables. 
+FRANK:  She likes meat .... and cake .... and cookies ....  Oh the beef!  Um, hello?  Yes, hello.  Is this the Mayfair Restaurant? 
+FRANK:  Yeah I'd like to make an order. 我想叫外卖了
 ````
 
 ```
-FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much.  How much is that? 一些水... 一碗色拉... 嗯，是的。 非常 谢谢你。 多少钱？ 
-•FRANK:  Mm hmm.  Here you are ....  Some beef and vegetables.  Ah yes .... some bread and butter. 嗯。 给你钱。   牛肉和蔬菜。 是的...一些面 包和黄油。
+FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much.  How much is that? 
+FRANK:  Mm hmm.  Here you are ....  Some beef and vegetables.  Ah yes .... some bread and butter.
 ```
 
 ### a) Grammar: Counters
@@ -462,13 +456,13 @@ FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much. 
 
 * Countable nouns have a plural form. You can count them. For example: **hamburger – hamburgers.** 
   * We want **two** hamburgers.              
-* Uncountable nouns do not have a plural form. You cannot count them. For example: **rice, water.**
+* Uncountable nouns do not have a plural form. You cannot count them. For example: **rice, water**
   * She has **some rice.**                          
   * We want **some water.**    
 * Use counters to state amounts for uncountable nouns. A counter can be a bag, a bottle, a bowl or any other object that holds food. 
   * a bag of ..一包...:| Give me **two bags of** potato chips, please.   | a bag of apples
   * a bottle of  ...一瓶...:| I want **a bottle of** water. | a bottle of beer
-  * a bowl of...一碗...: | There are **three bowls of** rice. | a bowl of soup
+  * a bowl of...一碗...: | There are **three bowls of** rice. | a bowl of soup / salad
   * a piece of ...一块...: | Please give me **a piece of c**ake. | a piece of pizza | a piece of carrot cake 
   * a glass of ...:一杯...: | We want **four glasses of** water.  | a glass of juice
   * a cup of  ...一杯...: | They have **three cups of** tea.  | a cup of coffee
@@ -506,22 +500,6 @@ What is it?
 
 </div>
 
-> WAITER: Hi. Can I help you?
-> CUSTOMER: Yes. I'd like a piece of cake.
-> WAITER: Anything else?
-> CUSTOMER: A cup of coffee, please.
-> WAITER: Would you like some milk for your coffee?
-> CUSTOMER: Yes, please.
-
----
-
-> Can I help you 
-> Yes, I'd like a roast beef sandwich.
-> Would you like a drink?
-> Yes - a glass of water, please.
-> Anything else?
-> No, thanks.
-
 ### c) Final Task: Ordering take-out food
 
 You are buying lunch at a delicatessen. Listen and record the correct response. When you see a blank, give true information about yourself.
@@ -530,9 +508,11 @@ You are buying lunch at a delicatessen. Listen and record the correct response. 
 
 ```
 A: hello, Can I help you? 
-B: Yes, I'd like a roast beef sandwich.
-A: Okay, there you go. would you like drink?
-B: Yes - a cup of coffee, please.
+B: Yes, I'd like a roast beef sandwich. / I'd like a piece of cake.
+A: Okay, there you go. would you like a drink?
+B: Yes - a cup of coffee/ a glass of water, please.
+A: Would you like some milk for your coffee?
+B: Yes, please.
 A: Here you are. Anything else?
 B: A bag of potato chips, please.
 A: Ok, anything else, some dessert?
@@ -560,3 +540,26 @@ A: Thanks
 
 
 
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/fruits.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/vegetables.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/meat-seafood.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/drink.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/deli.png)
+
+
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/grocery.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/food-preparation.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/container.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/unit-of-measure.png)
+
+
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/kitchen-utensils.png)

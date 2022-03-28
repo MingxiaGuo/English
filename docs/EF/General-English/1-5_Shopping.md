@@ -9,8 +9,6 @@
 * 1-5-4 Talking about where you shop
 </div>
 
-
-
 ### shopping for food
 
 Can I help you, sir?
@@ -100,7 +98,6 @@ LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 **Demonstrative adjectives 指示形容词**
 
 * Use the demonstrative adjectives **this, that, these** and **those** to identify things around you.
-
   * Use **this** and **these** for things that are near you. Use **this** for a single object and **these** for two or more objects.
     * **this** shirt      | **This** shirt here is beautiful/nice, but it's expensive.                    
     * **these** shirts   | **These** shoes here are nice.
@@ -134,25 +131,15 @@ LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 **Asking for opinions 征求意见**
 
 * Use the phrases **what about** and **how about** to ask someone's opinion about something.
-
   * A: **What about** this dress?｜What about these pants?
-
     B: It's beautiful.｜They're too short.
-
   * A: **How about** those shoes?｜How about this dress?
-
     B: They're ugly!｜I really like it.
-
 * You can also use **What do you think**? to ask someone's opinion.
-
   * A**: What do you think?**   
-
     B: I think it's nice.   
-
 * 一般疑问句
-
   * A：**Do you like** that skirt in the window?
-
     B：No, I don't. It's ugly.
 
 </div>
@@ -345,23 +332,14 @@ Watch the video and study the language.
 Asking for and giving prices 询问价格和出价
 
 * Use the phrase **how much** to ask for prices. The verb **cost** refers to a price. Use **it's** or **it costs** to give a price.
-
   * A: **How much** is this?
-
     B: **It's** $36.89.
-
   * A: **How much** do they cost?  
-
     B: They cost $86.45.    
-
 * Use the word **dollars** for a price in American currency when there are only paper bills, no coins.
-
   * $14.00 – fourteen **dollars**
-
   * $98 – ninety-eight **dollars**
-
 * There are two ways to give a price in **dollars** when it has **cents** – a long way and a short way. In the long way, people say the words dollars and cents. Most people use the short way.
-
   * **Long way** 完整的表达
     * $14.65 – fourteen **dollars** and sixty-five **cents**
   * **Short way** 简短的表达
@@ -421,46 +399,28 @@ It's $75.65.
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Reading a clothing label 看衣服上的标签**： Three important things to know about clothing are size, material and origin.
-
 * **Size**
-
   * On many labels, there will be a large letter – for example, **S** for **small**.
-
     * small (S)   small
-
     * medium (M)  medium
-
     * large (L)   large
-
   * Use the question form **what size** to ask for a size.
-
     * A: What size is it? What size is it?
-
       B: It's a medium.   It's a medium.
-
 * Material 材料
-
   * The most common materials are listed below. These fabrics often have a percentage sign next to them when they are a blend of different fabrics.
     * 50% **cotton**  50% 棉质
     * 25% **wool**    25% 羊毛
     * 25% **polyester**   25% 聚酯纤维
-
   * Use the phrase **made of** to talk about a fabric.
-
     * A: What's it **made of**?   
-
       B: It's **made of c**otton.
-
 * Origin 原产地
-
   * Look for the phrase **made in** to see where clothing was made.
     * **Made in** China   
     * **Made in** Italy   
-
   * Use the question **Where's it from**? to ask where something came from.
-
     * A: **Where's it from?** 
-
       B: It's from Germany.   
 
 </div>
@@ -598,15 +558,11 @@ online store, shoe store, clothing store,
 
 * **This, that, these and those** can be used with nouns or without nouns.
 * How about **these**? =How about **these shoes?**
-  
 * I like **those**.=I like **those pants.**
 * When **this** and **that** are used without a noun, they are sometimes followed by the word **one**.
-
   * I like **this one.**                            I like this one.
-
   * **That one** is too expensive.  That one is too expensive.
 * **That** is often used to give an opinion about a situation or event.
-
   * **That's** too bad.                             
   * **That's** great!
   * **That's** stupid!  
@@ -653,19 +609,15 @@ I want shoes, but **these** are really expensive.
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Adverbs副词**： Adverbs are words that give extra information about verbs and adjectives. There are several kinds of adverbs.
-
 * **Adverbs of frequency 频率副词**；**Always** and **never** are adverbs of frequency. They tell you how often something happens. These adverbs come after the verb be in a sentence but in front of all other verbs.
   * Their prices **are never** cheap.   Their prices are never cheap.
   * Department stores **always have** sales.    Department stores always have sales.
 * **Intensifiers弹性副词**： Some adverbs, such as **really** and **very**, make an adjective or verb stronger. Use **really** in front of an adjective or a verb. Use **very** only in front of an adjective.
-
   * **'Really' + verb**
     * I **really** like shopping in the mall! I really like shopping in the mall!
-
   * **'Really' and 'very' + adjective**
     * Small shops are **really** expensive.   Small shops are really expensive.
     * Small shops are **very** expensive. Small shops are very expensive.
-
   * **'So' + adjective**
     * Another way to make an adjective stronger is to add the adverb **so** before it.
     * This shirt is **so** cool!  This shirt is so cool!
@@ -751,3 +703,19 @@ EMMA:  I remember now the scene where he kind of falls into the Cheerios, do you
 
 KATE:  T -shirt, sweatshirt, no, no, no, no. Hmm, Jeans. OK.  Shoes!  I think. boots!  Now, the accessories.  •Oh! T恤衫，运动衫  ，不，不，不，不...嗯，牛仔裤...好的。 鞋子！ 我想...靴子！ 现在，配件。 哦！ •KATE:  I love those earrings and that belt.  Wow, Emma.  You look nice!  Nineties, well I don't know if. Does he really act anymore? •我喜欢 这副耳环 和那条腰带 。 喔，Emma。 你看起来很好！ 90，嗯，我不知道 是否...他还在演吗？ •EMMA:  I'm not sure.  He was really funny though.  He was like the underdog, you know, all the time in the movies and he never got the girl but then in the end he kind of sometimes got the girl and sometimes not, I'm not sure, but he was really cute.•我不确定。 不管怎样他真有趣。 他就像失败者，你知道 的，在电视里，任何时候他都无 法得到女孩子，但是到最后 ，他有时能得到女孩，有时不能，我不确定，但是他真的很可爱。
 ```
+
+
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/clothing.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/outwear.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/sleepwear-and-underwear.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/exercise-clothing-and-footwear.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/jewelry.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/describing-clothing.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/clothing-problem.png)

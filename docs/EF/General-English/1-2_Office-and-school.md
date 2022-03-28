@@ -417,3 +417,32 @@ LOST AND FOUND GUY:  A red notebook and a phone ....  No.  Sorry.  This is your 
 
 
 
+![](./assets/classroom.png)
+
+![](./assets/classroom-2.png)
+
+![](./assets/classroom-actions.png)
+
+![](./assets/classrooom-actions-2.png)
+
+![](./assets/numbers.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/types-of-schools.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/school.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/school-subjects.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/math.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/measurement.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/english-language-writing.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/literature.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/geography.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/science.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/universe.png)

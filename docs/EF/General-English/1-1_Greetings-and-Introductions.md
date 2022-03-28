@@ -619,7 +619,7 @@ B: Thank you
 
 
 
-
+![](./assets/personal-information.png)
 
 ![everyday-conversation](../../assets/EF_1-1_everyday-conversation.PNG)
 

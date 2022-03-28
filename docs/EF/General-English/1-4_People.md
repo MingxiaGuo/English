@@ -505,16 +505,10 @@ Watch the video and study the language.
 宾格
 
 * Use object pronouns after prepositions such as **in, from, to, for** and **with**.
-
   * I have a question **for him**.     
-
   * She is very friendly **to me.**
-
-
 * Use the preposition **with** when describing the relationship of one thing to another
   * John is **with** **them**.                   
-
-
 * Look at the chart to see all of the object pronouns.
 
 | Subject pronouns主格 | Object pronouns宾格 |                                                  |
@@ -563,24 +557,16 @@ I always go to Beijing with them.
 **Describing personality 描述性格**
 
 * Use the questions below to ask about someone's personality.
-
   * A: **What's she/he like**? 她看起来怎么样？
-
     B: She's hardworking.
-
   * A: **What are they like**?              
-
     B: They're friendly.
-
   * A: Is she tall or short?
-
     B: She has long, black hair.
-
 * Adjectives 形容词： There are different ways to describe someone's personality. For example, you can use adjectives.
   * He's **lazy**.           
   * She's **friendly**.          hardworking              
   * They're **funny**.  
-
 * Adverbs副词：You can also use adverbs to describe personality. Use the adverb **always** to describe a behavior that happens all the time. Use the **adverb** never to describe a behavior that happens none of the time.
   * She **never** smiles.  ｜  She's never busy.     
   * They're **always** busy.｜He **always** looks unhappy.    
@@ -649,6 +635,7 @@ firefighter, sales assistant, engineer, doctor, teacher, secretary, artist, arch
 ### b) Grammar: Simple present questions
 
 <div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **一般现在时疑问句**
 
 To form yes-no questions in the simple present, put the word **do** before **I**, **you**, **we** and **they**. Put **does** before **he**, **she** and **it**. Put the verb after the pronoun. Look at the chart to see examples of questions.
@@ -937,3 +924,11 @@ makeup remover
 ```
 
 ### 
+
+![](./assets/family-1.png)
+
+![](./assets/family-2.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/body.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/body-2.png)
