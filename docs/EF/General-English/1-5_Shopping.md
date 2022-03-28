@@ -1,8 +1,8 @@
-## Unit 5 Shopping
+# Unit 5 Shopping
 
 <div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
-1-5 Shopping
 
+1-5 Shopping
 * 1-5-1 Trying on clothes in s store
 * 1-5-2 Describing what someone is wearing
 * 1-5-3 Talking to a sales clerk
@@ -10,7 +10,6 @@
 </div>
 
 
----
 
 ### shopping for food
 
@@ -40,7 +39,7 @@ A small one.
 | total           |                               |
 | change          |                               |
 
-### 1-5-1 Trying on clothes in a store
+## 1-5-1 Trying on clothes in a store
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
@@ -55,29 +54,38 @@ A small one.
 [SALES ASSISTANT] How about these shoes?
 ```
 
-#### a) Vocabulary: Clothes
+### a) Vocabulary: Clothes
 
- a skirt, a pair of socks, a dress, a jacket, a pair of jeans, a pair of pants, a shirt, a pair of shoes, a T-shirt
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
+衣服 a skirt, a pair of socks, a dress, a jacket, a pair of jeans, a pair of pants, a shirt, a pair of shoes, a T-shirt
+
+鞋子：
+
+配饰：
+
+Sleepwear睡衣: pajamas
 
 **Clothes – singular and plural 衣服-单数和复数**
 
 * Some words for clothes are always plural, even though they refer to a single object.
-  * pants 裤子
-  * jeans 牛仔裤
-
+  * pants 裤子 👖
+  * jeans 牛仔裤 👖
 * When clothing comes as a pair, it is usually plural.
-  * socks 袜子
-  * shoes
-
+  * socks 袜子 🧦
+  * shoes 🥿
 * When you talk about **pants**, **jeans**, **socks** and **shoes**, you can use the counter **a pair of.**
-  * I have **a** new **pair of** pants.
-
+  * I have **a** new **pair of** pants/shoes/socks/jeans.
 * Culture note: In British English, **pants** 内裤means **underwear**. In the United Kingdom, people say **trousers**.
   * trousers 长裤
 
-#### b) Grammar: Demonstartive adjectives
+</div>
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/4/v/19914/0a.7%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+​			 				 	
+
+### b) Grammar: Demonstartive adjectives
+
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/91/4/v/19914/0a.7%20Scene%201.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 
 
@@ -86,6 +94,8 @@ A small one.
 LAURA:  Hmm.  This shirt.  And ....  How about these pants?  No. 不怎么样。 
 LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 ```
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Demonstrative adjectives 指示形容词**
 
@@ -98,15 +108,15 @@ LAURA:  A skirt.  How about ....  This dress!  No. 不好看
   * Use **that** and **those** for things that are not near you. Use **that** for a single object and **those** for two or more objects.
     * **that** shirt       | **That** shirt over there is really expensive.
     * **those** shirts  | **Those** pants in the window are great!
-
 * **'Here' and 'there'**：Demonstrative adjectives are often used with the location words **here** and **there**. Here is used with this and these to indicate something near the speaker. **There** is used with **that** and **those** to indicate something not near the speaker. You can also say **over here** o**r over there** for emphasis.
   * I like **this** dress **over here**.   |I really like **that** shirt **over there**.
   * I really like **that** shirt **there**. |I like the color of **that** sweater **there**.
   * I really like **those** shoes over there.  
-
 * Intensifier: 'too' + adjective**强调成分：'too' + 形容词**： Use the word **too** with an adjective to indicate too much of something.
   * This dress is **too** big.  |This shirt is **too** big for me.
   * These pants are **too** small.  
+
+</div>
 
 > JOHN: I like this shop. Hey, how's  **this** jacket?
 > STELLA: It's nice, and I like the color.
@@ -117,7 +127,9 @@ LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 > JOHN: Nah. I don't think so. They're too big!
 > STELLA: Oh, well. Let's go back to work.
 
-#### c) Expressions: Asking for opinions
+### c) Expressions: Asking for opinions
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Asking for opinions 征求意见**
 
@@ -143,6 +155,8 @@ LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 
     B：No, I don't. It's ugly.
 
+</div>
+
 > BRIAN: What **about** this T-shirt?
 > SHARON: It's too big.
 > BRIAN: **How** about these jeans?
@@ -152,7 +166,7 @@ LAURA:  A skirt.  How about ....  This dress!  No. 不好看
 > BRIAN: It's beautiful.
 > SHARON: I really **like it** , too.
 
-#### d) Final Task: Trying on clothes in a store
+### d) Final Task: Trying on clothes in a store
 
 You are in a clothing shop looking at clothes with a friend. Answer her questions about the clothing she shows you, then ask her questions about the clothing you see.
 
@@ -182,7 +196,7 @@ B: I really like it, too.
 [SHARON]: I really like it , too.
 ```
 
-### 1-5-2 Describing what someone is wearing
+## 1-5-2 Describing what someone is wearing
 
 Watch the video and study the language.
 
@@ -194,11 +208,13 @@ MICHELLE:  It's too long!  How about .... my new pants?  And ....  My pink T-shi
 LAURA:  I know .... white pants!  Or .... green T shirt?  OK .... blue jeans?  No .... the shirt!  And .... my red shoes! 我知道。。。白色的裤子！ 或者...绿色的T恤？ 好的...蓝色牛仔裤  ？ 不是的...是衬衫！ 还有...我的红鞋子！
 ```
 
-#### a) Vocabulary: color
+### a) Vocabulary: color
 
 black, yellow, green, blue, white, purple, pink, brown, red
 
-#### b) Grammar: Present continuous
+### b) Grammar: Present continuous
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **The present continuous** 现在进行时
 
@@ -221,6 +237,8 @@ Use the present continuous for actions that are happening now. Form the present 
 | ---------------------------------------------------------- | -------------------------------------- |
 | **You are** going home. 您要回家了。                       | **Where are you** going?    您去哪？   |
 | **She is** wearing a blue dress.    她身穿一条蓝色连衣裙。 | **What is she** wearing?    她穿什么？ |
+
+</div>
 
 where are they going?
 
@@ -253,7 +271,7 @@ Are you walking on Green Street? 您正漫步在格林街吗
 
 No, I'm not. 不。
 
-#### c) Final Task: Describing what someone is wearing
+### c) Final Task: Describing what someone is wearing
 
 新同事 Kevin 刚到你所在的城市。因为你要去接他，所以他打电话给你。告诉他你在 Green Street 街上，问他长什么样，穿的什么衣服。
 
@@ -299,7 +317,7 @@ LAURA:  Hi! 嗨！
 •MICHELLE:  Let's go. 我们出发吧 
 ```
 
-### 1-5-3 Talking to a sales clerk
+## 1-5-3 Talking to a sales clerk
 
 Watch the video and study the language.
 
@@ -320,7 +338,9 @@ Watch the video and study the language.
 [SIMON] okay.
 ```
 
-#### a) Expressions: Asking for and giving prices
+### a) Expressions: Asking for and giving prices
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 Asking for and giving prices 询问价格和出价
 
@@ -344,11 +364,11 @@ Asking for and giving prices 询问价格和出价
 
   * **Long way** 完整的表达
     * $14.65 – fourteen **dollars** and sixty-five **cents**
-
   * **Short way** 简短的表达
     * $14.65 – fourteen sixty-five
-
   * Cultural note: In the UK, the currency used is **pounds** and **pence**.
+
+</div>
 
 --
 
@@ -396,7 +416,9 @@ It's seventy-five dollars and sixty-five cents.
 
 It's $75.65.
 
-#### b) Reading: Reading a clothing label
+### b) Reading: Reading a clothing label
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Reading a clothing label 看衣服上的标签**： Three important things to know about clothing are size, material and origin.
 
@@ -440,6 +462,8 @@ It's $75.65.
     * A: **Where's it from?** 
 
       B: It's from Germany.   
+
+</div>
 
 - - How much does it cost?
   - It's $45.99.
@@ -494,7 +518,7 @@ What's it made of?
 
 It's 50 percent cotton and 50 percent polyester.
 
-#### c) Final Task: Talking to a salesclerk
+### c) Final Task: Talking to a salesclerk
 
 You are in a department store and are looking for a wool sweater. Your friend told you that Australian wool is the best. You talk with a salesclerk.
 
@@ -539,9 +563,9 @@ A jacket? How about those that one over there?
 I want shoes, but these this are really expensive.
 ```
 
-### 1-5-4 Talking about where you shop
+## 1-5-4 Talking about where you shop
 
-#### a) Vocabulary: kinds of stores
+### a) Vocabulary: kinds of stores
 
 online store, shoe store, clothing store,
 
@@ -551,9 +575,9 @@ online store, shoe store, clothing store,
 | shop             | a building or part of a building where you can buy goods or services, often used interchangeably with 'store' | a shoe shop           | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/GE_1.5.4.1.1_mall.jpg" alt="GE_1.5.4.1.1_mall" style="zoom:25%;" /> |
 | department store | a large shop/store that is divided into several parts, each part selling a different type of goods |                       | <img src="/Users/gmx/Documents/Workspace/English/docs/EF/General-English/assets/GE_1.5.4.1.1_department_store.jpg" alt="GE_1.5.4.1.1_department_store" style="zoom:25%;" /> |
 
-#### b) Grammar
+### b) Grammar
 
-##### i) Demonstratives
+#### i) Demonstratives
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/24/v/111224/GE_1.5.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
@@ -568,27 +592,26 @@ online store, shoe store, clothing store,
 [SALES ASSISTANT] How about these shoes?
 ```
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **指示代词**：**'This,' 'that,' 'these' and 'those'**
 
 * **This, that, these and those** can be used with nouns or without nouns.
-
-  * How about **these**? =How about **these shoes?**
-
-  * I like **those**.=I like **those pants.**
-
+* How about **these**? =How about **these shoes?**
+  
+* I like **those**.=I like **those pants.**
 * When **this** and **that** are used without a noun, they are sometimes followed by the word **one**.
 
   * I like **this one.**                            I like this one.
 
   * **That one** is too expensive.  That one is too expensive.
-
 * **That** is often used to give an opinion about a situation or event.
 
   * **That's** too bad.                             
-
   * **That's** great!
-
   * **That's** stupid!  
+
+</div>
 
 SALLY: Hey, how about **this** ? It's from Australia. 100% wool.
 TROY: No, it's too expensive. I like **this one** .
@@ -610,7 +633,7 @@ A jacket? How about  **that** one over there?
 
 I want shoes, but **these** are really expensive.
 
-##### ii) Adverbs
+#### ii) Adverbs
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/26/v/111226/GE_1.5.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
 
@@ -627,12 +650,13 @@ I want shoes, but **these** are really expensive.
 [KELLY] Excuse me. Can we have the bill, please?
 ```
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **Adverbs副词**： Adverbs are words that give extra information about verbs and adjectives. There are several kinds of adverbs.
 
 * **Adverbs of frequency 频率副词**；**Always** and **never** are adverbs of frequency. They tell you how often something happens. These adverbs come after the verb be in a sentence but in front of all other verbs.
   * Their prices **are never** cheap.   Their prices are never cheap.
   * Department stores **always have** sales.    Department stores always have sales.
-
 * **Intensifiers弹性副词**： Some adverbs, such as **really** and **very**, make an adjective or verb stronger. Use **really** in front of an adjective or a verb. Use **very** only in front of an adjective.
 
   * **'Really' + verb**
@@ -645,12 +669,13 @@ I want shoes, but **these** are really expensive.
   * **'So' + adjective**
     * Another way to make an adjective stronger is to add the adverb **so** before it.
     * This shirt is **so** cool!  This shirt is so cool!
-
 * **Location adverbs 方位副词**：Use adverbs like **here** and **there** to give a location. Remember that **here** means something is near the speaker, and **there** means something is not near the speaker. The word **over** is sometimes used with **here** and **there** for emphasis.
   * The bicycle store is **there**. The bicycle store is there.
   * The computer store is **here**. The computer store is here.
   * The clothing store is **over there**.   The clothing store is over there.
   * Come **over here**. Come over here.
+
+</div>
 
 The bicycle store is over **there** .
 
@@ -688,7 +713,7 @@ That store has beautiful clothes.
 
 The department store is always busy.
 
-#### c) Final Task: Talking about shopping
+### c) Final Task: Talking about shopping
 
 You're shopping with a friend. When you see a blank, give your personal information. Listen carefully and then record the correct answer.
 

@@ -1,4 +1,4 @@
-## 1-4 People
+# 1-4 People
 
 <div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
@@ -7,121 +7,10 @@
 * 1-4-2. Asking for a description of someone
 * 1-4-3. Describing a colleague
 * 1-4-4. Meeting people at a networking event
-</div>
+  </div>
+  	
 
-
-----
-
-Personal Identification and people
-
-
-
-
-
-navel	
-waist	
-abdomen	
-
-thigh	
-buttocks	
-
-cheek	
-
-teeth	
-	eyelash	
-hair	
-back	
-
-cerebrum	
-
-cerebellum	
-lung	
-heart	
-stomach	
-large intestine	
-
-small intestine	
-kidney	
-liver	
-bladder	
-
-
-hand	
-wrist	
-elbow	
-belly-button	
-
-ankle	
-
-
-
-inside and outside the bod	
-personal hygiene	
-	take a shower
-	take a bath
-	use deodorant
-	put on sunscreen
-	shower cap
-	shower gel
-	soap
-	bath powder
-	
-
-```
-deodorant
-perfume
-sunscreen
-sunblock
-body lotion
-wash hair
-rinse hair
-comb hair
-dry hair
-brush hair
-shampoo
-conditioner
-hair spray
-comb
-brush
-pick
-hair gel
-curling iron
-blow dryer
-hair clip
-barrette
-bobby pins
-brush teeth
-floss teeth
-gargle
-shave
-toothbrush
-toothpaste
-dental floss
-mouthwash
-electric shaver
-razor
-razor blade
-shaving cream
-aftershave
-cut nails
-polish nails
-put on
-take off
-nail clipper
-emery board
-nail polish
-eyebrow pencil
-eye shadow
-eyeliner
-blush
-lipstick
-mascara
-foundation
-face powder
-makeup remover
-```
-
-### 1-4-1 Talking about families
+## 1-4-1 Talking about families
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/15/v/111215/GE_1.4.1_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""><div pseudo="-webkit-media-controls" class="sizing-small phase-pre-ready state-no-metadata"><br class="Apple-interchange-newline"><div pseudo="-webkit-media-controls-overlay-enclosure"></div><div pseudo="-webkit-media-controls-enclosure"></div></div></video>
 
@@ -138,21 +27,38 @@ makeup remover
 [TODD] But, I have Silas, Sarah and my wife, Angela.
 ```
 
-#### a) Vocabulary
+### a) Vocabulary
 
-##### i) Review: numbers
+#### i) Review: numbers
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Numbers with '-ty' and '-teen'**
 
 Some numbers in English sound very similar. These are the **-ty** and **-teen** numbers, like **eighty** (80) and **eighteen** (18). Notice how the first syllable is stressed in the **-ty** numbers, whereas the syllables are evenly stressed in the **-teen** numbers.
+</div>
 
-##### ii) Family
+#### ii) Family
 
-family, father, mother, sister, brother, aunt, uncle, grandfather, grandmother
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
-#### b) Grammar
+family
+* couple: husband, wife
+* Parents: father, mother, 
+* children: daughter, son, baby
+* sibling: sister, brother, fraternal twins异卵双胞胎，
+* grandparents: grandfather, grandmother
+* grandchildren: granddaughter, grandson
+* close relatives: uncle, aunt, niece, nephew, cousin
+* distant relatives: mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law 
+</div>
 
-##### i) Simple present statements
+
+### b) Grammar
+
+#### i) Simple present statements
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 * **一般现在时陈述句**： Use the simple present to state facts and habits. Look at the chart to see how the simple present is formed. Use the verb **+ s** after **he**, **she** and **it**.
 | **Statements** 陈述句 |                |            |
@@ -182,6 +88,7 @@ family, father, mother, sister, brother, aunt, uncle, grandfather, grandmother
 |      | *She **has** two sisters.*           | She has two sisters.           |
 |      | *She **doesn't have any** brothers.* | She doesn't have any brothers. |
 
+</div>
 
 They
 
@@ -305,7 +212,8 @@ My uncle has a big family.
 
 They come from Japan.
 
-##### ii) Questions with 'how many'
+#### ii) Questions with 'how many'
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **用'how many'提问的问句：** 
 
@@ -322,9 +230,9 @@ They come from Japan.
 * Notice that some nouns, like the word **people**, are irregular plurals and **don't** end in **s**.
   * How many **people** are there?  There are six **people**. 
   * How many **people** live here?
+  </div>
 
-
-#### c) Final Task: Talking about families
+### c) Final Task: Talking about families
 
 A friend is talking about her family.
 
@@ -351,9 +259,9 @@ B: we're from__
 I live with John Harrison. He and I are friends. John is from the United Kingdom. He is 25 years old. He's tall and has brown hair and eyes. John is very intelligent and hardworking . He is very friendly . He always smiles.
 ```
 
-### 1-4-2. Asking for a description of someone
+## 1-4-2. Asking for a description of someone
 
-#### a) Vocabulary: 
+### a) Vocabulary: 
 
 Watch the video and study the language.
 
@@ -370,11 +278,11 @@ Watch the video and study the language.
 [JAMES]:  Uh?  Ken?  Ken? 
 ```
 
-##### i) Head and face
+#### i) Head and face
 
 Head, eye, war, nose, hair, face, mouth
 
-##### ii) Hair and eye color
+#### ii) Hair and eye color
 
 She had black hair
 
@@ -394,7 +302,7 @@ She has blue eyes.
 
 They have brown hair.
 
-#### b) Expressions: Asking what someone looks like
+### b) Expressions: Asking what someone looks like
 
 Watch the video and study the language.
 
@@ -503,7 +411,7 @@ Is she tall or short?
 
 She's very tall.
 
-#### c) Final Task: Asking for a description of someone
+### c) Final Task: Asking for a description of someone
 
 Listen to your friend describing her new boyfriend. Find out what he looks like.
 
@@ -550,7 +458,7 @@ PAUL:  Long, dark hair.  I like long, dark hair. 长黑发 。 我喜欢长黑�
 •JAMES:  Well you're not tall. 但是你也不高
 ```
 
-### 1-4-3. Describing a colleague
+## 1-4-3. Describing a colleague
 
 Watch the video and study the language.
 
@@ -573,7 +481,9 @@ Watch the video and study the language.
 [TODD] She’s a really good manager.
 ```
 
-#### a) Vocabulary: Adjectives for describing colleagues
+### a) Vocabulary: Adjectives for describing colleagues
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Antonyms反义词**
 
@@ -588,9 +498,10 @@ Watch the video and study the language.
   * happy – unhappy
   * friendly – unfriendly
   * friendly – unfriendly
+  </div>
 
-#### b) Grammar: object pronouns
-
+### b) Grammar: object pronouns
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 宾格
 
 * Use object pronouns after prepositions such as **in, from, to, for** and **with**.
@@ -616,7 +527,8 @@ Watch the video and study the language.
 | we                   | us                  | My grandmother lives **with us.**                |
 | they                 | them                | John is **with them.**                           |
 
- We have a question for him.
+</div>
+We have a question for him.
 
 
 His brother lives with us.
@@ -645,7 +557,8 @@ Seven people live in it.
 
 I always go to Beijing with them.
 
-#### c) Expressions: Describing personality
+### c) Expressions: Describing personality
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Describing personality 描述性格**
 
@@ -673,6 +586,8 @@ I always go to Beijing with them.
   * They're **always** busy.｜He **always** looks unhappy.    
   * They're **very** hardworking.   
 
+</div>
+
 ```
 I live with John Harrison. He and I are friends. John is from the United Kingdom. He is 25 years old. He's tall and has brown hair and eyes. John is very intelligent and hardworking. He is very friendly. He always smiles.
 
@@ -682,7 +597,7 @@ What does John look like?
 What is John like?  He's hardworking and intelligent.
 ```
 
-#### d) Final Task: Describing a colleague
+### d) Final Task: Describing a colleague
 
 Describe a female friend to a colleague. When you see a blank, give true information.
 
@@ -701,7 +616,7 @@ A: Is she funny or serous?
 B: She's _____.
 ```
 
-### 1-4-4. Meeting people at a networking event
+## 1-4-4. Meeting people at a networking event
 
 Watch the video and study the language.
 
@@ -718,21 +633,22 @@ Watch the video and study the language.
 [MICHELLE] What do you do? Do you like your job?
 
 FRANK:  What do we do?  Well. 我们做什么工作？ 嗯... 
-•MARY:  I'm a teacher. 我是一个老师。 
-•FRANK:  And I'm an engineer. 我呢是一个工程师。 
-•MARY:  I work in a school. 我在一所学校工作。 
-•FRANK:  And I work in an office. 我在办公室工作。 
-•MARY:  There are twenty five students in my class. 我们班有25个学生。 
-•FRANK:  There are fifteen engineers in my company. 我们公司有15个工程师。 
-•MARY:  I like my job. 我喜欢我的工作。 •FRANK:  Me too. 我也是
+MARY:  I'm a teacher. 我是一个老师。 
+FRANK:  And I'm an engineer. 我呢是一个工程师。 
+MARY:  I work in a school. 我在一所学校工作。 
+FRANK:  And I work in an office. 我在办公室工作。 
+MARY:  There are twenty five students in my class. 我们班有25个学生。 
+FRANK:  There are fifteen engineers in my company. 我们公司有15个工程师。 
+MARY:  I like my job. 我喜欢我的工作。 •FRANK:  Me too. 我也是
 ```
 
-#### a) Vocabulary: Jobs
+### a) Vocabulary: Jobs
 
-firefighter, sales assistant, engineer, doctor, teacher, secretary, artist, architect, manager
+firefighter, sales assistant, engineer, doctor, teacher, secretary, artist, architect, manager, chefs
 
-#### b) Grammar: Simple present questions
+### b) Grammar: Simple present questions
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 **一般现在时疑问句**
 
 To form yes-no questions in the simple present, put the word **do** before **I**, **you**, **we** and **they**. Put **does** before **he**, **she** and **it**. Put the verb after the pronoun. Look at the chart to see examples of questions.
@@ -755,6 +671,7 @@ To form simple present questions with question words, put the question word befo
 | How many sisters          | do            | you have? |
 | Where                     | do            | you work? |
 
+</div>
 Does she work in an office?
 
 Do  they live in Korea? Do you live in Paris?
@@ -791,17 +708,18 @@ How many brothers/sisters does you have?
   
   No, he doesn't.
 
-#### c) Expressions: Networking
+### c) Expressions: Networking
 
 Watch the video and study the language.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/90/0/v/19900/0a.5%20Scene%203.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/90/0/v/19900/0a.5%20Scene%203.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [LAURA] : So.. What do you do?
 [Ken]: What do I do, umm I‘m a firefighter. How about you? What do you do
 [LAURA] : So what do I do? I'm a doctor.
 ```
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Networking联谊**： At networking events, it's important to try to meet as many people as possible in a short amount of time, so the conversations may be very fast. People want to find out quickly what others do, where they work and where they live to see if they have enough in common to have a longer conversation.
 
@@ -829,6 +747,7 @@ Watch the video and study the language.
 | That's interesting. | I see.          | That's too bad. |
 | Really?             | Uh-huh. Uh-huh. |                 |
 | That's great!       | Oh.             |                 |
+</div>
 
 ```
 ANN: Hi! I'm Ann.
@@ -847,7 +766,7 @@ ANN: He's an artist.
 HARRY: That's interesting .
 ```
 
-#### d) Final Task: Meeting people at a networking event
+### d) Final Task: Meeting people at a networking event
 
 You are at a business conference. Introduce yourself. 
 
@@ -909,81 +828,112 @@ LAURA:  He's twenty three years old.  My brother's a student.  He lives in Paris
 
 
 
+The Family
+
+Parts of the body
+
+: https://www.vocabulary.cl/Basic/Body_Parts.htm
+
 ![](../../assets/parts-of-the-body.jpg)
 
-### The Face
-
-- eye, nose, mouth, ear, cheek, chin, nostril, eyebrow, eyelid, eyelash, lips.
-
-**Mouth** - you use your mouth to talk, to eat and to breathe.
-
-**Nose** - You can smell things with your nose. You can also breathe through your nose.
-
-**Nostrils** - these are the two holes in your nose
-
-### The Arm and Hand
-
-- finger, palm, wrist, forearm, elbow, upper arm, shoulder, thumb
-
-### The Hand and Fingers
-
-See the photo of the parts of the hand below
-
-1. hand
-2. thumb
-3. index finger
-4. middle finger
-5. ring finger
-6. little finger (*informal:* pinky finger)
-7. nail
-8. knuckle
-
-![](../assets/hand-parts-fingers.jpg)
-
-### The Leg and Foot
-
-- knee, leg, shin, calf (muscle), ankle, heel, foot, toe
-
-**ankle** - the joint between your leg and your foot.
+![](../../assets/hand-parts-fingers.jpg)
 
 
 
-### Internal Parts of the Body
-
-**heart** - your heart pumps your blood around your body.
-
-**lungs** - when you breathe, the air goes into your lungs.
-
-**veins** - these transport blood through your body. They are like little tubes.
-
-**brain** - this is your 'thinking machine' inside your head.
-
-**throat** - food goes down this to get to your stomach.
-
-**liver** - the organ that cleans your blood.
-
-**stomach** - your food goes here when you swallow it.
-
-**kidneys** - the organs that process all your body waste.
-
-**skeleton** - all of the bones in your body.
-
-**ribs** - these are the bones that protect the organs in your chest.
-
-**bones** - your skeleton consists of many bones. There are about 206 in your body.
-
-**skin** - it covers almost the entire body and helps keep all the organs and muscles in place.
 
 
+Personal Identification and people
 
-### Other Parts of the Body
+navel	
+waist	
+abdomen	
 
-Here is a list of some other parts of the body that have not been included above. We will take some more photos of these when we find some more volunteers.
+thigh	
+buttocks		
 
-- face - hair - tongue - tooth - back - waist - muscles
+teeth	
+	eyelash	
+hair	
+back	
 
-**neck** - this connects your head with your shoulders and the rest of your body.
+cerebrum	
 
-**tongue** - the muscle at the bottom of your mouth that tastes things and helps you pronounce words
+cerebellum	
+lung	
+heart	
+stomach	
+large intestine	
 
-**wrinkles** - the lines in your skin caused by age. Old people have a lot of wrinkles.
+small intestine	
+kidney	
+liver	
+bladder				
+belly-button	
+
+​	
+
+
+
+inside and outside the bod	
+personal hygiene	
+	take a shower
+	take a bath
+	use deodorant
+	put on sunscreen
+	shower cap
+	shower gel
+	soap
+	bath powder
+	
+
+```
+deodorant
+perfume
+sunscreen
+sunblock
+body lotion
+wash/rinse/comb/dry/brush hair
+shampoo
+conditioner
+hair spray
+comb
+brush
+pick
+hair gel
+curling iron
+blow dryer
+hair clip
+barrette
+bobby pins
+brush teeth
+floss teeth
+gargle
+shave
+toothbrush
+toothpaste
+dental floss
+mouthwash
+electric shaver
+razor
+razor blade
+shaving cream
+aftershave
+cut nails
+polish nails
+put on
+take off
+nail clipper
+emery board
+nail polish
+eyebrow pencil
+eye shadow
+eyeliner
+blush
+lipstick
+mascara
+foundation
+face powder
+makeup remover
+```
+
+### 

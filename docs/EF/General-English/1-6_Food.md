@@ -9,9 +9,6 @@
 * 1-6-4. Ording take-out food
 </div>
 
-
-----
-
 ## **Discussion Questions**
 
 - What is your favorite vegetable?
@@ -43,6 +40,8 @@
 
 ### a) Vocabulary: Common foods
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 Cheese, pasta, fried chicken, french fries, ice cream, rice, salad, hamburger, pizza
 
 sandwich, wine, tuna, tea, soy sauce, chips, beer, eggs, onions, Sugar
@@ -51,33 +50,29 @@ coffee, Bread, pasta, Spaghetti, red wine, soup, strawberry cake, tea, chocolate
 
 Water
 
+</div>
+
 ### b) Expressions: Expressing wants and favorites
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **Expressing what you want 表达您的欲望**
-
 * Use **want + noun** to say that somebody wants something. Remember to add s to want after **he, she or it.**
-
   * I **want** a **hamburger**. 
-
   * She **wants** some **ice cream**.  
-
   * They **want dessert**.  
-
   * They don't **want coffee**. 
-
 * Use questions like the ones below to ask what somebody wants. 
-
   * What do you **want**?   
-
   * Do you **want** some **water**?  Yes, I do
-
   * Does he **want** a **salad**?   
 
 **Expressing favorites  表达喜好**： Use the adjective **favorite** to talk about the things you like best, including food.
-
 * What's your **favorite** food?  
 * Pizza's my **favorite** food. | My favorite food is rice.
 * His **favorite** is chocolate.  
+
+</div>
 
 ---
 
@@ -93,6 +88,8 @@ Water
 > LINDA: Yes, **thanks** .
 
 ### c) Grammar: Countable and uncountable nouns
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Countable and uncountable nouns 可数和不可数名词**： Some nouns can be counted, and others cannot. Nouns that you can count (for example, **apples** or **hamburgers**) are called countable nouns. Nouns that you can't count (for example, rice or water) are uncountable nouns.
 
@@ -111,6 +108,8 @@ Water
   * **some** water 
   * **some** beef  ｜I want **some** beef.
 
+</div>
+
 Countable: strawberries, chocolate cake, hamburger, sandwich
 
 Uncountable: spaghetti, coffee, soup, ice cream
@@ -127,7 +126,7 @@ You are having lunch with a friend. Listen and record the correct response. When
 
 
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/58/2/v/28582/VR_A.8.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/58/2/v/28582/VR_A.8.3.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 A: This chicken is good. how's the beef?
@@ -201,15 +200,47 @@ FRANK:  Cucumber, some cheese.  Tomatoes, some lettuce.  A bottle of water and a
 [KELLY] Hi! I love your place.
 ```
 
-### a) Vocabulary: Food groups
+### a) Vocabulary: 
 
+#### i）Food groups
+
+| white bread    |      |
+| -------------- | ---- |
+| wheat bread    |      |
+| rye bread      |      |
+| smoked  turkey |      |
+
+| not ripe |      |
+| -------- | ---- |
+| ripe     |      |
+| rotten   |      |
+
+|                  |      |
+| ---------------- | ---- |
+| breasts          |      |
+| gizzards         |      |
+| raw chicken      |      |
+| cooked   chicken |      |
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 **Food groups** 食物分组：You can talk about food groups – categories of food. Look at the food groups and some of the foods they contain. Language note: Tomatoes are scientifically categorized as a fruit, but often considered a vegetable.
 
-* Fruits：apples；bananas；oranges
-* Vegetables：tomatoes；carrots；potatoes
-* Dairy products乳制品：cheese；milk；yogurt酸奶；butter黄油
-* Meat, fish and eggs肉，鱼和鸡蛋：beef；chicken；fish；eggs
-* Grains谷物：bread；pasta通心粉；rice；noodles
+* Fruits：apples；bananas；oranges, kiwi🥝, mangoes🥭, Mangosteen , pineapple, pear, peach, watermelon， strawberry；passion fruit ；grape；lemon；lime；cantaloupes🍈；tangerines🍊；graperfruit
+* nuts：raisins；prunes；dates
+* Vegetables：tomatoes；carrots；potatoes, lettuce🥬， cauliflower，broccoli🥦；cabbage；celery；corn；sweet potato🍠；asparagus；yams；artichokes；peas；eggplants🍆；zucchini🎃；radishes；beets；sweet peppers🫑；chili  peppers🌶️；parsley ；spinach；cucumbers🥒；squash；scallions；turnips；string beans；mushrooms🍄；onions🧅；garlic🧄
+* Dairy products乳制品：cheese；milk；yogurt酸奶；butter🧈；；；；
+* Meat：beef；mutton；steak；stewing beef；ground beef；pork chops；liver；tripe；bacon 🥓；sausages;  ham；beef ribs；lamb chops🐑；leg of lamb；lamb shanks；veal cutlets
+* Poultry and eggs： chicken；turkey🦃️；duck；eggs；chicken wings；chicken thighs🍗；chicken drumsticks
+* Grains谷物：bread；pasta通心粉🍝；rice；noodles
+* seafood: 
+
+  * fish：salmon；halibut；haddock；flounder；catfish；trout；whle salmon；fresh fish；fronzen fish；filet of sole
+  * shellfish：crabs🦀️；lobster🦞；shrimp🦐；scallops 扇贝；oysters🦪；mussels贻贝；clams 蛤蚌；；；；
+* Deli熟食：salami :salami:；roast beef；corned beef；American  cheese；chedder  cheese；Swiss chesse；jack cheese；ham；sausage；salmon steak；potato salad；pasta salad；cole slaw；pastrami
+
+</div>
+
+
 
 An apple is a fruit.
 
@@ -221,27 +252,61 @@ Chicken and beef are meats.
 
 Carrots and potatoes are vegetables.
 
+#### ii) Ways of cooking food
+
+* 
+* fry: You can **fry** sausages in a **frying pan**.
+* barbecure: You **barbecue** meat and fish on a **barbecue**.
+* grill: You **grill** toast or meat under a **grill**.
+* roast: You **roast** meat [using oil] in the **oven**.
+* boil: You **boil** potatoes or rice in a **saucepan**.
+* Bake: You also **bake** cakes [without oil] in the oven.
+* stir-fry用旺火炒
+* Food which is not cooked is **raw**.
+
+#### iii) Preparing and cooking food
+
+* Recipe
+
+* **break** 3 eggs；beat well；**grease** the pan；**pour** the  eggs into the pan；**stir**；cook until  done
+
+* **peel** the  carots/potatoes and boil them
+
+* when they're boiling, **chop** an onion；**saute** the onion；**steam** the  broccoli；**grate** the  cheese
+
+* **Fry** the onion before **adding** some chopped tomatoes
+
+* **cut up** the chicken；**peel** the carots；**slice** the carrots；**boil** the chicken 
+
+* **mix** the  **ingredients**；**bake** at 350   for 45 minutes
+
+* Then **stir** it all for a few minutes
+
+* **add** the vegetables
+
+* **simmer** for   1hour
+
+  
+
 ### b) Grammar: Imperatives
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Imperatives 祈使句**
 
 * Use the imperative form of a verb to give commands or make requests. The imperative form is the same as the base form of a verb.
-
   * **Cut** the vegetables.   切青菜            
-
   * **Slice** the bread.  把面包切片。 
-
   * **Give** me the vegetables. 请给我青菜。|**Give** me an apple, please.
-
   * **Pass** me the knife.  把刀递给我。|**Pass me** the cheese, please.
-
 * Use **don't** in front of an imperative to give a negative command. In writing, you can use an exclamation point ( ! ) to make your statement stronger.
   * **Don't cut** the vegetables too small. 请不要把青菜切得太小。|**Don't** cut the fruit.
   * **Don't be** lazy!  别偷懒
-
 * Use **please** to make imperatives more polite. **Please** can come at the beginning or end of an imperative sentence. Put a comma **(,)** before **please** if you use it at the end of a sentence.
   * **Please give** me the cheese.  请把芝士给我。 |Please **slice** the bread.      
   * Help me, **please**.  请帮帮我。|Give me the milk, **please** .
+
+</div>
 
 ### c) Final Task: Preparing a meal with friends
 
@@ -290,37 +355,36 @@ You are about to make a pizza. Your friend offers to help. Answer her questions,
 
 ### a) Vocabulary: Lunch
 
-desserts, drinks, orange juice, sandwiches, tea, soups, salads, chocolate cake
+desserts, drinks, orange juice, sandwiches, tea, soups, salads, chocolate cake; pie
 
 ### b) Expressions: Describing food
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 **Taste adjectives 描述味道的形容词**
 
+* **What does it taste like?**
+
 * Foods have many different tastes. Learn some adjectives to describe the food you eat.
-
   * Lemons are **sour**.   |Some fruits are sour.
-
   * The fries are very **salty**.  | French fries are usually **salty** .|
-
   * I love **sweet** desserts. | I like the chocolate cake. It's so **sweet** .|I like very sweet tea.
-
-  * It's really **spicy**!  |Some Chinese food is very spicy!
-
+  * It's really **spicy**!  |Some Chinese food is very spicy!| Indian food is a bit too spicy for me.
   * The salad is **fresh**. 
-
+  * we usally use  **bitter** to describe coffee that is strong and has a sharp unpleasant taste (*opp* **smooth**). Strong, dark chocolate can also be described as bitter, but this is not always negative.
 * You can use nationality adjectives to talk about types of food.
-
   * I don't like **Italian** food. 
-
   * My favorite food is **Japanese**.   
-
+* I don’t like the **taste** of too much garlic.
+* You get ice cream in different **flavours** 
 * Use generic adjectives to say if the food is good or not.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Very good非常好 | The restaurant has **delicious** food. 那家餐馆的食物很美味  <br/>The food tastes **really good**..食物的味道很棒 |
+| Very good非常好 | The restaurant has **delicious** food. 那家餐馆的食物很美味  <br/>The food tastes **really good**..食物的味道很棒<br/>Michel's food is very **tasty** |
 | Average一般     | My salad is **OK**. 我的色拉不错<br>This sandwich **isn't bad** 这三明治不错 |
-| Not good 不好   | The soup tastes **bad**. 这汤水很难喝     <br/>My salad is **awful** 我的色拉很难吃. |
+| Not good 不好   | The soup tastes **bad**. 这汤水很难喝     <br/>My salad is **awful** 我的色拉很难吃.<br/>Lena said her pasta was **horrible**, but I thought it was delicious<br/>I tried the soup and it **tasted** a bit strange. |
+
+</div>
 
 * The food in this restaurant is great. It's really **delicious** .
 * The soup isn't good. It tastes **bad** .Don't eat too much spicy food.
@@ -343,7 +407,7 @@ A: Okay. Bos's kitchen it is.
 B: Good! I'm hungry, too.
 ```
 
-## 1-6-4. Ording take-out food
+## 1-6-4. Ordering take-out food
 
 <video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/31/v/111231/GE_1.6.4_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
@@ -392,15 +456,15 @@ FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much. 
 
 ### a) Grammar: Counters
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 量词 **Using counters with uncountable nouns 量词与不可数名词一起使用**
 
 * Countable nouns have a plural form. You can count them. For example: **hamburger – hamburgers.** 
   * We want **two** hamburgers.              
-
 * Uncountable nouns do not have a plural form. You cannot count them. For example: **rice, water.**
   * She has **some rice.**                          
   * We want **some water.**    
-
 * Use counters to state amounts for uncountable nouns. A counter can be a bag, a bottle, a bowl or any other object that holds food. 
   * a bag of ..一包...:| Give me **two bags of** potato chips, please.   | a bag of apples
   * a bottle of  ...一瓶...:| I want **a bottle of** water. | a bottle of beer
@@ -414,39 +478,33 @@ FRANK:  Some water ....  A bowl of salad ....  Ahuh, yes.  Thank you very much. 
   * a slice of ...  一片.. | a slice of bread
   * a pile of ... |  a pile of books
 
+</div>
+
 What is it?
 
 ### b) Expressioons: Polite requests
 
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
 **Polite requests 礼貌的请求**
-
 * Use these questions to politely offer help or food.
-
   * **Can I help you?**                                     
-
-
   * **Would you like** a drink? 您想喝点什么吗？
-
-
 * Use **Can I have** or **I'd like** to make a polite request. In spoken English, the contraction **I'd** is more common than **I would.**
   * **Can I have** a sandwich?    
   * **I'd like** a bowl of soup.   
   * **I would like** a glass of water.  
-
 * Remember to add **please** to requests to be more polite.
   * **I'd like** a glass of water, **please**. 
   * **We'd like** two hamburgers, **please**.   
   * Can I have some ice cream, **please**? 
-
 * A waiter might use the expression **anything else** to ask if you want something more.
-
   * A: Can I help you?
-
     B: Yes, I'd like a chicken sandwich, please.
-    
-    A: Anything else?
-    
+    A: Anything else? 
     B:Yes, a glass of milk. 
+
+</div>
 
 > WAITER: Hi. Can I help you?
 > CUSTOMER: Yes. I'd like a piece of cake.
@@ -468,7 +526,7 @@ What is it?
 
 You are buying lunch at a delicatessen. Listen and record the correct response. When you see a blank, give true information about yourself.
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/59/3/v/28593/VR_1.7.3.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/28/59/3/v/28593/VR_1.7.3.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 A: hello, Can I help you? 
@@ -500,172 +558,5 @@ A: Thanks
 
 
 
-graperfruit
 
-tangerines
-
-cantaloupes
-
-mangoes
-
-nuts
-
-dates
-
-prunes
-
-raisins
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|                              |               |
-| ---------------------------- | ------------- |
-|                              |               |
-|                              |               |
-|                              |               |
-|                              |               |
-| not ripe                     |               |
-| ripe                         |               |
-| rotten                       |               |
-|                              |               |
-|                              |               |
-| vegetable                    |               |
-| lettuce                      |               |
-| cabbage                      |               |
-| carrots                      |               |
-| zucchini                     |               |
-| radishes                     |               |
-| beets                        |               |
-| sweet   peppers              |               |
-| chili   peppers              |               |
-| celery                       |               |
-| parsley                      |               |
-| spinach                      |               |
-| cucumbers                    |               |
-| squash                       |               |
-| turnips                      |               |
-| broccoli                     |               |
-| cauliflower                  |               |
-| scallions                    |               |
-| eggplants                    |               |
-| peas                         |               |
-| artichokes                   |               |
-| potatoes                     |               |
-| yams                         |               |
-| tomatoes                     |               |
-| asparagus                    |               |
-|                              |               |
-| string beans                 |               |
-| mushrooms                    |               |
-| corn                         |               |
-| onions                       |               |
-| garlic                       |               |
-|                              |               |
-| meat   and poltry            |               |
-| roast beef                   |               |
-| steak                        |               |
-| stewing beef                 |               |
-| ground beef                  |               |
-| beef ribs                    |               |
-| veal cutlets                 |               |
-| liver                        |               |
-| tripe                        |               |
-| ham                          |               |
-| pork chops                   |               |
-| bacon                        |               |
-| sausage                      |               |
-| lamb shanks                  |               |
-| leg of lamb                  |               |
-| lamb chops                   |               |
-| chicken                      |               |
-| turkey                       |               |
-| duck                         |               |
-| breasts                      |               |
-| wings                        |               |
-| thighs                       |               |
-| drumsticks                   |               |
-| gizzards                     |               |
-| raw chicken                  |               |
-| cooked   chicken             |               |
-|                              |               |
-| deli   and seafood           |               |
-| white bread                  |               |
-| wheat bread                  |               |
-| rye bread                    |               |
-| smoked   turkey              |               |
-| salami                       |               |
-| pastrami                     |               |
-| roast beef                   |               |
-| corned beef                  |               |
-| american   cheese            |               |
-| chedder   cheese             |               |
-| swiss chesse                 |               |
-| jack cheese                  |               |
-| potatp salad                 |               |
-| coleslaw                     |               |
-| pasta salad                  |               |
-|                              |               |
-| seafood                      |               |
-|                              | trout         |
-|                              | catfish       |
-|                              | whle salmon   |
-|                              | salmon steak  |
-|                              | halibut       |
-|                              | filet of sole |
-|                              | crab          |
-|                              | lobster       |
-|                              | shrimp        |
-|                              | scallops      |
-|                              | mussels       |
-|                              | oysters       |
-|                              | clams         |
-|                              | fresh fish    |
-|                              | fronzen fish  |
-|                              |               |
-| food   preparation           |               |
-| break 3 eggs                 |               |
-| beat well                    |               |
-| grease the   pan             |               |
-| pour the   eggs into the pan |               |
-| stir                         |               |
-| cook until   done            |               |
-| chop the   onions            |               |
-| saute the   onions           |               |
-| steam the   broccoli         |               |
-| grate the   cheese           |               |
-| mix the   ingredients        |               |
-| bake at 350   for 45 minutes |               |
-| cut up the   chicken         |               |
-| peel the   carots            |               |
-| slice the   carrots          |               |
-| boil the   chicken           |               |
-| add the   vegetables         |               |
-| simmer for   1hour           |               |
-| fry                          |               |
-| barbecure/grill              |               |
-| roast                        |               |
-| boil                         |               |
-| stir-fry                     |               |
 
