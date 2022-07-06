@@ -593,5 +593,18 @@ B: Thanks, Ross.
 
 
 
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/ailment.png)
 
 
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/ailment-2.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/first-aid.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/illness.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/medical-exam.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/medical.png)
+
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/medical-advice.png)

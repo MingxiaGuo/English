@@ -1,17 +1,20 @@
-## 2-1 Times and days
+# 2-1 Times and days
+
+<div style='background:#FFE6CC; border-radius: 20px; padding: 2px 10px; '>
 
 * 2-1-1.  Talking about schedules
 * 2-1-2. Descibing your weekend
 * 2-1-3. Arranging a meeting time
 * 2-1-4. Talking abut birthdays## 
+</div>
 
 ![Image result for woodward english](https://i.ytimg.com/vi/rBycKGkHVpY/maxresdefault.jpg)
 
 ![](../../assets/telling-time.jpg)
 
-### 2-1-1.  Talking about schedules
+## 2-1-1.  Talking about schedules
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/30/v/111230/GE_2.1.1_v2.mp4" ></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/11/12/30/v/111230/GE_2.1.1_v2.mp4" controls poster=""></video>
 
 ```
 [TODD] Good morning.
@@ -50,148 +53,96 @@ INTERVIEWER:  What do you have for breakfast? 你早餐吃什么？ •
 LAURA:  Breakfast?  Yeah breakfast.  I'm a doctor.  I don't have breakfast.  I go to work. 早餐？ 早餐。 我是一个医生。 我不吃早餐。 我就去上班。
 ```
 
-#### a) Expressions: Telling the time
+### a) Expressions: Telling the time
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Asking for the time 询问时间**
-
 * There are several ways to ask for the time:
-
   * **What time is it?**    
-
-  * What's the time?    
-
+  * **What's the time?**    
   * **Do you have the time?**   
-
 * If you are asking the time from someone you don't know well, it is polite to say **Excuse me** before your question.
-  * **Excuse me.** What time is it? 
+  * **Excuse me.** What time is it? / do you have the time?   
 
 **Telling time 表达时间**
-
 * Use **o'clock** for times that are on the hour. The term o'clock is both spoken and written. Times on the hour are sometimes written as numbers (5:00) but still spoken as o'clock.
-
   * A: What time is it? 
-
-    B: It's 5 **o'clock**. 
-
+    B: It's 5 **o'clock**.  5:00
   * A: What's the time? 
-
-    B: It's 11 **o'clock.** 
-
+    B: It's 11 **o'clock.**  11:00
   * A: Excuse me. Do you have the time?
-
     B: Sure. It's 12:15.
-
 * Use **half-past** or **thirty** to say 30 minutes past the hour.
-
-  * A: What time is it? What time is it?
-
-    B: It's ten **thirty**.
-
-  * A: Do you have the time?   
-
-    B: It's **half-past** 10. 
-
+  * A: What time is it?  / Do you have the time?   
+    B: It's [ten **thirty **/ **half-past** 10]. 10:30
 * For all other times, say the number of minutes after the hour.
+  * three **oh five** 3:05
+  * eleven **ten** 11:10
+  * It's nine **fifteen**. 9:15.        five fifteen 5:15
+  * It's two **thirty-five.**   2:35
+  * It's eight **forty-five.**  8:45 
+  * five **fifty-five** 5:55
+  
 
-  * It's two **thirty-five.**   
+</div>
 
-  * It's nine **fifteen**. 
 
-  * It's eight **forty-five.** 
 
-five fifteen 5:15
+### b) Vocabulary: Daily activities
 
-six thirty 6:30
-
-five fifty-five 5:55
-
-three oh five 3:05
-
-seven forty-five 7:45
-
-nine o'clock 9:00
-
-four oh five 4:05
-
-two fifty-five 2:55
-
-one thirty-five 1:35
-
-eleven ten 11:10
-
-#### b) Vocabulary: Daily activities
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 have a meeting ；take a train；go home；give a presentation；have lunch；get to work；get to school；check emails；study English
 
-#### c) Expressions: Talking about routines
+</div>
+
+### c) Expressions: Talking about routines
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Talking about routines 谈论日常工作**
 
 * To ask someone about their daily routines, use the question word **when**. Use the preposition **at** to state the time of the event.
-
   * A: **When** do you get up? 
-
     B: I get up **at** 6:30.  
-
   * A: **When** is the meeting?           
-
     B: It's **at** 3 o'clock.  
-
   * He comes to work every day **at** 7.｜ I have a meeting every day **at** 9 o'clock.
-
 * You can also ask about daily routines using the expression **what time**.
-
   * A: **What time** do you get up?
-
     B: I get up **at** 6:30.          
-
   * A: **What time** is the meeting?
-
     B: It's **at** 3 o'clock.  
 
 **'a.m.' and 'p.m.'** ：To make clear what time you do something, use **a.m**. after times from midnight to noon, and use **p.m**. after times from noon to midnight.
-
 * I go running at 7 **a.m**.                
 * I eat lunch at 1 **p.m**.  
 
 **'Usually' and 'sometimes'**：Use the word **usually** to talk about something you do most of the time. Use the word **sometimes** to talk about something you do some of the time.
-
 * I **usually** get to work at 8 o'clock.          
 * I **sometimes** get home at 8 p.m.
 
 **'Morning,' 'afternoon,' 'evening' and 'night'**： Another way to make the time clear is to use the phrase**s in the morning, in the afternoon, in the evening** and **at night.**
-
 * A: When do you go running in the park?  
-
   B: I go **at** 7 **in the morning.**   
-
 * I go running **at** night.
-
 * I play ball with my son **in** the evening.
-
 * Culture note: Most countries use the 24-hour clock, the international standard. The time **8:30 p.m.**, for example, is **20:30**. The US and a few other countries commonly use the 12-hour clock.
 
 **'Midnight' and 'noon'**： There are two words for 12 o'clock. For 12 o'clock at night, use **midnight**. For 12 o'clock in the day, use **noon**. Use the preposition at with these two words.
-
 * A: When's the meeting?             
-
   B: It's **at noon**.  ｜The meeting is **at** noon.
-
 * A: What time do you go to bed?          
-
   B: I go to bed **at midnight.**  
 
+</div>
 
 
-Excuse me, do you have the time?
-
-What time is it?
 
 When do you get up?
 
 I take a train in the evening.
-
-What's the time?
 
 The meeting is at one forty-five.
 
@@ -209,7 +160,7 @@ The meeting is at one forty-five.
 **What time does he get home?**
 ```
 
-#### d) Final Task: Talking about schedules
+### d) Final Task: Talking about schedules
 
 You are with a colleague. When you see a blank, talk about your routine or give the time.Listen carefully and then record the correct answer.
 
@@ -226,9 +177,9 @@ A: oh, I have a meeting at 1 o'clock, bye
 B: See you later!
 ```
 
-### 2-1-2. Descibing your weekend
+## 2-1-2. Descibing your weekend
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/15/56/69/v/155669/GE_2.1.2.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/15/56/69/v/155669/GE_2.1.2.1.1.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 NTERVIEWER:  Do you like your job? 
@@ -241,31 +192,28 @@ INTERVIEWER:  And what do you do at the weekend? 那你周末干什么呢？ •
 LAURA:  At the weekend I sleep. 周末我睡觉
 ```
 
-#### a) Vocabulary: 
+### a) Vocabulary: 
 
-##### i) Days of the week
+#### i) Days of the week
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 Here are the seven days of the week. For most people, the work week begins on Monday. Saturday and Sunday are the weekend.
-
-Monday  Tuesday  Wednesday  Thursday    Friday   Saturday     Sunday 
+* Monday  Tuesday  Wednesday  Thursday    Friday   Saturday     Sunday 
 
 **Prepositions of time**: 时间介词
-
 * To talk about what you do on a day, use the preposition **on + the day.**
   *  **On** Saturday, I sleep.    
-
 * To talk about a work week, use the prepositions **from** and **to**.
   * I work in an office **from** Monday **to** Friday. 
-
 * In British English, people use the preposition **at + the weekend** to talk about the weekend. In American English, people use the preposition **on + the weekend** or **on + weekends.**
   * **On weekends**, I go to a restaurant.  
   * **At the weekend,** I go to a restaurant.   
   * What are you doing **on the weekend?** 
-
 * On Friday, at the end of the day, when people in an office are leaving for the weekend, many people say:
   * Have a nice weekend!            
 
- 
+</div> 
 
 On Saturday, I usually get up at 10 or 11 a.m.
 
@@ -279,7 +227,7 @@ I get up at six in the morning.
 
 In  the evening, I usually watch TV.
 
-##### ii) Fun activities
+#### ii) Fun activities
 
 sleep, go swimming, play tennis, go to a restaurant, talk on the phone, play basketball, meet friends, surf the internet, ride a bike, go to the movies
 
@@ -325,7 +273,7 @@ she plays basketball
 
 she goes to a tennis class
 
-#### b) Final Task: Describing your weekend
+### b) Final Task: Describing your weekend
 
 It's Friday, and your colleague is looking forward to the weekend. Listen and record the correct response. When you see a blank, give true information about yourself.
 
@@ -350,9 +298,9 @@ A: Here we go. five, four, there, two, one. It's the weekend. See you on Monday.
 B: Have a nice weekend.
 ```
 
-### 2-1-3. Arranging a meeting time 
+## 2-1-3. Arranging a meeting time 
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/85/9/v/19859/0b.1%20Scene%203_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/19/85/9/v/19859/0b.1%20Scene%203_v2.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 INTERVIEWER:  So, what do you do? 那么，你是做什么工作的呢？ •
@@ -365,7 +313,7 @@ INTERVIEWER:  Do you like your job? 你喜欢你的工作吗？ •
 PAUL:  Well. it's ah. no. 嗯...不
 ```
 
-#### a) Vocabulary: Work vocabulary
+### a) Vocabulary: Work vocabulary
 
 have a meeting
 
@@ -383,7 +331,7 @@ talk to colleagues
 
 take a coffee break
 
-#### b) Grammar: Requests with 'can'
+### b) Grammar: Requests with 'can'
 
 'Can' and 'can't' for requests **用于表达请求的 \**Can\** 和 \**can't\****
 
@@ -432,7 +380,7 @@ When you refuse a request, you should use the phrase **I'm sorry, but** to apolo
 > I'm free at 4.
 > OK. Let's meet at 4 o'clock.
 
-#### c) Final Task: Arranging a time for a meeting
+### c) Final Task: Arranging a time for a meeting
 
 Your colleague Helen is trying to schedule a meeting with you. You are only free on Thursday afternoon.Listen and record the correct response.
 
@@ -447,9 +395,9 @@ A: OK, Thursday afternoon, how's 2pm?
 B: Great! See you on Thursday at 2!
 ```
 
-### 2-1-4. Talking abut birthdays
+## 2-1-4. Talking abut birthdays
 
-<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/15/56/6/v/15566/1.6%20Scene%204.mp4" style="text-size-adjust: auto !important; user-select: auto;"></video>
+<video class="ets-vp " width="640" height="360" playsinline="playsinline" preload="none" src="https://cns2.ef-cdn.com/Juno/15/56/6/v/15566/1.6%20Scene%204.mp4" style="text-size-adjust: auto !important; user-select: auto;" controls poster=""></video>
 
 ```
 [NANCY]: So, Bob's birthday os on the 21st of June.
@@ -458,24 +406,26 @@ B: Great! See you on Thursday at 2!
 [NANCY]: And my birthday is on the of March.
 ```
 
-#### a) Vocabulary: Months of the year
+### a) Vocabulary: Months of the year
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Months of the year**: Look at the months of the year. Click on the audio buttons to listen to them.
-
 *  January.  February  March   April   May   June   July   
-
 * August   September    October   November    December   
 
 When talking about an event that will happen in a specific month, use the preposition in.
-
 * The big meeting is in February.     
 * My birthday is in March.   
+</div>
 
-#### b) Expressions
+### b) Expressions
 
-##### i) Saying dates
+#### i) Saying dates
 
-**Ordinal numbers*序数**: Dates are spoken as ordinal numbers. Look at the numbers you know and their corresponding ordinal numbers. Notice that most of them end in th.  After twenty, just add the appropriate ordinal number from one to ten.
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
+
+**Ordinal numbers 序数**: Dates are spoken as ordinal numbers. Look at the numbers you know and their corresponding ordinal numbers. Notice that most of them end in th.  After twenty, just add the appropriate ordinal number from one to ten.
 
 one - first      two - second    three - third    four - fourth    five - fifth    six - sixth   seven - seventh 
 
@@ -488,42 +438,33 @@ eighteen - eighteenth       nineteen - nineteenth         twenty - twentieth  tw
  twenty-six - twenty-sixth             thirty - thirtieth.      thirty-one - thirty-first
 
 These numbers can be abbreviated. Look at the examples:
-
 * first - 1st                                       
 * second - 2nd
 * third - 3rd             
 * fourteenth - 14th
-* thirty-first - 31st 
+* thirty-first - 31st  
+</div>
+
+
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Saying dates表达日期**: 
-
 * There are several ways of saying dates. In the United States, people usually say the month first and then the day. Dates are almost always written with the short form – for example, **July 17** or July 17th, not **July seventeenth.**
-
   * July 2nd                                        
-
   * February 10 
-
   * October 21st    
-
-
 * In the United Kingdom, people say the dates using the words **the** and **of** to highlight the day and month.
-
   * the 31st of January                    
-
   * the 12th of March  
-
   * the 7th of June
-
-
 * With specific dates, use the preposition **on**.
-
   * The meeting is on April 19th.   
-
-
   * The presentation is on September 13.    
+  </div>
 
+#### ii) Talking about a birthday
 
-##### ii) Talking about a birthday
+<div style='background:; border-radius: 20px; padding: 2px 10px; border: 2px solid #FF9900; '>
 
 **Birthdays**
 
@@ -534,11 +475,9 @@ In English-speaking countries, people often celebrate birthdays by giving presen
 You generally do not have to give someone a present unless you are invited to their birthday party. People wrap birthday presents in colorful paper. Some older people may be sensitive about their age, so wait to be told how old they are. With younger people, this is not usually a problem.
 
 Use the following question to ask someone when their birthday is:
-
 * A: When's your birthday?                    
-
   B: It's September 21st. 
-
+  </div>
 -----
 
 * play computer games
@@ -562,7 +501,7 @@ What are you doing for his birthday?
 
 We're going to a restaurant.
 
-#### c) Final Task: Talking about birthdays
+### c) Final Task: Talking about birthdays
 
 You bump into a friend at the bus stop. She's holding a gift. Ask her about it.
 
@@ -748,3 +687,4 @@ MR LINDERMAN:  Happy Birthday Elizabeth. Elizabeth，生日快乐。 •ELIZABET
 | appointment                       |
 | vacation                          |
 
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/time.png)

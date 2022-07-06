@@ -531,3 +531,4 @@ MICHELLE:  The receipt.  The receipt.  Where's the receipt?  Ah!  Nope. 收据�
 MICHELLE:  A summer hat,  .a new skirt and a new shirt.  How much?  Go on, guess.  Nope. 一顶夏天戴的帽子， ...一条新裙 子和一件新衬衫 。  多少钱？ 继续猜 。 不。 •MICHELLE:  No way!  Too expensive.  Yeah!  That's right. So cheap! 没门！ 太贵了。 是的！ 对的...这么便宜
 ```
 
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/money.png)

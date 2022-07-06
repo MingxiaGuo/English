@@ -783,3 +783,4 @@ B: Cool! And let's get a pizza.
 
 
 
+![](/Users/guomingxia/Documents/workspace/English/docs/EF/General-English/assets/weather.png)
